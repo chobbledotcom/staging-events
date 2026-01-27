@@ -1,7 +1,7 @@
 ---
 permalink: "/services/"
 title: "Our Services"
-description: "Comprehensive event services including hire, logistics, fulfilment, storage and water delivery across the UK."
+description: "Comprehensive event services including equipment hire, logistics, fulfilment, storage and water delivery across the UK."
 header_image: images/Staging-Events-UK-Event-Hire-Production-Logistics-Stage-Hire-7.jpg
 header_text: Our Services
 eleventyNavigation:
@@ -11,11 +11,15 @@ eleventyNavigation:
 
 ## Our Services
 
-### Hire
+### Equipment Hire
 
-Stage hire, generator hire, truss hire, sandbags/weights, electrical distribution, start/finish gantry hire, sports timer hire, lectern hire, and disabled access solutions.
+We offer a comprehensive range of event equipment for hire:
 
-[View hire options](/hire/)
+- [Staging](/categories/staging/) - Modular deck staging and trailer stages
+- [Gantries](/categories/gantries/) - Start/finish gantries for events
+- [Audio](/categories/audio/) - PA systems with mixers, microphones and monitors
+- [Power](/categories/power/) - Generators including battery-powered options
+- [Trussing](/categories/trussing/) - Professional Litec rigging equipment
 
 ### Logistics
 
@@ -42,12 +46,3 @@ Delivery of event equipment anywhere in the UK with dedicated drivers, company v
 - Wholesale options
 - Charitable discounts
 - On-site distribution services
-
----
-
-## Equipment Hire
-
-- [Hire](/hire/) - Stages, generators, PA systems and more
-- [Gantry Hire](/gantry-hire/) - Start/finish gantries for events
-- [Stage Trussing](/stage-trussing/) - Professional rigging equipment
-- [Delivery](/delivery/) - UK-wide logistics services
