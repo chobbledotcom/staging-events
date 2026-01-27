@@ -4,7 +4,7 @@ subtitle: "Our largest trussing gantry for major events"
 description: "X-Large trussing gantry hire for major charity runs, marathons and large-scale events. Custom branding available with 300gsm PVC Mesh."
 header_image: images/X-Large-Trussing.png
 categories:
-  - categories/gantries.md
+  - gantries
 price: "From £995"
 features:
   - "Our largest trussing gantry"

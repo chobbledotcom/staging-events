@@ -4,7 +4,7 @@ subtitle: "Start and finish gantry for larger events"
 description: "Large trussing gantry hire for charity runs, marathons and events. Custom branding available with 300gsm PVC Mesh."
 header_image: images/large-trussing.png
 categories:
-  - categories/gantries.md
+  - gantries
 price: "From £695"
 features:
   - "Custom branding available"

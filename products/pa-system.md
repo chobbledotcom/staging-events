@@ -4,7 +4,7 @@ subtitle: "6K full rig with mixers, microphones and monitors"
 description: "Professional PA system hire including 6K full rig with mixers, microphones and monitors. Sound solutions for events UK-wide."
 header_image: images/Festivals.jpg
 categories:
-  - categories/audio.md
+  - audio
 price: "Contact for pricing"
 features:
   - "6K full rig"

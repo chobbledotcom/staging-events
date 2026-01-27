@@ -4,7 +4,7 @@ subtitle: "8m x 6m mobile stage"
 description: "Large trailer stage hire with 8m x 6m deck size. Mobile staging solution for outdoor events, festivals and concerts UK-wide."
 header_image: images/2023-09-02-13.50.54.jpg
 categories:
-  - categories/staging.md
+  - staging
 price: "Contact for pricing"
 features:
   - "8m x 6m deck size"

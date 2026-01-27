@@ -4,7 +4,7 @@ subtitle: "Professional Litec rigging equipment"
 description: "Professional rigging equipment hire from leading manufacturers. Extensive inventory of Litec truss stock for events."
 header_image: images/stage-trussing.jpeg
 categories:
-  - categories/trussing.md
+  - trussing
 price: "Contact for pricing"
 features:
   - "Extensive Litec inventory"

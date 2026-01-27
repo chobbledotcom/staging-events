@@ -4,7 +4,7 @@ subtitle: "2.2kva to 20kva generators"
 description: "Generator hire from 2.2kva to 20kva. Reliable power solutions for events, festivals and outdoor activities UK-wide."
 header_image: images/2022-07-23-17.43.23.jpg
 categories:
-  - categories/power.md
+  - power
 price: "Contact for pricing"
 features:
   - "Range from 2.2kva to 20kva"

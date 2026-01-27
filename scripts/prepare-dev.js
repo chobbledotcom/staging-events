@@ -6,7 +6,14 @@ const build = path(buildDir);
 const template = path(buildDir, "template");
 const dev = path(buildDir, "dev");
 
-const templateExcludes = [".git", "node_modules", "*.md", "test", "test-*", ".image-cache"];
+const templateExcludes = [
+  ".git",
+  "node_modules",
+  "*.md",
+  "test",
+  "test-*",
+  ".image-cache",
+];
 const rootExcludes = [
   ".git",
   ".direnv",

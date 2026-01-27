@@ -4,7 +4,7 @@ subtitle: "3m x 3m covered stage with branding options"
 description: "Compact DJ trailer stage hire with 3m x 3m covered deck. Perfect for solo gigs and DJ sets with custom branding options available."
 header_image: images/2023-09-10-08.27.26.jpg
 categories:
-  - categories/staging.md
+  - staging
 price: "Contact for pricing"
 features:
   - "3m x 3m deck size"

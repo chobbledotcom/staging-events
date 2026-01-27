@@ -4,7 +4,7 @@ subtitle: "Flexible staging in 1m x 2m sections"
 description: "Modular deck staging hire in 1m x 2m sections. Available in multiple heights with Intelistage portable system. Professional staging for events UK-wide."
 header_image: images/2023-09-03-11.35.12.jpg
 categories:
-  - categories/staging.md
+  - staging
 price: "Contact for pricing"
 features:
   - "1m x 2m modular sections"
