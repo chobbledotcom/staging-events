@@ -2,6 +2,12 @@
 permalink: "/hire/"
 title: "Hire"
 description: "Stage hire, PA systems, generators and event equipment hire. Modular staging, trailer stages and professional sound systems available UK-wide."
+header_image: images/2023-09-03-11.35.12.jpg
+header_text: Equipment Hire
+eleventyNavigation:
+  key: Hire
+  parent: Services
+  order: 1
 ---
 
 ## Hire

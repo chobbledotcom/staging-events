@@ -2,6 +2,11 @@
 permalink: "/gallery/"
 title: "Our Clients"
 description: "View our gallery of charity events and clients including Alzheimer's Society Memory Walk, The Children's Hospital Charity, Prostate Cancer UK, and more."
+header_image: images/Festivals.jpg
+header_text: Our Clients
+eleventyNavigation:
+  key: Gallery
+  order: 3
 ---
 
 ## Our Clients

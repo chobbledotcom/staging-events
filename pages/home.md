@@ -3,6 +3,11 @@ permalink: "/"
 layout: "home.html"
 title: "Production, Event Hire and Logistics across the UK"
 description: "UK's leading staging and event hire company. Over 25 years experience in full production, equipment hire and logistics for mass participation charity events."
+header_image: images/Staging-Events-UK-Event-Hire-Production-Logistics-Stage-Hire-12.jpg
+header_text: Staging Events
+eleventyNavigation:
+  key: Home
+  order: 1
 ---
 
 ## Welcome to the UK's leading Staging and Event Hire Company

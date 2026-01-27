@@ -2,6 +2,11 @@
 permalink: "/about/"
 title: "About Staging Events"
 description: "For more than 25 years we have been involved in the event industry, providing expert guidance and reducing costs for clients."
+header_image: images/Hydration-Station.jpg
+header_text: About Us
+eleventyNavigation:
+  key: About
+  order: 2
 ---
 
 ## About Staging Events

@@ -2,6 +2,12 @@
 permalink: "/gantry-hire/"
 title: "Gantry Hire"
 description: "Start and finish gantry hire for charity runs, marathons and events. Trussing and inflatable options available with custom branding."
+header_image: images/large-trussing.png
+header_text: Gantry Hire
+eleventyNavigation:
+  key: Gantry Hire
+  parent: Services
+  order: 2
 ---
 
 ## Gantry Hire

@@ -2,6 +2,12 @@
 permalink: "/delivery/"
 title: "Delivery"
 description: "Event equipment delivery anywhere in the UK. Professional logistics for mass participation events, charity runs and festivals."
+header_image: images/2022-07-23-17.43.23.jpg
+header_text: Delivery
+eleventyNavigation:
+  key: Delivery
+  parent: Services
+  order: 4
 ---
 
 ## Delivery

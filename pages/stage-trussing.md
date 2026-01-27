@@ -2,6 +2,12 @@
 permalink: "/stage-trussing/"
 title: "Stage Trussing"
 description: "Professional rigging equipment hire from leading manufacturers. Extensive inventory of Litec truss stock for events."
+header_image: images/stage-trussing.jpeg
+header_text: Stage Trussing
+eleventyNavigation:
+  key: Stage Trussing
+  parent: Services
+  order: 3
 ---
 
 ## Stage Trussing
