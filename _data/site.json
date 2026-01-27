@@ -1,10 +1,10 @@
 {
-	"name": "",
-	"url": "https://example.chobble.com",
+	"name": "Staging Events",
+	"url": "https://stagingevents.co.uk",
 	"socials": {
-		"Facebook": null,
-		"Instagram": null,
-		"TikTok": null,
+		"Facebook": "https://facebook.com/stagingevents",
+		"Instagram": "https://instagram.com/stagingevents",
+		"Twitter": "https://twitter.com/stagingevents",
 		"Google": null,
 		"WhatsApp": null,
 		"RSS": "/feed.xml"

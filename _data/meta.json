@@ -1,24 +1,25 @@
 {
 	"language": "en-GB",
 	"organization": {
-		"description": "Example organization description",
-		"legalName": "Example Site Ltd",
-		"foundingDate": "2020",
+		"description": "UK's leading staging and event hire company providing full production, equipment hire and logistics services nationwide. Specialising in mass participation charity events.",
+		"legalName": "Staging Events Ltd",
+		"foundingDate": "2000",
 		"founders": [
 			{
-				"name": "John Smith"
+				"name": "Dean Bulbeck"
 			}
 		],
 		"address": {
-			"streetAddress": "123 Example Street",
-			"addressLocality": "London",
-			"addressRegion": "Greater London",
-			"postalCode": "SW1A 1AA",
+			"streetAddress": "Bede House, Salisbury Road",
+			"addressLocality": "Maltby",
+			"addressRegion": "Rotherham, South Yorkshire",
+			"postalCode": "S66 8JP",
 			"addressCountry": "GB"
 		},
 		"contactPoint": [
 			{
-				"telephone": "+44-1234-567890",
+				"telephone": "+44-845-468-0610",
+				"email": "events@stagingevents.co.uk",
 				"contactType": "customer service",
 				"areaServed": "GB",
 				"availableLanguage": ["English"]
