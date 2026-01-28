@@ -9,11 +9,13 @@ body.horizontal-nav {
       flex-wrap: wrap;
       justify-content: space-between;
       text-transform: uppercase;
-      overflow: hidden;
       img {
         height: 5rem;
         margin: -1rem 0;
-        @include breakpoints.down("sm") {
+      }
+      @include breakpoints.down("sm") {
+        overflow: hidden;
+        img {
           margin: -1.5rem 0 0;
         }
       }
