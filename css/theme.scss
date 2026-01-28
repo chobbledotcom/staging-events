@@ -1,2 +1,25 @@
 @charset "utf-8";
 @use "sass:color";
+@use "breakpoints";
+
+body.horizontal-nav {
+  & > main {
+    & > nav {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      text-transform: uppercase;
+      overflow: hidden;
+      img {
+        height: 5rem;
+        margin: -1rem 0;
+        @include breakpoints.down("sm") {
+          margin: -1.5rem 0 0;
+        }
+      }
+      & > ul {
+        align-content: center;
+      }
+    }
+  }
+}
