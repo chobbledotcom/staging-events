@@ -2,6 +2,44 @@
 @use "sass:color";
 @use "breakpoints";
 
+// Staging Events Theme
+:root {
+  --color-bg: #fafafa;
+  --body-background: #fafafa;
+  --body-background-alt: #f0f1f3;
+  --color-card-bg: #ffffff;
+  --color-text: #1f2937;
+  --color-text-muted: #6b7280;
+  --color-link: #2563eb;
+  --color-link-hover: #1d4ed8;
+  --color-tint: #dbeafe;
+  --color-secondary: #7c3aed;
+  --color-accent: #ebebeb;
+  --color-hover-bg: rgba(0, 0, 0, 0.05);
+  --color-contrast-text: #ffffff;
+  --color-contrast-text-muted: rgba(255, 255, 255, 0.8);
+  --color-gradient-start: rgba(37, 99, 235, 0.2);
+  --color-gradient-end: rgba(124, 58, 237, 0.2);
+
+  --border: 1px solid rgba(0, 0, 0, 0.1);
+  --border-radius: 8px;
+  --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.18);
+
+  --font-family-heading: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-family-body: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --line-height: 1.5;
+  --link-decoration: none;
+  --link-decoration-hover: underline;
+  --link-decoration-style: solid;
+}
+
+// Lighter headings
+.design-system {
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
+  }
+}
+
 body.horizontal-nav {
   & > main {
     & > nav {

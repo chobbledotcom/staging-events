@@ -13,11 +13,11 @@ eleventyNavigation:
 
 We work with a wide range of charity organisations and events:
 
-- Alzheimer's Society Memory Walk
-- The Children's Hospital Charity
-- Prostate Cancer UK
-- Epilepsy UK
-- Festivals and more
+- [Alzheimer's Society Memory Walk](/clients/alzheimers-society/)
+- [The Children's Hospital Charity](/clients/childrens-hospital-charity/)
+- [Prostate Cancer UK](/clients/prostate-cancer-uk/)
+- [Epilepsy UK](/clients/epilepsy-uk/)
+- [CoppaFeel!](/clients/coppafeel/)
 
 Whatever event size you have planned, we are here to help.
 

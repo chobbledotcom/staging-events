@@ -59,16 +59,16 @@ blocks:
     header_subtitle: >-
       We manage major initiatives for leading charities across the UK.
     items:
-      - icon: "&#128694;"
+      - icon: "mdi:walk"
         title: Alzheimer's Society Memory Walk
         description: 110,000 participants over 7 weeks
-      - icon: "&#128170;"
+      - icon: "mdi:ribbon"
         title: Prostate Cancer March for Men
         description: Full production and logistics support
-      - icon: "&#128153;"
+      - icon: "mdi:hospital-building"
         title: The Children's Hospital Charity
         description: Event hire and production services
-      - icon: "&#128156;"
+      - icon: "mdi:heart-pulse"
         title: Epilepsy UK
         description: Nationwide event support
 
