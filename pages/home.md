@@ -7,23 +7,16 @@ eleventyNavigation:
   key: Home
   order: 1
 blocks:
-  # Hero
-  - type: hero
+  # Video hero
+  - type: video-background
     full_width: true
-    class: gradient
-    title: Production, Event Hire and Logistics across the UK
-    lead: >-
-      We provide full production, equipment hire and logistics services
-      nationwide, specialising in mass participation charity events.
-    buttons:
-      - text: Get in Touch
-        href: /contact/
-        variant: primary
-        size: lg
-      - text: Our Services
-        href: /services/
-        variant: secondary
-        size: lg
+    video_id: "https://player.mediadelivery.net/embed/587812/5e0c1006-a0c4-4a75-9198-b1b4414cceb0?autoplay=true&loop=true&muted=true&preload=true&responsive=true"
+    video_title: Staging Events production
+    aspect_ratio: "21/9"
+    content: |
+      ## Production, Event Hire and Logistics across the UK
+
+      We provide full production, equipment hire and logistics services nationwide, specialising in mass participation charity events.
 
   # Image background
   - type: image-background
