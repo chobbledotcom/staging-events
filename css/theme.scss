@@ -35,31 +35,32 @@
 
 // Lighter headings
 .design-system {
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     font-weight: 400;
   }
 }
 
-body.horizontal-nav {
-  & > main {
-    & > nav {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
-      text-transform: uppercase;
-      img {
-        height: 5rem;
-        margin: -1rem 0;
-      }
-      @include breakpoints.down("sm") {
-        overflow: hidden;
-        img {
-          margin: -1.5rem 0 0;
-        }
-      }
-      & > ul {
-        align-content: center;
-      }
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  text-transform: uppercase;
+  img {
+    height: 5rem;
+    margin: -1rem 0;
+  }
+  @include breakpoints.down("sm") {
+    overflow: hidden;
+    img {
+      margin: -1.5rem 0 0;
     }
+  }
+  & > ul {
+    align-content: center;
   }
 }
