@@ -1,7 +1,9 @@
 @charset "utf-8";
 @use "sass:color";
+@use "variables" as *;
 @use "breakpoints";
 
+// Legacy (non-design-system) horizontal nav logo
 body.horizontal-nav {
   & > main {
     & > nav {
@@ -22,6 +24,33 @@ body.horizontal-nav {
       & > ul {
         align-content: center;
       }
+    }
+  }
+}
+
+// Design-system horizontal nav logo
+.design-system.horizontal-nav {
+  nav {
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    > img {
+      height: 3rem;
+      width: auto;
+      flex-shrink: 0;
+      margin-right: $space-lg;
+    }
+
+    > ul {
+      flex: 1;
+    }
+  }
+
+  @include breakpoints.down("md") {
+    nav > img {
+      height: 2.25rem;
+      margin-right: auto;
     }
   }
 }
