@@ -16,7 +16,7 @@ features:
 specs:
   - name: "Hire Price"
     value: "From £695"
-  - name: "Branding Material"
+  - name: "Material"
     value: "300gsm PVC Mesh"
   - name: "Start/Finish Panels"
     value: "6.58 x 0.29m (£33.39 each)"

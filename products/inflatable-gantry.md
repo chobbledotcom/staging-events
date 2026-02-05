@@ -17,7 +17,7 @@ features:
 specs:
   - name: "Hire Price"
     value: "From £275"
-  - name: "Banner Material"
+  - name: "Material"
     value: "440gsm PVC"
   - name: "Best For"
     value: "Grassed areas"

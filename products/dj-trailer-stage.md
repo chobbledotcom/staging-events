@@ -14,7 +14,7 @@ features:
   - "Suitable for solo gigs"
   - "Mobile and compact"
 specs:
-  - name: "Deck Size"
+  - name: "Size"
     value: "3m x 3m"
   - name: "Type"
     value: "Covered Trailer Stage"

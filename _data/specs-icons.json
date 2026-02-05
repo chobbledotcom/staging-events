@@ -1,93 +1,103 @@
 {
-	"battery life": {
+	"banner material": {
+		"icon": "hugeicons:flag-01"
+	},
+	"base plates": {
+		"icon": "hugeicons:square"
+	},
+	"best for": {
+		"icon": "hugeicons:checkmark-circle-01"
+	},
+	"branding": {
+		"icon": "hugeicons:image-02"
+	},
+	"capacity": {
 		"icon": "hugeicons:battery-full",
-		"highlight": true,
-		"list_items": true
+		"highlight": true
 	},
-	"care": {
-		"icon": "hugeicons:paint-brush-04"
+	"co2 savings": {
+		"icon": "hugeicons:leaf-01",
+		"highlight": true
 	},
-	"certifications": {
-		"icon": "hugeicons:certificate-01"
+	"custom heights": {
+		"icon": "hugeicons:arrow-up-down"
 	},
-	"closure": {
-		"icon": "hugeicons:lock"
+	"delivery": {
+		"icon": "hugeicons:delivery-truck-01"
 	},
-	"colors": {
-		"icon": "hugeicons:colors"
+	"deployment": {
+		"icon": "hugeicons:clock-01"
 	},
-	"compatibility": {
-		"icon": "hugeicons:laptop-phone-sync"
+	"fuel type": {
+		"icon": "hugeicons:petrol-pump"
 	},
-	"connectivity": {
-		"icon": "hugeicons:wifi-connected-01"
+	"hand rails": {
+		"icon": "hugeicons:horizontal-resize"
 	},
-	"construction": {
-		"icon": "hugeicons:wrench-01"
+	"height options": {
+		"icon": "hugeicons:arrow-up-down"
 	},
-	"dimensions": {
-		"icon": "hugeicons:ruler"
+	"hire price": {
+		"icon": "hugeicons:money-01",
+		"highlight": true
 	},
-	"display": {
-		"icon": "hugeicons:full-screen"
+	"large base plates": {
+		"icon": "hugeicons:square"
 	},
-	"finish": {
-		"icon": "hugeicons:paint-brush-01"
-	},
-	"fit": {
-		"icon": "hugeicons:body-weight"
-	},
-	"graphics": {
-		"icon": "hugeicons:gpu"
-	},
-	"has dongle": {
-		"icon": "hugeicons:usb-connected-01"
+	"manufacturer": {
+		"icon": "hugeicons:factory-01"
 	},
 	"material": {
 		"icon": "hugeicons:cube"
 	},
-	"materials": {
-		"icon": "hugeicons:cube"
+	"microphones": {
+		"icon": "hugeicons:mic-01"
 	},
-	"mechanism": {
-		"icon": "hugeicons:gears"
-	},
-	"memory": {
-		"icon": "hugeicons:ram-memory"
+	"mixers": {
+		"icon": "hugeicons:sliders-horizontal"
 	},
 	"model": {
 		"icon": "hugeicons:tag-01"
 	},
-	"operating temperature": {
-		"icon": "hugeicons:temperature"
+	"monitors": {
+		"icon": "hugeicons:headphones"
 	},
-	"os": {
-		"icon": "hugeicons:laptop-programming"
+	"popular configurations": {
+		"icon": "hugeicons:grid-view"
 	},
-	"power cell": {
-		"icon": "hugeicons:battery-charging-01"
-	},
-	"power requirements": {
+	"power type": {
 		"icon": "hugeicons:plug-01"
 	},
-	"processor": {
-		"icon": "hugeicons:cpu"
+	"range": {
+		"icon": "hugeicons:arrow-left-right"
 	},
-	"storage": {
-		"icon": "hugeicons:hard-drive"
+	"sections": {
+		"icon": "hugeicons:layout-grid"
 	},
-	"vision lenses": {
-		"icon": "hugeicons:eye"
+	"setup": {
+		"icon": "hugeicons:clock-01"
 	},
-	"warranty": {
-		"icon": "hugeicons:shield-01"
+	"side leg panels": {
+		"icon": "hugeicons:vertical-resize"
 	},
-	"waterproof": {
-		"icon": "hugeicons:droplet",
-		"highlight": true,
-		"list_items": true
+	"size": {
+		"icon": "hugeicons:ruler",
+		"highlight": true
 	},
-	"weight": {
-		"icon": "hugeicons:weight-scale"
+	"start/finish panels": {
+		"icon": "hugeicons:flag-02"
+	},
+	"stock": {
+		"icon": "hugeicons:package"
+	},
+	"system": {
+		"icon": "hugeicons:settings-01"
+	},
+	"type": {
+		"icon": "hugeicons:folder-01"
+	},
+	"weight capacity": {
+		"icon": "hugeicons:weight-scale",
+		"highlight": true
 	}
 }
