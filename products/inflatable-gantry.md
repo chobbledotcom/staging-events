@@ -25,6 +25,7 @@ specs:
     value: "Quick setup/takedown"
 gallery:
   - images/Festivals.jpg
+  - images/2021-09-11-09.55.39.jpg
 eleventyNavigation:
   key: Inflatable Gantry
   parent: Gantries

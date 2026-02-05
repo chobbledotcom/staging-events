@@ -22,6 +22,7 @@ specs:
 gallery:
   - images/2023-09-02-13.50.54.jpg
   - images/2023-09-02-14.55.33.jpg
+  - images/2021-09-10-05.00.34.jpg
 eleventyNavigation:
   key: Large Trailer Stage
   parent: Staging

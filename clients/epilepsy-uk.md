@@ -2,7 +2,10 @@
 title: "Epilepsy UK"
 subtitle: "Nationwide event support"
 description: "Nationwide event support and production services for Epilepsy UK fundraising and awareness events."
-header_image: images/staging-events-charity-logo-4.jpg
+header_image: images/staging-events-charity-logo-1.jpg
+gallery:
+  - images/staging-events-charity-logo-1.jpg
+  - images/staging-events-charity-logo-4.jpg
 features:
   - "Nationwide event support"
   - "Production services"

@@ -18,16 +18,6 @@ blocks:
 
       We provide full production, equipment hire and logistics services nationwide, specialising in mass participation charity events.
 
-  # Image background
-  - type: image-background
-    full_width: true
-    image: images/Staging-Events-UK-Event-Hire-Production-Logistics-Stage-Hire-12.jpg
-    image_alt: Staging Events event production
-    content: |
-      ## Over 25 Years Experience
-
-      With over 25 years in event management, we offer expert equipment procurement, storage management, logistics coordination, and event planning support.
-
   # Featured products slider
   - type: items
     collection: featuredProducts
