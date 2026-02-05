@@ -2,7 +2,12 @@ name: Build and Deploy
 
 on:
   push:
+    branches:
+      - main
   workflow_dispatch:
+
+permissions:
+  contents: read
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -14,12 +19,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout this repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
         with:
           path: source
 
       - name: Checkout Chobble Template
-        uses: actions/checkout@v4
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
         with:
           repository: chobble-mirror/chobble-template
           ref: main
@@ -71,7 +76,7 @@ jobs:
             "combined/src/_data/config.json"
 
       - name: Upload combined directory
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
         with:
           name: combined-files
           path: combined/
@@ -84,16 +89,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Download combined directory
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4.3.0
         with:
           name: combined-files
           path: combined
 
       - name: Setup Bun
-        uses: oven-sh/setup-bun@v2
+        uses: oven-sh/setup-bun@3d267786b128fe76c2f16a390aa2448b815359f3 # v2.1.2
 
       - name: Restore cache
-        uses: actions/cache@v4
+        uses: actions/cache@0057852bfaa89a56745cba8c7296529d2fc39830 # v4.3.0
         with:
           path: |
             combined/node_modules
@@ -124,7 +129,7 @@ jobs:
           fi
 
       - name: Deploy to Bunny
-        uses: R-J-dev/bunny-deploy@v2.0.6
+        uses: R-J-dev/bunny-deploy@fdcb2be383b1e0c8711e6cd49ec8359ff64526dd # v2.0.6
         with:
           access-key: ${{ secrets.BUNNY_ACCESS_KEY }}
           directory-to-upload: _site
@@ -144,7 +149,7 @@ jobs:
     if: failure()
     steps:
       - name: Send failure notification
-        uses: NiNiyas/ntfy-action@master
+        uses: NiNiyas/ntfy-action@2ebc39afb288e8b01804a6ec1be0db2e7a458387 # v1.0.5
         with:
           url: 'https://ntfy.sh'
           topic: ${{ secrets.NTFY_TOPIC }}
