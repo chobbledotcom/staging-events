@@ -38,6 +38,7 @@ specs:
     value: "9 in stock"
 gallery:
   - images/stage-trussing.jpeg
+  - images/2024-02-17-16.28.06-1.jpg
 eleventyNavigation:
   key: Stage Trussing
   parent: Trussing

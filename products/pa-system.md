@@ -25,6 +25,7 @@ specs:
 gallery:
   - images/Festivals.jpg
   - images/2023-09-17-10.52.44.jpg
+  - images/2024-02-24-15.19.16.jpg
 eleventyNavigation:
   key: PA System
   parent: Audio
