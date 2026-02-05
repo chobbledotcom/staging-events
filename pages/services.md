@@ -1,5 +1,6 @@
 ---
 permalink: "/services/"
+layout: "products.html"
 title: "Our Services"
 description: "Comprehensive event services including equipment hire, logistics, fulfilment, storage and water delivery across the UK."
 header_image: images/Staging-Events-UK-Event-Hire-Production-Logistics-Stage-Hire-7.jpg

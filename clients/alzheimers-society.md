@@ -2,9 +2,8 @@
 title: "Alzheimer's Society"
 subtitle: "Memory Walk"
 description: "Event production and logistics for Alzheimer's Society Memory Walk events, supporting 110,000 participants across a 7-week nationwide programme."
-header_image: images/staging-events-charity-logo-1.jpg
+header_image: images/staging-events-charity-logo-6.jpg
 gallery:
-  - images/staging-events-charity-logo-1.jpg
   - images/staging-events-charity-logo-6.jpg
 features:
   - "110,000 participants over 7 weeks"
