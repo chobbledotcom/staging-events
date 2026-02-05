@@ -13,11 +13,11 @@ features:
   - "Professional outdoor stage"
   - "Suitable for festivals and concerts"
 specs:
-  - name: "Deck Size"
+  - name: "Size"
     value: "8m x 6m"
   - name: "Type"
     value: "Trailer Stage"
-  - name: "Deployment"
+  - name: "Setup"
     value: "Mobile, quick setup"
 gallery:
   - images/2023-09-02-13.50.54.jpg

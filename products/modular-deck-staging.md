@@ -15,8 +15,8 @@ features:
   - "Flexible configurations"
   - "Custom heights available"
 specs:
-  - name: "Section Size"
-    value: "1m x 2m"
+  - name: "Size"
+    value: "1m x 2m sections"
   - name: "Height Options"
     value: "200mm, 540mm, 725mm"
   - name: "Custom Heights"
