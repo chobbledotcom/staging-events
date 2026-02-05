@@ -23,13 +23,13 @@
 		"icon": "hugeicons:arrow-up-down"
 	},
 	"delivery": {
-		"icon": "hugeicons:truck-delivery"
+		"icon": "hugeicons:delivery-truck-01"
 	},
 	"deployment": {
 		"icon": "hugeicons:clock-01"
 	},
 	"fuel type": {
-		"icon": "hugeicons:gas-pump"
+		"icon": "hugeicons:petrol-pump"
 	},
 	"hand rails": {
 		"icon": "hugeicons:horizontal-resize"
@@ -54,7 +54,7 @@
 		"icon": "hugeicons:mic-01"
 	},
 	"mixers": {
-		"icon": "hugeicons:slider-03"
+		"icon": "hugeicons:sliders-horizontal"
 	},
 	"model": {
 		"icon": "hugeicons:tag-01"
@@ -63,7 +63,7 @@
 		"icon": "hugeicons:headphones"
 	},
 	"popular configurations": {
-		"icon": "hugeicons:grid-01"
+		"icon": "hugeicons:grid-view"
 	},
 	"power type": {
 		"icon": "hugeicons:plug-01"
