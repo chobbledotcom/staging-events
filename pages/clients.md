@@ -28,9 +28,8 @@ blocks:
       - [Epilepsy UK](/clients/epilepsy-uk/)
       - [CoppaFeel!](/clients/coppafeel/)
     figure_type: image
-    figure_content:
-      src: images/Festivals.jpg
-      alt: Staging Events charity event
+    figure_src: images/Festivals.jpg
+    figure_alt: Staging Events charity event
 
   # CTA
   - type: cta
