@@ -99,5 +99,87 @@
 	"weight capacity": {
 		"icon": "hugeicons:weight-scale",
 		"highlight": true
+	},
+	"age groups": {
+		"icon": "hugeicons:user-group"
+	},
+	"climbing faces": {
+		"icon": "hugeicons:arrow-up-01"
+	},
+	"coverage": {
+		"icon": "hugeicons:globe-02"
+	},
+	"duration": {
+		"icon": "hugeicons:clock-01"
+	},
+	"extras": {
+		"icon": "hugeicons:plus-sign-circle"
+	},
+	"games available": {
+		"icon": "hugeicons:joystick-01"
+	},
+	"height": {
+		"icon": "hugeicons:arrow-up-down",
+		"highlight": true
+	},
+	"insurance": {
+		"icon": "hugeicons:shield-01"
+	},
+	"kids version": {
+		"icon": "hugeicons:baby-02"
+	},
+	"lighting": {
+		"icon": "hugeicons:bulb"
+	},
+	"multi-machine deals": {
+		"icon": "hugeicons:discount"
+	},
+	"output": {
+		"icon": "hugeicons:video-01"
+	},
+	"power": {
+		"icon": "hugeicons:plug-01"
+	},
+	"print speed": {
+		"icon": "hugeicons:printer"
+	},
+	"prints": {
+		"icon": "hugeicons:image-02"
+	},
+	"sharing": {
+		"icon": "hugeicons:share-01"
+	},
+	"size options": {
+		"icon": "hugeicons:ruler"
+	},
+	"staff": {
+		"icon": "hugeicons:user-check-01"
+	},
+	"tables": {
+		"icon": "hugeicons:table-round"
+	},
+	"team size": {
+		"icon": "hugeicons:user-group"
+	},
+	"technology": {
+		"icon": "hugeicons:ai-brain-01"
+	},
+	"templates": {
+		"icon": "hugeicons:layout-grid"
+	},
+	"variants": {
+		"icon": "hugeicons:folder-01"
+	},
+	"digital delivery": {
+		"icon": "hugeicons:cloud-download"
+	},
+	"equipment": {
+		"icon": "hugeicons:tool-box"
+	},
+	"flooring": {
+		"icon": "hugeicons:grid-view"
+	},
+	"mc": {
+		"icon": "hugeicons:mic-01"
 	}
 }

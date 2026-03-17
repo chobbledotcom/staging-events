@@ -1,7 +1,7 @@
 ---
 permalink: "/delivery/"
 title: "Delivery"
-description: "Event equipment delivery anywhere in the UK. Professional logistics for mass participation events, charity runs and festivals."
+description: "Event equipment delivery anywhere in the UK. Professional logistics for corporate events, charity runs, festivals and private functions. Multiple weekly deliveries to major UK venues."
 header_image: images/2022-07-23-17.43.23.jpg
 header_text: Delivery
 eleventyNavigation:
@@ -12,39 +12,43 @@ eleventyNavigation:
 
 ## Delivery
 
-Staging Events is your premier choice for full-scale event production, equipment hire, and logistics services across the UK.
+We deliver event equipment anywhere in the UK from our 25,000 sq ft warehouse in Rotherham, strategically located near the A1, M1 and M18 motorways.
 
-We specialise in mass participation events for charities, including sponsored walks and running events.
+We make multiple deliveries weekly to major UK venues including NEC Birmingham, Manchester Central Convention Complex, Telford Exhibition Centre and ExCel London.
+
+### What We Deliver
+
+- Stages, marquees and gantries
+- Bouncy castles and inflatables
+- Climbing walls and assault courses
+- Photo booths and arcade games
+- PA systems and generators
+- Tables, chairs and event furniture
+- All entertainment equipment
 
 ### Services
 
-- Equipment procurement
-- Storage
-- On-site management
-- Event staff provision
+- Professional delivery and collection crews
+- On-site setup and dismantling
+- Equipment procurement and storage
+- On-site event management
+- Trained supervisory staff
 - Event village setup
-- Stage hire
-- PA systems
-- Generators
-- Gantries
 
 ### Coverage
 
-We serve numerous UK locations including:
+We serve the entire UK with regular runs to:
 
-- Sheffield
-- London
-- Norwich
-- Cambridge
-- Canterbury
-- And many more
+- Sheffield, Rotherham, Doncaster, Barnsley
+- Leeds, Manchester, Birmingham, London
+- Liverpool, Nottingham, Edinburgh
+- Norwich, Cambridge, Canterbury
+- NEC Birmingham, ExCel London, Manchester Central
 
 ### Contact
 
 **Phone:** 0845 468 0610
 
 **Email:** [events@stagingevents.co.uk](mailto:events@stagingevents.co.uk)
-
-**Note:** A minimum spend is required to benefit from our services.
 
 [Get in touch](/contact/)
