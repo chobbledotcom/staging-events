@@ -1,7 +1,7 @@
 ---
 title: "Social Media Photo Booth"
 subtitle: "Hidden camera selfie pod with instant social sharing"
-description: "Social media photo booth hire from £495. Hidden camera selfie pod with eight image layouts, animated GIFs and boomerangs. Instant sharing to Facebook, Twitter and Snapchat."
+description: "Social media photo booth hire from £495. Hidden camera selfie pod with eight image layouts, animated GIFs and boomerangs, with instant social media sharing built in."
 categories:
   - photo-booths
 price: "From £495"
@@ -30,7 +30,7 @@ eleventyNavigation:
   parent: Photo Booths
 ---
 
-Hidden camera selfie pod with eight image layouts, animated GIFs and boomerangs. Guests share photos instantly to Facebook, Twitter and Snapchat without needing a smartphone.
+Our most popular photo booth option, the social media photo booth uses a hidden camera selfie pod to capture guests with eight different image layouts, including animated GIFs and boomerangs. Photos are shared instantly to social media without the need for a smartphone, making it ideal for brand activations, freshers fairs and exhibition stands where high throughput matters — it handles up to 200 users or 40 sessions per hour.
 
 ### What's Included
 
@@ -43,15 +43,11 @@ Hidden camera selfie pod with eight image layouts, animated GIFs and boomerangs.
 
 ### Optional Extras
 
-- Prints: £75
 - Front panel branding: £95
 - Front and back panel branding: £135
-- Branded stretch backdrop: £275
-- Print branding: free with 7 days notice
+- Branded stretch backdrop (sub-dye printed, one-sided): £275
+- Branded photo prints: free with 7 days' notice
 
-### Ideal For
+### Suitable Locations
 
-- Brand activations and product launches
-- Freshers fairs and university events
-- Exhibition stands and trade shows
-- Corporate events and parties
+The booth works indoors or outdoors, on hard surfaces or grass.
