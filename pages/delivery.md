@@ -19,12 +19,12 @@ We make multiple deliveries weekly to major UK venues including NEC Birmingham, 
 ### What We Deliver
 
 - Stages, marquees and gantries
-- Bouncy castles and inflatables
-- Climbing walls and assault courses
-- Photo booths and arcade games
 - PA systems and generators
-- Tables, chairs and event furniture
-- All entertainment equipment
+- Photo booths and selfie mirrors
+- Exhibition games and Batak reaction walls
+- Carnival stalls and side games
+- Festoon lighting and crowd barriers
+- Trussing and rigging equipment
 
 ### Services
 

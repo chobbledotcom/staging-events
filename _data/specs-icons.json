@@ -100,11 +100,8 @@
 		"icon": "hugeicons:weight-scale",
 		"highlight": true
 	},
-	"age groups": {
-		"icon": "hugeicons:user-group"
-	},
-	"climbing faces": {
-		"icon": "hugeicons:arrow-up-01"
+	"additional lengths": {
+		"icon": "hugeicons:plus-sign-circle"
 	},
 	"coverage": {
 		"icon": "hugeicons:globe-02"
@@ -125,8 +122,8 @@
 	"insurance": {
 		"icon": "hugeicons:shield-01"
 	},
-	"kids version": {
-		"icon": "hugeicons:baby-02"
+	"models": {
+		"icon": "hugeicons:tag-01"
 	},
 	"lighting": {
 		"icon": "hugeicons:bulb"
@@ -158,8 +155,11 @@
 	"tables": {
 		"icon": "hugeicons:table-round"
 	},
-	"team size": {
-		"icon": "hugeicons:user-group"
+	"scoring": {
+		"icon": "hugeicons:chart-line-data-01"
+	},
+	"weather protection": {
+		"icon": "hugeicons:cloud-protection"
 	},
 	"technology": {
 		"icon": "hugeicons:ai-brain-01"

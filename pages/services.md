@@ -2,7 +2,7 @@
 permalink: "/services/"
 layout: "products.html"
 title: "Our Services"
-description: "Comprehensive event services including staging, entertainment, photo booths, interactive games, team building, logistics and equipment hire across the UK."
+description: "Comprehensive event services including staging, PA systems, exhibition equipment, photo booths, event infrastructure, logistics and equipment hire across the UK."
 header_image: images/Staging-Events-UK-Event-Hire-Production-Logistics-Stage-Hire-7.jpg
 header_text: Our Services
 eleventyNavigation:
@@ -22,18 +22,15 @@ Professional staging and production equipment for events of all sizes:
 - [Power](/categories/power/) - Generators including battery-powered options
 - [Trussing](/categories/trussing/) - Professional Litec rigging equipment
 
-### Entertainment
+### Exhibition and Corporate Events
 
-We own and operate 95% of our entertainment equipment:
+We own and operate 95% of our equipment, with 20+ years of experience supplying major UK exhibition venues:
 
-- [Entertainment](/categories/entertainment/) - Bouncy castles, rodeo bulls, assault courses, climbing walls
+- [Exhibition and Corporate](/categories/exhibition-corporate/) - Batak reaction games, exhibition games, carnival stalls
 - [Photo Booths](/categories/photo-booths/) - Traditional, selfie mirror, AI and 360 photo booths
-- [Interactive Games](/categories/interactive-games/) - Arcade machines, racing simulators, laser tag
-- [Team Building](/categories/team-building/) - It's a Knockout, corporate fun days, competitive events
+- [Event Infrastructure](/categories/event-infrastructure/) - Festoon lighting, crowd barriers, safety equipment
 
-### Corporate Events
-
-Complete packages for corporate entertainment, team building, exhibitions, awards nights and fun days. One booking covers equipment, delivery, trained staff, setup and collection.
+Complete packages for exhibitions, trade shows, corporate events and fun days. One booking covers equipment, delivery, trained staff, setup and collection.
 
 ### Logistics
 

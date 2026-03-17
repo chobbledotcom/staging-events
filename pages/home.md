@@ -1,8 +1,8 @@
 ---
 permalink: "/"
 layout: "design-system-base.html"
-title: "Event Hire, Staging, Entertainment and Logistics across the UK"
-description: "UK's leading event hire and entertainment company. Over 25 years experience in staging, corporate entertainment, equipment hire and logistics for events nationwide."
+title: "Staging, Event Hire and Production across the UK"
+description: "UK's leading staging and event hire company. Over 25 years experience in stage hire, exhibition equipment, event infrastructure and logistics for events nationwide."
 eleventyNavigation:
   key: Home
   order: 1
@@ -14,9 +14,9 @@ blocks:
     video_title: Staging Events production
     aspect_ratio: "21/9"
     content: |
-      ## Event Hire, Staging, Entertainment and Logistics across the UK
+      ## Staging, Event Hire and Production across the UK
 
-      From stage hire and PA systems to bouncy castles, climbing walls and photo booths. Full production, entertainment and logistics services nationwide.
+      Stage hire, PA systems, exhibition equipment, photo booths and event infrastructure. Full production and logistics services nationwide from our 25,000 sq ft warehouse.
 
   # Featured products slider
   - type: items
@@ -62,14 +62,13 @@ blocks:
     title: What We Offer
     reveal_content: left
     content: |
-      - **Stage hire** - Modular deck staging, trailer stages and marquees
-      - **Entertainment** - Bouncy castles, rodeo bulls, assault courses
-      - **Photo booths** - Traditional, selfie mirror, AI and 360 booths
-      - **Team building** - It's a Knockout, climbing walls, laser tag
-      - **Interactive games** - Arcade machines, racing simulators, dance games
+      - **Stage hire** - Modular stages from 3x3m to 8x6m trailer stages and marquees
       - **PA systems** - Professional sound for events of all sizes
-      - **Generator hire** - Standard and battery-powered options
-      - **Gantry hire** - Start/finish gantries for events
+      - **Exhibition equipment** - Batak reaction games, interactive games, carnival stalls
+      - **Photo booths** - Traditional, selfie mirror, AI and 360 booths
+      - **Event infrastructure** - Festoon lighting, crowd barriers, generators
+      - **Gantry hire** - Start/finish gantries for mass participation events
+      - **Trussing** - Professional Litec rigging equipment
       - **Event staffing** - Experienced crew nationwide
       - **Logistics** - Storage, fulfilment and water delivery
     button:

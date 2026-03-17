@@ -2,7 +2,7 @@
 permalink: "/about/"
 layout: "design-system-base.html"
 title: "About Staging Events"
-description: "For more than 25 years we have been one of the UK's leading event hire and entertainment companies, providing staging, entertainment and logistics from our 25,000 sq ft Rotherham warehouse."
+description: "For more than 25 years we have been one of the UK's leading staging and event hire companies, providing production, exhibition equipment and logistics from our 25,000 sq ft Rotherham warehouse."
 eleventyNavigation:
   key: About
   order: 2
@@ -13,8 +13,8 @@ blocks:
     class: gradient
     title: About Staging Events
     lead: >-
-      For more than 25 years we have been one of the UK's leading event hire and
-      entertainment companies, providing staging, entertainment and logistics nationwide.
+      For more than 25 years we have been one of the UK's leading staging and
+      event hire companies, providing production, exhibition equipment and logistics nationwide.
 
   # About split
   - type: split
@@ -23,7 +23,7 @@ blocks:
     content: |
       Established in 1999, we operate from a 25,000 sq ft warehouse in Rotherham, strategically positioned near the A1, M1 and M18 for nationwide coverage. We own and operate 95% of the equipment we hire out.
 
-      From staging and PA systems to bouncy castles, climbing walls and photo booths, we provide complete event solutions. We work with major charities, corporate clients and private customers, with in-house branding and artwork production capabilities.
+      From staging and PA systems to exhibition games, photo booths and event infrastructure, we provide complete event solutions. We work with major charities, corporate clients and exhibition venues, with in-house branding and artwork production capabilities.
     figure_type: image
     figure_content:
       src: images/Staging-Events-UK-Event-Hire-Production-Logistics-Stage-Hire-12.jpg
