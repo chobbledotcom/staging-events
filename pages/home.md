@@ -76,9 +76,8 @@ blocks:
       href: /services/
       variant: secondary
     figure_type: image
-    figure_content:
-      src: images/Staging-Events-UK-Event-Hire-Production-Logistics-Stage-Hire-7.jpg
-      alt: Staging Events service delivery
+    figure_src: images/Staging-Events-UK-Event-Hire-Production-Logistics-Stage-Hire-7.jpg
+    figure_alt: Staging Events service delivery
 
   # CTA
   - type: cta
