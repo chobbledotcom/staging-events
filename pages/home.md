@@ -1,8 +1,8 @@
 ---
 permalink: "/"
 layout: "design-system-base.html"
-title: "Production, Event Hire and Logistics across the UK"
-description: "UK's leading staging and event hire company. Over 25 years experience in full production, equipment hire and logistics for mass participation charity events."
+title: "Staging, Event Hire and Production across the UK"
+description: "UK's leading staging and event hire company. Over 25 years experience in stage hire, exhibition equipment, event infrastructure and logistics for events nationwide."
 eleventyNavigation:
   key: Home
   order: 1
@@ -14,9 +14,9 @@ blocks:
     video_title: Staging Events production
     aspect_ratio: "21/9"
     content: |
-      ## Production, Event Hire and Logistics across the UK
+      ## Staging, Event Hire and Production across the UK
 
-      We provide full production, equipment hire and logistics services nationwide, specialising in mass participation charity events.
+      Stage hire, PA systems, exhibition equipment, photo booths and event infrastructure. Full production and logistics services nationwide from our 25,000 sq ft warehouse.
 
   # Featured products slider
   - type: items
@@ -31,6 +31,8 @@ blocks:
     items:
       - value: "25+"
         label: Years Experience
+      - value: "95%"
+        label: Equipment Owned & Operated
       - value: "110,000"
         label: Event Participants
       - value: "120,000"
@@ -60,14 +62,15 @@ blocks:
     title: What We Offer
     reveal_content: left
     content: |
-      - **Stage hire** - Modular deck staging and trailer stages
+      - **Stage hire** - Modular stages from 3x3m to 8x6m trailer stages and marquees
       - **PA systems** - Professional sound for events of all sizes
-      - **Generator hire** - Standard and battery-powered options
+      - **Exhibition equipment** - Batak reaction games, interactive games, carnival stalls
+      - **Photo booths** - Traditional, selfie mirror, AI and 360 booths
+      - **Event infrastructure** - Festoon lighting, crowd barriers, generators
       - **Gantry hire** - Start/finish gantries for mass participation events
-      - **Bottled water delivery** - 120,000 units annually
-      - **Secure warehouse storage** - Dedicated space with inventory management
-      - **Event staffing** - Experienced crew for events nationwide
-      - **MC services** - Professional event hosting
+      - **Trussing** - Professional Litec rigging equipment
+      - **Event staffing** - Experienced crew nationwide
+      - **Logistics** - Storage, fulfilment and water delivery
     button:
       text: View All Services
       href: /services/
