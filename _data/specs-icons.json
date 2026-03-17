@@ -159,7 +159,7 @@
 		"icon": "hugeicons:chart-line-data-01"
 	},
 	"weather protection": {
-		"icon": "hugeicons:cloud-protection"
+		"icon": "hugeicons:umbrella"
 	},
 	"technology": {
 		"icon": "hugeicons:ai-brain-01"
@@ -174,7 +174,7 @@
 		"icon": "hugeicons:cloud-download"
 	},
 	"equipment": {
-		"icon": "hugeicons:tool-box"
+		"icon": "hugeicons:tools"
 	},
 	"flooring": {
 		"icon": "hugeicons:grid-view"
