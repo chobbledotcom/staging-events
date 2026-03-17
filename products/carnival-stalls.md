@@ -1,10 +1,10 @@
 ---
 title: "Carnival and Side Stall Games"
 subtitle: "Traditional fairground stalls for fetes, festivals and fun days"
-description: "Carnival and side stall game hire from £125. Traditional fairground games including tin can alley, axe throwing, buzz wire and more. Perfect for fetes, festivals and corporate fun days."
+description: "Carnival and side stall game hire from £75. Traditional fairground games including axe throwing, buzz wire and more. Perfect for fetes, festivals and corporate fun days."
 categories:
   - exhibition-corporate
-price: "From £125"
+price: "From £75"
 features:
   - "Traditional fairground games"
   - "No tokens or coins needed"
@@ -14,7 +14,7 @@ features:
   - "Staff available"
 specs:
   - name: "Hire Price"
-    value: "From £125"
+    value: "From £75"
   - name: "Type"
     value: "Traditional carnival stalls"
   - name: "Power"
@@ -43,8 +43,8 @@ Traditional carnival and side stall games for fetes, festivals, corporate fun da
 - **Roller Bowler** - Aim balls between humps on the course. From £325
 - **Strike Zone** - Toss three discs at ten pins. From £325
 - **Whip n Skip** - Throw discs into scoring rings. From £325
-- **Maze Runner** - From £325
-- **Photo Cut Out Boards** - From £325
+- **Maze Runner** - From £395
+- **Photo Cut Out Boards** - From £75
 - **Spot on Challenge** - From £425
 
 ### Ideal For

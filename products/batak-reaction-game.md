@@ -4,7 +4,7 @@ subtitle: "LED reaction wall for exhibitions, activations and corporate events"
 description: "Batak Pro and Batak Lite reaction game hire for exhibitions and corporate events. LED target walls that test reaction times and hand-eye coordination. Professional staff included."
 categories:
   - exhibition-corporate
-price: "Contact for pricing"
+price: "From £395"
 features:
   - "Batak Pro and Lite models"
   - "LED target displays"
@@ -13,12 +13,12 @@ features:
   - "Ideal for exhibition stands"
   - "Trained staff available"
 specs:
-  - name: "Models"
-    value: "Batak Pro and Batak Lite"
+  - name: "Hire Price"
+    value: "Batak Pro from £495, Batak Lite from £395"
   - name: "Type"
     value: "LED reaction wall"
   - name: "Scoring"
-    value: "Digital scoreboard with timed hits"
+    value: "LED displays with timed hits and misses"
   - name: "Best For"
     value: "Exhibitions, brand activations, corporate"
   - name: "Staff"
@@ -30,12 +30,12 @@ eleventyNavigation:
   parent: Exhibition and Corporate
 ---
 
-The Batak reaction game is one of the most popular exhibition and corporate event attractions. Players hit illuminated LED targets as fast as possible, testing reaction times and hand-eye coordination.
+The Batak reaction game is one of the most popular exhibition and corporate event attractions. Players push illuminated buttons as fast as possible, testing reaction times and hand-eye coordination.
 
 ### Available Models
 
-- **Batak Pro** - Full-size flagship model with bright LED displays. High throughput allows multiple players in short time periods. Our most popular exhibition game
-- **Batak Lite** - Compact model with eight illuminated numbered targets controlled by microcomputer. Optional LED scoreboard with timed hits and misses. Smaller footprint for tighter exhibition stands
+- **Batak Pro** - From £495. Full-size model with bright LED displays. High throughput allows multiple players in short time periods
+- **Batak Lite** - From £395. Compact model with eight illuminated numbered targets controlled by microcomputer. Optional LED scoreboard with timed hits and misses. Smaller footprint for tighter exhibition stands
 
 ### Ideal For
 

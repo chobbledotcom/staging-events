@@ -44,4 +44,4 @@ Our magic selfie mirror uses voice guidance to create a fun, interactive photo e
 
 ### Custom Branding
 
-Custom branding available from £95, ideal for corporate events and brand activations.
+Custom mirror panel branding available from £125, ideal for corporate events and brand activations.

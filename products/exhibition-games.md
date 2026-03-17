@@ -4,7 +4,7 @@ subtitle: "Interactive games for exhibitions, trade shows and brand activations"
 description: "Exhibition game hire for trade shows and corporate events. Virtual bowling, prize wheels, dance machines, racing simulators and more. 20+ years supplying UK exhibition venues."
 categories:
   - exhibition-corporate
-price: "From £325"
+price: "From £175"
 features:
   - "20+ years exhibition experience"
   - "Wide range of interactive games"
@@ -14,7 +14,7 @@ features:
   - "Delivery, setup and collection"
 specs:
   - name: "Hire Price"
-    value: "From £325"
+    value: "From £175"
   - name: "Games Available"
     value: "50+"
   - name: "Branding"
@@ -30,11 +30,11 @@ eleventyNavigation:
   parent: Exhibition and Corporate
 ---
 
-Interactive exhibition game hire with over 20 years of experience supplying venues including NEC Birmingham, ExCel London, Manchester Central, Leeds First Direct Arena and Birmingham Bullring.
+Interactive exhibition game hire with over 20 years of experience supplying venues including Wembley London, NEC Birmingham, Leeds First Direct Arena and Birmingham Bullring.
 
 ### Popular Exhibition Games
 
-- **Virtual Bowling** - Digital bowling experience
+- **Virtual Bowling** - From £445
 - **Virtual Pinball** - From £495
 - **Dance Machines** - From £495
 - **Racing Car Simulators** - From £495
@@ -43,7 +43,7 @@ Interactive exhibition game hire with over 20 years of experience supplying venu
 - **Atari Pong Table** - From £425
 - **Prize Crane Grabber** - From £495 (customisable win rates)
 - **Grab a Grand Cash Grabber** - From £595
-- **Gold Bar Challenge** - Interactive vault game
+- **Gold Bar Challenge** - From £395
 
 ### Custom Branding
 
