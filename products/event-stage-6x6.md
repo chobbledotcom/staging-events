@@ -30,7 +30,7 @@ eleventyNavigation:
   parent: Staging
 ---
 
-Large 6x6m event stage with wind and showerproof side walls for major events, festivals and outdoor productions. Our largest deck-built stage configuration.
+Large 6x6m event stage with wind and showerproof side walls for major events, festivals and outdoor productions. Ideal for small to medium festivals.
 
 ### Ideal For
 

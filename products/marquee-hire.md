@@ -35,14 +35,18 @@ Pop-up gazebo and marquee hire for corporate events, weddings, markets, festival
 ### Available Sizes
 
 - **3x3m Gazebo Marquee** - From £85
-- **3x4.5m Gazebo Marquee** - From £95
+- **3x4.5m Pop-up Gazebo Marquee** - From £85
+- **3x4.5m Gazebo Marquee (Black)** - From £95
 
 ### Optional Extras
 
 - 6ft foldable tables from £5
-- Chairs and deckchairs
+- Deck chairs from £6.95
 - Roll-a-Track flooring from £120
 - LED strip lighting from £5
 - Festoon lighting from £149
 - 30 kVA diesel generator from £350
-- Concrete weights and barriers
+- Concrete marquee weights from £15
+- 2.5m concrete jersey barriers from £12.50
+- Mobile fire point trolley from £45
+- Foot-operated sanitiser station from £29

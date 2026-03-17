@@ -20,7 +20,7 @@ specs:
   - name: "Digital Delivery"
     value: "Dropbox"
   - name: "Branding"
-    value: "Custom branding available"
+    value: "Mirror panels from £125"
   - name: "Staff"
     value: "Trained attendant included"
   - name: "Best For"

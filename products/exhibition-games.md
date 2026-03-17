@@ -38,7 +38,7 @@ Interactive exhibition game hire with over 20 years of experience supplying venu
 - **Virtual Pinball** - From £495
 - **Dance Machines** - From £495
 - **Racing Car Simulators** - From £495
-- **Sega Rally 2 Twin** - From £1,995/day
+- **Sega Rally 2 Twin** - From £1,995
 - **Fast and Furious Twin** - From £1,495
 - **Atari Pong Table** - From £425
 - **Prize Crane Grabber** - From £495 (customisable win rates)
