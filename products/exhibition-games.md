@@ -2,6 +2,7 @@
 title: "Exhibition Games"
 subtitle: "Interactive games for exhibitions, trade shows and brand activations"
 description: "Exhibition game hire for trade shows and corporate events. Virtual bowling, prize wheels, dance machines, racing simulators and more. 20+ years supplying UK exhibition venues."
+header_image: images/event-stage-setup.jpg
 categories:
   - exhibition-corporate
 price: "From £175"

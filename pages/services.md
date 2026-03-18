@@ -1,6 +1,6 @@
 ---
 permalink: "/services/"
-layout: "products.html"
+layout: "design-system-base"
 title: "Our Services"
 description: "Comprehensive event services including staging, PA systems, exhibition equipment, photo booths, event infrastructure, logistics and equipment hire across the UK."
 header_image: images/Staging-Events-UK-Event-Hire-Production-Logistics-Stage-Hire-7.jpg

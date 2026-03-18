@@ -2,6 +2,7 @@
 title: "Social Media Photo Booth"
 subtitle: "Hidden camera selfie pod with instant social sharing"
 description: "Social media photo booth hire from £495. Hidden camera selfie pod with eight image layouts, animated GIFs and boomerangs, with instant social media sharing built in."
+header_image: images/event-stage-setup.jpg
 categories:
   - photo-booths
 price: "From £495"

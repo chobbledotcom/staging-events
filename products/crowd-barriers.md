@@ -2,6 +2,7 @@
 title: "Crowd Barriers and Belt Barriers"
 subtitle: "Professional crowd management for events and exhibitions"
 description: "Crowd barrier and belt barrier hire from £7.50 per unit. Tensa barriers for crowd control at events, exhibitions and venue management. Professional delivery and setup."
+header_image: images/event-stage-setup.jpg
 categories:
   - event-infrastructure
 price: "From £7.50"
