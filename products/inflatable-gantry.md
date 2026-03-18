@@ -2,7 +2,7 @@
 title: "Inflatable Gantry"
 subtitle: "Quick setup gantry for grassed areas"
 description: "Inflatable gantry hire for charity runs and events. Quick setup and takedown with custom velcro banners available."
-header_image: images/Festivals.jpg
+header_image: images/2021-09-11-09.55.13.jpg
 categories:
   - gantries
 price: "From £275"
