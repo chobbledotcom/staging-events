@@ -2,7 +2,7 @@
 title: "Modular Deck Staging"
 subtitle: "Flexible staging in 1m x 2m sections"
 description: "Modular deck staging hire in 1m x 2m sections. Available in multiple heights with Intelistage portable system. Professional staging for events UK-wide."
-header_image: images/2023-09-03-11.35.12.jpg
+header_image: images/choir-on-modular-stage.jpg
 categories:
   - staging
 price: "Contact for pricing"
@@ -28,10 +28,10 @@ specs:
   - name: "System"
     value: "Intelistage Portable"
 gallery:
-  - images/2023-09-03-11.35.12.jpg
-  - images/Staging-Events-UK-Event-Hire-Production-Logistics-Stage-Hire-7.jpg
-  - images/Staging-Events-UK-Event-Hire-Production-Logistics-Stage-Hire-11.jpg
-  - images/Staging-Events-UK-Event-Hire-Production-Logistics-Stage-Hire-12.jpg
+  - images/choir-on-modular-stage.jpg
+  - images/memory-walk-stage-and-van.jpg
+  - images/inflatable-start-gantry-charity.jpg
+  - images/stage-and-led-screen-charity.jpg
 eleventyNavigation:
   key: Modular Deck Staging
   parent: Staging

@@ -2,7 +2,7 @@
 title: "AI Photo Booth"
 subtitle: "AI-powered photo booth with 180+ templates"
 description: "AI photo booth hire from £595. Uses facial recognition and 180+ templates to transform photos. Instant social media uploads and optional prints."
-header_image: images/2023-11-25-19.44.09.jpg
+header_image: images/band-performing-night-lights.jpg
 categories:
   - photo-booths
 price: "From £595"

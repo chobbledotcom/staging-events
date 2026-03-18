@@ -2,7 +2,7 @@
 title: "360 Photo Booth"
 subtitle: "Motorised 360-degree video capture booth"
 description: "360 photo booth hire from £595. Motorised arm captures stunning boomerang-style 360-degree videos with instant social sharing. Perfect for product launches and campaigns."
-header_image: images/2023-04-06-14.48.32.jpg
+header_image: images/band-on-trailer-stage.jpg
 categories:
   - photo-booths
 price: "From £595"

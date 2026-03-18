@@ -25,7 +25,7 @@ blocks:
 
       From staging and PA systems to exhibition games, photo booths and event infrastructure, we provide complete event solutions. We work with major charities, corporate clients and exhibition venues, with in-house branding and artwork production capabilities.
     figure_type: image
-    figure_src: images/Staging-Events-UK-Event-Hire-Production-Logistics-Stage-Hire-12.jpg
+    figure_src: images/stage-and-led-screen-charity.jpg
     figure_alt: Staging Events event production
 
   # Sustainability split-full

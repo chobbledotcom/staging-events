@@ -2,7 +2,7 @@
 title: "Magic Selfie Mirror"
 subtitle: "Voice-guided selfie mirror with instant prints"
 description: "Magic selfie mirror hire from £495. Voice-guided photo system with instant 10-second prints and digital copies via Dropbox. Perfect for weddings and awards nights."
-header_image: images/2024-02-24-15.27.49.jpg
+header_image: images/blue-lit-dance-performance.jpg
 categories:
   - photo-booths
 price: "From £495"

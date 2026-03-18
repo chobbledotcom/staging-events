@@ -3,7 +3,7 @@ permalink: "/delivery/"
 layout: "design-system-base"
 title: "Delivery"
 description: "Event equipment delivery anywhere in the UK. Professional logistics for corporate events, charity runs, festivals and private functions. Multiple weekly deliveries to major UK venues."
-header_image: images/2022-07-23-17.43.23.jpg
+header_image: images/fan-party-stage-crowd.jpg
 header_text: Delivery
 eleventyNavigation:
   key: Delivery

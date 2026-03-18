@@ -3,7 +3,7 @@ title: "Power"
 header_text: "Generator Hire"
 subtitle: "Standard and battery-powered generators"
 description: "Generator hire from 2.2kva to 20kva including battery-powered eco-friendly options. Power solutions for events UK-wide."
-header_image: images/2022-07-23-17.43.23.jpg
+header_image: images/fan-party-stage-crowd.jpg
 featured: true
 eleventyNavigation:
   key: Power

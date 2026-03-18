@@ -2,7 +2,7 @@
 title: "Mobile Trailer Stage 7x6m"
 subtitle: "42 sqm mobile stage with slip-proof weatherproof floor"
 description: "Mobile trailer stage hire from £1,495. 7m x 6m stage area (42 sqm) with slip-proof weatherproof floor, adjustable height, and 30-minute setup. Suitable indoors and outdoors."
-header_image: images/2023-11-25-12.49.34.jpg
+header_image: images/trailer-stage-with-trussing.jpg
 categories:
   - staging
 price: "From £1,495"

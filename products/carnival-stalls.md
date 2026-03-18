@@ -2,7 +2,7 @@
 title: "Carnival and Side Stall Games"
 subtitle: "Traditional fairground stalls for fetes, festivals and fun days"
 description: "Carnival and side stall game hire from £75. Traditional fairground games including axe throwing, buzz wire and more. Perfect for fetes, festivals and corporate fun days."
-header_image: images/2021-09-10-17.38.26.jpg
+header_image: images/fire-breather-on-stage.jpg
 categories:
   - exhibition-corporate
 price: "From £75"

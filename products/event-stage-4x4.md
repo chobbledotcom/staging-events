@@ -2,7 +2,7 @@
 title: "Event Stage 4x4m"
 subtitle: "Mid-size stage for bands, choirs and corporate presentations"
 description: "4x4m event stage hire from £1,095. Supports up to a 3-piece band and 12 singers. Professional delivery, setup and collection with full documentation."
-header_image: images/2022-07-23-16.19.18.jpg
+header_image: images/town-centre-stage-rotherham.jpg
 categories:
   - staging
 price: "From £1,095"
