@@ -2,7 +2,7 @@
 title: "Batak Reaction Game"
 subtitle: "LED reaction wall for exhibitions, activations and corporate events"
 description: "Batak Pro and Batak Lite reaction game hire for exhibitions and corporate events. Players push illuminated buttons to test reaction times and hand-eye coordination. Professional staff included."
-header_image: images/event-stage-setup.jpg
+header_image: images/2024-02-23-15.59.25.jpg
 categories:
   - exhibition-corporate
 price: "From £395"

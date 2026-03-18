@@ -2,7 +2,7 @@
 title: "Event Stage 6x6m"
 subtitle: "Large stage with weather protection for major events"
 description: "6x6m event stage hire from £1,950. Supports a 5-piece band and 15 singers with wind and showerproof side walls. Professional production staging for festivals and large events."
-header_image: images/event-stage-setup.jpg
+header_image: images/2022-07-18-14.11.52.jpg
 categories:
   - staging
 price: "From £1,950"

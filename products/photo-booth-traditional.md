@@ -2,7 +2,7 @@
 title: "Traditional Photo Booth"
 subtitle: "Enclosed booth with unlimited prints and video messages"
 description: "Traditional photo booth hire from £495. Enclosed unit with unlimited prints, video messages and memory stick. Trained staff, props and backdrops included."
-header_image: images/event-stage-setup.jpg
+header_image: images/55920832_2298293413786810_5962884417671135232_n.jpg
 categories:
   - photo-booths
 price: "From £495"
