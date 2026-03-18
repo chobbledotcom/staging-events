@@ -2,6 +2,7 @@
 title: "Mini Stage 3x3m"
 subtitle: "Compact stage for DJs, solo presenters and small bands"
 description: "3x3m mini stage hire from £925. Ideal for DJs, solo presenters and small bands. Professional delivery, setup and collection included with £5 million public liability insurance."
+header_image: images/performer-jumping-mini-stage.jpg
 categories:
   - staging
 price: "From £925"

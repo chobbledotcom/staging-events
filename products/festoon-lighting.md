@@ -2,6 +2,7 @@
 title: "Festoon Lighting"
 subtitle: "Atmospheric event lighting from £149 per 100 metres"
 description: "Festoon lighting hire from £149 per 100 metres. Indoor and outdoor event lighting for festivals, weddings, corporate events and marquees. Professional installation included."
+header_image: images/church-event-atmospheric-lighting.jpg
 categories:
   - event-infrastructure
 price: "From £149"

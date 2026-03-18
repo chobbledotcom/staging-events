@@ -2,6 +2,7 @@
 title: "Marquee and Gazebo Hire"
 subtitle: "Pop-up gazebos and marquees for any event"
 description: "Marquee and gazebo hire from £85. Pop-up gazebo marquees in 3x3m and 3x4.5m sizes. Professional delivery and setup with optional tables, chairs, lighting and flooring."
+header_image: images/stage-with-gazebo-and-barriers.jpg
 categories:
   - staging
 price: "From £85"

@@ -3,7 +3,7 @@ title: "Staging"
 header_text: "Stage Hire"
 subtitle: "Modular deck staging and trailer stages"
 description: "Stage hire services including modular deck staging, trailer stages and portable systems. Professional staging solutions for events UK-wide."
-header_image: images/2023-09-03-11.35.12.jpg
+header_image: images/choir-on-modular-stage.jpg
 featured: true
 eleventyNavigation:
   key: Staging

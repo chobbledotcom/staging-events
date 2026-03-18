@@ -1,5 +1,6 @@
 ---
 permalink: "/privacy-policy/"
+layout: "design-system-base"
 title: "Privacy Policy"
 description: "Privacy policy for Staging Events Ltd. How we collect, store and process your personal data."
 eleventyExcludeFromCollections: true

@@ -2,7 +2,7 @@
 title: "Battery Generator (Instagrid)"
 subtitle: "Eco-friendly battery-powered power"
 description: "Battery-powered Instagrid generator hire. Eco-friendly power solution reducing CO2 emissions by over 10kg per hour compared to diesel alternatives."
-header_image: images/2024-02-17-15.36.54.jpg
+header_image: images/band-on-stage-green-lights.jpg
 categories:
   - power
 price: "Contact for pricing"
@@ -24,7 +24,7 @@ specs:
   - name: "Power Type"
     value: "Battery"
 gallery:
-  - images/2024-02-17-15.36.54.jpg
+  - images/band-on-stage-green-lights.jpg
 eleventyNavigation:
   key: Battery Generator
   parent: Power

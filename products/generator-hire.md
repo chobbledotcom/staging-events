@@ -2,7 +2,7 @@
 title: "Generator Hire"
 subtitle: "2.2kva to 20kva generators"
 description: "Generator hire from 2.2kva to 20kva. Reliable power solutions for events, festivals and outdoor activities UK-wide."
-header_image: images/2022-07-23-17.43.23.jpg
+header_image: images/fan-party-stage-crowd.jpg
 categories:
   - power
 price: "Contact for pricing"
@@ -20,8 +20,8 @@ specs:
   - name: "Delivery"
     value: "UK-wide"
 gallery:
-  - images/2022-07-23-17.43.23.jpg
-  - images/2022-07-23-16.19.18.jpg
+  - images/fan-party-stage-crowd.jpg
+  - images/town-centre-stage-rotherham.jpg
 eleventyNavigation:
   key: Generator Hire
   parent: Power

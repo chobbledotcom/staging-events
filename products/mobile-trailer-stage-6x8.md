@@ -2,6 +2,7 @@
 title: "Mobile Trailer Stage 6x8m"
 subtitle: "Self-contained outdoor stage for festivals and large events"
 description: "Mobile trailer stage hire from £1,495. 7.9m x 5.9m performance area with full trussing, wind and showerproof walls, and 8,000 kg total floor capacity. Sets up in one hour."
+header_image: images/mobile-trailer-stage-with-barriers.jpg
 categories:
   - staging
 price: "From £1,495"

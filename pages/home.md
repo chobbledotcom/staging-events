@@ -76,7 +76,7 @@ blocks:
       href: /services/
       variant: secondary
     figure_type: image
-    figure_src: images/Staging-Events-UK-Event-Hire-Production-Logistics-Stage-Hire-7.jpg
+    figure_src: images/memory-walk-stage-and-van.jpg
     figure_alt: Staging Events service delivery
 
   # CTA

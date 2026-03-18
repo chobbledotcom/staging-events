@@ -43,7 +43,7 @@ blocks:
   # Image background
   - type: image-background
     full_width: true
-    image: images/Staging-Events-UK-Event-Hire-Production-Logistics-Stage-Hire-11.jpg
+    image: images/inflatable-start-gantry-charity.jpg
     image_alt: Staging Events event setup
     content: |
       ## Based in Rotherham, Serving Events Across the UK
