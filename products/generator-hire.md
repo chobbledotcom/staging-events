@@ -29,7 +29,7 @@ blocks:
   - type: split
     title: Generator Hire
     content: |-
-      Reliable, heavy-duty generators ranging from 2.2kva to 20kva, ideal for powering everything from site tools and portable lighting to full stage rigs and PA systems. Featuring efficient diesel engines with low fuel consumption, robust construction with engine protection shutdown and fully bunded bases for environmental compliance, our generators are built to run for extended periods -- up to 16 hours at 75% load on our larger units.
+      Reliable, heavy-duty generators ranging from 2.2kva to 20kva, ideal for powering everything from site tools and portable lighting to full stage rigs and PA systems. They feature efficient diesel engines, engine protection shutdown and fully bunded bases for environmental compliance, with up to 16 hours runtime at 75% load on the larger units.
 
       **Contact for pricing**
     figure_type: image
