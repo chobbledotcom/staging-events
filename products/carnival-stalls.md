@@ -1,34 +1,93 @@
 ---
-title: "Carnival and Side Stall Games"
-subtitle: "Traditional fairground stalls for fetes, festivals and fun days"
-description: "Carnival and side stall game hire from £75. Traditional fairground games including axe throwing, buzz wire and more. Perfect for fetes, festivals and corporate fun days."
+title: Carnival and Side Stall Games
+subtitle: Traditional fairground stalls for fetes, festivals and fun days
+description: Carnival and side stall game hire from £75. Traditional fairground games including axe throwing, buzz wire and more. Perfect for fetes, festivals and corporate fun days.
 header_image: images/fire-breather-on-stage.jpg
 categories:
   - exhibition-corporate
-price: "From £75"
+price: From £75
 features:
-  - "Traditional fairground games"
-  - "No tokens or coins needed"
-  - "Fundraising-friendly"
-  - "Indoor and outdoor use"
-  - "Multiple games available"
-  - "Staff available"
+  - Traditional fairground games
+  - No tokens or coins needed
+  - Fundraising-friendly
+  - Indoor and outdoor use
+  - Multiple games available
+  - Staff available
 specs:
-  - name: "Hire Price"
-    value: "From £75"
-  - name: "Type"
-    value: "Traditional carnival stalls"
-  - name: "Power"
-    value: "Most require no power"
-  - name: "Best For"
-    value: "Fetes, festivals, fun days"
-  - name: "Insurance"
-    value: "£5 million public liability"
-  - name: "Coverage"
-    value: "Nationwide delivery"
+  - name: Hire Price
+    value: From £75
+  - name: Type
+    value: Traditional carnival stalls
+  - name: Power
+    value: Most require no power
+  - name: Best For
+    value: Fetes, festivals, fun days
+  - name: Insurance
+    value: £5 million public liability
+  - name: Coverage
+    value: Nationwide delivery
 eleventyNavigation:
   key: Carnival and Side Stall Games
   parent: Exhibition and Corporate
+blocks:
+  - type: split
+    title: Carnival and Side Stall Games
+    content: |-
+      Traditional fairground stalls for fetes, festivals and fun days
+
+      **From £75**
+    figure_type: image
+    figure_src: images/fire-breather-on-stage.jpg
+    figure_alt: Carnival and Side Stall Games
+    button:
+      text: Get a Quote
+      href: /contact/
+      variant: primary
+  - type: content
+  - type: features
+    section_class: alt
+    header_intro: "## Key Features"
+    items:
+      - icon: mdi:check-circle
+        title: Traditional fairground games
+        description: ""
+      - icon: mdi:check-circle
+        title: No tokens or coins needed
+        description: ""
+      - icon: mdi:check-circle
+        title: Fundraising-friendly
+        description: ""
+      - icon: mdi:check-circle
+        title: Indoor and outdoor use
+        description: ""
+      - icon: mdi:check-circle
+        title: Multiple games available
+        description: ""
+      - icon: mdi:check-circle
+        title: Staff available
+        description: ""
+  - type: stats
+    items:
+      - value: From £75
+        label: Hire Price
+      - value: Traditional carnival stalls
+        label: Type
+      - value: Most require no power
+        label: Power
+      - value: Fetes, festivals, fun days
+        label: Best For
+      - value: £5 million public liability
+        label: Insurance
+      - value: Nationwide delivery
+        label: Coverage
+  - type: cta
+    title: Hire the Carnival and Side Stall Games
+    description: Contact our team for availability and pricing.
+    button:
+      text: Get a Quote
+      href: /contact/
+      variant: secondary
+      size: lg
 ---
 
 Traditional carnival and side stall games for fetes, festivals, corporate fun days and fundraising events. All games work without tokens or coins, and can be set up to collect funds for charity events.
