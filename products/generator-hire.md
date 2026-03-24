@@ -91,7 +91,10 @@ All generators are maintained to high standards and delivered fuelled, tested an
 The 10 KVA unit is a good example of the specification across the range:
 
 - **Engine**: Kubota D722E diesel, 3 cylinders, 17 HP at 3000 rpm, water cooled
-- **Power outlets**: Two 100V/240V outlets for flexible equipment connections, - **Fuel consumption**: Just 2.4 litres per hour, with a 40-litre tank providing up to 16 hours of continuous runtime at 75% load -- - **Construction**: Heavy-duty build with engine protection shutdown, certified lifting eye, and fully bunded base (110% containment) - **Transport**: Trolley kit included for easy positioning on site
+- **Power outlets**: Two 100V/240V outlets for flexible equipment connections
+- **Fuel consumption**: Just 2.4 litres per hour, with a 40-litre tank providing up to 16 hours of continuous runtime at 75% load
+- **Construction**: Heavy-duty build with engine protection shutdown, certified lifting eye, and fully bunded base (110% containment)
+- **Transport**: Trolley kit included for easy positioning on site
 
 ### Available Sizes
 
