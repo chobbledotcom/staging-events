@@ -40,8 +40,9 @@ blocks:
 
   # Notable events
   - type: features
-    header_title: Notable Events
-    header_subtitle: >-
+    header_intro: |
+      ## Notable Events
+
       We manage major initiatives for leading charities across the UK.
     items:
       - icon: "mdi:walk"
