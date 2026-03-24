@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: Event Stage 6x6m
     content: |-
-      Large stage with weather protection for major events
+      A 6x6m covered truss stage with 36 square metres of performance area, big enough for a five-piece band or up to 15 performers. Full roof structure and weather-resistant side walls mean your event goes ahead regardless of conditions.
 
       **From £1,950**
     figure_type: image
@@ -90,19 +90,29 @@ blocks:
       size: lg
 ---
 
-Large 6x6m event stage with wind and showerproof side walls for major events, festivals and outdoor productions. Ideal for small to medium festivals.
+A large 6x6m covered truss stage offering 36 square metres of performance space, large enough for a five-piece band or up to 15 performers. The full roof structure and weather-resistant side walls keep the stage sheltered, and works for outdoor events year-round. Setup and breakdown each take approximately 1.5 hours.
 
 ### Ideal For
 
 - Festivals and outdoor concerts
-- Large corporate events
-- Community celebrations
-- Charity galas and fundraisers
+- Large corporate events and product launches
+- Community celebrations and charity galas
+- Fireworks displays and Christmas light switch-ons
+- Outdoor theatre and dance performances
+
+### Truss Frame and Rigging
+
+Built on 50mm tubular trussing with solid rigging points throughout. The truss system supports speakers, lighting rigs and production equipment overhead, keeping the 36 sqm stage floor completely clear for performers.
+
+### Weather Protection
+
+The full roof structure combined with wind and showerproof side walls creates a sheltered performance environment. This protects performers and equipment in rain or wind.
 
 ### What's Included
 
-- Delivery, setup and collection by trained crew
-- Wind and showerproof side walls
+- Delivery, setup and collection by our crew
+- Full roof structure with weather-resistant side walls
+- 50mm tubular trussing for rigging
 - Matching stage steps
 - Structural calculations and design documentation
 - Risk assessments and method statements
@@ -111,5 +121,10 @@ Large 6x6m event stage with wind and showerproof side walls for major events, fe
 
 ### Additional Options
 
-- Stage canopy and inflatable stage canopy
+- Line array PA systems
+- Festoon lighting and uplighters
+- Lecterns for presentations
+- Generators
+- Supervising staff and audio technicians
 - Custom branded PA panels and banners (in-house design team)
+- Multi-item discounts when booking stage alongside PA, lighting or other equipment

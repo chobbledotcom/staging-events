@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: Marquee and Gazebo Hire
     content: |-
-      Pop-up gazebos and marquees for any event
+      Commercial-grade pop-up gazebos and marquees in 3x3m and 3x4.5m sizes, complete with sides and a door for full enclosure. Quality materials retain warmth and provide shelter for garden parties, charity fun days, market stalls and outdoor events on grass or hard standing.
 
       **From £85**
     figure_type: image
@@ -80,6 +80,21 @@ blocks:
         label: Lighting
       - value: Roll-a-Track from £120
         label: Flooring
+  - type: split
+    reverse: true
+    title: Complete Event Setup
+    content: |-
+      We supply tables, chairs, lighting and flooring alongside marquee hire, all in one booking.
+    figure_type: html
+    figure_content: |-
+      ### Popular Add-Ons
+
+      - **6ft foldable tables** from £5
+      - **Deck chairs** from £6.95
+      - **Roll-a-Track flooring** from £120
+      - **LED strip lighting** from £5
+      - **Festoon lighting** from £149
+      - **30 kVA generator** from £350
   - type: cta
     title: Hire the Marquee and Gazebo Hire
     description: Contact our team for availability and pricing.
@@ -90,13 +105,34 @@ blocks:
       size: lg
 ---
 
-Pop-up gazebo and marquee hire for corporate events, weddings, markets, festivals and celebrations. All structures are delivered and assembled on-site by our team.
+Commercial-grade pop-up gazebos and mini marquees built for professional use at outdoor events. Our 3x4.5m marquees feature adjustable ceiling height options, full sides and a door for complete enclosure, using quality materials designed to retain warmth and keep guests comfortable. These gazebos provide weatherproof shelter on grass or hard standing.
+
+### Ideal For
+
+- Garden parties and private celebrations
+- Charity fun days and community events
+- Market trading stalls and pop-up shops
+- Festival VIP areas and backstage shelters
+- Corporate hospitality and registration areas
+- Outdoor catering and refreshment stations
 
 ### Available Sizes
 
 - **3x3m Gazebo Marquee** - From £85
 - **3x4.5m Pop-up Gazebo Marquee** - From £85
 - **3x4.5m Gazebo Marquee (Black)** - From £95
+
+### Shelter and Comfort
+
+Each marquee comes with sides and a door for complete enclosure, providing a dry, sheltered space. The quality material retains heat effectively, so the marquees work throughout the year. They can be positioned on grass or hard standing with no special groundwork required.
+
+### What's Included
+
+- Delivery, setup and collection by our crew
+- Full sides and door for complete enclosure
+- Adjustable ceiling height
+- Risk assessments and method statements
+- £5 million public liability insurance
 
 ### Optional Extras
 

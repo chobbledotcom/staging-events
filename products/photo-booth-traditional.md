@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: Traditional Photo Booth
     content: |-
-      Enclosed booth with unlimited prints and video messages
+      A must-have for any wedding or party, our enclosed photo booth delivers unlimited prints, video messages, and a popular prop box to keep guests entertained for hours. Every image and video is saved to a memory stick and delivered within 14 days.
 
       **From £495**
     figure_type: image
@@ -90,15 +90,35 @@ blocks:
       size: lg
 ---
 
-Our traditional enclosed photo booth provides unlimited prints and video messages for up to 4 hours. Perfect for weddings, parties and corporate events.
+Our traditional enclosed photo booth is a popular option for weddings, parties and corporate events. Guests step inside the enclosed booth, strike a pose with our popular prop box, and walk away with high-quality prints in seconds. A professional staff member is on hand throughout to ensure everything runs smoothly and guests enjoy themselves.
+
+All digital copies and video messages are saved and supplied on a memory stick within 14 days of your event. Images can also be loaded to social media on the day. The booth is available for outdoor hire in our inflatable selfie booth marquee.
+
+### How It Works
+
+Guests enter the enclosed booth, choose their pose, and the camera captures the moment. Unlimited prints are produced on the spot, and guests can also record personal video messages. Everything is stored digitally and handed over on a memory stick after the event.
 
 ### What's Included
 
-- Enclosed photo booth unit
-- Unlimited prints during hire
+- Professional staff member for the duration of the hire
+- Up to 4 hours hire (extra hours available from £75+VAT)
+- Popular prop box for dressing up
+- Unlimited prints throughout the event
 - Video message recording
-- Props and backdrops
-- Trained attendant
-- Memory stick with all images
+- All digital copies saved to memory stick, delivered within 14 days
+- Images uploaded to social media on the day
 - Delivery, setup and collection
 - £5 million public liability insurance
+
+### Ideal For
+
+- Weddings and receptions
+- Birthday parties and milestone celebrations
+- Corporate events and award ceremonies
+- Christmas parties and festive gatherings
+- Outdoor events (available with inflatable selfie booth marquee)
+
+### Dimensions
+
+- Booth size: 10ft x 7ft, 7.6ft height
+- Required space: 12ft x 10ft

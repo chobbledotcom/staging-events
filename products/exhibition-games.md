@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: Exhibition Games
     content: |-
-      Interactive games for exhibitions, trade shows and brand activations
+      With over 20 years specialising in exhibition game hire, we supply interactive entertainment to the UK's top venues including NEC Birmingham, Leeds First Direct Arena and Old Trafford Manchester. Our collection of 50+ games is designed to draw visitors to your stand and keep them engaged, from virtual bowling that recreates a full bowling alley atmosphere to high-energy racing simulators and prize grabbers. We own approximately 95% of our equipment in-house, giving us full control over quality and availability.
 
       **From £175**
     figure_type: image
@@ -90,11 +90,13 @@ blocks:
       size: lg
 ---
 
-Interactive exhibition game hire with over 20 years of experience supplying venues including Wembley London, NEC Birmingham, Leeds First Direct Arena and Birmingham Bullring.
+With over 20 years specialising in exhibition game hire, we regularly supply the UK's leading venues including NEC Birmingham, Leeds First Direct Arena, Old Trafford Manchester, Wembley London and Birmingham Bullring. We have supplied games for Amazon, Specsavers, professional sports teams and others.
+
+Our collection of 50+ games covers every type of interactive entertainment, from virtual experiences to competitive challenges. Whether you need a single attention-grabbing centrepiece or a full multi-game zone, we can supply games individually or as a package.
 
 ### Popular Exhibition Games
 
-- **Virtual Bowling** - From £445
+- **Virtual Bowling** - From £445. Recreates the full bowling alley atmosphere with real balls and on-screen action. Accommodates up to 6 players simultaneously, used at corporate events, office parties, family competition days and exhibition stands. Previously set up at Bramall Lane and Liverpool exhibition centres
 - **Virtual Pinball** - From £495
 - **Dance Machines** - From £495
 - **Racing Car Simulators** - From £495
@@ -107,7 +109,7 @@ Interactive exhibition game hire with over 20 years of experience supplying venu
 
 ### Custom Branding
 
-In-house design team for custom exhibition branding including removable game banners, scoreboard graphics, prize crane wraps and promotional materials.
+Our in-house design team produces custom exhibition branding including removable game banners, scoreboard graphics, prize crane wraps and promotional materials.
 
 ### What's Included
 
@@ -116,3 +118,7 @@ In-house design team for custom exhibition branding including removable game ban
 - PAT tested equipment
 - £5 million public liability insurance
 - Risk assessments provided
+
+### Why Choose Us
+
+We own approximately 95% of our equipment in-house, meaning we control quality, availability and turnaround times directly. With one of the largest hire stocks in the country and over 600 products across 68 categories, we can supply single games or entire exhibition game zones from a single order -- including stages, PA systems, lighting and generators if needed.

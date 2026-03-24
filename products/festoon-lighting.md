@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: Festoon Lighting
     content: |-
-      Atmospheric event lighting from £149 per 100 metres
+      Transform any venue with warm, atmospheric festoon lighting that works brilliantly both indoors and out. Perfect for festivals, private parties, corporate events and marquee installations, our lighting creates inviting ambiance as evening falls and keeps your event glowing well into the night. Order individually or in multiple runs to cover larger sites.
 
       **From £149**
     figure_type: image
@@ -90,18 +90,28 @@ blocks:
       size: lg
 ---
 
-Festoon lighting hire for events, festivals, weddings and corporate functions. Popular both indoors and outdoors, our festoon lights create atmosphere from early evening through to late night.
+Our festoon lighting is available for festivals, private parties, corporate functions and weddings, and works well both indoors and outdoors. It works in marquees, outdoor festival sites and indoor venues, and provides useful lighting from early evening through to late at night.
 
 ### Pricing
 
-- **100 metres** - From £149
-- **Each additional 100 metres** - £99
+- **100 metres** -- From £149
+- **Each additional 100 metres** -- £99
+- Order individually or in multiple units to cover larger sites
 - All prices subject to VAT
 
-### Works With
+### Indoor and Outdoor Use
 
-- Marquees and gazebos
-- Outdoor festival sites
-- Garden parties
-- Indoor venues and exhibition halls
-- Event villages and walkways
+Festoon lighting works in most settings. Outdoors, it defines walkways, highlights stages and provides warm light across event villages. Indoors, it adds warmth to exhibition halls, warehouse venues and function rooms.
+
+### Evening Ambiance and Nighttime Illumination
+
+Festoon lighting also serves a practical purpose, providing even illumination across large areas during evening hours and keeping the site well-lit for events that run late.
+
+### Ideal For
+
+- Festivals and outdoor music events
+- Marquee weddings and garden parties
+- Corporate events and product launches
+- Exhibition halls and trade shows
+- Event villages, walkways and dining areas
+- Evening receptions and after-parties

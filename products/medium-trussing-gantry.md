@@ -30,7 +30,7 @@ blocks:
   - type: split
     title: Medium Trussing Gantry
     content: |-
-      Start and finish gantry for events
+      A professional inflatable gantry system with custom-designed panels measuring 6.58m x 0.29m across the top and 3m x 0.29m side legs. Ideal for races on grass, hard standing, tarmac, artificial turf or mixed surfaces, with full setup, takedown and electric inflation fan included. Free printing is available for multiple bookings, and we store branded versions at no extra cost.
 
       **From £495**
     figure_type: image
@@ -84,6 +84,16 @@ blocks:
       size: lg
 ---
 
-Medium trussing gantry suitable for charity runs, marathons and outdoor events. Custom branding available to display sponsor logos, event branding or finish line messaging.
+Our medium trussing gantry is a professional start and finish line structure designed for charity runs, marathons, cycling events and mass participation races. With custom-designed panels and a clean, branded appearance, and it works on most surfaces.
 
-All gantries include attachment, detachment, and storage at no additional cost.
+### Dimensions and Design
+
+The gantry features a Start/Finish top panel measuring 6.58m x 0.29m and side leg panels of 3m x 0.29m. Custom designs are printed on durable 300gsm PVC Mesh and holds up in all weather. It works on artificial grass, hard surfaces, concrete, natural grass, mixed terrain and wood chip.
+
+### What Is Included
+
+Every hire comes with full setup, takedown and an electric inflation fan. We supply adequate pallets for hard standing surfaces for stability. Free printing services are available based on booking volume, which reduces costs for repeat events. We also store branded versions between events at no additional charge, so your custom gantry is always ready for the next race day.
+
+### UK-Wide Delivery and Event Support
+
+We deliver and set up across the UK, with event support staff available to manage your start and finish line throughout the day. Whether you need a single gantry for a local fun run or a complete staging solution for a city-centre marathon, our team handles setup and takedown.

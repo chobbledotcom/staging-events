@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: Mini Stage 3x3m
     content: |-
-      Compact stage for DJs, solo presenters and small bands
+      A compact 3x3m trussing stage built for corporate events, private parties and live entertainment. The 50mm tubular truss frame provides easy rigging for speakers and lighting without cluttering the stage floor.
 
       **From £925**
     figure_type: image
@@ -90,19 +90,34 @@ blocks:
       size: lg
 ---
 
-Compact 3x3m stage ideal for DJs, solo presenters, awards ceremonies and small performances. Built from our 1m x 2m modular deck sections with Intelistage portable platforms.
+A versatile 3x3m trussing stage designed for corporate events, private parties and live entertainment. It works well as a platform for DJ sets, awards ceremonies, Christmas light switch-ons and fitness warm-up sessions.
 
 ### Ideal For
 
-- DJ sets and solo performers
-- Awards presentations
-- Speeches and ceremonies
+- DJ sets, solo performers and duos
+- Awards presentations and speeches
+- Corporate events and product launches
+- Christmas light switch-ons and market performances
+- Mass participation warm-ups and fitness sessions
 - Small band performances (up to 3-piece)
+
+### Truss Frame and Rigging
+
+The stage is built on a 50mm tubular truss frame, providing solid rigging points for speakers, lighting and effects without cluttering the performance area. This keeps the stage floor clear for performers.
+
+### Branding
+
+Our in-house design team can produce custom panels with your logo, event branding or sponsor details.
+
+### Setup
+
+The Mini Stage sets up in approximately one hour and comes down in around 45 minutes. It works on both grass and hard surfaces, indoors or outdoors, and works at most venues.
 
 ### What's Included
 
-- Delivery, setup and collection
+- Delivery, setup and collection by our crew
 - Matching stage steps
+- 50mm tubular trussing for rigging
 - Structural calculations and design documentation
 - Risk assessments and method statements
 - £5 million public liability insurance

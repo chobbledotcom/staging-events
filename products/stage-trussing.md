@@ -46,7 +46,7 @@ blocks:
   - type: split
     title: Stage Trussing
     content: |-
-      Professional Litec rigging equipment
+      With over 25 years of experience and an extensive inventory of professional Litec trussing, we supply modular rigging systems for events of every scale. From lightweight portable platforms to covered truss stages with full roof structures, our in-house stock of over 600 products means we can provide stages, PA, lighting, generators and rigging from a single order.
 
       **Contact for pricing**
     figure_type: image
@@ -122,9 +122,23 @@ blocks:
       size: lg
 ---
 
-Staging Events Hire stocks an extensive inventory of rigging equipment from leading manufacturers, appropriately packaged for protection, efficient transport and rapid deployment.
+With over 25 years supplying stages and rigging for events across the UK, we carry a large inventory of professional Litec trussing. All equipment is well maintained, appropriately packaged for protection and packaged for efficient transport.
 
-We maintain equipment to high standards and offer competitive hire rates. Our inventory regularly expands with new rigging products, and we can procure items if not currently in stock.
+We offer two staging system styles to suit different event requirements: lightweight portable platforms for smaller setups and quick installations, and covered truss stages with full roof structures for larger events that need weather protection. Each configuration is built to your specifications.
+
+### Single-Source Supply
+
+With a stock of over 600 products across 68 categories, we can provide your entire event infrastructure from a single order -- stages, PA systems, lighting, generators, lecterns and line array rigs. Approximately 95% of our equipment is owned in-house, which means we control availability and turnaround. If we do not currently stock a specific item, we can procure it to meet your requirements.
+
+### What's Included
+
+- Professional Litec trussing equipment
+- Delivery, setup and collection by trained crew
+- Structural calculations and documentation
+- Risk assessments and method statements
+- £5 million public liability insurance
+- Equipment maintained to high standards
+- Items can be procured if not currently in stock
 
 ### Litec Stock Inventory
 
@@ -139,3 +153,12 @@ We maintain equipment to high standards and offer competitive hire rates. Our in
 | Base Plates | 16 |
 | Large Base Plates | 4 |
 | 2m Hand Rails | 9 |
+
+### Ideal For
+
+- Outdoor concerts and festivals
+- Corporate events and conferences
+- Community events and celebrations
+- Theatre and performance productions
+- Award ceremonies
+- Product launches and brand activations
