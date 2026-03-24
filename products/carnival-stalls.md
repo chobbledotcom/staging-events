@@ -90,18 +90,18 @@ blocks:
       size: lg
 ---
 
-Our grand carnival fun fair stalls bring the excitement of the traditional fairground to your event, creating a fun, competitive atmosphere that guests of all ages love. Each stall is designed to look the part with striking, colourful theming that transforms any space into a bustling fairground.
+Our grand carnival fun fair stalls bring the authentic excitement of the traditional fairground to your event, transforming any space into a bustling, colourful attraction that guests of all ages cannot resist. Each stall features striking fairground theming that creates an immediate visual impact, drawing people in and generating a fun, competitive atmosphere from the moment they arrive.
 
-All games work without tokens or coins, making them ideal for fundraising events where you can charge per play. Stalls do require staffing -- we can supply trained operators, or your own team can run them with our guidance.
+All games work without tokens or coins, making them ideal for fundraising events where you can charge per play and keep the proceeds. Stalls do require staffing -- we can supply trained operators, or your own team can run them with our straightforward guidance.
 
 ### Classic Carnival Games
 
-Our most popular carnival package features four interactive games that are simple to understand but delightfully tricky to master:
+Our most popular carnival package features four interactive games that are simple to understand but delightfully tricky to master -- exactly the formula that keeps players coming back for "just one more go":
 
-- **Ball-in-a-Bucket** - It looks like the easiest game on the stall, but it is possibly the hardest. The ball fits, but bouncing it in is another matter entirely
-- **Fish Bowl Challenge** - Players need pinpoint accuracy to land the ball in the fish bowl. It fits, but only just
-- **Ring Toss** - The timeless classic. Get the ring cleanly around the bottle neck to win
-- **Tin Can Alley** - Knock over the pyramid of tins with three balls. Looks simple until you try it
+- **Ball-in-a-Bucket** - It looks like the easiest game on the stall, but it is possibly the hardest. The ball fits in the bucket, but bouncing it in without it popping back out is another matter entirely. Expect plenty of groans and laughter
+- **Fish Bowl Challenge** - Players need pinpoint accuracy to land the ball in the fish bowl. The ball fits, but only just, so there is no room for error. A real crowd-pleaser that looks deceptively simple
+- **Ring Toss** - The timeless fairground classic. Get the ring cleanly around the bottle neck to win. Easier said than done when the rings are just the right size to make every throw a nail-biter
+- **Tin Can Alley** - Knock over the pyramid of tins with three balls. It looks simple until you discover how stable those tins really are. A competitive favourite at every event
 
 ### More Side Stall Games
 
@@ -120,13 +120,14 @@ Our most popular carnival package features four interactive games that are simpl
 
 ### Prize Options
 
-Every stall comes with novelty sweets included as standard prizes. For a more premium feel, we offer upgraded prizes from £1.30 per item -- perfect for corporate events and brand activations where you want to leave a lasting impression.
+Every stall comes with novelty sweets included as standard prizes, so every player walks away with something. For a more premium feel, we offer upgraded prizes from £1.30 per item -- perfect for corporate events and brand activations where you want to leave a lasting impression and reward your guests with something memorable.
 
 ### Ideal For
 
 - Summer fetes and garden parties
 - Festival villages and event zones
-- Corporate fun days
+- Corporate fun days and team building
 - Charity fundraising events
-- School fairs
-- Christmas events
+- School fairs and PTA events
+- Christmas events and winter wonderlands
+- Wedding receptions and party entertainment

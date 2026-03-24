@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: PA System
     content: |-
-      Our professional 6K full audio rig comes complete with monitors, CD players, an 8-channel mixing desk and multiple microphone options. Every hire includes a DJ or sound engineer as standard, so you get expert sound management from setup to breakdown.
+      Our professional 6K full audio rig comes complete with 2 monitors, CD players, an 8-channel mixing desk and a choice of wired and wireless microphones. Every hire includes a DJ or sound engineer as part of the cost, so you get expert sound management from setup to breakdown with no hidden extras. Additional equipment including wireless microphones, disco lights and speaker stands can be added to scale the system for any venue.
 
       **Contact for pricing**
     figure_type: image
@@ -92,28 +92,30 @@ blocks:
       size: lg
 ---
 
-Our professional 6K full audio rig delivers powerful, crystal-clear sound for events of all sizes. Every hire includes a DJ or sound engineer as part of the cost, so you get expert sound management from setup through to breakdown.
+Our professional 6K full audio rig delivers powerful, crystal-clear sound for events of all sizes, from intimate corporate presentations to large outdoor festivals. Every hire includes a DJ or sound engineer as part of the cost -- not as an add-on -- so you get expert sound management from setup through to breakdown, with someone on hand to adjust levels, troubleshoot and keep everything running smoothly.
+
+The system is designed to be flexible and scalable. The standard package covers most event requirements out of the box, and we carry a full range of additional equipment so you can build the exact setup your event demands.
 
 ### What's Included
 
 The standard PA system hire package includes:
 
-- 2 monitor speakers for on-stage foldback
+- 2 monitor speakers for on-stage foldback, ensuring performers and speakers can hear themselves clearly
 - CD players for pre-recorded music and backing tracks
-- 8-channel mixing desk for full control over audio levels
-- 2 wired microphones
-- Choice of 2 handheld wireless microphones, or 1 handheld plus 1 head/lapel microphone
+- 8-channel mixing desk for full control over audio levels and inputs
+- 2 wired microphones for reliable, interference-free audio
+- Choice of 2 handheld wireless microphones, or 1 handheld plus 1 head/lapel microphone for presenters who need to move freely
 - DJ or sound engineer to manage the system throughout your event
 
 ### Additional Equipment
 
-We can scale the system to suit your event with a range of add-on equipment:
+We can scale the system to suit your venue and audience with a range of add-on equipment:
 
-- **Wireless microphones** - handheld, headset or lapel options for speakers and presenters
+- **Wireless microphones** - handheld, headset or lapel options for speakers, presenters and panel discussions
 - **Microphone stands** - boom and straight stands for vocalists and instruments
-- **Dual CD players** - for DJs and pre-recorded playlists
-- **Disco lights and effect lighting** - add a visual dimension to your event
-- **Speaker stands** - for optimal sound projection and positioning
+- **Dual CD players** - for DJs and pre-recorded playlists with seamless crossfading
+- **Disco lights and effect lighting** - add a visual dimension to your event with professional effect lighting
+- **Speaker stands** - for optimal sound projection, positioning and coverage across larger venues
 
 ### Ideal For
 
@@ -122,3 +124,4 @@ We can scale the system to suit your event with a range of add-on equipment:
 - Award ceremonies and gala dinners
 - Wedding receptions
 - Community events and fun days
+- Product launches and brand activations

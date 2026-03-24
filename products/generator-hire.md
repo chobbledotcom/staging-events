@@ -29,7 +29,7 @@ blocks:
   - type: split
     title: Generator Hire
     content: |-
-      Reliable, heavy-duty generators ranging from 2.2kva to 20kva, ideal for powering everything from site tools and portable lighting to full stage rigs and PA systems. Built for extended runtime with efficient diesel engines and robust construction, our generators keep your event powered throughout.
+      Reliable, heavy-duty generators ranging from 2.2kva to 20kva, ideal for powering everything from site tools and portable lighting to full stage rigs and PA systems. Featuring efficient diesel engines with low fuel consumption, robust construction with engine protection shutdown and fully bunded bases for environmental compliance, our generators are built to run for extended periods -- up to 16 hours at 75% load on our larger units.
 
       **Contact for pricing**
     figure_type: image
@@ -82,26 +82,28 @@ blocks:
       size: lg
 ---
 
-Our range of generators from 2.2kva to 20kva provides reliable power for events, festivals, outdoor activities and construction sites. Whether you need to power a small lighting rig or a full stage setup, we have a generator to match your requirements.
+Our range of generators from 2.2kva to 20kva provides reliable, uninterrupted power for events, festivals, outdoor activities and construction sites across the UK. Whether you need to power a small lighting rig, run site tools and portable lighting, or supply a full stage setup with PA and effects, we have a generator sized to match your requirements exactly.
+
+Every unit in our fleet is built for the demands of live event environments, where power failure is not an option. We maintain all generators to exacting standards and deliver them fuelled, tested and ready to run.
 
 ### Built for Performance
 
-Our generators are built for demanding event environments. Taking the 10 KVA unit as an example of what we offer:
+Our generators are engineered for demanding, extended-use environments. Taking the 10 KVA unit as an example of the quality and specification we offer across the range:
 
-- **Engine**: Kubota D722E diesel, 3 cylinders, 17 HP at 3000 rpm, water cooled for reliable extended operation
-- **Power outlets**: Two 100V/240V outlets for flexible equipment connections
-- **Fuel consumption**: Just 2.4 litres per hour, with a 40-litre tank providing up to 16 hours of runtime at 75% load
-- **Construction**: Heavy-duty build with engine protection shutdown, certified lifting eye, and fully bunded base (110% containment) for environmental compliance
-- **Transport**: Trolley kit included for easy positioning on site
+- **Engine**: Kubota D722E diesel, 3 cylinders, 17 HP at 3000 rpm, water cooled for reliable extended operation even in warm conditions
+- **Power outlets**: Two 100V/240V outlets for flexible equipment connections, allowing you to run multiple pieces of equipment simultaneously
+- **Fuel consumption**: Just 2.4 litres per hour, with a 40-litre tank providing up to 16 hours of continuous runtime at 75% load -- enough to cover a full event day without refuelling
+- **Construction**: Heavy-duty build with engine protection shutdown, certified lifting eye, and fully bunded base (110% containment) for full environmental compliance on sensitive sites
+- **Transport**: Trolley kit included for easy positioning on site without the need for additional lifting equipment
 
 ### Available Sizes
 
 We stock multiple generator sizes to suit every requirement:
 
-- **2.2kva** - Compact units for small lighting rigs and basic power needs
+- **2.2kva** - Compact units for small lighting rigs, basic power needs and backup supply
 - **5kva** - Mid-range units for food stalls, market traders and small PA systems
-- **10kva** - Versatile workhorse for stage lighting, PA systems and multi-equipment setups
-- **20kva** - High-capacity units for large stages, festivals and multi-zone events
+- **10kva** - The versatile workhorse for stage lighting, PA systems and multi-equipment setups
+- **20kva** - High-capacity units for large stages, festivals and multi-zone events requiring sustained heavy loads
 
 ### Ideal For
 
@@ -110,5 +112,6 @@ We stock multiple generator sizes to suit every requirement:
 - Construction and site power
 - Markets and food festivals
 - Emergency backup power
+- Film and production locations
 
 All generators are PAT tested, regularly serviced and delivered with full fuel tanks. UK-wide delivery available.
