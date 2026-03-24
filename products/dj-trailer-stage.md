@@ -86,7 +86,7 @@ blocks:
     content: |-
       Custom branding is available. The Velcro front panel accepts printed artwork, letting you display your event logo, sponsor details or company branding in minutes. Our team can advise on artwork sizing and production.
     figure_type: html
-    figure_content: |-
+    figure_html: |-
       ### Branding Options
 
       - **Front panel** -- Velcro-attached custom artwork

@@ -82,7 +82,7 @@ blocks:
 
       Custom dimensions are available on request, and our team can configure the stage to your requirements.
     figure_type: html
-    figure_content: |-
+    figure_html: |-
       ### Why Choose This Stage
 
       - **48 sqm performance area** for large bands and productions
