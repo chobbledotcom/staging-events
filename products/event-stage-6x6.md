@@ -1,34 +1,93 @@
 ---
-title: "Event Stage 6x6m"
-subtitle: "Large stage with weather protection for major events"
-description: "6x6m event stage hire from £1,950. Supports a 5-piece band and 15 singers with wind and showerproof side walls. Professional production staging for festivals and large events."
+title: Event Stage 6x6m
+subtitle: Large stage with weather protection for major events
+description: 6x6m event stage hire from £1,950. Supports a 5-piece band and 15 singers with wind and showerproof side walls. Professional production staging for festivals and large events.
 header_image: images/fan-party-large-stage.jpg
 categories:
   - staging
-price: "From £1,950"
+price: From £1,950
 features:
-  - "6m x 6m stage area"
-  - "5-piece band and 15 singers"
-  - "Wind and showerproof side walls"
-  - "Stage canopy available"
-  - "Custom branding options"
-  - "Professional setup included"
+  - 6m x 6m stage area
+  - 5-piece band and 15 singers
+  - Wind and showerproof side walls
+  - Stage canopy available
+  - Custom branding options
+  - Professional setup included
 specs:
-  - name: "Size"
-    value: "6m x 6m"
-  - name: "Hire Price"
-    value: "From £1,950"
-  - name: "Capacity"
-    value: "5-piece band and 15 singers"
-  - name: "Weather Protection"
-    value: "Wind and showerproof side walls"
-  - name: "System"
-    value: "Intelistage portable"
-  - name: "Weight Capacity"
-    value: "900 kg per square metre"
+  - name: Size
+    value: 6m x 6m
+  - name: Hire Price
+    value: From £1,950
+  - name: Capacity
+    value: 5-piece band and 15 singers
+  - name: Weather Protection
+    value: Wind and showerproof side walls
+  - name: System
+    value: Intelistage portable
+  - name: Weight Capacity
+    value: 900 kg per square metre
 eleventyNavigation:
   key: Event Stage 6x6m
   parent: Staging
+blocks:
+  - type: split
+    title: Event Stage 6x6m
+    content: |-
+      Large stage with weather protection for major events
+
+      **From £1,950**
+    figure_type: image
+    figure_src: images/fan-party-large-stage.jpg
+    figure_alt: Event Stage 6x6m
+    button:
+      text: Get a Quote
+      href: /contact/
+      variant: primary
+  - type: content
+  - type: features
+    section_class: alt
+    header_intro: "## Key Features"
+    items:
+      - icon: mdi:check-circle
+        title: 6m x 6m stage area
+        description: ""
+      - icon: mdi:check-circle
+        title: 5-piece band and 15 singers
+        description: ""
+      - icon: mdi:check-circle
+        title: Wind and showerproof side walls
+        description: ""
+      - icon: mdi:check-circle
+        title: Stage canopy available
+        description: ""
+      - icon: mdi:check-circle
+        title: Custom branding options
+        description: ""
+      - icon: mdi:check-circle
+        title: Professional setup included
+        description: ""
+  - type: stats
+    items:
+      - value: 6m x 6m
+        label: Size
+      - value: From £1,950
+        label: Hire Price
+      - value: 5-piece band and 15 singers
+        label: Capacity
+      - value: Wind and showerproof side walls
+        label: Weather Protection
+      - value: Intelistage portable
+        label: System
+      - value: 900 kg per square metre
+        label: Weight Capacity
+  - type: cta
+    title: Hire the Event Stage 6x6m
+    description: Contact our team for availability and pricing.
+    button:
+      text: Get a Quote
+      href: /contact/
+      variant: secondary
+      size: lg
 ---
 
 Large 6x6m event stage with wind and showerproof side walls for major events, festivals and outdoor productions. Ideal for small to medium festivals.
