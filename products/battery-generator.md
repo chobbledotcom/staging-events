@@ -32,7 +32,7 @@ blocks:
   - type: split
     title: Battery Generator (Instagrid)
     content: |-
-      The Instagrid ONE max delivers 3,600 watts of clean, silent power with zero emissions. Weighing just 20 kg, it replaces diesel generators for events where noise and fumes are not an option.
+      The Instagrid ONE max is a game-changer in portable energy technology, delivering 3,600 watts of continuous power from a 2.1kWh battery that weighs just 20kg. Zero emissions, zero noise and zero fumes -- simply plug in and go with pure sine wave output that is safe for sensitive electronics. Fast charging in just 2.5 hours means it is ready when you are.
 
       **Contact for pricing**
     figure_type: image
@@ -92,25 +92,36 @@ blocks:
       size: lg
 ---
 
-The Instagrid ONE max is a game-changer in portable energy technology. With a 2.1 kWh capacity and 230V AC mains outlet, it delivers 3,600 watts of continuous power without fuel, oil checks or maintenance. Weighing just 20 kg, it provides clean, silent energy wherever you need it.
+The Instagrid ONE max represents a genuine leap forward in portable event power. With 2.1kWh capacity and 3,600 watts of continuous output through a 230V AC mains outlet, it delivers serious power from a unit that weighs just 20kg -- light enough for one person to carry and position anywhere on site.
 
-### Why Battery Power?
+Unlike traditional diesel generators, the Instagrid produces zero emissions, zero fumes and virtually zero noise. This makes it ideal for indoor venues, noise-sensitive locations, food areas and any event where clean, quiet power is essential. The pure sine wave output provides clean, constant power that is safe for sensitive electronics including laptops, mixing desks and lighting controllers.
 
-- **No fumes, no noise** — plug-and-play convenience without the downsides of diesel
-- **Pure Sine Waves** — clean, constant power safe for sensitive electronics, DJ equipment and PA systems
-- **Zero emissions** — reduces CO2 by over 10 kg per hour compared to diesel alternatives
-- **Fast charging** — fully recharged in just 2.5 hours
-- **Water and dust resistant** — built for outdoor event environments
+### Key Specifications
 
-### How Long Does It Last?
+- **Capacity**: 2.1kWh battery with 230V AC mains outlet
+- **Continuous power**: 3,600 watts -- enough to run DJ equipment, PA systems and lighting rigs
+- **Weight**: Just 20kg, fully portable with no cables or fuel lines
+- **Charging**: Fast charge in 2.5 hours from any mains socket
+- **Runtime**: Powers DJ equipment and PA systems for extended periods -- up to 16 hours for certain audio configurations
+- **Protection**: Water and dust resistant for reliable outdoor use
+- **Emissions**: Zero -- no fuel, no oil, no exhaust fumes
 
-The Instagrid ONE max can power DJ equipment and PA systems for extended periods — up to 16 hours for certain audio configurations. Multiple units can be deployed for larger power requirements.
+### Why Choose Battery Power?
+
+- **No fuel costs or oil checks** -- plug in, charge and go with no ongoing maintenance or consumables
+- **No noise** -- run power in noise-sensitive environments without disturbing neighbours, audiences or performers
+- **No fumes** -- safe for indoor use, food preparation areas and enclosed spaces
+- **No cables** -- fully self-contained with no trailing leads or fuel lines to manage
+- **Reduced CO2** -- over 10kg of CO2 savings per hour compared to diesel alternatives
 
 ### Ideal For
 
-- Outdoor events where noise restrictions apply
-- Corporate events and exhibitions
-- Film and TV production
+- Indoor corporate events and conferences
+- Outdoor events in noise-sensitive areas
+- Food festivals and markets
+- DJ setups and PA systems
+- Film and photography shoots
+- Pop-up retail and brand activations
 - Eco-conscious festivals and charity events
 - Any event where sustainability matters
 
@@ -121,4 +132,4 @@ The Instagrid ONE max can power DJ equipment and PA systems for extended periods
 - Delivery and collection
 - £5 million public liability insurance
 
-Part of our commitment to environmental sustainability and powering greener events across the UK.
+Part of our commitment to powering greener events across the UK.

@@ -46,7 +46,7 @@ blocks:
   - type: split
     title: Stage Trussing
     content: |-
-      Professional Litec rigging equipment from an extensive in-house inventory. With over 25 years of experience and approximately 95% of equipment owned in-house, we provide complete staging solutions from a single order.
+      With over 25 years of experience and an extensive inventory of professional Litec trussing, we supply modular rigging systems for events of every scale. From lightweight portable platforms to covered truss stages with full roof structures, our in-house stock of over 600 products means we can provide stages, PA, lighting, generators and rigging from a single order.
 
       **Contact for pricing**
     figure_type: image
@@ -122,11 +122,13 @@ blocks:
       size: lg
 ---
 
-We stock an extensive inventory of professional Litec rigging equipment, appropriately packaged for protection, efficient transport and rapid deployment. With over 25 years of staging experience and approximately 95% of our equipment owned in-house, we deliver complete trussing solutions — from standalone rigging to full stage builds with PA, lighting, generators and line array rigs — all from a single order.
+With over 25 years supplying stages and rigging for events across the UK, we hold one of the most comprehensive inventories of professional Litec trussing available for hire. All equipment is maintained to exacting standards, appropriately packaged for protection and designed for efficient transport and rapid deployment on site.
 
-### Complete Staging Solutions
+We offer two staging system styles to suit different event requirements: lightweight portable platforms for smaller setups and quick installations, and covered truss stages with full roof structures for larger events that need weather protection and professional production capability. Our modular approach means every configuration is built to your exact specifications.
 
-Our trussing integrates with our full range of staging systems, from lightweight portable platforms to covered truss stages with full roof structures for outdoor events. We stock over 600 products across 68 categories, so whether you need trussing alone or a complete production package, we can supply everything through one booking.
+### Single-Source Supply
+
+With a stock of over 600 products across 68 categories, we can provide your entire event infrastructure from a single order -- stages, PA systems, lighting, generators, lecterns and line array rigs. Approximately 95% of our equipment is owned in-house, giving us direct control over quality, availability and turnaround. If we do not currently stock a specific item, we can procure it to meet your requirements.
 
 ### What's Included
 
@@ -151,3 +153,12 @@ Our trussing integrates with our full range of staging systems, from lightweight
 | Base Plates | 16 |
 | Large Base Plates | 4 |
 | 2m Hand Rails | 9 |
+
+### Ideal For
+
+- Outdoor concerts and festivals
+- Corporate events and conferences
+- Community events and celebrations
+- Theatre and performance productions
+- Award ceremonies
+- Product launches and brand activations
