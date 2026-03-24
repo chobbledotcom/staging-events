@@ -86,7 +86,7 @@ blocks:
     content: |-
       We supply tables, chairs, lighting and flooring alongside marquee hire, all in one booking.
     figure_type: html
-    figure_content: |-
+    figure_html: |-
       ### Popular Add-Ons
 
       - **6ft foldable tables** from £5

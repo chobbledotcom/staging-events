@@ -104,7 +104,7 @@ blocks:
 
       Tell us your dimensions and we will configure the right number of sections for your event. We deliver nationwide, including major exhibition centres across the UK.
     figure_type: html
-    figure_content: |-
+    figure_html: |-
       ### The Intelistage Process
 
       1. **Tell us your requirements** -- dimensions, height and venue
