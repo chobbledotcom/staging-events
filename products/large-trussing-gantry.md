@@ -88,11 +88,11 @@ blocks:
       size: lg
 ---
 
-Our large trussing gantry delivers a commanding presence at charity runs, marathons, cycling races and mass participation events. With a significantly larger top panel than the medium model, it provides maximum branding impact and unmistakable visibility for participants, spectators and broadcast media.
+Our large trussing gantry provides a visible start and finish line at charity runs, marathons, cycling races and mass participation events. With a significantly larger top panel than the medium model, it provides good visibility for participants and spectators.
 
 ### Dimensions and Design
 
-The gantry features a generous Start/Finish top section measuring 6.58m x 1.58m, paired with 3m x 0.29m side leg panels. This larger format gives sponsors and event organisers substantially more branding real estate, making it the go-to choice for higher-profile events that demand a strong, professional visual presence on the course.
+The gantry features a generous Start/Finish top section measuring 6.58m x 1.58m, paired with 3m x 0.29m side leg panels. This larger format gives more space for sponsor and event branding than the medium model.
 
 ### What Is Included
 
@@ -100,4 +100,4 @@ Every hire includes full setup, takedown and an electric inflation fan. We provi
 
 ### Comprehensive Event Support
 
-This gantry sits at the heart of our wider event staging offering. We supply experienced event support staff to manage your start and finish line, coordinate crowd control, handle event logistics and arrange bottled water distribution for mass participation events. Generators are also available on request. We work closely with organisers to build a complete support package -- from staging infrastructure to on-the-ground staffing -- so every element of race day runs seamlessly.
+This gantry is part of our wider event staging offering. We supply experienced event support staff to manage your start and finish line, coordinate crowd control, handle event logistics and arrange bottled water distribution for mass participation events. Generators are also available on request. We work closely with organisers to build a complete support package, from staging infrastructure to on-the-ground staffing.

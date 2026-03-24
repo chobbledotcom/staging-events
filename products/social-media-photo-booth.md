@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: Social Media Photo Booth
     content: |-
-      Our state-of-the-art Social Media Photo Booth features a sleek, modern hidden camera that captures stunning selfies for individuals or groups, then uploads them straight to social media. Fully customisable with corporate branding, logos, and bespoke backdrops, it is the ultimate engagement tool for any event.
+      Our Social Media Photo Booth features a sleek, modern hidden camera designed for selfies for individuals or groups, then uploads them straight to social media. Fully customisable with corporate branding, logos, and bespoke backdrops, it is the ultimate engagement tool for any event.
 
       **From £495**
     figure_type: image
@@ -90,9 +90,9 @@ blocks:
       size: lg
 ---
 
-Our state-of-the-art Social Media Photo Booth features a modern, sleek hidden camera designed to capture stunning selfies for individuals or groups alike. Photos are uploaded straight to social media instantly, with no smartphone needed. The system can automatically upload to your company accounts as well as guest-selected platforms, maximising your event's online reach.
+Our Social Media Photo Booth features a modern, sleek hidden camera designed for selfies for individuals or groups alike. Photos are uploaded straight to social media instantly, with no smartphone needed. The system can automatically upload to your company accounts as well as guest-selected platforms, which helps with online visibility.
 
-The booth is fully customisable with framing options for weddings, birthdays, and corporate events, including logos, product shots, and website details. Fun props are included to get guests into the spirit, and a customisable backdrop sets the scene for every shot. With a throughput of up to 200 users or 40 sessions per hour, it handles high-traffic events with ease.
+The booth is fully customisable with framing options for weddings, birthdays, and corporate events, including logos, product shots, and website details. Fun props are provided, and a customisable backdrop sets the scene for every shot. With a throughput of up to 200 users or 40 sessions per hour, it handles busy events.
 
 ### How It Works
 

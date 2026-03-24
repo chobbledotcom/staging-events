@@ -90,7 +90,7 @@ blocks:
       size: lg
 ---
 
-A versatile 3x3m trussing stage designed for corporate events, private parties and live entertainment. Whether you need a platform for a DJ set, an awards ceremony, a Christmas light switch-on or a fitness warm-up session, this compact stage delivers a professional look without taking over the venue.
+A versatile 3x3m trussing stage designed for corporate events, private parties and live entertainment. It works well as a platform for DJ sets, awards ceremonies, Christmas light switch-ons and fitness warm-up sessions.
 
 ### Ideal For
 
@@ -103,19 +103,19 @@ A versatile 3x3m trussing stage designed for corporate events, private parties a
 
 ### Truss Frame and Rigging
 
-The stage is built on a 50mm tubular truss frame, providing solid rigging points for speakers, lighting and effects without cluttering the performance area. This keeps the stage floor clear for performers while ensuring your production equipment is securely mounted overhead.
+The stage is built on a 50mm tubular truss frame, providing solid rigging points for speakers, lighting and effects without cluttering the performance area. This keeps the stage floor clear for performers.
 
 ### Branding
 
-Our in-house design team can produce custom branded panels to give your event a polished, professional appearance. Add your company logo, event branding or sponsor details directly to the stage structure.
+Our in-house design team can produce custom panels with your logo, event branding or sponsor details.
 
 ### Setup
 
-The Mini Stage sets up in approximately one hour and comes down in around 45 minutes. It works on both grass and hard surfaces, indoors or outdoors, giving you flexibility for almost any venue.
+The Mini Stage sets up in approximately one hour and comes down in around 45 minutes. It works on both grass and hard surfaces, indoors or outdoors, and works at most venues.
 
 ### What's Included
 
-- Delivery, setup and collection by our trained crew
+- Delivery, setup and collection by our crew
 - Matching stage steps
 - 50mm tubular trussing for rigging
 - Structural calculations and design documentation

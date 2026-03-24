@@ -32,7 +32,7 @@ blocks:
   - type: split
     title: DJ Trailer Stage
     content: |-
-      A compact covered stage designed specifically for DJs, comperes and solo performers. With 3m x 4m of usable internal space and a Velcro front panel for easy branding, this is a professional setup that makes an impact at any event.
+      A compact covered stage designed specifically for DJs, comperes and solo performers. With 3m x 4m of usable internal space and a Velcro front panel for easy branding, it provides a tidy, covered setup for outdoor events.
 
       **Contact for pricing**
     figure_type: image
@@ -84,9 +84,7 @@ blocks:
     reverse: true
     title: Easy Branding
     content: |-
-      Make the stage yours with custom branding. The Velcro front panel accepts printed artwork, letting you display your event logo, sponsor details or company branding in minutes. Our team can advise on artwork sizing and production.
-
-      Whether it is a corporate product launch, a charity fundraiser or a community celebration, branded staging gives your event a polished, professional finish that stands out.
+      Custom branding is available. The Velcro front panel accepts printed artwork, letting you display your event logo, sponsor details or company branding in minutes. Our team can advise on artwork sizing and production.
     figure_type: html
     figure_content: |-
       ### Branding Options
@@ -105,7 +103,7 @@ blocks:
       size: lg
 ---
 
-A compact covered stage designed specifically for DJs, comperes and solo performers. With external measurements of 5m x 4m and a usable internal space of 3m x 4m, this mobile unit provides a professional performance platform that makes an impact at any outdoor event. The Velcro front panel makes it simple to add your own branding for a polished, event-ready look.
+A compact covered stage designed specifically for DJs, comperes and solo performers. With external measurements of 5m x 4m and a usable internal space of 3m x 4m, this mobile unit provides a covered performance platform for outdoor events. The Velcro front panel makes it simple to add your own branding.
 
 ### Ideal For
 
@@ -118,15 +116,15 @@ A compact covered stage designed specifically for DJs, comperes and solo perform
 
 ### Covered Performance Space
 
-The stage canopy provides full overhead cover, protecting performers and equipment from the elements. The 3m x 4m internal space gives performers plenty of room to set up decks, instruments or presentation equipment while staying sheltered.
+The stage canopy provides full overhead cover, protecting performers and equipment from the elements. The 3m x 4m internal space gives performers enough room to set up decks, instruments or presentation equipment while staying sheltered.
 
 ### Branding
 
-A Velcro panel on the front of the canopy makes it easy to attach custom branding. Add your event logo, sponsor details or company branding for a professional finish. Our team can advise on panel sizing and artwork requirements.
+A Velcro panel on the front of the canopy makes it easy to attach custom branding. Add your event logo, sponsor details or company branding. Our team can advise on panel sizing and artwork requirements.
 
 ### What's Included
 
-- Delivery, setup and collection by our trained crew
+- Delivery, setup and collection by our crew
 - Covered canopy with weather protection
 - Velcro front panel for branding
 - Structural calculations and documentation

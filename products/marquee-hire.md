@@ -84,9 +84,7 @@ blocks:
     reverse: true
     title: Complete Event Setup
     content: |-
-      Pair your marquee with tables, chairs, lighting and flooring to create a fully equipped event space. From LED strip lighting for evening ambiance to Roll-a-Track flooring for a clean, professional surface, we supply everything you need in one booking.
-
-      Our team handles delivery, setup and collection so you can focus on your guests.
+      We supply tables, chairs, lighting and flooring alongside marquee hire, all in one booking.
     figure_type: html
     figure_content: |-
       ### Popular Add-Ons
@@ -107,7 +105,7 @@ blocks:
       size: lg
 ---
 
-Commercial-grade pop-up gazebos and mini marquees built for professional use at outdoor events. Our 3x4.5m marquees feature adjustable ceiling height options, full sides and a door for complete enclosure, using quality materials designed to retain warmth and keep guests comfortable. Whether you are hosting a garden party, running a charity fun day, setting up a market trading stall or creating a VIP area at a festival, these structures provide reliable, weatherproof shelter on grass or hard standing.
+Commercial-grade pop-up gazebos and mini marquees built for professional use at outdoor events. Our 3x4.5m marquees feature adjustable ceiling height options, full sides and a door for complete enclosure, using quality materials designed to retain warmth and keep guests comfortable. These gazebos provide weatherproof shelter on grass or hard standing.
 
 ### Ideal For
 
@@ -126,11 +124,11 @@ Commercial-grade pop-up gazebos and mini marquees built for professional use at 
 
 ### Shelter and Comfort
 
-Each marquee comes with sides and a door for complete enclosure, providing a warm, dry space for guests and staff. The quality material retains heat effectively, making these marquees suitable for events throughout the year. They can be positioned on grass or hard standing with no special groundwork required.
+Each marquee comes with sides and a door for complete enclosure, providing a dry, sheltered space. The quality material retains heat effectively, so the marquees work throughout the year. They can be positioned on grass or hard standing with no special groundwork required.
 
 ### What's Included
 
-- Delivery, setup and collection by our trained crew
+- Delivery, setup and collection by our crew
 - Full sides and door for complete enclosure
 - Adjustable ceiling height
 - Risk assessments and method statements

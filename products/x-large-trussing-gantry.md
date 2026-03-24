@@ -92,16 +92,16 @@ blocks:
       size: lg
 ---
 
-Our X-Large trussing gantry is the largest inflatable event structure in our range, purpose-built for major races, city-centre marathons, triathlons and large-scale mass participation events. With an imposing 9-metre span and towering side panels, it delivers unmissable branding impact and a truly professional finish line experience that matches the scale of your event.
+Our X-Large trussing gantry is the largest inflatable event structure in our range, used for major races, city-centre marathons, triathlons and large mass participation events. With a 9-metre span and tall side panels, it provides a visible finish line that suits the scale of larger events.
 
 ### Dimensions and Design
 
-The XL gantry features a Start/Finish top section measuring 9.16m x 1.58m, with substantial side leg panels of 3m x 1.6m. This is our widest and tallest structure, designed to accommodate the broadest finish lines and provide maximum visibility for sponsors, media and spectators. We also offer custom-manufactured gantries built entirely to your specifications, so if you need a bespoke size or shape, we can make it happen.
+The XL gantry features a Start/Finish top section measuring 9.16m x 1.58m, with substantial side leg panels of 3m x 1.6m. This is the widest and tallest structure in our range. We also offer custom-manufactured gantries built entirely to your specifications, if you need a different size or shape.
 
 ### What Is Included
 
-Every hire comes with full setup, takedown and adequate pallets for hard standing surfaces. We store branded versions free of charge between events, so your custom gantry is always race-ready without any storage hassle on your side. All attachment, detachment, delivery and logistics are handled end to end by our team.
+Every hire comes with full setup, takedown and adequate pallets for hard standing surfaces. We store branded versions free of charge between events, so your gantry is ready for the next event. All attachment, detachment, delivery and logistics are handled end to end by our team.
 
 ### Comprehensive Event Services
 
-At this scale, events need far more than a gantry. We provide a full support package including experienced event staff to manage the start and finish line, crowd control coordination, event logistics planning and bottled water distribution for participants. By combining large-scale staging infrastructure with hands-on operational support, we help organisers deliver seamless flagship events from first wave to final finisher.
+We provide a full support package including experienced event staff to manage the start and finish line, crowd control coordination, event logistics planning and bottled water distribution for participants.

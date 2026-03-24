@@ -30,7 +30,7 @@ blocks:
   - type: split
     title: Large Trailer Stage
     content: |-
-      Our largest mobile trailer stage, offering a massive 8m x 6m performance area with a full covered truss roof structure for outdoor festivals, concerts and major events. Backed by over 25 years of staging experience, this is built for headline acts and large-scale productions.
+      Our largest mobile trailer stage, offering an 8m x 6m performance area with a full covered truss roof structure for outdoor festivals, concerts and major events. We have supplied stages of this size for over 25 years.
 
       **Contact for pricing**
     figure_type: image
@@ -78,9 +78,9 @@ blocks:
     reverse: true
     title: Built for Big Events
     content: |-
-      With over 25 years of staging experience, we know what it takes to deliver a stage that performs under pressure. The Large Trailer Stage is engineered for headline acts, festival line-ups and large-scale corporate productions.
+      The Large Trailer Stage suits headline acts, festival line-ups and large-scale corporate productions.
 
-      Custom dimensions are available on request, and our team will work with you to ensure the stage meets your exact requirements for the event.
+      Custom dimensions are available on request, and our team can configure the stage to your requirements.
     figure_type: html
     figure_content: |-
       ### Why Choose This Stage
@@ -100,7 +100,7 @@ blocks:
       size: lg
 ---
 
-Our largest mobile trailer stage delivers a massive 8m x 6m performance area, purpose-built for festivals, outdoor concerts and major public events. The full covered truss roof structure provides weather protection for performers and equipment, while the trailer-mounted design means quick deployment on site. Backed by over 25 years of staging experience, this stage is built to handle headline acts and large-scale productions.
+Our largest mobile trailer stage delivers an 8m x 6m performance area, used for festivals, outdoor concerts and major public events. The full covered truss roof structure provides weather protection for performers and equipment, while the trailer-mounted design means quick deployment on site.
 
 ### Ideal For
 
@@ -113,19 +113,19 @@ Our largest mobile trailer stage delivers a massive 8m x 6m performance area, pu
 
 ### Truss Frame and Rigging
 
-Full covered truss roof structure with solid rigging points for speakers, lighting rigs and production equipment. The generous performance area and overhead clearance accommodate complex stage setups while keeping the deck clear for performers.
+Full covered truss roof structure with solid rigging points for speakers, lighting rigs and production equipment. The performance area and overhead clearance accommodate large stage setups while keeping the deck clear for performers.
 
 ### Weather Protection
 
-The covered roof structure shields performers and equipment from rain and wind, allowing your event to go ahead regardless of conditions. Side walls are available for additional protection in challenging weather.
+The covered roof structure shields performers and equipment from rain and wind. Side walls are available for additional protection in challenging weather.
 
 ### Setup
 
-The trailer-mounted design allows for quick deployment on grass or hard surfaces. Our trained crew handle all delivery, setup and collection, so you can focus on running your event.
+The trailer-mounted design allows for quick deployment on grass or hard surfaces. Our crew handle delivery, setup and collection.
 
 ### What's Included
 
-- Delivery, setup and collection by our trained crew
+- Delivery, setup and collection by our crew
 - Full covered truss roof structure
 - Matching stage steps
 - Structural calculations and design documentation

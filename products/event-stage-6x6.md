@@ -90,7 +90,7 @@ blocks:
       size: lg
 ---
 
-A large 6x6m covered truss stage offering 36 square metres of performance space, comfortably accommodating a five-piece band or up to 15 performers. The full roof structure and weather-resistant side walls ensure your event proceeds regardless of conditions, making this a reliable choice for outdoor events year-round. Setup and breakdown each take approximately 1.5 hours.
+A large 6x6m covered truss stage offering 36 square metres of performance space, large enough for a five-piece band or up to 15 performers. The full roof structure and weather-resistant side walls keep the stage sheltered, and works for outdoor events year-round. Setup and breakdown each take approximately 1.5 hours.
 
 ### Ideal For
 
@@ -106,11 +106,11 @@ Built on 50mm tubular trussing with solid rigging points throughout. The truss s
 
 ### Weather Protection
 
-The full roof structure combined with wind and showerproof side walls creates a sheltered performance environment. Events can proceed confidently in rain or wind, protecting both performers and equipment.
+The full roof structure combined with wind and showerproof side walls creates a sheltered performance environment. This protects performers and equipment in rain or wind.
 
 ### What's Included
 
-- Delivery, setup and collection by our trained crew
+- Delivery, setup and collection by our crew
 - Full roof structure with weather-resistant side walls
 - 50mm tubular trussing for rigging
 - Matching stage steps

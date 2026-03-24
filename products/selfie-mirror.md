@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: Magic Selfie Mirror
     content: |-
-      Our talking selfie mirror guides guests through a fun, interactive photo experience with prints delivered in just 10 seconds. Fully customisable with branded logos and messages, it is the perfect centrepiece for weddings, corporate events, and celebrations of all kinds.
+      Our talking selfie mirror guides guests through a fun, interactive photo experience with prints delivered in just 10 seconds. Fully customisable with branded logos and messages, and it works well at weddings, corporate events and other celebrations.
 
       **From £495**
     figure_type: image
@@ -90,9 +90,9 @@ blocks:
       size: lg
 ---
 
-Our Magic Selfie Mirror offers a truly interactive photo experience unlike any other. Guests step up to the mirror, which greets them with a voice-guided walkthrough, prompting them to pose and press a button to capture their photo. The result? Instant high-quality prints delivered in just 10 seconds, along with multiple photo layout options per print. It is an eye-catching addition that keeps guests entertained and coming back for more.
+Our Magic Selfie Mirror provides an interactive photo experience. Guests step up to the mirror, which greets them with a voice-guided walkthrough, prompting them to pose and press a button to capture their photo. The result? Instant high-quality prints delivered in just 10 seconds, along with multiple photo layout options per print.
 
-Fancy dress props and a customisable backdrop are included, and all digital copies are delivered via Dropbox within 14 days. For corporate events and birthdays, the mirror can display customisable messages or logos, turning every photo into a branded keepsake. The mirror can handle up to 200 users or 40 sessions per hour, making it ideal for events of any size.
+Fancy dress props and a customisable backdrop are included, and all digital copies are delivered via Dropbox within 14 days. For corporate events and birthdays, the mirror can display customisable messages or logos, so each photo includes your branding. The mirror can handle up to 200 users or 40 sessions per hour, so it handles busy events well.
 
 ### How It Works
 

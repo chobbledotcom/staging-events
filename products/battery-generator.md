@@ -32,7 +32,7 @@ blocks:
   - type: split
     title: Battery Generator (Instagrid)
     content: |-
-      The Instagrid ONE max is a game-changer in portable energy technology, delivering 3,600 watts of continuous power from a 2.1kWh battery that weighs just 20kg. Zero emissions, zero noise and zero fumes -- simply plug in and go with pure sine wave output that is safe for sensitive electronics. Fast charging in just 2.5 hours means it is ready when you are.
+      The Instagrid ONE max delivers 3,600 watts of continuous power from a 2.1kWh battery that weighs 20kg. Zero emissions, zero noise and zero fumes, with pure sine wave output that is safe for sensitive electronics. Fast charges in 2.5 hours.
 
       **Contact for pricing**
     figure_type: image
@@ -92,7 +92,7 @@ blocks:
       size: lg
 ---
 
-The Instagrid ONE max represents a genuine leap forward in portable event power. With 2.1kWh capacity and 3,600 watts of continuous output through a 230V AC mains outlet, it delivers serious power from a unit that weighs just 20kg -- light enough for one person to carry and position anywhere on site.
+The Instagrid ONE max is a battery-powered alternative to diesel generators. With 2.1kWh capacity and 3,600 watts of continuous output through a 230V AC mains outlet, it weighs 20kg, so one person can carry and position it on site.
 
 Unlike traditional diesel generators, the Instagrid produces zero emissions, zero fumes and virtually zero noise. This makes it ideal for indoor venues, noise-sensitive locations, food areas and any event where clean, quiet power is essential. The pure sine wave output provides clean, constant power that is safe for sensitive electronics including laptops, mixing desks and lighting controllers.
 

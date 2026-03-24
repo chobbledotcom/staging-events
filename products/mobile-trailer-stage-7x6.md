@@ -116,7 +116,7 @@ The stage height is adjustable between 1.0m and 1.3m above ground, with an overa
 
 ### Truss Frame and Rigging
 
-Full 50mm tubular trussing provides professional rigging points for speakers, lighting and production equipment. The 5m overall height gives generous clearance for complex lighting setups while keeping the stage floor clear for performers.
+Full 50mm tubular trussing provides rigging points for speakers, lighting and production equipment. The 5m overall height gives clearance for lighting setups, keeping the stage floor clear for performers.
 
 ### Weather Protection
 
@@ -124,7 +124,7 @@ Wind and showerproof side walls protect performers and equipment in challenging 
 
 ### What's Included
 
-- Delivery, setup and collection by our trained crew
+- Delivery, setup and collection by our crew
 - Wind and showerproof side walls
 - Full 50mm tubular trussing for rigging
 - Slip-proof weatherproof stage floor

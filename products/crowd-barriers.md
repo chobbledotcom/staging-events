@@ -90,11 +90,11 @@ blocks:
       size: lg
 ---
 
-We supply two distinct types of professional crowd management barrier, each engineered for different environments and event requirements. Whether you need heavy-duty outdoor crowd control for a marathon or polished indoor queue management at a corporate exhibition, we have the right solution available at scale with significant bulk discounts.
+We supply two distinct types of professional crowd management barrier, suited to different environments. Both are available in bulk with volume discounts.
 
 ### Metal Crowd Control Barriers
 
-Our galvanised metal barriers are purpose-built for robust pedestrian traffic management and crowd control at outdoor events, races and festivals. Each barrier measures 2300mm long by 1100mm high, constructed with a sturdy 38.1mm frame and 15 infill bars of 12.6mm diameter. The fixed-leg model weighs 14kg, providing excellent stability, and features hook-and-eye fittings welded to each side for quick, secure linking between units to form continuous barrier lines of any length.
+Our galvanised metal barriers are used for crowd control at outdoor events, races and festivals. Each barrier measures 2300mm long by 1100mm high, constructed with a sturdy 38.1mm frame and 15 infill bars of 12.6mm diameter. The fixed-leg model weighs 14kg and features hook-and-eye fittings welded to each side for quick, secure linking between units to form continuous barrier lines of any length.
 
 - **Hire from £10 per barrier**
 - **Long-term hire from £3 per week**

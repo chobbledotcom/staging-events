@@ -1,7 +1,7 @@
 ---
 title: 360 Photo Booth
 subtitle: Motorised 360-degree video capture booth
-description: 360 photo booth hire from £595. Motorised arm captures stunning boomerang-style 360-degree videos with instant social sharing. Perfect for product launches and campaigns.
+description: 360 photo booth hire from £595. Motorised arm captures boomerang-style 360-degree videos with instant social sharing. Suitable for product launches and campaigns.
 header_image: images/band-on-trailer-stage.jpg
 categories:
   - photo-booths
@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: 360 Photo Booth
     content: |-
-      Step onto our raised circular platform and let the motorised camera arm spin around you, capturing a stunning boomerang-style video with slow-motion effects and custom overlays. This is the format people actually share on Instagram Reels and TikTok, making it the ultimate social media content creator for any event.
+      Step onto our raised circular platform and let the motorised camera arm spin around you, capturing a boomerang-style video with slow-motion effects and custom overlays, which is the format people tend to share on Instagram Reels and TikTok.
 
       **From £595**
     figure_type: image
@@ -90,9 +90,9 @@ blocks:
       size: lg
 ---
 
-Our 360 Photo Booth captures short, rotating video clips that guests genuinely want to share. Guests step onto the raised circular platform, and the motorised camera arm spins around them, producing a boomerang-style video complete with slow-motion effects and custom overlays. This is the format that thrives on Instagram Reels and TikTok, making it the ultimate content creator for events where social reach matters.
+Our 360 Photo Booth captures short, rotating video clips that guests want to share. Guests step onto the raised circular platform, and the motorised camera arm spins around them, producing a boomerang-style video complete with slow-motion effects and custom overlays. This is the format that thrives on Instagram Reels and TikTok, so it works well for events where social media visibility matters.
 
-Our custom software automatically adds slow-motion segments, speed ramps, custom effects, and branded overlays to every clip. The finished video is ready in seconds, and guests scan a QR code to download or share it instantly. Up to 3-4 people can stand on the platform together, making it perfect for group shots. This is a digital-only experience with no prints, keeping the focus entirely on shareable video content. All digital content is also delivered via WeTransfer within 14 days.
+Our custom software automatically adds slow-motion segments, speed ramps, custom effects, and branded overlays to every clip. The finished video is ready in seconds, and guests scan a QR code to download or share it instantly. Up to 3-4 people can stand on the platform together, making it perfect for group shots. This is a digital-only experience with no prints. All digital content is also delivered via WeTransfer within 14 days.
 
 ### How It Works
 
@@ -114,7 +114,7 @@ Guests step onto the raised circular platform and strike a pose. The motorised c
 - Base panel print: £95
 - Magnetic branding: £195 (reusable across multiple events, stored by us between hires)
 - Branded stretch backdrop: £275
-- Magnetic branding pays for itself after just two hires, making it a smart investment for repeat clients
+- The magnetic branding option is worth considering if you run more than a couple of events a year, since we store it between hires
 
 ### Ideal For
 

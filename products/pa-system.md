@@ -92,9 +92,9 @@ blocks:
       size: lg
 ---
 
-Our professional 6K full audio rig delivers powerful, crystal-clear sound for events of all sizes, from intimate corporate presentations to large outdoor festivals. Every hire includes a DJ or sound engineer as part of the cost -- not as an add-on -- so you get expert sound management from setup through to breakdown, with someone on hand to adjust levels, troubleshoot and keep everything running smoothly.
+Our professional 6K full audio rig covers events from corporate presentations to outdoor festivals. Every hire includes a DJ or sound engineer as part of the cost -- not as an add-on -- so you get expert sound management from setup through to breakdown.
 
-The system is designed to be flexible and scalable. The standard package covers most event requirements out of the box, and we carry a full range of additional equipment so you can build the exact setup your event demands.
+The standard package covers most events, and additional equipment is available if you need to scale up.
 
 ### What's Included
 

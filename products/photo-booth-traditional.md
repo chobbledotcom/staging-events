@@ -90,9 +90,9 @@ blocks:
       size: lg
 ---
 
-Our traditional enclosed photo booth is a brand new concept that has become a must-have at weddings, parties, and corporate events. Guests step inside the enclosed booth, strike a pose with our popular prop box, and walk away with high-quality prints in seconds. A professional staff member is on hand throughout to ensure everything runs smoothly and your guests have a brilliant time.
+Our traditional enclosed photo booth is a popular option for weddings, parties and corporate events. Guests step inside the enclosed booth, strike a pose with our popular prop box, and walk away with high-quality prints in seconds. A professional staff member is on hand throughout to ensure everything runs smoothly and guests enjoy themselves.
 
-All digital copies and video messages are saved and supplied on a memory stick within 14 days of your event, so you will never lose a single moment. Images can also be loaded to social media on the day. The booth is available for outdoor hire in our inflatable selfie booth marquee, making it versatile for any venue or setting.
+All digital copies and video messages are saved and supplied on a memory stick within 14 days of your event. Images can also be loaded to social media on the day. The booth is available for outdoor hire in our inflatable selfie booth marquee.
 
 ### How It Works
 

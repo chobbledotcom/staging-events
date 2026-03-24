@@ -82,28 +82,25 @@ blocks:
       size: lg
 ---
 
-Our range of generators from 2.2kva to 20kva provides reliable, uninterrupted power for events, festivals, outdoor activities and construction sites across the UK. Whether you need to power a small lighting rig, run site tools and portable lighting, or supply a full stage setup with PA and effects, we have a generator sized to match your requirements exactly.
+Our range of generators from 2.2kva to 20kva provides reliable power for events, festivals, outdoor activities and construction sites. The range covers everything from small lighting rigs to full stage setups with PA and effects.
 
-Every unit in our fleet is built for the demands of live event environments, where power failure is not an option. We maintain all generators to exacting standards and deliver them fuelled, tested and ready to run.
+All generators are maintained to high standards and delivered fuelled, tested and ready to run.
 
 ### Built for Performance
 
-Our generators are engineered for demanding, extended-use environments. Taking the 10 KVA unit as an example of the quality and specification we offer across the range:
+The 10 KVA unit is a good example of the specification across the range:
 
-- **Engine**: Kubota D722E diesel, 3 cylinders, 17 HP at 3000 rpm, water cooled for reliable extended operation even in warm conditions
-- **Power outlets**: Two 100V/240V outlets for flexible equipment connections, allowing you to run multiple pieces of equipment simultaneously
-- **Fuel consumption**: Just 2.4 litres per hour, with a 40-litre tank providing up to 16 hours of continuous runtime at 75% load -- enough to cover a full event day without refuelling
-- **Construction**: Heavy-duty build with engine protection shutdown, certified lifting eye, and fully bunded base (110% containment) for full environmental compliance on sensitive sites
-- **Transport**: Trolley kit included for easy positioning on site without the need for additional lifting equipment
+- **Engine**: Kubota D722E diesel, 3 cylinders, 17 HP at 3000 rpm, water cooled
+- **Power outlets**: Two 100V/240V outlets for flexible equipment connections, - **Fuel consumption**: Just 2.4 litres per hour, with a 40-litre tank providing up to 16 hours of continuous runtime at 75% load -- - **Construction**: Heavy-duty build with engine protection shutdown, certified lifting eye, and fully bunded base (110% containment) - **Transport**: Trolley kit included for easy positioning on site
 
 ### Available Sizes
 
 We stock multiple generator sizes to suit every requirement:
 
-- **2.2kva** - Compact units for small lighting rigs, basic power needs and backup supply
-- **5kva** - Mid-range units for food stalls, market traders and small PA systems
-- **10kva** - The versatile workhorse for stage lighting, PA systems and multi-equipment setups
-- **20kva** - High-capacity units for large stages, festivals and multi-zone events requiring sustained heavy loads
+- **2.2kva** - Small lighting rigs and basic power needs
+- **5kva** - Food stalls, market traders and small PA systems
+- **10kva** - Stage lighting, PA systems and multi-equipment setups
+- **20kva** - Large stages, festivals and multi-zone events
 
 ### Ideal For
 

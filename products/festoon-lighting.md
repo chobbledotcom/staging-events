@@ -90,7 +90,7 @@ blocks:
       size: lg
 ---
 
-Our festoon lighting brings warmth and character to any event space, turning ordinary venues into memorable settings for festivals, private parties, corporate functions and weddings. Whether strung through a marquee canopy, draped across an outdoor festival site or lining the ceiling of a warehouse venue, festoon lights deliver effortless ambiance that transforms a space the moment the sun begins to set and keeps the atmosphere alive well into the night.
+Our festoon lighting is available for festivals, private parties, corporate functions and weddings, and works well both indoors and outdoors. It works in marquees, outdoor festival sites and indoor venues, and provides useful lighting from early evening through to late at night.
 
 ### Pricing
 
@@ -101,11 +101,11 @@ Our festoon lighting brings warmth and character to any event space, turning ord
 
 ### Indoor and Outdoor Use
 
-Festoon lighting works brilliantly in virtually any setting. Outdoors, it defines walkways, highlights stages and wraps event villages in welcoming, warm light. Indoors, it softens exhibition halls, warehouse venues and function rooms with a glow that overhead floodlighting simply cannot replicate. It pairs particularly well with marquees, adding depth and intimacy that elevates any celebration or corporate gathering.
+Festoon lighting works in most settings. Outdoors, it defines walkways, highlights stages and provides warm light across event villages. Indoors, it adds warmth to exhibition halls, warehouse venues and function rooms.
 
 ### Evening Ambiance and Nighttime Illumination
 
-Beyond decoration, festoon lighting serves a practical purpose. It provides gentle, even illumination across large areas during evening hours, guiding guests safely through your site while maintaining the atmosphere you have worked hard to create. For events that run late, the lighting keeps the energy high and the space inviting long after dark.
+Festoon lighting also serves a practical purpose, providing even illumination across large areas during evening hours and keeping the site well-lit for events that run late.
 
 ### Ideal For
 

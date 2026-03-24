@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: Event Stage 4x4m
     content: |-
-      A versatile mid-size stage perfect for any occasion, from small festivals and product launches to fireworks displays and Christmas light switch-ons. Full 50mm tubular trussing accommodates up to a 3-piece band and 12 singers.
+      A 4x4m stage that suits a range of events, from small festivals and product launches to fireworks displays and Christmas light switch-ons. Full 50mm tubular trussing accommodates up to a 3-piece band and 12 singers.
 
       **From £1,095**
     figure_type: image
@@ -90,7 +90,7 @@ blocks:
       size: lg
 ---
 
-A versatile 4x4m event stage that works brilliantly for any occasion. Built from Intelistage portable platforms supporting up to 900 kg per square metre, with full 50mm tubular trussing for professional rigging. Setup takes approximately 1.5 hours, and the stage is available at three standard heights with custom heights possible.
+A 4x4m event stage that suits a wide range of events. Built from Intelistage portable platforms supporting up to 900 kg per square metre, with full 50mm tubular trussing for professional rigging. Setup takes approximately 1.5 hours, and the stage is available at three standard heights with custom heights possible.
 
 ### Ideal For
 
@@ -102,11 +102,11 @@ A versatile 4x4m event stage that works brilliantly for any occasion. Built from
 
 ### Truss Frame and Rigging
 
-Full 50mm tubular trussing provides sturdy rigging points for speakers, lighting and production equipment. The truss system keeps the stage floor clear for performers while supporting your full audio-visual setup overhead.
+Full 50mm tubular trussing provides sturdy rigging points for speakers, lighting and production equipment. The truss system keeps the stage floor clear for performers.
 
 ### Branding
 
-Make the stage your own with custom branding options. Side PA wings are available from £199 and bottom banners from £79, giving your event a polished, branded look.
+Custom branding options are available. Side PA wings are available from £199 and bottom banners from £79.
 
 ### Setup
 
@@ -114,7 +114,7 @@ Setup takes approximately 1.5 hours on grass or hard surfaces, indoors or outdoo
 
 ### What's Included
 
-- Delivery, setup and collection by our trained crew
+- Delivery, setup and collection by our crew
 - Matching stage steps
 - Full 50mm tubular trussing for rigging
 - Structural calculations and design documentation

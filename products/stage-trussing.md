@@ -122,13 +122,13 @@ blocks:
       size: lg
 ---
 
-With over 25 years supplying stages and rigging for events across the UK, we hold one of the most comprehensive inventories of professional Litec trussing available for hire. All equipment is maintained to exacting standards, appropriately packaged for protection and designed for efficient transport and rapid deployment on site.
+With over 25 years supplying stages and rigging for events across the UK, we carry a large inventory of professional Litec trussing. All equipment is well maintained, appropriately packaged for protection and packaged for efficient transport.
 
-We offer two staging system styles to suit different event requirements: lightweight portable platforms for smaller setups and quick installations, and covered truss stages with full roof structures for larger events that need weather protection and professional production capability. Our modular approach means every configuration is built to your exact specifications.
+We offer two staging system styles to suit different event requirements: lightweight portable platforms for smaller setups and quick installations, and covered truss stages with full roof structures for larger events that need weather protection. Each configuration is built to your specifications.
 
 ### Single-Source Supply
 
-With a stock of over 600 products across 68 categories, we can provide your entire event infrastructure from a single order -- stages, PA systems, lighting, generators, lecterns and line array rigs. Approximately 95% of our equipment is owned in-house, giving us direct control over quality, availability and turnaround. If we do not currently stock a specific item, we can procure it to meet your requirements.
+With a stock of over 600 products across 68 categories, we can provide your entire event infrastructure from a single order -- stages, PA systems, lighting, generators, lecterns and line array rigs. Approximately 95% of our equipment is owned in-house, which means we control availability and turnaround. If we do not currently stock a specific item, we can procure it to meet your requirements.
 
 ### What's Included
 

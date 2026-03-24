@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: AI Photo Booth
     content: |-
-      Our AI Photo Booth captures guests and uses cutting-edge generative AI to place them in over 180 custom scenes, from fantasy worlds to branded corporate environments. The technology analyses faces and generates entirely new images from scratch within seconds, creating shareable content that guests and brands love.
+      Our AI Photo Booth captures guests and uses generative AI to place them in over 180 custom scenes, from fantasy worlds to branded corporate environments. The technology analyses faces and generates entirely new images from scratch within seconds, and the results are shareable on social media.
 
       **From £595**
     figure_type: image
@@ -90,13 +90,13 @@ blocks:
       size: lg
 ---
 
-Our AI Photo Booth takes event entertainment to the next level with cutting-edge generative AI technology. The booth photographs your guests, analyses their faces, and generates entirely new images from scratch, placing them in custom scenes that range from fantasy worlds and artistic masterpieces to fully branded corporate environments. The result is a one-of-a-kind image that guests are genuinely excited to share.
+Our AI Photo Booth uses generative AI to create custom images of your guests. The booth photographs your guests, analyses their faces, and generates entirely new images from scratch, placing them in custom scenes that range from fantasy worlds and artistic masterpieces to fully branded corporate environments. The results tend to get shared widely on social media.
 
-With over 180 preset templates available on a touchscreen, guests can choose their own adventure: become an astronaut, appear in a vintage movie poster, transform into a superhero, or sit for an oil painting. For corporate events, we can pre-configure custom scenes so your team appears alongside company mascots, in branded retail environments, or in seasonal settings like Christmas scenes. Every shared photo carries your company branding, generating organic social media reach long after the event ends.
+With over 180 preset templates available on a touchscreen, guests can choose a template: appear as an astronaut, appear in a vintage movie poster, transform into a superhero, or sit for an oil painting. For corporate events, we can pre-configure custom scenes so your team appears alongside company mascots, in branded retail environments, or in seasonal settings like Christmas scenes. Every shared photo carries your company branding, which extends the event's social media reach.
 
 ### How It Works
 
-Guests step up to the booth and select from 180+ templates on the touchscreen, or a custom scene is pre-configured for your event. The booth photographs the guest, and the AI technology analyses their face and generates a completely new image within seconds. Guests then scan a QR code to instantly download or share their creation. The booth handles groups as well as individuals, so no one misses out.
+Guests step up to the booth and select from 180+ templates on the touchscreen, or a custom scene is pre-configured for your event. The booth photographs the guest, and the AI technology analyses their face and generates a completely new image within seconds. Guests then scan a QR code to instantly download or share their creation. The booth handles groups as well as individuals.
 
 ### What's Included
 
