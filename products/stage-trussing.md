@@ -46,7 +46,7 @@ blocks:
   - type: split
     title: Stage Trussing
     content: |-
-      Professional Litec rigging equipment
+      Professional Litec rigging equipment from an extensive in-house inventory. With over 25 years of experience and approximately 95% of equipment owned in-house, we provide complete staging solutions from a single order.
 
       **Contact for pricing**
     figure_type: image
@@ -122,9 +122,21 @@ blocks:
       size: lg
 ---
 
-Staging Events Hire stocks an extensive inventory of rigging equipment from leading manufacturers, appropriately packaged for protection, efficient transport and rapid deployment.
+We stock an extensive inventory of professional Litec rigging equipment, appropriately packaged for protection, efficient transport and rapid deployment. With over 25 years of staging experience and approximately 95% of our equipment owned in-house, we deliver complete trussing solutions — from standalone rigging to full stage builds with PA, lighting, generators and line array rigs — all from a single order.
 
-We maintain equipment to high standards and offer competitive hire rates. Our inventory regularly expands with new rigging products, and we can procure items if not currently in stock.
+### Complete Staging Solutions
+
+Our trussing integrates with our full range of staging systems, from lightweight portable platforms to covered truss stages with full roof structures for outdoor events. We stock over 600 products across 68 categories, so whether you need trussing alone or a complete production package, we can supply everything through one booking.
+
+### What's Included
+
+- Professional Litec trussing equipment
+- Delivery, setup and collection by trained crew
+- Structural calculations and documentation
+- Risk assessments and method statements
+- £5 million public liability insurance
+- Equipment maintained to high standards
+- Items can be procured if not currently in stock
 
 ### Litec Stock Inventory
 

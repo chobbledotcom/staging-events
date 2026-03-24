@@ -31,7 +31,7 @@ blocks:
   - type: split
     title: Large Trussing Gantry
     content: |-
-      Start and finish gantry for larger events
+      A large-format inflatable gantry measuring 6.58m x 1.58m across the top with 3m x 0.29m side panels, delivering maximum branding impact for higher-profile events. Includes full setup, takedown and inflation fan, with customisable designs, free printing for multiple bookings and complimentary storage for branded versions.
 
       **From £695**
     figure_type: image
@@ -88,6 +88,16 @@ blocks:
       size: lg
 ---
 
-Large trussing gantry providing a wider span suitable for larger charity runs, marathons and outdoor events. Custom branding available to display sponsor logos, event branding or finish line messaging.
+Our large trussing gantry delivers a commanding presence at charity runs, marathons, cycling races and mass participation events. With a significantly larger top panel than the medium model, it provides maximum branding impact and unmistakable visibility for participants, spectators and broadcast media.
 
-All gantries include attachment, detachment, and storage at no additional cost.
+### Dimensions and Design
+
+The gantry features a generous Start/Finish top section measuring 6.58m x 1.58m, paired with 3m x 0.29m side leg panels. This larger format gives sponsors and event organisers substantially more branding real estate, making it the go-to choice for higher-profile events that demand a strong, professional visual presence on the course.
+
+### What Is Included
+
+Every hire includes full setup, takedown and an electric inflation fan. We provide adequate ballasts for hard standing surfaces, ensuring stability on concrete, tarmac and other solid ground as well as natural grass. Customisable designs are available with free printing for multiple bookings, and we store branded gantries at no extra cost between events so they are always race-ready.
+
+### Comprehensive Event Support
+
+This gantry sits at the heart of our wider event staging offering. We supply experienced event support staff to manage your start and finish line, coordinate crowd control, handle event logistics and arrange bottled water distribution for mass participation events. Generators are also available on request. We work closely with organisers to build a complete support package -- from staging infrastructure to on-the-ground staffing -- so every element of race day runs seamlessly.

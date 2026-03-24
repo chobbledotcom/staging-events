@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: Inflatable Gantry
     content: |-
-      Quick setup gantry for grassed areas
+      Our most popular inflatable gantry for charity runs, fun runs and community events on grassed areas. Every hire includes full setup, takedown and electric inflation fan, plus dedicated event support staff to manage your start and finish line. Custom branding available on nearly any surface, with multiple units ready for events requiring separate structures.
 
       **From £275**
     figure_type: image
@@ -94,6 +94,16 @@ blocks:
       size: lg
 ---
 
-Inflatable gantry offering quick setup and takedown, best suited for grassed areas. Custom velcro banners available for event branding.
+Our inflatable gantry is a versatile start and finish line solution built for charity runs, fun runs, marathons, obstacle courses and mass participation events on grassed areas. Every hire is a full-service package: we handle delivery, on-site setup, inflation and collection so your team can focus entirely on running the event.
 
-All gantries include attachment, detachment, and storage at no additional cost.
+### Complete Hire Service
+
+Each gantry comes with its own electric inflation fan and is erected and dismantled by our experienced crew. We supply multiple units for events that need separate start and finish structures, and our event support staff remain on-site to manage the lines throughout your race. There is no need to arrange additional labour or equipment.
+
+### Custom Branding Opportunities
+
+We can brand nearly any surface of the gantry with sponsor logos, event names or bespoke artwork. Banners are produced on durable 440gsm PVC with velcro attachment for quick swap-outs between events. We store branded gantries at no extra cost, so your custom setup is ready to go whenever you need it again.
+
+### End-to-End Event Support
+
+Our gantry hire is part of a wider staging and event services offering. We coordinate crowd control management, bottled water distribution for participants, and generator provision on request. Whether you are organising a local 5K or a flagship city marathon, we can build a complete support package around your gantry hire to keep the day running smoothly from first runner to last.

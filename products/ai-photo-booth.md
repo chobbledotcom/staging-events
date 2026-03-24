@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: AI Photo Booth
     content: |-
-      AI-powered photo booth with 180+ templates
+      Our AI Photo Booth captures guests and uses cutting-edge generative AI to place them in over 180 custom scenes, from fantasy worlds to branded corporate environments. The technology analyses faces and generates entirely new images from scratch within seconds, creating shareable content that guests and brands love.
 
       **From £595**
     figure_type: image
@@ -90,19 +90,46 @@ blocks:
       size: lg
 ---
 
-Our AI photo booth uses facial recognition and over 180 templates to transform photos into creative works of art. Guests receive instant social media uploads of their AI-enhanced images.
+Our AI Photo Booth takes event entertainment to the next level with cutting-edge generative AI technology. The booth photographs your guests, analyses their faces, and generates entirely new images from scratch, placing them in custom scenes that range from fantasy worlds and artistic masterpieces to fully branded corporate environments. The result is a one-of-a-kind image that guests are genuinely excited to share.
+
+With over 180 preset templates available on a touchscreen, guests can choose their own adventure: become an astronaut, appear in a vintage movie poster, transform into a superhero, or sit for an oil painting. For corporate events, we can pre-configure custom scenes so your team appears alongside company mascots, in branded retail environments, or in seasonal settings like Christmas scenes. Every shared photo carries your company branding, generating organic social media reach long after the event ends.
+
+### How It Works
+
+Guests step up to the booth and select from 180+ templates on the touchscreen, or a custom scene is pre-configured for your event. The booth photographs the guest, and the AI technology analyses their face and generates a completely new image within seconds. Guests then scan a QR code to instantly download or share their creation. The booth handles groups as well as individuals, so no one misses out.
 
 ### What's Included
 
-- AI photo booth unit
-- 180+ creative templates
-- Instant social media sharing
-- Props and backdrops
-- Trained attendant
+- AI photo booth unit with touchscreen interface
+- 180+ preset templates covering corporate, Christmas, fantasy, professional, artistic, and novelty styles
+- Generative AI image creation in seconds
+- QR code sharing for instant download
+- Instant social media uploads
+- Professional staff member for the duration of the hire
 - Delivery, setup and collection
 - £5 million public liability insurance
 
-### Optional Extras
+### Branding Options
 
-- Prints: £95
-- Custom branding: from £95
+- Custom AI scenes tailored to your brand or event theme
+- Company branding on every generated image
+- Custom scenes for corporate: team photos with mascots, branded environments, seasonal themes
+- Prints available: £95
+
+### Ideal For
+
+- Corporate events and brand activations
+- Product launches and exhibitions
+- Tech events and conferences
+- Christmas parties and seasonal celebrations
+- Wedding receptions and milestone birthdays
+
+### Popular Templates
+
+- Astronaut and space explorer
+- Superhero portraits
+- Oil painting and fine art styles
+- Vintage movie poster
+- Seasonal and Christmas themes
+- Professional headshot styles
+- Fantasy and novelty scenes

@@ -32,7 +32,7 @@ blocks:
   - type: split
     title: Battery Generator (Instagrid)
     content: |-
-      Eco-friendly battery-powered power
+      The Instagrid ONE max delivers 3,600 watts of clean, silent power with zero emissions. Weighing just 20 kg, it replaces diesel generators for events where noise and fumes are not an option.
 
       **Contact for pricing**
     figure_type: image
@@ -92,6 +92,33 @@ blocks:
       size: lg
 ---
 
-Battery-powered Instagrid generators offer an eco-friendly alternative to traditional diesel generators. Reduce CO2 emissions by over 10kg per hour compared to diesel alternatives.
+The Instagrid ONE max is a game-changer in portable energy technology. With a 2.1 kWh capacity and 230V AC mains outlet, it delivers 3,600 watts of continuous power without fuel, oil checks or maintenance. Weighing just 20 kg, it provides clean, silent energy wherever you need it.
 
-Part of our commitment to environmental sustainability.
+### Why Battery Power?
+
+- **No fumes, no noise** — plug-and-play convenience without the downsides of diesel
+- **Pure Sine Waves** — clean, constant power safe for sensitive electronics, DJ equipment and PA systems
+- **Zero emissions** — reduces CO2 by over 10 kg per hour compared to diesel alternatives
+- **Fast charging** — fully recharged in just 2.5 hours
+- **Water and dust resistant** — built for outdoor event environments
+
+### How Long Does It Last?
+
+The Instagrid ONE max can power DJ equipment and PA systems for extended periods — up to 16 hours for certain audio configurations. Multiple units can be deployed for larger power requirements.
+
+### Ideal For
+
+- Outdoor events where noise restrictions apply
+- Corporate events and exhibitions
+- Film and TV production
+- Eco-conscious festivals and charity events
+- Any event where sustainability matters
+
+### What's Included
+
+- Instagrid ONE max battery generator
+- 230V AC mains outlet
+- Delivery and collection
+- £5 million public liability insurance
+
+Part of our commitment to environmental sustainability and powering greener events across the UK.

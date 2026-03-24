@@ -39,7 +39,7 @@ blocks:
   - type: split
     title: Mobile Trailer Stage 7x6m
     content: |-
-      42 sqm mobile stage with slip-proof weatherproof floor
+      A self-contained mobile trailer stage offering 42 square metres of performance space with a slip-proof weatherproof floor. Sets up in just 30 minutes and is self-balanced for hard standing use, with full 50mm tubular trussing and wind-rated side walls.
 
       **From £1,495**
     figure_type: image
@@ -102,13 +102,29 @@ blocks:
       size: lg
 ---
 
-A self-contained, self-balanced mobile trailer stage offering 42 square metres of performance space (7m x 6m), large enough for a 10-piece band and up to 25 singers. The stage height is adjustable between 1.0m and 1.3m above ground, with an overall height of 5m. It sets up in around 30 minutes with one or two people and packs down in 45 minutes.
+Our standard M42 mobile trailer stage delivers 42 square metres of performance space (7m x 6m), comfortably accommodating a 10-piece band and up to 25 singers. Self-contained and self-balanced for hard standing use, this stage requires just 30 minutes to set up and 45 minutes to take down.
 
-The trailer measures 8.4m x 2.45m x 3.6m and weighs 2,500 kg. The floor is slip-proof and weatherproof with a load capacity of 3.5 kN/m² (approximately 350 kg/m²). Wind and showerproof side walls are rated to 17.8 m/s with covers fitted, or 30 m/s without. Full 50mm tubular trussing is included for rigging, along with floodlights for setup and takedown.
+The stage height is adjustable between 1.0m and 1.3m above ground, with an overall height of 5m. The slip-proof weatherproof floor has a load capacity of 3.5 kN/m² (approximately 350 kg/m²). Wind and showerproof side walls are rated to 17.8 m/s with covers fitted, or 30 m/s without covers. Full 50mm tubular trussing is included for rigging, along with floodlights for setup and takedown.
+
+### Ideal For
+
+- Music festivals and outdoor concerts
+- Large corporate events and conferences
+- Community celebrations and charity events
+- Council events and public gatherings
+- Indoor exhibitions and trade shows
+
+### Truss Frame and Rigging
+
+Full 50mm tubular trussing provides professional rigging points for speakers, lighting and production equipment. The 5m overall height gives generous clearance for complex lighting setups while keeping the stage floor clear for performers.
+
+### Weather Protection
+
+Wind and showerproof side walls protect performers and equipment in challenging conditions. The walls are rated to 17.8 m/s (approximately 40 mph) with covers fitted, while the uncovered structure withstands winds up to 30 m/s (approximately 67 mph).
 
 ### What's Included
 
-- Delivery, setup and collection
+- Delivery, setup and collection by our trained crew
 - Wind and showerproof side walls
 - Full 50mm tubular trussing for rigging
 - Slip-proof weatherproof stage floor
@@ -136,4 +152,4 @@ The trailer measures 8.4m x 2.45m x 3.6m and weighs 2,500 kg. The floor is slip-
 
 ### Suitable Locations
 
-This stage works both indoors and outdoors, on hard surfaces or grass.
+This stage works both indoors and outdoors, on hard surfaces or grass. The self-balanced design means no additional anchoring is required on hard standing.

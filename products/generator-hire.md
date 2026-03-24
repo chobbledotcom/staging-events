@@ -29,7 +29,7 @@ blocks:
   - type: split
     title: Generator Hire
     content: |-
-      2.2kva to 20kva generators
+      Reliable, heavy-duty generators ranging from 2.2kva to 20kva, ideal for powering everything from site tools and portable lighting to full stage rigs and PA systems. Built for extended runtime with efficient diesel engines and robust construction, our generators keep your event powered throughout.
 
       **Contact for pricing**
     figure_type: image
@@ -82,4 +82,33 @@ blocks:
       size: lg
 ---
 
-Range of generators available from 2.2kva to 20kva for events, festivals and outdoor activities. Reliable power solutions with UK-wide delivery.
+Our range of generators from 2.2kva to 20kva provides reliable power for events, festivals, outdoor activities and construction sites. Whether you need to power a small lighting rig or a full stage setup, we have a generator to match your requirements.
+
+### Built for Performance
+
+Our generators are built for demanding event environments. Taking the 10 KVA unit as an example of what we offer:
+
+- **Engine**: Kubota D722E diesel, 3 cylinders, 17 HP at 3000 rpm, water cooled for reliable extended operation
+- **Power outlets**: Two 100V/240V outlets for flexible equipment connections
+- **Fuel consumption**: Just 2.4 litres per hour, with a 40-litre tank providing up to 16 hours of runtime at 75% load
+- **Construction**: Heavy-duty build with engine protection shutdown, certified lifting eye, and fully bunded base (110% containment) for environmental compliance
+- **Transport**: Trolley kit included for easy positioning on site
+
+### Available Sizes
+
+We stock multiple generator sizes to suit every requirement:
+
+- **2.2kva** - Compact units for small lighting rigs and basic power needs
+- **5kva** - Mid-range units for food stalls, market traders and small PA systems
+- **10kva** - Versatile workhorse for stage lighting, PA systems and multi-equipment setups
+- **20kva** - High-capacity units for large stages, festivals and multi-zone events
+
+### Ideal For
+
+- Outdoor festivals and concerts
+- Corporate events and exhibitions
+- Construction and site power
+- Markets and food festivals
+- Emergency backup power
+
+All generators are PAT tested, regularly serviced and delivered with full fuel tanks. UK-wide delivery available.

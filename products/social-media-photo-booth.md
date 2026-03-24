@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: Social Media Photo Booth
     content: |-
-      Hidden camera selfie pod with instant social sharing
+      Our state-of-the-art Social Media Photo Booth features a sleek, modern hidden camera that captures stunning selfies for individuals or groups, then uploads them straight to social media. Fully customisable with corporate branding, logos, and bespoke backdrops, it is the ultimate engagement tool for any event.
 
       **From £495**
     figure_type: image
@@ -90,23 +90,40 @@ blocks:
       size: lg
 ---
 
-Our most popular photo booth option, the social media photo booth uses a hidden camera selfie pod to capture guests with eight different image layouts, including animated GIFs and boomerangs. Photos are shared instantly to social media without the need for a smartphone, making it ideal for brand activations, freshers fairs and exhibition stands where high throughput matters — it handles up to 200 users or 40 sessions per hour.
+Our state-of-the-art Social Media Photo Booth features a modern, sleek hidden camera designed to capture stunning selfies for individuals or groups alike. Photos are uploaded straight to social media instantly, with no smartphone needed. The system can automatically upload to your company accounts as well as guest-selected platforms, maximising your event's online reach.
+
+The booth is fully customisable with framing options for weddings, birthdays, and corporate events, including logos, product shots, and website details. Fun props are included to get guests into the spirit, and a customisable backdrop sets the scene for every shot. With a throughput of up to 200 users or 40 sessions per hour, it handles high-traffic events with ease.
+
+### How It Works
+
+Guests step up to the booth and the hidden camera captures their selfie in a natural, candid style. They choose from eight different image layouts, including animated GIFs and boomerangs, then share their favourite shots directly to social media. For corporate events, the system can be configured to upload automatically to company accounts, ensuring every photo carries your brand.
 
 ### What's Included
 
-- Social media photo booth unit
+- Social media photo booth with hidden camera
+- Eight image layouts including animated GIFs and boomerangs
 - Fun props for dressing up
 - Customisable backdrop
-- Instant social media sharing
+- Instant social media sharing to guest-selected platforms
+- Automatic upload to company social media accounts
+- Professional staff member for the duration of the hire
 - Delivery, setup and collection
 - £5 million public liability insurance
 
-### Optional Extras
+### Branding Options
 
 - Front panel branding: £95
 - Front and back panel branding: £135
 - Branded stretch backdrop (sub-dye printed, one-sided): £275
 - Branded photo prints: free with 7 days' notice
+
+### Ideal For
+
+- Brand activations and product launches
+- Corporate events and exhibitions
+- Wedding receptions and parties
+- Freshers fairs and university events
+- Trade shows and conference stands
 
 ### Suitable Locations
 

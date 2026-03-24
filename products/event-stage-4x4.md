@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: Event Stage 4x4m
     content: |-
-      Mid-size stage for bands, choirs and corporate presentations
+      A versatile mid-size stage perfect for any occasion, from small festivals and product launches to fireworks displays and Christmas light switch-ons. Full 50mm tubular trussing accommodates up to a 3-piece band and 12 singers.
 
       **From £1,095**
     figure_type: image
@@ -90,20 +90,40 @@ blocks:
       size: lg
 ---
 
-Mid-size 4x4m event stage suitable for bands, choirs, corporate presentations and community events. Built from Intelistage portable platforms supporting up to 900 kg per square metre.
+A versatile 4x4m event stage that works brilliantly for any occasion. Built from Intelistage portable platforms supporting up to 900 kg per square metre, with full 50mm tubular trussing for professional rigging. Setup takes approximately 1.5 hours, and the stage is available at three standard heights with custom heights possible.
 
 ### Ideal For
 
 - Live bands (up to 3-piece) with choir (up to 12 singers)
+- Small festivals and community events
 - Corporate presentations and product launches
-- Community events and festivals
-- Award ceremonies
+- Fireworks displays and Christmas light switch-ons
+- Award ceremonies and charity galas
+
+### Truss Frame and Rigging
+
+Full 50mm tubular trussing provides sturdy rigging points for speakers, lighting and production equipment. The truss system keeps the stage floor clear for performers while supporting your full audio-visual setup overhead.
+
+### Branding
+
+Make the stage your own with custom branding options. Side PA wings are available from £199 and bottom banners from £79, giving your event a polished, branded look.
+
+### Setup
+
+Setup takes approximately 1.5 hours on grass or hard surfaces, indoors or outdoors. The stage is available at standard heights of 200mm, 540mm and 725mm, with custom heights possible on request.
 
 ### What's Included
 
-- Delivery, setup and collection
+- Delivery, setup and collection by our trained crew
 - Matching stage steps
+- Full 50mm tubular trussing for rigging
 - Structural calculations and design documentation
 - Risk assessments and method statements
 - £5 million public liability insurance
-- Accessible ramp available on request
+- Accessible ramp available from £175
+
+### Additional Options
+
+- PA systems available at extra cost
+- Side PA wings branding from £199
+- Bottom banner from £79

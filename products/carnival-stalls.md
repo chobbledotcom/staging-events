@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: Carnival and Side Stall Games
     content: |-
-      Traditional fairground stalls for fetes, festivals and fun days
+      Our striking carnival fun fair stalls instantly create a fun, exciting and competitive atmosphere at any event. Featuring four classic interactive games that are simple to understand but delightfully tricky to master, these colourful stalls bring the authentic thrill of the fairground to fetes, festivals, corporate fun days and fundraising events. Novelty sweet prizes are included as standard, with premium prize upgrades available.
 
       **From £75**
     figure_type: image
@@ -90,9 +90,20 @@ blocks:
       size: lg
 ---
 
-Traditional carnival and side stall games for fetes, festivals, corporate fun days and fundraising events. All games work without tokens or coins, and can be set up to collect funds for charity events.
+Our grand carnival fun fair stalls bring the excitement of the traditional fairground to your event, creating a fun, competitive atmosphere that guests of all ages love. Each stall is designed to look the part with striking, colourful theming that transforms any space into a bustling fairground.
 
-### Available Games
+All games work without tokens or coins, making them ideal for fundraising events where you can charge per play. Stalls do require staffing -- we can supply trained operators, or your own team can run them with our guidance.
+
+### Classic Carnival Games
+
+Our most popular carnival package features four interactive games that are simple to understand but delightfully tricky to master:
+
+- **Ball-in-a-Bucket** - It looks like the easiest game on the stall, but it is possibly the hardest. The ball fits, but bouncing it in is another matter entirely
+- **Fish Bowl Challenge** - Players need pinpoint accuracy to land the ball in the fish bowl. It fits, but only just
+- **Ring Toss** - The timeless classic. Get the ring cleanly around the bottle neck to win
+- **Tin Can Alley** - Knock over the pyramid of tins with three balls. Looks simple until you try it
+
+### More Side Stall Games
 
 - **Carnival Sign** - From £125
 - **Axe Throwing (Safe)** - From £145
@@ -107,10 +118,15 @@ Traditional carnival and side stall games for fetes, festivals, corporate fun da
 - **Photo Cut Out Boards** - From £75
 - **Spot on Challenge** - From £425
 
+### Prize Options
+
+Every stall comes with novelty sweets included as standard prizes. For a more premium feel, we offer upgraded prizes from £1.30 per item -- perfect for corporate events and brand activations where you want to leave a lasting impression.
+
 ### Ideal For
 
 - Summer fetes and garden parties
 - Festival villages and event zones
 - Corporate fun days
 - Charity fundraising events
+- School fairs
 - Christmas events

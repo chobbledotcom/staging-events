@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: Mini Stage 3x3m
     content: |-
-      Compact stage for DJs, solo presenters and small bands
+      A compact 3x3m trussing stage built for corporate events, private parties and live entertainment. The 50mm tubular truss frame provides easy rigging for speakers and lighting without cluttering the stage floor.
 
       **From £925**
     figure_type: image
@@ -90,19 +90,34 @@ blocks:
       size: lg
 ---
 
-Compact 3x3m stage ideal for DJs, solo presenters, awards ceremonies and small performances. Built from our 1m x 2m modular deck sections with Intelistage portable platforms.
+A versatile 3x3m trussing stage designed for corporate events, private parties and live entertainment. Whether you need a platform for a DJ set, an awards ceremony, a Christmas light switch-on or a fitness warm-up session, this compact stage delivers a professional look without taking over the venue.
 
 ### Ideal For
 
-- DJ sets and solo performers
-- Awards presentations
-- Speeches and ceremonies
+- DJ sets, solo performers and duos
+- Awards presentations and speeches
+- Corporate events and product launches
+- Christmas light switch-ons and market performances
+- Mass participation warm-ups and fitness sessions
 - Small band performances (up to 3-piece)
+
+### Truss Frame and Rigging
+
+The stage is built on a 50mm tubular truss frame, providing solid rigging points for speakers, lighting and effects without cluttering the performance area. This keeps the stage floor clear for performers while ensuring your production equipment is securely mounted overhead.
+
+### Branding
+
+Our in-house design team can produce custom branded panels to give your event a polished, professional appearance. Add your company logo, event branding or sponsor details directly to the stage structure.
+
+### Setup
+
+The Mini Stage sets up in approximately one hour and comes down in around 45 minutes. It works on both grass and hard surfaces, indoors or outdoors, giving you flexibility for almost any venue.
 
 ### What's Included
 
-- Delivery, setup and collection
+- Delivery, setup and collection by our trained crew
 - Matching stage steps
+- 50mm tubular trussing for rigging
 - Structural calculations and design documentation
 - Risk assessments and method statements
 - £5 million public liability insurance

@@ -39,7 +39,7 @@ blocks:
   - type: split
     title: Mobile Trailer Stage 6x8m
     content: |-
-      Self-contained outdoor stage for festivals and large events
+      A self-contained mobile trailer stage with a massive 7.9m x 5.9m performance area, accommodating up to a 10-piece band and 25 singers. Sets up in just one hour on grass or hard surfaces with full 50mm tubular trussing for professional rigging.
 
       **From £1,495**
     figure_type: image
@@ -102,14 +102,30 @@ blocks:
       size: lg
 ---
 
-A self-contained mobile trailer stage with a 7.9m x 5.9m performance area, large enough to accommodate a 10-piece band and up to 25 singers. The stage sets up in around one hour on either grass or hard standing, and packs down in 45 minutes. The trailer itself measures 10.3m x 2.35m x 3.05m (with drawbar) and weighs 3,300 kg gross.
+A self-contained mobile trailer stage with a 7.9m x 5.9m performance area, large enough to accommodate a 10-piece band and up to 25 singers. The stage sets up in around one hour on either grass or hard standing, and packs down in just 45 minutes. Self-contained and self-balanced for hard standing use, this stage arrives ready to deploy with minimal site preparation.
 
 The stage floor sits 1.06m above ground with 3.9m of clearance to the roof, and can bear up to 500 kg/m² (8,000 kg total). Wind and showerproof side walls are rated to 90 km/h, and the stair access supports up to 400 kg. Full 50mm tubular trussing is included for rigging, along with floodlights for setup and takedown.
 
+### Ideal For
+
+- Music festivals and outdoor concerts
+- Large corporate events and product launches
+- Community celebrations and charity events
+- Fireworks displays and Christmas light switch-ons
+- Council events and public gatherings
+
+### Truss Frame and Rigging
+
+Full 50mm tubular trussing provides robust rigging points for speakers, lighting rigs and production equipment. The generous 3.9m roof clearance gives plenty of headroom for even complex lighting setups, keeping the stage floor clear for performers.
+
+### Branding
+
+Turn this stage into a branded centrepiece for your event. Side PA wings are available from £99 each, bottom banners from £249, top banners from £199, and full back stage banners (6x3m) from £476. Our in-house design team can help create your artwork.
+
 ### What's Included
 
-- Delivery, setup and collection
-- Wind and showerproof side walls
+- Delivery, setup and collection by our trained crew
+- Wind and showerproof side walls (rated to 90 km/h)
 - Full 50mm tubular trussing for rigging
 - Floodlights for setup and takedown
 - Structural calculations and documentation
@@ -136,4 +152,4 @@ The stage floor sits 1.06m above ground with 3.9m of clearance to the roof, and 
 
 ### Suitable Locations
 
-This stage is designed for outdoor use only, on grass or hard surfaces.
+This stage is designed for outdoor use only, on both grass and hard surfaces. The self-balanced design means no additional anchoring is required on hard standing.

@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: 360 Photo Booth
     content: |-
-      Motorised 360-degree video capture booth
+      Step onto our raised circular platform and let the motorised camera arm spin around you, capturing a stunning boomerang-style video with slow-motion effects and custom overlays. This is the format people actually share on Instagram Reels and TikTok, making it the ultimate social media content creator for any event.
 
       **From £595**
     figure_type: image
@@ -90,16 +90,37 @@ blocks:
       size: lg
 ---
 
-Our 360 photo booth uses a motorised arm to capture stunning boomerang-style 360-degree videos. Guests step onto the platform and the camera rotates around them, creating shareable video content.
+Our 360 Photo Booth captures short, rotating video clips that guests genuinely want to share. Guests step onto the raised circular platform, and the motorised camera arm spins around them, producing a boomerang-style video complete with slow-motion effects and custom overlays. This is the format that thrives on Instagram Reels and TikTok, making it the ultimate content creator for events where social reach matters.
+
+Our custom software automatically adds slow-motion segments, speed ramps, custom effects, and branded overlays to every clip. The finished video is ready in seconds, and guests scan a QR code to download or share it instantly. Up to 3-4 people can stand on the platform together, making it perfect for group shots. This is a digital-only experience with no prints, keeping the focus entirely on shareable video content. All digital content is also delivered via WeTransfer within 14 days.
+
+### How It Works
+
+Guests step onto the raised circular platform and strike a pose. The motorised camera arm rotates around them, capturing a short video clip from every angle. Our software processes the footage in seconds, adding slow-motion effects, speed ramps, and branded overlays automatically. Guests scan a QR code to download their finished clip or share it directly to social media.
 
 ### What's Included
 
-- 360 photo booth platform and arm
-- Instant social media sharing
-- Trained attendant
+- 360 photo booth with raised circular platform and motorised camera arm
+- Custom software with slow-motion, speed ramps, and branded overlays
+- QR code sharing for instant download
+- Up to 3-4 guests on the platform at once
+- All digital content delivered via WeTransfer within 14 days
+- Professional staff member for the duration of the hire
 - Delivery, setup and collection
 - £5 million public liability insurance
 
-### Custom Branding
+### Branding Options
 
-Custom branding available from £275, ideal for product launches and brand campaigns.
+- Base panel print: £95
+- Magnetic branding: £195 (reusable across multiple events, stored by us between hires)
+- Branded stretch backdrop: £275
+- Magnetic branding pays for itself after just two hires, making it a smart investment for repeat clients
+
+### Ideal For
+
+- Product launches and brand campaigns
+- Corporate events and award ceremonies
+- Wedding receptions and parties
+- Christmas parties and seasonal events
+- Trade shows and exhibitions
+- Any event where social media reach is a priority
