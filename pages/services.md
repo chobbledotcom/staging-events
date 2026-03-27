@@ -2,7 +2,7 @@
 permalink: "/services/"
 layout: "design-system-base"
 title: "Our Services"
-description: "Comprehensive event services including staging, PA systems, exhibition equipment, photo booths, event infrastructure, logistics and equipment hire across the UK."
+description: "Comprehensive event services including staging, PA systems, event infrastructure, logistics and equipment hire across the UK."
 eleventyNavigation:
   key: Services
   order: 4
@@ -15,7 +15,7 @@ blocks:
     content: |
       ## Our Services
 
-      Comprehensive event services from staging and production to exhibition equipment and logistics.
+      Comprehensive event services from staging and production to event infrastructure and logistics.
 
   # Service categories
   - type: items
