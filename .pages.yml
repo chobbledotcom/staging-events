@@ -92,6 +92,28 @@ content:
       - { name: meta_title, type: string, label: Meta Title }
       - { name: subtitle, type: string, label: Subtitle }
       
+  - name: locations
+    label: Locations
+    path: locations
+    type: collection
+    subfolders: false
+    filename: "{primary}.md"
+    view:
+      fields: [title, area, region]
+      primary: title
+      sort: [area]
+    fields:
+      - { name: title, type: string, label: Title }
+      - { name: header_image, type: image, label: Header Image }
+      - { name: area, type: string, label: Area/Town }
+      - { name: region, type: string, label: Region }
+      - { name: featured, label: Featured, type: boolean }
+      - { name: subtitle, type: string, label: Subtitle }
+      - { name: body, label: Body, type: code, options: { language: markdown } }
+      - { name: header_text, type: string, label: Header Text }
+      - { name: meta_title, type: string, label: Meta Title }
+      - { name: meta_description, type: string, label: Meta Description }
+
   - name: team
     label: Team
     path: team
