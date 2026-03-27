@@ -3,57 +3,56 @@ permalink: "/services/"
 layout: "design-system-base"
 title: "Our Services"
 description: "Comprehensive event services including staging, PA systems, exhibition equipment, photo booths, event infrastructure, logistics and equipment hire across the UK."
-header_image: images/memory-walk-stage-and-van.jpg
-header_text: Our Services
 eleventyNavigation:
   key: Services
   order: 4
+blocks:
+  # Hero
+  - type: image-background
+    full_width: true
+    image: images/memory-walk-stage-and-van.jpg
+    image_alt: Staging Events services
+    content: |
+      ## Our Services
+
+      Comprehensive event services from staging and production to exhibition equipment and logistics.
+
+  # Service categories
+  - type: items
+    collection: categories
+    intro: |
+      ## What We Offer
+
+      Professional event equipment and services, owned and operated by our experienced team.
+
+  # Additional services
+  - type: features
+    header_intro: |
+      ## Additional Services
+
+      Beyond equipment hire, we offer a full range of support services.
+    items:
+      - icon: "mdi:truck-delivery"
+        title: Logistics
+        description: Delivery of event equipment anywhere in the UK with dedicated drivers, company vehicles, same-day service and event delivery teams.
+      - icon: "mdi:package-variant-closed"
+        title: Fulfilment
+        description: Charity fundraising pack fulfilment, newsletter and certificate mailings, marketing materials printing and distribution.
+      - icon: "mdi:warehouse"
+        title: Storage
+        description: 25,000 sq ft warehouse in Rotherham with pallet services, forklift trucks, secure dedicated storage and inventory management.
+      - icon: "mdi:water"
+        title: Water
+        description: Bottled water supply for events and festivals with wholesale options, charitable discounts and on-site distribution services.
+
+  # CTA
+  - type: cta
+    title: Ready to Plan Your Event?
+    description: >-
+      Contact our team to discuss your requirements and get a quote.
+    button:
+      text: Get a Quote
+      href: /contact/
+      variant: secondary
+      size: lg
 ---
-
-## Our Services
-
-### Staging and Production
-
-Professional staging and production equipment for events of all sizes:
-
-- [Staging](/categories/staging/) - Modular deck staging, trailer stages and marquees
-- [Gantries](/categories/gantries/) - Start/finish gantries for events
-- [Audio](/categories/audio/) - PA systems with mixers, microphones and monitors
-- [Power](/categories/power/) - Generators including battery-powered options
-- [Trussing](/categories/trussing/) - Professional Litec rigging equipment
-
-### Exhibition and Corporate Events
-
-We own and operate 95% of our equipment, with 20+ years of experience supplying major UK exhibition venues:
-
-- [Exhibition and Corporate](/categories/exhibition-corporate/) - Batak reaction games, exhibition games, carnival stalls
-- [Photo Booths](/categories/photo-booths/) - Traditional, selfie mirror, AI and 360 photo booths
-- [Event Infrastructure](/categories/event-infrastructure/) - Festoon lighting, crowd barriers, safety equipment
-
-Complete packages for exhibitions, trade shows, corporate events and fun days. One booking covers equipment, delivery, trained staff, setup and collection.
-
-### Logistics
-
-Delivery of event equipment anywhere in the UK with dedicated drivers, company vehicles and trailers, courier networks, same-day service, and event delivery teams.
-
-[Learn about delivery](/delivery/)
-
-### Fulfilment
-
-- Charity fundraising pack fulfilment
-- Newsletter and certificate mailings
-- Marketing materials printing and distribution
-
-### Storage
-
-- 25,000 sq ft warehouse in Rotherham
-- Pallet services and forklift trucks
-- Secure dedicated storage space
-- Inventory management
-
-### Water
-
-- Bottled water supply for events and festivals
-- Wholesale options
-- Charitable discounts
-- On-site distribution services
