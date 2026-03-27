@@ -2,7 +2,7 @@
 permalink: "/services/"
 layout: "design-system-base"
 title: "Our Services"
-description: "Comprehensive event services including staging, PA systems, exhibition equipment, photo booths, event infrastructure, logistics and equipment hire across the UK."
+description: "Comprehensive event services including staging, PA systems, event infrastructure, logistics and equipment hire across the UK."
 header_image: images/memory-walk-stage-and-van.jpg
 header_text: Our Services
 eleventyNavigation:
@@ -22,15 +22,9 @@ Professional staging and production equipment for events of all sizes:
 - [Power](/categories/power/) - Generators including battery-powered options
 - [Trussing](/categories/trussing/) - Professional Litec rigging equipment
 
-### Exhibition and Corporate Events
+### Event Infrastructure
 
-We own and operate 95% of our equipment, with 20+ years of experience supplying major UK exhibition venues:
-
-- [Exhibition and Corporate](/categories/exhibition-corporate/) - Batak reaction games, exhibition games, carnival stalls
-- [Photo Booths](/categories/photo-booths/) - Traditional, selfie mirror, AI and 360 photo booths
 - [Event Infrastructure](/categories/event-infrastructure/) - Festoon lighting, crowd barriers, safety equipment
-
-Complete packages for exhibitions, trade shows, corporate events and fun days. One booking covers equipment, delivery, trained staff, setup and collection.
 
 ### Logistics
 

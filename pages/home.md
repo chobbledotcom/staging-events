@@ -2,7 +2,7 @@
 permalink: "/"
 layout: "design-system-base.html"
 title: "Staging, Event Hire and Production across the UK"
-description: "UK's leading staging and event hire company. Over 25 years experience in stage hire, exhibition equipment, event infrastructure and logistics for events nationwide."
+description: "UK's leading staging and event hire company. Over 25 years experience in stage hire, event infrastructure and logistics for events nationwide."
 eleventyNavigation:
   key: Home
   order: 1
@@ -16,7 +16,7 @@ blocks:
     content: |
       ## Staging, Event Hire and Production across the UK
 
-      Stage hire, PA systems, exhibition equipment, photo booths and event infrastructure. Full production and logistics services nationwide from our 25,000 sq ft warehouse.
+      Stage hire, PA systems and event infrastructure. Full production and logistics services nationwide from our 25,000 sq ft warehouse.
 
   # Featured products slider
   - type: items
@@ -65,8 +65,6 @@ blocks:
     content: |
       - **Stage hire** - Modular stages from 3x3m to 8x6m trailer stages and marquees
       - **PA systems** - Professional sound for events of all sizes
-      - **Exhibition equipment** - Batak reaction games, interactive games, carnival stalls
-      - **Photo booths** - Traditional, selfie mirror, AI and 360 booths
       - **Event infrastructure** - Festoon lighting, crowd barriers, generators
       - **Gantry hire** - Start/finish gantries for mass participation events
       - **Trussing** - Professional Litec rigging equipment
