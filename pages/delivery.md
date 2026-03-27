@@ -21,9 +21,6 @@ We make multiple deliveries weekly to major UK venues including NEC Birmingham, 
 
 - Stages, marquees and gantries
 - PA systems and generators
-- Photo booths and selfie mirrors
-- Exhibition games and Batak reaction walls
-- Carnival stalls and side games
 - Festoon lighting and crowd barriers
 - Trussing and rigging equipment
 

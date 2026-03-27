@@ -14,7 +14,7 @@ blocks:
     title: About Staging Events
     lead: >-
       For more than 25 years we have been one of the UK's leading staging and
-      event hire companies, providing production, exhibition equipment and logistics nationwide.
+      event hire companies, providing production and logistics nationwide.
 
   # About split
   - type: split
@@ -23,7 +23,7 @@ blocks:
     content: |
       Established in 1999, we operate from a 25,000 sq ft warehouse in Rotherham, strategically positioned near the A1, M1 and M18 for nationwide coverage. We own and operate 95% of the equipment we hire out.
 
-      From staging and PA systems to exhibition games, photo booths and event infrastructure, we provide complete event solutions. We work with major charities, corporate clients and exhibition venues, with in-house branding and artwork production capabilities.
+      From staging and PA systems to event infrastructure, we provide complete event solutions. We work with major charities, corporate clients and exhibition venues, with in-house branding and artwork production capabilities.
     figure_type: image
     figure_src: images/stage-and-led-screen-charity.jpg
     figure_alt: Staging Events event production
