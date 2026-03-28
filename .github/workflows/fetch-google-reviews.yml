@@ -18,7 +18,18 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Check for existing Bun
+        id: bun-check
+        run: |
+          if command -v bun &> /dev/null; then
+            echo "found=true" >> $GITHUB_OUTPUT
+            echo "Bun already installed: $(bun --version)"
+          else
+            echo "found=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Setup Bun
+        if: steps.bun-check.outputs.found != 'true'
         uses: oven-sh/setup-bun@3d267786b128fe76c2f16a390aa2448b815359f3 # v2.1.2
 
       - name: Fetch Google Reviews
