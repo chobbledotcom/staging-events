@@ -2,6 +2,31 @@
 @use "sass:color";
 @use "breakpoints";
 
+// Barlow font (self-hosted from Bunny Fonts)
+@font-face {
+  font-family: "Barlow";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/assets/fonts/barlow-latin-400.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Barlow";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/assets/fonts/barlow-latin-600.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Barlow";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/assets/fonts/barlow-latin-700.woff2") format("woff2");
+}
+
 // Staging Events Theme
 :root {
   --color-bg: #fafafa;
@@ -25,7 +50,7 @@
   --border-radius: 8px;
   --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.18);
 
-  --font-family-heading: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-family-heading: "Barlow", "Helvetica Neue", Helvetica, Arial, sans-serif;
   --font-family-body: "Helvetica Neue", Helvetica, Arial, sans-serif;
   --line-height: 1.5;
   --link-decoration: none;
@@ -50,6 +75,7 @@ nav {
   flex-wrap: wrap !important;
   justify-content: space-between !important;
   text-transform: uppercase;
+  font-family: var(--font-family-heading);
   img {
     height: 5rem !important;
     margin: -1rem 0 !important;
@@ -60,7 +86,15 @@ nav {
       margin: -1.5rem 0 0;
     }
   }
+  @include breakpoints.up("md") {
+    max-width: 1200px;
+    margin-inline: auto !important;
+  }
   & > ul {
     align-content: center;
   }
+}
+
+ol.breadcrumbs {
+  font-family: var(--font-family-heading);
 }
