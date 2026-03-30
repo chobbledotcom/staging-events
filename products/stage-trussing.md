@@ -7,35 +7,25 @@ categories:
   - trussing
 price: Contact for pricing
 features:
-  - Extensive Litec inventory
-  - Leading manufacturer equipment
-  - Appropriately packaged for protection
-  - Efficient transport
-  - Rapid deployment
+  - Professional Litec trussing equipment
+  - Delivery, setup and collection included
+  - Structural calculations and documentation
+  - Risk assessments and method statements
+  - £5 million public liability insurance
   - Maintained to high standards
-  - Competitive hire rates
+  - Over 600 products across 68 categories
   - Additional items can be procured
 specs:
   - name: Manufacturer
     value: Litec
-  - name: Dado 4 Ways
-    value: 20 in stock
-  - name: 0.5m Sections
-    value: 4 in stock
-  - name: 1m Sections
-    value: 13 in stock
-  - name: 1.5m Sections
-    value: 4 in stock
-  - name: 2m Sections
-    value: 16 in stock
-  - name: 3m Sections
-    value: 17 in stock
-  - name: Base Plates
-    value: 16 in stock
-  - name: Large Base Plates
-    value: 4 in stock
-  - name: 2m Hand Rails
-    value: 9 in stock
+  - name: Experience
+    value: 25+ years
+  - name: Product Range
+    value: 600+ products across 68 categories
+  - name: In-House Ownership
+    value: Approximately 95%
+  - name: Insurance
+    value: £5 million public liability
 gallery:
   - images/stage-trussing.jpeg
   - images/band-on-trussed-stage-night.jpg
@@ -67,25 +57,25 @@ blocks:
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: Extensive Litec inventory
+        title: Professional Litec trussing equipment
         description: ""
       - icon: mdi:check-circle
-        title: Leading manufacturer equipment
+        title: Delivery, setup and collection included
         description: ""
       - icon: mdi:check-circle
-        title: Appropriately packaged for protection
+        title: Structural calculations and documentation
         description: ""
       - icon: mdi:check-circle
-        title: Efficient transport
+        title: Risk assessments and method statements
         description: ""
       - icon: mdi:check-circle
-        title: Rapid deployment
+        title: £5 million public liability insurance
         description: ""
       - icon: mdi:check-circle
         title: Maintained to high standards
         description: ""
       - icon: mdi:check-circle
-        title: Competitive hire rates
+        title: Over 600 products across 68 categories
         description: ""
       - icon: mdi:check-circle
         title: Additional items can be procured
@@ -94,24 +84,14 @@ blocks:
     items:
       - value: Litec
         label: Manufacturer
-      - value: 20 in stock
-        label: Dado 4 Ways
-      - value: 4 in stock
-        label: 0.5m Sections
-      - value: 13 in stock
-        label: 1m Sections
-      - value: 4 in stock
-        label: 1.5m Sections
-      - value: 16 in stock
-        label: 2m Sections
-      - value: 17 in stock
-        label: 3m Sections
-      - value: 16 in stock
-        label: Base Plates
-      - value: 4 in stock
-        label: Large Base Plates
-      - value: 9 in stock
-        label: 2m Hand Rails
+      - value: 25+
+        label: Years Experience
+      - value: 600+
+        label: Products Available
+      - value: 68
+        label: Product Categories
+      - value: "~95%"
+        label: In-House Owned
   - type: cta
     title: Hire the Stage Trussing
     description: Contact our team for availability and pricing.
