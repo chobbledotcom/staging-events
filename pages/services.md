@@ -14,7 +14,7 @@ blocks:
     image: images/memory-walk-stage-and-van.jpg
     image_alt: Staging Events services
     content: |
-      ## Our Services
+      # Our Services
 
       Comprehensive event services from staging and production to event infrastructure and logistics.
 

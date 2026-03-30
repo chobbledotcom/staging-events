@@ -7,12 +7,14 @@ eleventyNavigation:
   key: Products
   order: 3
 blocks:
-  - type: hero
+  - type: image-background
     full_width: true
-    class: gradient
-    badge: Equipment Hire
-    title: Our Products
-    lead: >-
+    parallax: true
+    image: images/event-stage-setup.jpg
+    image_alt: Event stage setup with equipment
+    content: |
+      # Our Products
+
       Browse our full range of event hire equipment, from stages and PA systems to lighting and power solutions.
 
   - type: items

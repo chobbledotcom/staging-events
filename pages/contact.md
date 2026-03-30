@@ -8,12 +8,14 @@ eleventyNavigation:
   order: 5
 blocks:
   # Hero
-  - type: hero
+  - type: image-background
     full_width: true
-    class: gradient
-    badge: Get in Touch
-    title: Contact Us
-    lead: >-
+    parallax: true
+    image: images/memory-walk-stage-and-pa.jpg
+    image_alt: Staging Events PA system at event
+    content: |
+      # Contact Us
+
       Connect with our event specialists.
 
   # Contact form with details

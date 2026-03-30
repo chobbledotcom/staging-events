@@ -16,7 +16,7 @@ blocks:
     image: images/fan-party-stage-crowd.jpg
     image_alt: Event equipment delivery
     content: |-
-      ## UK-Wide Event Delivery
+      # UK-Wide Event Delivery
 
       Professional logistics from our 25,000 sq ft Rotherham warehouse
 

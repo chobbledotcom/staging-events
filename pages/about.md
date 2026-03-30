@@ -8,23 +8,15 @@ eleventyNavigation:
   order: 2
 blocks:
   # Hero
-  - type: hero
+  - type: image-background
     full_width: true
-    class: gradient
-    badge: Est. 1999
-    title: About Staging Events
-    lead: >-
-      For more than 25 years we have been one of the UK's leading staging and
-      event hire companies, providing production and logistics nationwide.
-    buttons:
-      - text: Get a Quote
-        href: /contact/
-        variant: primary
-        size: lg
-      - text: View Services
-        href: /services/
-        variant: secondary
-        size: lg
+    parallax: true
+    image: images/town-centre-stage-rotherham.jpg
+    image_alt: Staging Events town centre stage
+    content: |
+      # About Staging Events
+
+      For more than 25 years we have been one of the UK's leading staging and event hire companies, providing production and logistics nationwide.
 
   # About split
   - type: split
