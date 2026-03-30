@@ -5,6 +5,8 @@ subtitle: Trussing and inflatable gantry hire for events
 description: Start and finish gantry hire for charity runs, marathons and events. Trussing and inflatable options available with custom branding.
 header_image: images/large-trussing.png
 featured: true
+redirect_from:
+  - /gantry-hire/
 eleventyNavigation:
   key: Gantries
   parent: Services

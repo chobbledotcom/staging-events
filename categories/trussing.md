@@ -5,6 +5,8 @@ subtitle: Professional rigging equipment
 description: Professional rigging equipment hire from leading manufacturers. Extensive inventory of Litec truss stock for events.
 header_image: images/stage-trussing.jpeg
 featured: true
+redirect_from:
+  - /stage-trussing/
 eleventyNavigation:
   key: Trussing
   parent: Services

@@ -67,11 +67,12 @@ blocks:
     content: |
       - **Stage hire** - Modular stages from 3x3m to 8x6m trailer stages and marquees
       - **PA systems** - Professional sound for events of all sizes
-      - **Event infrastructure** - Festoon lighting, crowd barriers, generators
+      - **Event infrastructure** - Festoon lighting, crowd barriers, generators, lecterns, tables and chairs
       - **Gantry hire** - Start/finish gantries for mass participation events
       - **Trussing** - Professional Litec rigging equipment
+      - **MC and compere services** - Experienced presenters for your event
       - **Event staffing** - Experienced crew nationwide
-      - **Logistics** - Storage, fulfilment and water delivery
+      - **Logistics** - Storage from one pallet to 10,000 sq ft, fulfilment and water delivery
     button:
       text: View All Services
       href: /services/

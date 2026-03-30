@@ -37,11 +37,16 @@ We make multiple deliveries weekly to major UK venues including NEC Birmingham, 
 
 We serve the entire UK with regular runs to:
 
-- Sheffield, Rotherham, Doncaster, Barnsley
-- Leeds, Manchester, Birmingham, London
-- Liverpool, Nottingham, Edinburgh
-- Norwich, Cambridge, Canterbury
-- NEC Birmingham, ExCel London, Manchester Central
+- Sheffield, Rotherham, Doncaster, Barnsley, Chesterfield
+- Leeds, Bradford, Huddersfield, Hull, York, Scarborough
+- Manchester, Stockport, Liverpool, Birkenhead, Blackpool
+- Birmingham, Coventry, Derby, Leicester, Nottingham
+- London, Greater London, Croydon, Windsor
+- Lincoln, Grimsby, Peterborough, Kings Lynn
+- Norwich, Cambridge, Canterbury, Rochester, Chatham
+- NEC Birmingham, ExCel London, Manchester Central, Telford Exhibition Centre
+
+A minimum spend is required to benefit from our delivery services.
 
 ### Contact
 
