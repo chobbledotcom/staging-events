@@ -95,6 +95,18 @@ nav {
   }
 }
 
+@include breakpoints.up("md") {
+  .design-system.horizontal-nav nav {
+    position: fixed;
+    top: 16px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: calc(100% - 32px);
+    max-width: 1200px;
+    z-index: 1000;
+  }
+}
+
 ol.breadcrumbs {
   font-family: var(--font-family-heading);
 }
