@@ -26,8 +26,8 @@ blocks:
     content: |
       We have proudly worked with some of the UK's leading charities and organisations, providing full event production, staging, PA systems, gantry hire and logistics for mass participation events nationwide.
     figure_type: image
-    figure_src: images/Festivals.jpg
-    figure_alt: Staging Events charity event
+    figure_src: images/2023-10-07-10.50.11-1.jpg
+    figure_alt: Memory Walk participants making heart shapes at a charity event
     button:
       text: Get in Touch
       href: /contact/
@@ -52,6 +52,17 @@ blocks:
         label: Event Coverage
       - value: "25+"
         label: Years Experience
+
+  # Event showcase
+  - type: image-background
+    full_width: true
+    parallax: true
+    image: images/2021-09-10-17.38.02.jpg
+    image_alt: Bhangra dancers performing on outdoor stage at a festival
+    content: |
+      ## Bringing Events to Life
+
+      From cultural festivals to charity walks, we deliver the production that makes your event unforgettable.
 
   # CTA
   - type: cta

@@ -35,8 +35,8 @@ blocks:
       href: /services/
       variant: secondary
     figure_type: image
-    figure_src: images/memory-walk-stage-and-van.jpg
-    figure_alt: Staging Events delivering equipment for a charity event
+    figure_src: images/singer-on-stage-microphone.jpg
+    figure_alt: Live performer on stage at a Staging Events production
 
   # Service blocks
   - type: features
