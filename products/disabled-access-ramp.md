@@ -30,6 +30,8 @@ eleventyNavigation:
 blocks:
   - type: split
     title: Disabled Access Ramp
+    reveal_content: left
+    reveal_figure: scale
     content: |-
       DDA-compliant disabled access ramps for stages and event platforms. Our ramps ensure wheelchair users and those with mobility needs can access your stage, presentation area or event platform safely. Compatible with all our stage systems including modular deck staging, event stages and trailer stages.
 

@@ -33,6 +33,8 @@ eleventyNavigation:
 blocks:
   - type: split
     title: DJ Trailer Stage
+    reveal_content: left
+    reveal_figure: scale
     content: |-
       A compact covered stage designed specifically for DJs, comperes and solo performers. With 3m x 4m of usable internal space and a Velcro front panel for easy branding, it provides a tidy, covered setup for outdoor events.
 

@@ -14,6 +14,7 @@ eleventyNavigation:
 blocks:
   - type: image-background
     full_width: true
+    parallax: true
     image: images/large-trussing.png
     image_alt: Start & Finish Gantries
     content: |-

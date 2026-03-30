@@ -13,6 +13,7 @@ eleventyNavigation:
 blocks:
   - type: image-background
     full_width: true
+    parallax: true
     image: images/choir-on-modular-stage.jpg
     image_alt: Stage hire in Rotherham
     content: |-
@@ -23,6 +24,7 @@ blocks:
   - type: split
     title: Your Local Event Hire Company
     reveal_content: left
+    reveal_figure: scale
     content: |
       Based at our **25,000 sq ft warehouse in Maltby**, we're proud to serve Rotherham and the surrounding areas with professional staging and event hire.
 
@@ -79,6 +81,9 @@ blocks:
 
   - type: split
     title: Popular Hire for Rotherham Events
+    reverse: true
+    reveal_content: right
+    reveal_figure: scale
     content: |
       Our most popular services for events in and around Rotherham include:
 

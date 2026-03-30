@@ -14,6 +14,7 @@ eleventyNavigation:
 blocks:
   - type: image-background
     full_width: true
+    parallax: true
     image: images/stage-trussing.jpeg
     image_alt: Stage Trussing
     content: |-

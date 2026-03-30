@@ -40,6 +40,7 @@ blocks:
 
   # Notable events
   - type: features
+    section_class: dark
     header_intro: |
       ## Notable Events
 
@@ -62,6 +63,7 @@ blocks:
   - type: split
     title: What We Offer
     reveal_content: left
+    reveal_figure: scale
     content: |
       - **Stage hire** - Modular stages from 3x3m to 8x6m trailer stages and marquees
       - **PA systems** - Professional sound for events of all sizes

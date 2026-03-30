@@ -30,6 +30,8 @@ eleventyNavigation:
 blocks:
   - type: split
     title: Lectern Hire
+    reveal_content: left
+    reveal_figure: scale
     content: |-
       Professional lectern hire for conferences, corporate events, award ceremonies, charity events and presentations. Our lecterns pair with our stage hire and PA systems for a complete presentation setup. Microphone and custom branding options available.
 

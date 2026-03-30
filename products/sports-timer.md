@@ -30,6 +30,8 @@ eleventyNavigation:
 blocks:
   - type: split
     title: Sports Timer Hire
+    reveal_content: left
+    reveal_figure: scale
     content: |-
       Professional digital sports timers for charity runs, marathons, fun runs and mass participation events. High-visibility LED displays show countdown or elapsed time, visible to participants and spectators at your start and finish line. Pairs with our range of trussing and inflatable gantries for a complete race setup.
 

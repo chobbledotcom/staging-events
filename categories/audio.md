@@ -12,6 +12,7 @@ eleventyNavigation:
 blocks:
   - type: image-background
     full_width: true
+    parallax: true
     image: images/Festivals.jpg
     image_alt: PA Systems
     content: |-
