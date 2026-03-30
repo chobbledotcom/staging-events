@@ -5,6 +5,8 @@ subtitle: Modular deck staging and trailer stages
 description: Stage hire services including modular deck staging, trailer stages and portable systems. Professional staging solutions for events UK-wide.
 header_image: images/choir-on-modular-stage.jpg
 featured: true
+redirect_from:
+  - /hire/
 eleventyNavigation:
   key: Staging
   parent: Services

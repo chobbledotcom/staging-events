@@ -34,16 +34,16 @@ blocks:
     items:
       - icon: "mdi:truck-delivery"
         title: Logistics
-        description: Delivery of event equipment anywhere in the UK with dedicated drivers, company vehicles, same-day service and event delivery teams.
+        description: Delivery of event equipment anywhere in the UK with dedicated full-time drivers, our own vehicles and trailers, a network of couriers, same-day service and experienced event delivery teams.
       - icon: "mdi:package-variant-closed"
         title: Fulfilment
-        description: Charity fundraising pack fulfilment, newsletter and certificate mailings, marketing materials printing and distribution.
+        description: Charity fundraising pack fulfilment and dispatch, newsletter and certificate mailings, marketing materials printing and mailings.
       - icon: "mdi:warehouse"
         title: Storage
-        description: 25,000 sq ft warehouse in Rotherham with pallet services, forklift trucks, secure dedicated storage and inventory management.
+        description: 25,000 sq ft warehouse in Rotherham with pallet services, forklift trucks available, secure dedicated space allocation and stock management.
       - icon: "mdi:water"
         title: Water
-        description: Bottled water supply for events and festivals with wholesale options, charitable discounts and on-site distribution services.
+        description: Supply of bottled water for any event or festival at wholesale prices with charitable discounts available and on-the-day distribution and handling.
 
   # CTA
   - type: cta

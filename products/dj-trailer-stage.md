@@ -14,14 +14,16 @@ features:
   - Suitable for solo gigs
   - Mobile and compact
 specs:
-  - name: Size
-    value: 3m x 3m
-  - name: Type
-    value: Covered Trailer Stage
-  - name: Branding
-    value: Custom options available
+  - name: External Size
+    value: 5m x 4m
+  - name: Internal Space
+    value: 3m x 4m
+  - name: Horizontal Banner
+    value: 2000mm x 500mm
+  - name: Side Banners
+    value: 2500mm x 600mm each
   - name: Best For
-    value: DJ sets, solo gigs
+    value: DJ sets, solo gigs, comperes
 gallery:
   - images/memory-walk-stage-setup.jpg
   - images/memory-walk-stage-close-up.jpg
@@ -72,14 +74,14 @@ blocks:
         description: ""
   - type: stats
     items:
-      - value: 3m x 3m
-        label: Size
-      - value: Covered Trailer Stage
-        label: Type
-      - value: Custom options available
-        label: Branding
-      - value: DJ sets, solo gigs
-        label: Best For
+      - value: 5m x 4m
+        label: External Size
+      - value: 3m x 4m
+        label: Internal Space
+      - value: 2000 x 500mm
+        label: Horizontal Banner
+      - value: 2500 x 600mm
+        label: Side Banners
   - type: split
     reverse: true
     title: Easy Branding
@@ -89,6 +91,8 @@ blocks:
     figure_html: |-
       ### Branding Options
 
+      - **Horizontal banner** -- 2000mm x 500mm across top
+      - **Side banners** -- 2500mm x 600mm each
       - **Front panel** -- Velcro-attached custom artwork
       - **Event logos and sponsor branding**
       - **Artwork advice from our team**
