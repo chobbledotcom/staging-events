@@ -18,11 +18,60 @@ blocks:
 
       Stage hire, PA systems and event infrastructure. Full production and logistics services nationwide from our 25,000 sq ft warehouse.
 
+  # Services intro
+  - type: split
+    title: Full Production, Equipment Hire and Logistics
+    reveal_content: left
+    content: |
+      Staging Events are a full production, equipment hire and logistics company covering all of the UK.
+
+      We specialise in the delivery of mass participation events for the charity sector, including sponsored walks and running events. Some of the events we currently cover include [Alzheimer's Society Memory Walk](/clients/alzheimers-society/), which had 110,000 participants over a 7-week period, and [Prostate Cancer March for Men](/clients/prostate-cancer-uk/).
+
+      We cover every aspect of any event — from the procurement of equipment, storage, management and delivery. That's simply what we do! We also offer [event staff and crew](/about/) for the delivery of events and the setup of event villages. We have in-house equipment to hire, including [stage hire](/categories/staging/), [PA hire](/categories/audio/), compere/MC services, [generator hire](/categories/power/) and [gantry hire](/categories/gantries/) for any event, whether it's a park run or a marathon — we can deliver and manage it all. We can also provide bottled water and delivery to site at a very competitive rate; last year alone, we handled in the region of 120,000 bottles of water.
+
+      Working in this industry for a number of years, we are also in a position to offer expert advice and support for any kind of event. Please give one of our expert event coordinators a call on [08454680610](tel:08454680610).
+    button:
+      text: View All Services
+      href: /services/
+      variant: secondary
+    figure_type: image
+    figure_src: images/memory-walk-stage-and-van.jpg
+    figure_alt: Staging Events delivering equipment for a charity event
+
+  # Service blocks
+  - type: features
+    section_class: alt
+    header_intro: |
+      ## What We Do
+    items:
+      - icon: "mdi:theater"
+        title: Hire
+        description: >-
+          We offer [stage hire](/categories/staging/), compere/MC services,
+          [truss hire](/categories/trussing/), [generator hire](/categories/power/),
+          [PA](/categories/audio/), and [tables and chair hire](/categories/event-infrastructure/).
+      - icon: "mdi:warehouse"
+        title: Store
+        description: >-
+          Our state-of-the-art warehouse facilities offer a secure, managed
+          storage solution — from one pallet to 10,000 sq ft.
+      - icon: "mdi:package-variant-closed"
+        title: Fulfilment
+        description: >-
+          It's the fulfilment services that make everything come together
+          for your convention or event. We can help with
+          [fulfilment](/services/).
+      - icon: "mdi:truck-delivery"
+        title: Logistics
+        description: >-
+          Our [logistics](/delivery/) expertise can help give your event the
+          edge on competitors.
+
   # Featured products slider
   - type: items
     collection: featuredProducts
     intro: |
-      ## Our Services
+      ## Our Equipment
     horizontal: true
 
   # Stats
@@ -58,28 +107,6 @@ blocks:
       - icon: "mdi:heart-pulse"
         title: Epilepsy UK
         description: Nationwide event support
-
-  # Services split
-  - type: split
-    title: What We Offer
-    reveal_content: left
-    reveal_figure: scale
-    content: |
-      - **Stage hire** - Modular stages from 3x3m to 8x6m trailer stages and marquees
-      - **PA systems** - Professional sound for events of all sizes
-      - **Event infrastructure** - Festoon lighting, crowd barriers, generators, lecterns, tables and chairs
-      - **Gantry hire** - Start/finish gantries for mass participation events
-      - **Trussing** - Professional Litec rigging equipment
-      - **MC and compere services** - Experienced presenters for your event
-      - **Event staffing** - Experienced crew nationwide
-      - **Logistics** - Storage from one pallet to 10,000 sq ft, fulfilment and water delivery
-    button:
-      text: View All Services
-      href: /services/
-      variant: secondary
-    figure_type: image
-    figure_src: images/memory-walk-stage-and-van.jpg
-    figure_alt: Staging Events service delivery
 
   # CTA
   - type: cta
