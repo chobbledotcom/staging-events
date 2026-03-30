@@ -12,6 +12,7 @@ eleventyNavigation:
 blocks:
   - type: image-background
     full_width: true
+    parallax: true
     image: images/fan-party-stage-crowd.jpg
     image_alt: Generator Hire
     content: |-

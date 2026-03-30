@@ -11,6 +11,7 @@ blocks:
   - type: hero
     full_width: true
     class: gradient
+    badge: Get in Touch
     title: Contact Us
     lead: >-
       Connect with our event specialists.
@@ -43,6 +44,7 @@ blocks:
   # Image background
   - type: image-background
     full_width: true
+    parallax: true
     image: images/inflatable-start-gantry-charity.jpg
     image_alt: Staging Events event setup
     content: |

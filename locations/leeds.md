@@ -13,6 +13,7 @@ eleventyNavigation:
 blocks:
   - type: image-background
     full_width: true
+    parallax: true
     image: images/Festivals.jpg
     image_alt: Stage hire in Leeds
     content: |-
@@ -23,6 +24,7 @@ blocks:
   - type: split
     title: Event Hire for Leeds
     reveal_content: left
+    reveal_figure: scale
     content: |
       We deliver professional staging and event hire across Leeds and West Yorkshire, from **Roundhay Park** to **Millennium Square** and beyond.
 

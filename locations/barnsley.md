@@ -13,6 +13,7 @@ eleventyNavigation:
 blocks:
   - type: image-background
     full_width: true
+    parallax: true
     image: images/choir-on-modular-stage.jpg
     image_alt: Stage hire in Barnsley
     content: |-
@@ -23,6 +24,7 @@ blocks:
   - type: split
     title: Event Hire Across Barnsley
     reveal_content: left
+    reveal_figure: scale
     content: |
       From **Locke Park** events to town centre celebrations, we deliver professional staging and event equipment across Barnsley.
 

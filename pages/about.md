@@ -11,15 +11,26 @@ blocks:
   - type: hero
     full_width: true
     class: gradient
+    badge: Est. 1999
     title: About Staging Events
     lead: >-
       For more than 25 years we have been one of the UK's leading staging and
       event hire companies, providing production and logistics nationwide.
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
+        size: lg
+      - text: View Services
+        href: /services/
+        variant: secondary
+        size: lg
 
   # About split
   - type: split
     title: Our Background
     reveal_content: left
+    reveal_figure: scale
     content: |
       Established in 1999, we operate from a 25,000 sq ft warehouse in Rotherham, strategically positioned near the A1, M1 and M18 for nationwide coverage. We own and operate 95% of the equipment we hire out.
 
@@ -57,6 +68,7 @@ blocks:
   # Image background
   - type: image-background
     full_width: true
+    parallax: true
     image: images/Hydration-Station.jpg
     image_alt: Hydration station at an event
     content: |

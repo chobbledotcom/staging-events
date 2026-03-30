@@ -13,6 +13,7 @@ eleventyNavigation:
 blocks:
   - type: image-background
     full_width: true
+    parallax: true
     image: images/Festivals.jpg
     image_alt: Stage hire in Doncaster
     content: |-
@@ -23,6 +24,7 @@ blocks:
   - type: split
     title: Event Equipment Hire in Doncaster
     reveal_content: left
+    reveal_figure: scale
     content: |
       We provide full event hire services across Doncaster and the surrounding area, from **Doncaster Racecourse** events to community festivals in **Sandall Park**.
 

@@ -12,6 +12,7 @@ eleventyNavigation:
 blocks:
   - type: image-background
     full_width: true
+    parallax: true
     image: images/choir-on-modular-stage.jpg
     image_alt: Stage Hire
     content: |-

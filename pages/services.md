@@ -10,6 +10,7 @@ blocks:
   # Hero
   - type: image-background
     full_width: true
+    parallax: true
     image: images/memory-walk-stage-and-van.jpg
     image_alt: Staging Events services
     content: |
@@ -27,6 +28,7 @@ blocks:
 
   # Additional services
   - type: features
+    section_class: dark
     header_intro: |
       ## Additional Services
 
@@ -44,6 +46,12 @@ blocks:
       - icon: "mdi:water"
         title: Water
         description: Bottled water supply for events and festivals with wholesale options, charitable discounts and on-site distribution services.
+
+  # View locations link
+  - type: link-button
+    text: View All Locations
+    href: /locations/
+    variant: ghost
 
   # CTA
   - type: cta

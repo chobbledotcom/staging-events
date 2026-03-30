@@ -13,6 +13,7 @@ eleventyNavigation:
 blocks:
   - type: image-background
     full_width: true
+    parallax: true
     image: images/band-on-trailer-stage.jpg
     image_alt: Stage hire in Sheffield
     content: |-
@@ -23,6 +24,7 @@ blocks:
   - type: split
     title: Event Hire Across Sheffield
     reveal_content: left
+    reveal_figure: scale
     content: |
       From **Endcliffe Park to Don Valley**, we deliver professional staging and event equipment across Sheffield and the surrounding area.
 
