@@ -14,7 +14,7 @@ blocks:
     video_title: Staging Events production
     aspect_ratio: "21/9"
     content: |
-      ## Staging, Event Hire and Production across the UK
+      # Staging, Event Hire and Production across the UK
 
       Stage hire, PA systems and event infrastructure. Full production and logistics services nationwide from our 25,000 sq ft warehouse.
 
