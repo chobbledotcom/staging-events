@@ -30,6 +30,8 @@ eleventyNavigation:
 blocks:
   - type: split
     title: Sandbags & Weights
+    reveal_content: left
+    reveal_figure: scale
     content: |-
       Professional ballast and stabilisation for event structures including stages, gantries, marquees and trussing. Essential for setups on hard standing, tarmac and concrete surfaces where ground anchors cannot be used. We supply adequate ballast with all relevant equipment hires to meet health and safety requirements.
 
