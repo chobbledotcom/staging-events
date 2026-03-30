@@ -18,7 +18,7 @@ specs:
   - name: Size
     value: 1m x 2m sections
   - name: Height Options
-    value: 200mm, 540mm, 725mm
+    value: 200mm, 570mm, 725mm
   - name: Custom Heights
     value: Available for additional fees
   - name: Popular Configurations
@@ -86,7 +86,7 @@ blocks:
     items:
       - value: 1m x 2m sections
         label: Size
-      - value: 200mm, 540mm, 725mm
+      - value: 200mm, 570mm, 725mm
         label: Height Options
       - value: Available for additional fees
         label: Custom Heights
@@ -140,7 +140,7 @@ The Intelistage system pioneered modular stage design. Each 1m x 2m deck section
 ### Available Heights
 
 - 200mm (low profile)
-- 540mm (standard)
+- 570mm (standard)
 - 725mm (raised)
 - Custom heights available for additional fees
 
