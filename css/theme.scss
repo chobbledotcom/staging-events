@@ -50,7 +50,8 @@
   --border-radius: 8px;
   --box-shadow: 0 4px 12px rgba(0, 0, 0, 0.18);
 
-  --font-family-heading: "Barlow", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-family-heading:
+    "Barlow", "Helvetica Neue", Helvetica, Arial, sans-serif;
   --font-family-body: "Helvetica Neue", Helvetica, Arial, sans-serif;
   --line-height: 1.5;
   --link-decoration: none;
@@ -109,4 +110,15 @@ nav {
 
 ol.breadcrumbs {
   font-family: var(--font-family-heading);
+}
+
+.image-background h1,
+.image-background p {
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(4px);
+  padding: 0.5rem 1rem;
+  border-radius: var(--border-radius);
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
 }
