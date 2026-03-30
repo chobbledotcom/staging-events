@@ -14,7 +14,7 @@ blocks:
     image: images/memory-walk-stage-and-van.jpg
     image_alt: Staging Events delivery nationwide
     content: |-
-      ## Event Hire Locations
+      # Event Hire Locations
 
       Local staging and event hire across Yorkshire and beyond
 

@@ -8,12 +8,14 @@ eleventyNavigation:
   order: 3
 blocks:
   # Hero
-  - type: hero
+  - type: image-background
     full_width: true
-    class: gradient
-    badge: Trusted Partners
-    title: Our Clients
-    lead: >-
+    parallax: true
+    image: images/charity-stage-with-inflatable-gantry.jpg
+    image_alt: Charity event with inflatable gantry
+    content: |
+      # Our Clients
+
       We work with a wide range of charity organisations and events.
 
   # Client list
