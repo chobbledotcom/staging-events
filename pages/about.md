@@ -78,12 +78,23 @@ blocks:
       - value: "70%"
         label: Generator Weight Reduction
 
-  # Image background
+  # Indoor performance
   - type: image-background
     full_width: true
     parallax: true
-    image: images/Hydration-Station.jpg
-    image_alt: Hydration station at an event
+    image: images/2024-02-17-18.42.52.jpg
+    image_alt: Dramatic performance inside a gothic church with purple lighting
+    content: |
+      ## From Intimate Venues to Open-Air Festivals
+
+      We provide production for every setting — from atmospheric indoor performances to large-scale outdoor events.
+
+  # Dance performance
+  - type: image-background
+    full_width: true
+    parallax: true
+    image: images/blue-lit-dance-performance.jpg
+    image_alt: Dance troupe performing under blue stage lighting
     content: |
       ## Sustainability Commitment
 

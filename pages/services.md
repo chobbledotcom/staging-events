@@ -11,8 +11,8 @@ blocks:
   - type: image-background
     full_width: true
     parallax: true
-    image: images/memory-walk-stage-and-van.jpg
-    image_alt: Staging Events services
+    image: images/fire-breather-on-stage.jpg
+    image_alt: Fire breather performing on stage at an outdoor event
     content: |
       # Our Services
 
@@ -46,6 +46,17 @@ blocks:
       - icon: "mdi:water"
         title: Water
         description: Supply of bottled water for any event or festival at wholesale prices with charitable discounts available and on-the-day distribution and handling.
+
+  # Indoor staging showcase
+  - type: image-background
+    full_width: true
+    parallax: true
+    image: images/2017-07-16-07.29.25.jpg
+    image_alt: Portable modular stage set up in a school sports hall
+    content: |
+      ## Indoor and Outdoor Solutions
+
+      From school halls to festival fields, our modular staging adapts to any venue.
 
   # View locations link
   - type: link-button
