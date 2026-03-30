@@ -21,7 +21,7 @@ specs:
   - name: Capacity
     value: 3-piece band and 12 singers
   - name: Height Options
-    value: 200mm, 540mm, 725mm
+    value: 200mm, 570mm, 725mm
   - name: System
     value: Intelistage portable
   - name: Weight Capacity
@@ -74,7 +74,7 @@ blocks:
         label: Hire Price
       - value: 3-piece band and 12 singers
         label: Capacity
-      - value: 200mm, 540mm, 725mm
+      - value: 200mm, 570mm, 725mm
         label: Height Options
       - value: Intelistage portable
         label: System
@@ -110,7 +110,7 @@ Custom branding options are available. Side PA wings are available from £199 an
 
 ### Setup
 
-Setup takes approximately 1.5 hours on grass or hard surfaces, indoors or outdoors. The stage is available at standard heights of 200mm, 540mm and 725mm, with custom heights possible on request.
+Setup takes approximately 1.5 hours on grass or hard surfaces, indoors or outdoors. The stage is available at standard heights of 200mm, 570mm and 725mm, with custom heights possible on request.
 
 ### What's Included
 

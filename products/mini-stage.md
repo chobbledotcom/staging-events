@@ -21,7 +21,7 @@ specs:
   - name: Capacity
     value: DJ, solo or up to 3-piece band
   - name: Height Options
-    value: 200mm, 540mm, 725mm
+    value: 200mm, 570mm, 725mm
   - name: System
     value: 1m x 2m deck sections
   - name: Insurance
@@ -74,7 +74,7 @@ blocks:
         label: Hire Price
       - value: DJ, solo or up to 3-piece band
         label: Capacity
-      - value: 200mm, 540mm, 725mm
+      - value: 200mm, 570mm, 725mm
         label: Height Options
       - value: 1m x 2m deck sections
         label: System

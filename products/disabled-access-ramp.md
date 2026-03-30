@@ -88,7 +88,7 @@ Disabled access ramp hire for events across the UK. Our DDA-compliant ramps prov
 
 ### Compatible With All Our Stages
 
-Our access ramps work with every stage system in our range, including modular deck staging at 200mm, 540mm and 725mm heights, event stages, and trailer stages. We match the ramp gradient and handrail configuration to your stage height and layout.
+Our access ramps work with every stage system in our range, including modular deck staging at 200mm, 570mm and 725mm heights, event stages, and trailer stages. We match the ramp gradient and handrail configuration to your stage height and layout.
 
 ### What's Included
 
