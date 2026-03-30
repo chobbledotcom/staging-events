@@ -1,27 +1,27 @@
 ---
 title: PA System
-subtitle: 6K full rig with mixers, microphones and monitors
-description: Professional PA system hire including 6K full rig with mixers, microphones and monitors. Sound solutions for events UK-wide.
+subtitle: Bespoke PA hire with speakers, mixers, microphones and monitors
+description: Professional PA system hire with a massive range of speakers, monitors, CD players, mixing desks and microphones bespoke to your needs. Sound solutions for events UK-wide.
 header_image: images/solo-performer-on-lit-stage.jpg
 categories:
   - audio
 price: Contact for pricing
 features:
-  - 6K full rig
-  - Professional mixers included
-  - Microphones provided
-  - Monitor speakers included
+  - Massive range of PA equipment
+  - Bespoke to your needs
+  - Speakers, monitors and CD players
+  - Mixing desks and microphones
   - Suitable for outdoor events
   - Professional sound quality
 specs:
   - name: System
-    value: 6K Full Rig
-  - name: Mixers
+    value: Bespoke to your needs
+  - name: Speakers & Monitors
+    value: Included
+  - name: Mixing Desks
     value: Included
   - name: Microphones
-    value: Included
-  - name: Monitors
-    value: Included
+    value: Wired and wireless options
 gallery:
   - images/Festivals.jpg
   - images/performers-with-pa-speakers.jpg
@@ -33,7 +33,7 @@ blocks:
   - type: split
     title: PA System
     content: |-
-      Our professional 6K full audio rig comes complete with 2 monitors, CD players, an 8-channel mixing desk and a choice of wired and wireless microphones. Every hire includes a DJ or sound engineer as part of the cost, so you get expert sound management from setup to breakdown with no hidden extras. Additional equipment including wireless microphones, disco lights and speaker stands can be added to scale the system for any venue.
+      We have a massive range of PA which we can bespoke to your needs, including speakers, monitors, CD players, mixing desks and microphones. Additional equipment including wireless microphones, disco lights and speaker stands can be added to scale the system for any venue.
 
       **Contact for pricing**
     figure_type: image
@@ -55,16 +55,16 @@ blocks:
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: 6K full rig
+        title: Massive range of PA equipment
         description: ""
       - icon: mdi:check-circle
-        title: Professional mixers included
+        title: Bespoke to your needs
         description: ""
       - icon: mdi:check-circle
-        title: Microphones provided
+        title: Speakers, monitors and CD players
         description: ""
       - icon: mdi:check-circle
-        title: Monitor speakers included
+        title: Mixing desks and microphones
         description: ""
       - icon: mdi:check-circle
         title: Suitable for outdoor events
@@ -74,14 +74,14 @@ blocks:
         description: ""
   - type: stats
     items:
-      - value: 6K Full Rig
+      - value: Bespoke
         label: System
-      - value: Included
-        label: Mixers
-      - value: Included
-        label: Microphones
-      - value: Included
-        label: Monitors
+      - value: Speakers & Monitors
+        label: Included
+      - value: Mixing Desks
+        label: Included
+      - value: Microphones
+        label: Included
   - type: cta
     title: Hire the PA System
     description: Contact our team for availability and pricing.
@@ -92,20 +92,18 @@ blocks:
       size: lg
 ---
 
-Our professional 6K full audio rig covers events from corporate presentations to outdoor festivals. Every hire includes a DJ or sound engineer as part of the cost -- not as an add-on -- so you get expert sound management from setup through to breakdown.
-
-The standard package covers most events, and additional equipment is available if you need to scale up.
+We have a massive range of PA which we can bespoke to your needs, covering events from corporate presentations to outdoor festivals. We can scale the system to suit your venue and audience.
 
 ### What's Included
 
-The standard PA system hire package includes:
+Our PA system hire includes:
 
-- 2 monitor speakers for on-stage foldback, ensuring performers and speakers can hear themselves clearly
+- Speakers for front-of-house coverage
+- Monitor speakers for on-stage foldback, ensuring performers and speakers can hear themselves clearly
 - CD players for pre-recorded music and backing tracks
-- 8-channel mixing desk for full control over audio levels and inputs
-- 2 wired microphones for reliable, interference-free audio
-- Choice of 2 handheld wireless microphones, or 1 handheld plus 1 head/lapel microphone for presenters who need to move freely
-- DJ or sound engineer to manage the system throughout your event
+- Mixing desks for full control over audio levels and inputs
+- Wired microphones for reliable, interference-free audio
+- Choice of handheld wireless microphones, or headset/lapel microphones for presenters who need to move freely
 
 ### Additional Equipment
 
