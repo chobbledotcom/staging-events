@@ -8,9 +8,10 @@ eleventyNavigation:
   order: 1
 blocks:
   # Video hero
-  - type: video-background
+  - type: bunny-video-background
     full_width: true
-    video_id: "https://player.mediadelivery.net/embed/587812/a49fb0e3-0c79-4956-b0db-906d611b395d?autoplay=true&loop=true&muted=true&preload=true&responsive=true"
+    thumbnail_url: "/assets/homepage-video-thumb.jpg"
+    video_url: "https://player.mediadelivery.net/embed/587812/a49fb0e3-0c79-4956-b0db-906d611b395d?autoplay=true&loop=true&muted=true&preload=true&responsive=true"
     video_title: Staging Events production
     aspect_ratio: "21/9"
     content: |
