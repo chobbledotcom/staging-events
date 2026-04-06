@@ -112,19 +112,31 @@ ol.breadcrumbs {
   font-family: var(--font-family-heading);
 }
 
-.image-background h1,
-.image-background h2,
-.image-background h3,
-.image-background p,
-.video-background h1,
-.video-background h2,
-.video-background h3,
-.video-background p {
-  background: rgba(0, 0, 0, 0.4);
-  backdrop-filter: blur(4px);
-  padding: 0.5rem 1rem;
-  border-radius: var(--border-radius);
-  width: fit-content;
-  margin-left: auto;
-  margin-right: auto;
+.design-system {
+  .image-background h1,
+  .image-background h2,
+  .image-background h3,
+  .image-background p,
+  .video-background h1,
+  .video-background h2,
+  .video-background h3,
+  .video-background p {
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(4px);
+    padding: 0.5rem 1rem;
+    border-radius: var(--border-radius);
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .video-background > figure {
+    background-color: transparent;
+    background-image: linear-gradient(180deg, #6ec1e4 0%, #4054b2 100%);
+    opacity: 0.45;
+    transition:
+      background 0.3s,
+      border-radius 0.3s,
+      opacity 0.3s;
+  }
 }

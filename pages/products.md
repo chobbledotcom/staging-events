@@ -19,6 +19,7 @@ blocks:
 
   - type: items
     collection: products
+    masonry: true
 
   - type: link-button
     text: View by Category
