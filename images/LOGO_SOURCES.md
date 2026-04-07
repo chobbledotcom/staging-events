@@ -34,15 +34,11 @@ official website.
 client are actually Epilepsy Society — the page has been renamed to
 `clients/epilepsy-society.md` to match.)
 
-## The Children's Hospital Charity (Sheffield) — `childrens-hospital-charity-logo.jpg`
+## Sheffield Children's Hospital Charity — `childrens-hospital-charity-logo.jpg`
 
-- **Now**: 1500×1060 — colour wordmark with Theo the bear
-- Source: designer's portfolio (debutart.com), original file 3508×2480
-- Note: this is the older "The Children's Hospital Charity" wordmark.
-  The charity has since rebranded as **Sheffield Children's Hospital
-  Charity** (with a heart over the wordmark) — when the higher-resolution
-  Sheffield-prefixed version becomes available, the file should be
-  updated to match.
+- **Now**: 1200×900 — current "Sheffield Children's Hospital Charity"
+  wordmark and Theo the bear lockup on cream background
+- Source: https://sheffieldchildrens.org/wp-content/uploads/2025/05/Untitled-design-1.jpg
 
 ## Pancreatic Cancer UK — `pancreatic-cancer-uk-logo.jpg`
 
