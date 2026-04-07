@@ -2,13 +2,13 @@
 title: "Prostate Cancer UK"
 subtitle: "March for Men"
 description: "Full production and logistics support for Prostate Cancer UK's March for Men events across the UK."
-header_image: images/prostate-cancer-uk-logo.jpg
+header_image: images/prostate-cancer-uk-march-for-men-stage.jpg
 blocks:
   - type: image-background
     container_width: full
     parallax: true
-    image: images/prostate-cancer-uk-logo.jpg
-    image_alt: Prostate Cancer UK March for Men
+    image: images/prostate-cancer-uk-march-for-men-stage.jpg
+    image_alt: Prostate Cancer UK March for Men stage
     content: |
       # Prostate Cancer UK
 
@@ -24,8 +24,18 @@ blocks:
 
       Our team delivers end-to-end event production including staging, sound systems, gantry hire for start and finish lines, and comprehensive logistics management across multiple event locations.
     figure_type: image
-    figure_src: images/prostate-cancer-uk-logo.jpg
-    figure_alt: Prostate Cancer UK logo
+    figure_src: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
+    figure_alt: Prostate Cancer UK March for Men start gantry
+
+  - type: split
+    title: Stage, Sound and LED
+    reverse: true
+    reveal_content: right
+    content: |
+      We deliver the full event production package — main stage, PA, LED screen and start/finish gantries — branded throughout for Prostate Cancer UK. Our crew rigs and operates the equipment at each location so the day runs to schedule.
+    figure_type: image
+    figure_src: images/prostate-cancer-uk-march-for-men-led-screen.jpg
+    figure_alt: LED screen at Prostate Cancer UK March for Men
 
   - type: icon_links
     section_class: alt

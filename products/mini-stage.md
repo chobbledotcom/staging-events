@@ -26,6 +26,11 @@ specs:
     value: 1m x 2m deck sections
   - name: Insurance
     value: £5 million public liability
+gallery:
+  - images/performer-jumping-mini-stage.jpg
+  - images/acoustic-duo-mini-stage-field.jpg
+  - images/solo-performer-on-lit-stage.jpg
+  - images/singer-on-stage-microphone.jpg
 eleventyNavigation:
   key: Mini Stage 3x3m
   parent: Staging
