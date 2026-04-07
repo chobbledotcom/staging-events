@@ -24,6 +24,8 @@ specs:
     value: UK-wide
 gallery:
   - images/event-stage-setup.jpg
+  - images/fan-party-stage-crowd.jpg
+  - images/town-centre-stage-rotherham.jpg
 eleventyNavigation:
   key: Electrical Distribution Hire
   parent: Power

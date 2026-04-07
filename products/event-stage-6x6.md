@@ -26,6 +26,11 @@ specs:
     value: Intelistage portable
   - name: Weight Capacity
     value: 900 kg per square metre
+gallery:
+  - images/fan-party-large-stage.jpg
+  - images/band-on-trussed-stage-night.jpg
+  - images/band-trussed-stage-spotlit-side-view.jpg
+  - images/cathedral-concert-purple-lighting.jpg
 eleventyNavigation:
   key: Event Stage 6x6m
   parent: Staging

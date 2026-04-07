@@ -24,6 +24,8 @@ specs:
     value: UK-wide
 gallery:
   - images/prostate-cancer-uk-march-for-men-start-gantry.jpg
+  - images/memory-walk-crowd-with-barriers.jpg
+  - images/memory-walk-stage-and-pa.jpg
 eleventyNavigation:
   key: Sports Timer Hire
   parent: Event Infrastructure

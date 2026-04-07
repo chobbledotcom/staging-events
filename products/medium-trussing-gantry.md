@@ -2,7 +2,7 @@
 title: Medium Trussing Gantry
 subtitle: Start and finish gantry for events
 description: Medium trussing gantry hire for charity runs, marathons and events. Custom branding available with 300gsm PVC Mesh.
-header_image: images/medium-trussing.png
+header_image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
 categories:
   - gantries
 price: From £495
@@ -22,6 +22,8 @@ specs:
   - name: Side Leg Panels
     value: 3 x 0.29m (£15.32 each)
 gallery:
+  - images/prostate-cancer-uk-march-for-men-start-gantry.jpg
+  - images/memory-walk-stage-and-pa.jpg
   - images/medium-trussing.png
 eleventyNavigation:
   key: Medium Trussing Gantry
@@ -34,8 +36,8 @@ blocks:
 
       **From £495**
     figure_type: image
-    figure_src: images/medium-trussing.png
-    figure_alt: Medium Trussing Gantry
+    figure_src: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
+    figure_alt: Medium trussing gantry at a charity walk start line
     button:
       text: Get a Quote
       href: /contact/
@@ -43,7 +45,12 @@ blocks:
   - type: gallery
     section_class: alt
     items:
+      - image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
+        caption: At the start line of a March for Men event
+      - image: images/memory-walk-stage-and-pa.jpg
+        caption: Gantry, stage and PA at an Alzheimer's Society Memory Walk
       - image: images/medium-trussing.png
+        caption: Specifications and dimensions
   - type: content
   - type: features
     section_class: alt

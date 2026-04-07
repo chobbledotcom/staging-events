@@ -24,6 +24,8 @@ specs:
     value: All stage systems
 gallery:
   - images/choir-on-modular-stage.jpg
+  - images/modular-stage-school-sports-hall.jpg
+  - images/memory-walk-stage-and-pa.jpg
 eleventyNavigation:
   key: Disabled Access Ramp
   parent: Event Infrastructure

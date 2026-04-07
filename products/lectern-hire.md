@@ -24,6 +24,8 @@ specs:
     value: UK-wide
 gallery:
   - images/exhibition-banner-stands.jpg
+  - images/indoor-venue-stage-setup.jpg
+  - images/cathedral-concert-purple-lighting.jpg
 eleventyNavigation:
   key: Lectern Hire
   parent: Event Infrastructure

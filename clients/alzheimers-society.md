@@ -2,13 +2,13 @@
 title: "Alzheimer's Society"
 subtitle: "Memory Walk"
 description: "Event production and logistics for Alzheimer's Society Memory Walk events, supporting 110,000 participants across a 7-week nationwide programme."
-header_image: images/alzheimers-society-logo.jpg
+header_image: images/alzheimers-memory-walk-stage-santander.jpg
 blocks:
   - type: image-background
     container_width: full
     parallax: true
-    image: images/alzheimers-society-logo.jpg
-    image_alt: Alzheimer's Society Memory Walk
+    image: images/alzheimers-memory-walk-crowd-heart-hands.jpg
+    image_alt: Alzheimer's Society Memory Walk participants forming heart hands
     content: |
       # Alzheimer's Society
 
@@ -36,8 +36,39 @@ blocks:
 
       Our services include stage hire, PA systems, start/finish gantries, bottled water supply, event staffing, and full logistics coordination for each venue.
     figure_type: image
-    figure_src: images/alzheimers-society-logo.jpg
-    figure_alt: Alzheimer's Society logo
+    figure_src: images/alzheimers-memory-walk-stage-santander.jpg
+    figure_alt: Alzheimer's Society Memory Walk stage with Santander branding
+
+  - type: split
+    title: On the Ground at Memory Walk
+    reverse: true
+    reveal_content: right
+    content: |
+      From bottled water and rehydration stations to start lines, finish gantries, stages and PA, our crew handles every part of the production so the focus stays on the participants.
+
+      Our team supports each Memory Walk venue, working alongside the Alzheimer's Society team to deliver a smooth, safe and uplifting day out for thousands of walkers.
+    figure_type: image
+    figure_src: images/staging-events-team-alzheimers-memory-walk.jpg
+    figure_alt: Staging Events crew at an Alzheimer's Society Memory Walk
+
+  - type: split
+    title: Hydration and Welfare
+    reveal_content: left
+    content: |
+      Mass participation walks need reliable hydration. We supply branded rehydration stations and bottled water distribution points across each route, alongside the welfare infrastructure required to keep large numbers of walkers safe.
+    figure_type: image
+    figure_src: images/rehydration-station-alzheimers-society.jpg
+    figure_alt: Alzheimer's Society branded rehydration station
+
+  - type: image-background
+    container_width: full
+    parallax: true
+    image: images/alzheimers-memory-walk-memory-tree.jpg
+    image_alt: Memory tree at an Alzheimer's Society Memory Walk
+    content: |
+      ## A flagship UK fundraiser
+
+      Tens of thousands of walkers honour their loved ones at Memory Walk events across the country.
 
   - type: icon_links
     section_class: alt

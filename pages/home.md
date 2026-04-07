@@ -103,10 +103,10 @@ blocks:
         title: Prostate Cancer March for Men
         description: Full production and logistics support
       - icon: "mdi:hospital-building"
-        title: The Children's Hospital Charity
+        title: Sheffield Children's Hospital Charity
         description: Event hire and production services
       - icon: "mdi:heart-pulse"
-        title: Epilepsy UK
+        title: Epilepsy Society
         description: Nationwide event support
 
   # CTA

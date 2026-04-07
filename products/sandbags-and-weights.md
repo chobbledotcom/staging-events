@@ -24,6 +24,8 @@ specs:
     value: UK-wide
 gallery:
   - images/event-stage-setup.jpg
+  - images/mobile-trailer-stage-with-barriers.jpg
+  - images/stage-with-gazebo-and-barriers.jpg
 eleventyNavigation:
   key: Sandbags & Weights
   parent: Event Infrastructure

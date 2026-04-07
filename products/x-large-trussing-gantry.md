@@ -2,7 +2,7 @@
 title: X-Large Trussing Gantry
 subtitle: Our largest trussing gantry for major events
 description: X-Large trussing gantry hire for major charity runs, marathons and large-scale events. Custom branding available with 300gsm PVC Mesh.
-header_image: images/x-large-trussing-gantry-diagram.png
+header_image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
 categories:
   - gantries
 price: From £995
@@ -24,6 +24,8 @@ specs:
   - name: Side Leg Panels
     value: 3 x 0.29m (£15.32 each)
 gallery:
+  - images/prostate-cancer-uk-march-for-men-start-gantry.jpg
+  - images/memory-walk-stage-and-pa.jpg
   - images/x-large-trussing-gantry-diagram.png
 eleventyNavigation:
   key: X-Large Trussing Gantry
@@ -36,8 +38,8 @@ blocks:
 
       **From £995**
     figure_type: image
-    figure_src: images/x-large-trussing-gantry-diagram.png
-    figure_alt: X-Large Trussing Gantry
+    figure_src: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
+    figure_alt: Large branded trussing gantry at a March for Men event
     button:
       text: Get a Quote
       href: /contact/
@@ -45,7 +47,12 @@ blocks:
   - type: gallery
     section_class: alt
     items:
+      - image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
+        caption: At the start line of a March for Men event
+      - image: images/memory-walk-stage-and-pa.jpg
+        caption: Gantry, stage and PA at a Memory Walk event
       - image: images/x-large-trussing-gantry-diagram.png
+        caption: Specifications and dimensions
   - type: content
   - type: features
     section_class: alt

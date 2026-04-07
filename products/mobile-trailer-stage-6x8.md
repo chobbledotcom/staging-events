@@ -32,6 +32,11 @@ specs:
     value: 90 km/h
   - name: Setup Time
     value: 1 hour setup, 45 mins takedown
+gallery:
+  - images/mobile-trailer-stage-with-barriers.jpg
+  - images/mobile-trailer-stage-on-field.jpg
+  - images/band-on-trailer-stage.jpg
+  - images/trailer-stage-with-trussing.jpg
 eleventyNavigation:
   key: Mobile Trailer Stage 6x8m
   parent: Staging

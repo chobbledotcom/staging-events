@@ -25,6 +25,8 @@ specs:
     value: Battery
 gallery:
   - images/band-on-stage-green-lights.jpg
+  - images/acoustic-duo-mini-stage-field.jpg
+  - images/event-stage-setup.jpg
 eleventyNavigation:
   key: Battery Generator
   parent: Power

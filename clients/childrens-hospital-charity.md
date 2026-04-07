@@ -1,16 +1,16 @@
 ---
-title: "The Children's Hospital Charity"
+title: "Sheffield Children's Hospital Charity"
 subtitle: "Event hire and production"
-description: "Event hire and production services for The Children's Hospital Charity fundraising events."
-header_image: images/childrens-hospital-charity-logo.jpg
+description: "Event hire and production services for Sheffield Children's Hospital Charity fundraising events."
+header_image: images/doncaster-town-centre-christmas-stage.jpg
 blocks:
   - type: image-background
     container_width: full
     parallax: true
-    image: images/childrens-hospital-charity-logo.jpg
-    image_alt: The Children's Hospital Charity
+    image: images/doncaster-town-centre-christmas-stage.jpg
+    image_alt: Town centre charity event stage
     content: |
-      # The Children's Hospital Charity
+      # Sheffield Children's Hospital Charity
 
       Event hire and production for charity fundraising events.
 
@@ -18,12 +18,22 @@ blocks:
     title: Supporting Children's Healthcare
     reveal_content: left
     content: |
-      We are pleased to support The Children's Hospital Charity with event hire and production services for their fundraising events.
+      We are pleased to support Sheffield Children's Hospital Charity with event hire and production services for their fundraising events.
 
       Our team provides staging, sound systems, and full logistical support to help deliver successful charity events that raise vital funds for children's healthcare.
     figure_type: image
-    figure_src: images/childrens-hospital-charity-logo.jpg
-    figure_alt: The Children's Hospital Charity logo
+    figure_src: images/town-centre-stage-rotherham.jpg
+    figure_alt: Town centre stage at a community fundraising event
+
+  - type: split
+    title: Built for Family-Friendly Events
+    reverse: true
+    reveal_content: right
+    content: |
+      From small fundraising days to large town centre celebrations, we bring stages, PA, photo booths, festoon lighting and crowd barriers — everything you need to put on a safe, welcoming event for families and supporters.
+    figure_type: image
+    figure_src: images/photo-booth-say-cheese.jpg
+    figure_alt: Photo booth at a charity fundraising event
 
   - type: icon_links
     section_class: alt

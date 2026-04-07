@@ -26,6 +26,11 @@ specs:
     value: Intelistage portable
   - name: Weight Capacity
     value: 900 kg per square metre
+gallery:
+  - images/town-centre-stage-rotherham.jpg
+  - images/doncaster-town-centre-christmas-stage.jpg
+  - images/band-on-stage-rotherham-festival.jpg
+  - images/choir-on-modular-stage.jpg
 eleventyNavigation:
   key: Event Stage 4x4m
   parent: Staging

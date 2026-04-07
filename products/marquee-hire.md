@@ -26,6 +26,10 @@ specs:
     value: LED strips from £5, festoon from £149
   - name: Flooring
     value: Roll-a-Track from £120
+gallery:
+  - images/stage-with-gazebo-and-barriers.jpg
+  - images/festival-tent-chuckle-tent.jpg
+  - images/rehydration-station-gazebo.jpg
 eleventyNavigation:
   key: Marquee and Gazebo Hire
   parent: Staging

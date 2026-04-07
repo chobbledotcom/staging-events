@@ -26,6 +26,10 @@ specs:
     value: £5 million public liability
   - name: Coverage
     value: Nationwide delivery
+gallery:
+  - images/church-event-atmospheric-lighting.jpg
+  - images/cathedral-concert-purple-lighting.jpg
+  - images/band-night-stage-purple-haze.jpg
 eleventyNavigation:
   key: Festoon Lighting
   parent: Event Infrastructure

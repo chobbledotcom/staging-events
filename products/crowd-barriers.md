@@ -26,6 +26,10 @@ specs:
     value: Nationwide delivery
   - name: Setup
     value: Indoor or outdoor
+gallery:
+  - images/memory-walk-crowd-with-barriers.jpg
+  - images/mobile-trailer-stage-with-barriers.jpg
+  - images/stage-with-gazebo-and-barriers.jpg
 eleventyNavigation:
   key: Crowd Barriers
   parent: Event Infrastructure

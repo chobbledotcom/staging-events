@@ -32,6 +32,11 @@ specs:
     value: 2,500 kg
   - name: Setup Time
     value: 30 mins setup, 45 mins takedown
+gallery:
+  - images/trailer-stage-with-trussing.jpg
+  - images/mobile-trailer-stage-on-field.jpg
+  - images/band-on-trailer-stage.jpg
+  - images/mobile-trailer-stage-with-barriers.jpg
 eleventyNavigation:
   key: Mobile Trailer Stage 7x6m
   parent: Staging
