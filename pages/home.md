@@ -70,7 +70,7 @@ blocks:
 
   # Featured products slider
   - type: items
-    collection: featuredProducts
+    collection: products
     intro: |
       ## Our Equipment
     horizontal: true
