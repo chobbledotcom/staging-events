@@ -20,7 +20,8 @@
   "currency": "GBP",
   "default_image_widths": null,
   "products": {
-    "max_images": null
+    "max_images": null,
+    "item_list_aspect_ratio": "5/4"
   },
   "timezone": null,
   "show_product_review_counts": true,
