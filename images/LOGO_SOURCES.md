@@ -27,8 +27,8 @@ official website.
 
 ## Epilepsy Society — `epilepsy-society-logo.jpg`
 
-- **Now**: 576×244 — official site theme logo
-- Source: https://epilepsysociety.org.uk/
+- **Now**: 1022×433
+- Source: https://epilepsysociety.org.uk/sites/default/files/Epilepsy-Society_logo.png
 
 (The client page was previously titled "Epilepsy UK" but the logo and the
 client are actually Epilepsy Society — the page has been renamed to
