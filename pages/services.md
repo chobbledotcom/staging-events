@@ -9,7 +9,7 @@ eleventyNavigation:
 blocks:
   # Hero
   - type: image-background
-    full_width: true
+    container_width: full
     parallax: true
     image: images/fire-breather-on-stage.jpg
     image_alt: Fire breather performing on stage at an outdoor event
@@ -49,7 +49,7 @@ blocks:
 
   # Indoor staging showcase
   - type: image-background
-    full_width: true
+    container_width: full
     parallax: true
     image: images/modular-stage-school-sports-hall.jpg
     image_alt: Portable modular stage set up in a school sports hall

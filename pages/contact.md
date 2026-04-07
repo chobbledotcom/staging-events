@@ -9,7 +9,7 @@ eleventyNavigation:
 blocks:
   # Hero
   - type: image-background
-    full_width: true
+    container_width: full
     parallax: true
     image: images/memory-walk-stage-and-pa.jpg
     image_alt: Staging Events PA system at event
@@ -45,7 +45,7 @@ blocks:
 
   # Image background
   - type: image-background
-    full_width: true
+    container_width: full
     parallax: true
     image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
     image_alt: Staging Events event setup

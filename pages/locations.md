@@ -10,7 +10,7 @@ eleventyNavigation:
   order: 5
 blocks:
   - type: image-background
-    full_width: true
+    container_width: full
     image: images/rotherham-wow-festival-acoustic-stage.jpg
     image_alt: Summer festival stage and audience in Rotherham
     content: |-

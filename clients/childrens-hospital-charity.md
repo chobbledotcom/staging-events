@@ -5,7 +5,7 @@ description: "Event hire and production services for The Children's Hospital Cha
 header_image: images/childrens-hospital-charity-logo.jpg
 blocks:
   - type: image-background
-    full_width: true
+    container_width: full
     parallax: true
     image: images/childrens-hospital-charity-logo.jpg
     image_alt: The Children's Hospital Charity

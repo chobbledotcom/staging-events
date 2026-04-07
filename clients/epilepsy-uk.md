@@ -5,7 +5,7 @@ description: "Nationwide event support and production services for Epilepsy UK f
 header_image: images/epilepsy-society-logo.jpg
 blocks:
   - type: image-background
-    full_width: true
+    container_width: full
     parallax: true
     image: images/epilepsy-society-logo.jpg
     image_alt: Epilepsy UK

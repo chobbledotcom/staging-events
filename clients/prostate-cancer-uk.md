@@ -5,7 +5,7 @@ description: "Full production and logistics support for Prostate Cancer UK's Mar
 header_image: images/prostate-cancer-uk-logo.jpg
 blocks:
   - type: image-background
-    full_width: true
+    container_width: full
     parallax: true
     image: images/prostate-cancer-uk-logo.jpg
     image_alt: Prostate Cancer UK March for Men

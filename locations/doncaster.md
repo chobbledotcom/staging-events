@@ -12,7 +12,7 @@ eleventyNavigation:
   parent: Locations
 blocks:
   - type: image-background
-    full_width: true
+    container_width: full
     parallax: true
     image: images/mobile-trailer-stage-on-field.jpg
     image_alt: Stage hire in Doncaster

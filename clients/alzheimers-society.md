@@ -5,7 +5,7 @@ description: "Event production and logistics for Alzheimer's Society Memory Walk
 header_image: images/alzheimers-society-logo.jpg
 blocks:
   - type: image-background
-    full_width: true
+    container_width: full
     parallax: true
     image: images/alzheimers-society-logo.jpg
     image_alt: Alzheimer's Society Memory Walk

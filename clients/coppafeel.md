@@ -5,7 +5,7 @@ description: "Event production and logistics support for CoppaFeel! breast cance
 header_image: images/solo-performer-on-lit-stage.jpg
 blocks:
   - type: image-background
-    full_width: true
+    container_width: full
     parallax: true
     image: images/solo-performer-on-lit-stage.jpg
     image_alt: CoppaFeel!

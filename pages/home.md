@@ -9,7 +9,7 @@ eleventyNavigation:
 blocks:
   # Video hero
   - type: bunny-video-background
-    full_width: true
+    container_width: full
     thumbnail_url: "/assets/homepage-video-thumb.jpg"
     video_url: "https://player.mediadelivery.net/embed/587812/a49fb0e3-0c79-4956-b0db-906d611b395d?autoplay=true&loop=true&muted=true&preload=true&responsive=true"
     video_title: Staging Events production

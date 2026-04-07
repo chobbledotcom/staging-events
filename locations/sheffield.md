@@ -12,7 +12,7 @@ eleventyNavigation:
   parent: Locations
 blocks:
   - type: image-background
-    full_width: true
+    container_width: full
     parallax: true
     image: images/band-on-trailer-stage.jpg
     image_alt: Stage hire in Sheffield

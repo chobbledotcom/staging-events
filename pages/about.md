@@ -9,7 +9,7 @@ eleventyNavigation:
 blocks:
   # Hero
   - type: image-background
-    full_width: true
+    container_width: full
     parallax: true
     image: images/town-centre-stage-rotherham.jpg
     image_alt: Staging Events town centre stage
@@ -54,7 +54,7 @@ blocks:
 
   # Sustainability split-full
   - type: split-full
-    full_width: true
+    container_width: full
     variant: dark-left
     reveal_left: left
     reveal_right: right
@@ -80,7 +80,7 @@ blocks:
 
   # Indoor performance
   - type: image-background
-    full_width: true
+    container_width: full
     parallax: true
     image: images/cathedral-concert-purple-lighting.jpg
     image_alt: Dramatic performance inside a gothic church with purple lighting
@@ -91,7 +91,7 @@ blocks:
 
   # Dance performance
   - type: image-background
-    full_width: true
+    container_width: full
     parallax: true
     image: images/blue-lit-dance-performance.jpg
     image_alt: Dance troupe performing under blue stage lighting
