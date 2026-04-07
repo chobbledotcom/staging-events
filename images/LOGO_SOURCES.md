@@ -30,21 +30,19 @@ official website.
 - **Now**: 576×244 — official site theme logo
 - Source: https://epilepsysociety.org.uk/
 
-⚠️ **The client page is still titled "Epilepsy UK"** but this logo is from
-Epilepsy Society. There is no UK charity called "Epilepsy UK" — the two main
-ones are Epilepsy Society (epilepsysociety.org.uk) and Epilepsy Action
-(epilepsy.org.uk). Worth deciding which one is actually the client and
-renaming `clients/epilepsy-uk.md` accordingly.
+(The client page was previously titled "Epilepsy UK" but the logo and the
+client are actually Epilepsy Society — the page has been renamed to
+`clients/epilepsy-society.md` to match.)
 
 ## The Children's Hospital Charity (Sheffield) — `childrens-hospital-charity-logo.jpg`
 
-- **Not upgraded.** The current 300×300 file is still in place.
-- The official site (sheffieldchildrens.org) only exposes a 300×200 version
-  in its header and a white-on-transparent variant via the events platform
-  (events.tchc.org.uk). The full-colour bear-and-text mark used in the
-  current file isn't directly downloadable from the site.
-- To upgrade: contact the charity at fundraising@sheffieldchildrens.org for
-  brand assets, or use their press contact.
+- **Now**: 1500×1060 — colour wordmark with Theo the bear
+- Source: designer's portfolio (debutart.com), original file 3508×2480
+- Note: this is the older "The Children's Hospital Charity" wordmark.
+  The charity has since rebranded as **Sheffield Children's Hospital
+  Charity** (with a heart over the wordmark) — when the higher-resolution
+  Sheffield-prefixed version becomes available, the file should be
+  updated to match.
 
 ## Pancreatic Cancer UK — `pancreatic-cancer-uk-logo.jpg`
 

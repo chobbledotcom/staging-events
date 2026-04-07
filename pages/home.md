@@ -106,7 +106,7 @@ blocks:
         title: The Children's Hospital Charity
         description: Event hire and production services
       - icon: "mdi:heart-pulse"
-        title: Epilepsy UK
+        title: Epilepsy Society
         description: Nationwide event support
 
   # CTA

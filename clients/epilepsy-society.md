@@ -1,7 +1,7 @@
 ---
-title: "Epilepsy UK"
+title: "Epilepsy Society"
 subtitle: "Nationwide event support"
-description: "Nationwide event support and production services for Epilepsy UK fundraising and awareness events."
+description: "Nationwide event support and production services for Epilepsy Society fundraising and awareness events."
 header_image: images/event-stage-setup.jpg
 blocks:
   - type: image-background
@@ -10,7 +10,7 @@ blocks:
     image: images/mobile-trailer-stage-on-field.jpg
     image_alt: Mobile trailer stage set up on a field for a fundraising event
     content: |
-      # Epilepsy UK
+      # Epilepsy Society
 
       Nationwide event support and production services.
 
@@ -18,7 +18,7 @@ blocks:
     title: Nationwide Event Support
     reveal_content: left
     content: |
-      We provide nationwide event support for Epilepsy UK, delivering production services and equipment hire for their fundraising and awareness events across the country.
+      We provide nationwide event support for Epilepsy Society, delivering production services and equipment hire for their fundraising and awareness events across the country.
 
       Our comprehensive service includes staging, sound systems, logistics coordination, and experienced event crew to ensure each event runs smoothly.
     figure_type: image
