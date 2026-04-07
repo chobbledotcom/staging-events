@@ -11,7 +11,7 @@ blocks:
   - type: image-background
     full_width: true
     parallax: true
-    image: images/charity-stage-with-inflatable-gantry.jpg
+    image: images/alzheimers-memory-walk-stage-santander.jpg
     image_alt: Charity event with inflatable gantry
     content: |
       # Our Clients
@@ -26,7 +26,7 @@ blocks:
     content: |
       We have proudly worked with some of the UK's leading charities and organisations, providing full event production, staging, PA systems, gantry hire and logistics for mass participation events nationwide.
     figure_type: image
-    figure_src: images/2023-10-07-10.50.11-1.jpg
+    figure_src: images/alzheimers-memory-walk-crowd-heart-hands.jpg
     figure_alt: Memory Walk participants making heart shapes at a charity event
     button:
       text: Get in Touch
@@ -57,7 +57,7 @@ blocks:
   - type: image-background
     full_width: true
     parallax: true
-    image: images/2021-09-10-17.38.02.jpg
+    image: images/bhangra-dancers-on-stage.jpg
     image_alt: Bhangra dancers performing on outdoor stage at a festival
     content: |
       ## Bringing Events to Life

@@ -23,7 +23,7 @@ specs:
   - name: Microphones
     value: Wired and wireless options
 gallery:
-  - images/Festivals.jpg
+  - images/mobile-trailer-stage-on-field.jpg
   - images/performers-with-pa-speakers.jpg
   - images/pa-speakers-audience-view.jpg
 eleventyNavigation:
@@ -46,7 +46,7 @@ blocks:
   - type: gallery
     section_class: alt
     items:
-      - image: images/Festivals.jpg
+      - image: images/mobile-trailer-stage-on-field.jpg
       - image: images/performers-with-pa-speakers.jpg
       - image: images/pa-speakers-audience-view.jpg
   - type: content

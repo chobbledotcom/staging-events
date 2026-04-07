@@ -10,7 +10,7 @@ blocks:
   - type: image-background
     full_width: true
     parallax: true
-    image: images/2024-02-17-16.17.26.jpg
+    image: images/band-trussed-stage-spotlit-side-view.jpg
     image_alt: Band performing on stage with dramatic green and purple lighting
     content: |
       # Our Products

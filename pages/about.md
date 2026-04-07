@@ -28,7 +28,7 @@ blocks:
 
       From staging and PA systems to event infrastructure, we provide complete event solutions. We work with major charities, corporate clients and exhibition venues, with in-house branding and artwork production capabilities.
     figure_type: image
-    figure_src: images/stage-and-led-screen-charity.jpg
+    figure_src: images/prostate-cancer-uk-march-for-men-led-screen.jpg
     figure_alt: Staging Events event production
 
   # What we do
@@ -82,7 +82,7 @@ blocks:
   - type: image-background
     full_width: true
     parallax: true
-    image: images/2024-02-17-18.42.52.jpg
+    image: images/cathedral-concert-purple-lighting.jpg
     image_alt: Dramatic performance inside a gothic church with purple lighting
     content: |
       ## From Intimate Venues to Open-Air Festivals

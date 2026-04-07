@@ -30,8 +30,8 @@ specs:
 gallery:
   - images/choir-on-modular-stage.jpg
   - images/memory-walk-stage-and-van.jpg
-  - images/inflatable-start-gantry-charity.jpg
-  - images/stage-and-led-screen-charity.jpg
+  - images/prostate-cancer-uk-march-for-men-start-gantry.jpg
+  - images/prostate-cancer-uk-march-for-men-led-screen.jpg
 eleventyNavigation:
   key: Modular Deck Staging
   parent: Staging
@@ -54,8 +54,8 @@ blocks:
     items:
       - image: images/choir-on-modular-stage.jpg
       - image: images/memory-walk-stage-and-van.jpg
-      - image: images/inflatable-start-gantry-charity.jpg
-      - image: images/stage-and-led-screen-charity.jpg
+      - image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
+      - image: images/prostate-cancer-uk-march-for-men-led-screen.jpg
   - type: content
   - type: features
     section_class: alt

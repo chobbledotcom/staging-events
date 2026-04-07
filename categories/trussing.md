@@ -3,7 +3,7 @@ title: Trussing
 header_text: Stage Trussing
 subtitle: Professional rigging equipment
 description: Professional rigging equipment hire from leading manufacturers. Extensive inventory of Litec truss stock for events.
-header_image: images/stage-trussing.jpeg
+header_image: images/stage-trussing-flightcase.jpg
 featured: true
 redirect_from:
   - /stage-trussing/
@@ -15,7 +15,7 @@ blocks:
   - type: image-background
     full_width: true
     parallax: true
-    image: images/stage-trussing.jpeg
+    image: images/stage-trussing-flightcase.jpg
     image_alt: Stage Trussing
     content: |-
       ## Stage Trussing

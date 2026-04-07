@@ -2,7 +2,7 @@
 title: Stage Trussing
 subtitle: Professional Litec rigging equipment
 description: Professional rigging equipment hire from leading manufacturers. Extensive inventory of Litec truss stock for events.
-header_image: images/stage-trussing.jpeg
+header_image: images/stage-trussing-flightcase.jpg
 categories:
   - trussing
 price: Contact for pricing
@@ -27,7 +27,7 @@ specs:
   - name: Insurance
     value: £5 million public liability
 gallery:
-  - images/stage-trussing.jpeg
+  - images/stage-trussing-flightcase.jpg
   - images/band-on-trussed-stage-night.jpg
 eleventyNavigation:
   key: Stage Trussing
@@ -40,7 +40,7 @@ blocks:
 
       **Contact for pricing**
     figure_type: image
-    figure_src: images/stage-trussing.jpeg
+    figure_src: images/stage-trussing-flightcase.jpg
     figure_alt: Stage Trussing
     button:
       text: Get a Quote
@@ -49,7 +49,7 @@ blocks:
   - type: gallery
     section_class: alt
     items:
-      - image: images/stage-trussing.jpeg
+      - image: images/stage-trussing-flightcase.jpg
       - image: images/band-on-trussed-stage-night.jpg
   - type: content
   - type: features

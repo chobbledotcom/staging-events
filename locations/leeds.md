@@ -3,7 +3,7 @@ title: Stage Hire in Leeds
 header_text: Leeds Stage Hire
 subtitle: Professional staging and event hire in Leeds
 description: Stage hire, PA systems, photo booths and event equipment hire in Leeds. Full event production and logistics from our South Yorkshire base, serving Leeds and West Yorkshire.
-header_image: images/Festivals.jpg
+header_image: images/mobile-trailer-stage-on-field.jpg
 area: Leeds
 region: West Yorkshire
 featured: true
@@ -14,7 +14,7 @@ blocks:
   - type: image-background
     full_width: true
     parallax: true
-    image: images/Festivals.jpg
+    image: images/mobile-trailer-stage-on-field.jpg
     image_alt: Stage hire in Leeds
     content: |-
       ## Stage Hire in Leeds

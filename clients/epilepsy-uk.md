@@ -2,18 +2,52 @@
 title: "Epilepsy UK"
 subtitle: "Nationwide event support"
 description: "Nationwide event support and production services for Epilepsy UK fundraising and awareness events."
-header_image: images/staging-events-charity-logo-1.jpg
-gallery:
-  - images/staging-events-charity-logo-1.jpg
-  - images/staging-events-charity-logo-4.jpg
-features:
-  - "Nationwide event support"
-  - "Production services"
-  - "Equipment hire"
-  - "Logistics management"
-  - "Event staffing"
+header_image: images/epilepsy-society-logo.jpg
+blocks:
+  - type: image-background
+    full_width: true
+    parallax: true
+    image: images/epilepsy-society-logo.jpg
+    image_alt: Epilepsy UK
+    content: |
+      # Epilepsy UK
+
+      Nationwide event support and production services.
+
+  - type: split
+    title: Nationwide Event Support
+    reveal_content: left
+    content: |
+      We provide nationwide event support for Epilepsy UK, delivering production services and equipment hire for their fundraising and awareness events across the country.
+
+      Our comprehensive service includes staging, sound systems, logistics coordination, and experienced event crew to ensure each event runs smoothly.
+    figure_type: image
+    figure_src: images/event-stage-setup.jpg
+    figure_alt: Outdoor stage at a fundraising event
+
+  - type: icon_links
+    section_class: alt
+    intro: |
+      ## What We Provide
+    items:
+      - icon: "mdi:map-marker-multiple"
+        text: Nationwide event support
+      - icon: "mdi:tools"
+        text: Production services
+      - icon: "mdi:truck-delivery"
+        text: Equipment hire
+      - icon: "mdi:clipboard-list"
+        text: Logistics management
+      - icon: "mdi:account-group"
+        text: Event staffing
+
+  - type: cta
+    title: Plan Your Nationwide Event
+    description: >-
+      Talk to us about production support across the UK.
+    button:
+      text: Contact Us
+      href: /contact/
+      variant: secondary
+      size: lg
 ---
-
-We provide nationwide event support for Epilepsy UK, delivering production services and equipment hire for their fundraising and awareness events across the country.
-
-Our comprehensive service includes staging, sound systems, logistics coordination, and experienced event crew to ensure each event runs smoothly.

@@ -3,7 +3,7 @@ title: Stage Hire in Doncaster
 header_text: Doncaster Stage Hire
 subtitle: Professional staging and event hire in Doncaster
 description: Stage hire, PA systems, photo booths and event equipment hire in Doncaster. Local delivery from our South Yorkshire warehouse with over 25 years experience.
-header_image: images/Festivals.jpg
+header_image: images/mobile-trailer-stage-on-field.jpg
 area: Doncaster
 region: South Yorkshire
 featured: true
@@ -14,7 +14,7 @@ blocks:
   - type: image-background
     full_width: true
     parallax: true
-    image: images/Festivals.jpg
+    image: images/mobile-trailer-stage-on-field.jpg
     image_alt: Stage hire in Doncaster
     content: |-
       ## Stage Hire in Doncaster

@@ -2,15 +2,52 @@
 title: "CoppaFeel!"
 subtitle: "Charity event support"
 description: "Event production and logistics support for CoppaFeel! breast cancer awareness charity events."
-header_image: images/staging-events-charity-logo-5.jpg
-features:
-  - "Event production"
-  - "Equipment hire"
-  - "Logistics support"
-  - "Stage and PA systems"
-  - "Event staffing"
+header_image: images/solo-performer-on-lit-stage.jpg
+blocks:
+  - type: image-background
+    full_width: true
+    parallax: true
+    image: images/solo-performer-on-lit-stage.jpg
+    image_alt: CoppaFeel!
+    content: |
+      # CoppaFeel!
+
+      Production and logistics for breast cancer awareness events.
+
+  - type: split
+    title: Supporting Awareness Events
+    reveal_content: left
+    content: |
+      We support CoppaFeel! with event production and logistics for their breast cancer awareness charity events.
+
+      Our services include staging, PA systems, and full event logistics to help deliver impactful awareness and fundraising events.
+    figure_type: image
+    figure_src: images/solo-performer-on-lit-stage.jpg
+    figure_alt: CoppaFeel! logo
+
+  - type: icon_links
+    section_class: alt
+    intro: |
+      ## What We Provide
+    items:
+      - icon: "mdi:tools"
+        text: Event production
+      - icon: "mdi:truck-delivery"
+        text: Equipment hire
+      - icon: "mdi:clipboard-list"
+        text: Logistics support
+      - icon: "mdi:speaker"
+        text: Stage and PA systems
+      - icon: "mdi:account-group"
+        text: Event staffing
+
+  - type: cta
+    title: Plan Your Awareness Event
+    description: >-
+      Contact us to discuss production and logistics for your fundraiser.
+    button:
+      text: Contact Us
+      href: /contact/
+      variant: secondary
+      size: lg
 ---
-
-We support CoppaFeel! with event production and logistics for their breast cancer awareness charity events.
-
-Our services include staging, PA systems, and full event logistics to help deliver impactful awareness and fundraising events.

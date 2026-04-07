@@ -47,7 +47,7 @@ blocks:
   - type: image-background
     full_width: true
     parallax: true
-    image: images/inflatable-start-gantry-charity.jpg
+    image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
     image_alt: Staging Events event setup
     content: |
       ## Based in Rotherham, Serving Events Across the UK

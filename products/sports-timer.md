@@ -2,7 +2,7 @@
 title: Sports Timer Hire
 subtitle: Professional race timing for events
 description: Sports timer hire for charity runs, marathons and mass participation events. Accurate digital timing displays for start and finish lines.
-header_image: images/inflatable-start-gantry-charity.jpg
+header_image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
 categories:
   - event-infrastructure
 price: Contact for pricing
@@ -23,7 +23,7 @@ specs:
   - name: Delivery
     value: UK-wide
 gallery:
-  - images/inflatable-start-gantry-charity.jpg
+  - images/prostate-cancer-uk-march-for-men-start-gantry.jpg
 eleventyNavigation:
   key: Sports Timer Hire
   parent: Event Infrastructure
@@ -37,7 +37,7 @@ blocks:
 
       **Contact for pricing**
     figure_type: image
-    figure_src: images/inflatable-start-gantry-charity.jpg
+    figure_src: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
     figure_alt: Sports Timer at event
     button:
       text: Get a Quote

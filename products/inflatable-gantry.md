@@ -2,7 +2,7 @@
 title: Inflatable Gantry
 subtitle: Quick setup gantry for grassed areas
 description: Inflatable gantry hire for charity runs and events. Quick setup and takedown with custom velcro banners available.
-header_image: images/charity-stage-with-inflatable-gantry.jpg
+header_image: images/alzheimers-memory-walk-stage-santander.jpg
 categories:
   - gantries
 price: From £275
@@ -24,7 +24,7 @@ specs:
   - name: Setup
     value: Quick setup/takedown
 gallery:
-  - images/Festivals.jpg
+  - images/mobile-trailer-stage-on-field.jpg
   - images/memory-walk-stage-and-pa.jpg
 eleventyNavigation:
   key: Inflatable Gantry
@@ -37,7 +37,7 @@ blocks:
 
       **From £275**
     figure_type: image
-    figure_src: images/charity-stage-with-inflatable-gantry.jpg
+    figure_src: images/alzheimers-memory-walk-stage-santander.jpg
     figure_alt: Inflatable Gantry
     button:
       text: Get a Quote
@@ -46,7 +46,7 @@ blocks:
   - type: gallery
     section_class: alt
     items:
-      - image: images/Festivals.jpg
+      - image: images/mobile-trailer-stage-on-field.jpg
       - image: images/memory-walk-stage-and-pa.jpg
   - type: content
   - type: features

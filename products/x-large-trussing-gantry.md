@@ -2,7 +2,7 @@
 title: X-Large Trussing Gantry
 subtitle: Our largest trussing gantry for major events
 description: X-Large trussing gantry hire for major charity runs, marathons and large-scale events. Custom branding available with 300gsm PVC Mesh.
-header_image: images/X-Large-Trussing.png
+header_image: images/x-large-trussing-gantry-diagram.png
 categories:
   - gantries
 price: From £995
@@ -24,7 +24,7 @@ specs:
   - name: Side Leg Panels
     value: 3 x 0.29m (£15.32 each)
 gallery:
-  - images/X-Large-Trussing.png
+  - images/x-large-trussing-gantry-diagram.png
 eleventyNavigation:
   key: X-Large Trussing Gantry
   parent: Gantries
@@ -36,7 +36,7 @@ blocks:
 
       **From £995**
     figure_type: image
-    figure_src: images/X-Large-Trussing.png
+    figure_src: images/x-large-trussing-gantry-diagram.png
     figure_alt: X-Large Trussing Gantry
     button:
       text: Get a Quote
@@ -45,7 +45,7 @@ blocks:
   - type: gallery
     section_class: alt
     items:
-      - image: images/X-Large-Trussing.png
+      - image: images/x-large-trussing-gantry-diagram.png
   - type: content
   - type: features
     section_class: alt

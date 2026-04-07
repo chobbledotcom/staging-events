@@ -51,7 +51,7 @@ blocks:
   - type: image-background
     full_width: true
     parallax: true
-    image: images/2017-07-16-07.29.25.jpg
+    image: images/modular-stage-school-sports-hall.jpg
     image_alt: Portable modular stage set up in a school sports hall
     content: |
       ## Indoor and Outdoor Solutions
