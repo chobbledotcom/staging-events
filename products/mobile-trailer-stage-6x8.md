@@ -161,3 +161,7 @@ The stage floor sits 1.06m above ground with 3.9m of clearance to the roof, and 
 - **Day 3** — £500
 - Longer periods available on request
 - All prices subject to VAT
+
+### Suitable Locations
+
+This stage is designed for outdoor use only, on both grass and hard surfaces. The self-balanced design means no additional anchoring is required on hard standing.
