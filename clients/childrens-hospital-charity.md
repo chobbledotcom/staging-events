@@ -2,13 +2,13 @@
 title: "Sheffield Children's Hospital Charity"
 subtitle: "Event hire and production"
 description: "Event hire and production services for Sheffield Children's Hospital Charity fundraising events."
-header_image: images/doncaster-town-centre-christmas-stage.jpg
+header_image: images/festival-tent-chuckle-tent.jpg
 blocks:
   - type: image-background
     container_width: full
     parallax: true
-    image: images/doncaster-town-centre-christmas-stage.jpg
-    image_alt: Town centre charity event stage
+    image: images/festival-tent-chuckle-tent.jpg
+    image_alt: Families and children at a charity fundraising event tent
     content: |
       # Sheffield Children's Hospital Charity
 
@@ -30,10 +30,10 @@ blocks:
     reverse: true
     reveal_content: right
     content: |
-      From small fundraising days to large town centre celebrations, we bring stages, PA, photo booths, festoon lighting and crowd barriers — everything you need to put on a safe, welcoming event for families and supporters.
+      From small fundraising days to large town centre celebrations, we bring stages, PA, festoon lighting and crowd barriers — everything you need to put on a safe, welcoming event for families and supporters.
     figure_type: image
-    figure_src: images/photo-booth-say-cheese.jpg
-    figure_alt: Photo booth at a charity fundraising event
+    figure_src: images/stage-with-gazebo-and-barriers.jpg
+    figure_alt: Outdoor stage with gazebo and crowd barriers at a fundraising event
 
   - type: icon_links
     section_class: alt
