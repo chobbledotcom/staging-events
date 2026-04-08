@@ -15,6 +15,17 @@ blocks:
       Production and logistics for breast cancer awareness events.
 
   - type: split
+    title: About CoppaFeel!
+    reverse: true
+    reveal_content: right
+    reveal_figure: scale
+    content: |
+      CoppaFeel! is the UK's first breast cancer awareness charity aimed at young people, educating and empowering everyone to know the signs and symptoms of breast cancer from a young age.
+    figure_type: image
+    figure_src: images/coppafeel-logo.png
+    figure_alt: CoppaFeel! logo
+
+  - type: split
     title: Supporting Awareness Events
     reveal_content: left
     content: |

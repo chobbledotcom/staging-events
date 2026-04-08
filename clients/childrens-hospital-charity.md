@@ -15,6 +15,17 @@ blocks:
       Event hire and production for charity fundraising events.
 
   - type: split
+    title: About Sheffield Children's Hospital Charity
+    reverse: true
+    reveal_content: right
+    reveal_figure: scale
+    content: |
+      Sheffield Children's Hospital Charity raises funds to go above and beyond what the NHS can provide — supporting patients, families and staff at one of the UK's four specialist children's hospitals.
+    figure_type: image
+    figure_src: images/childrens-hospital-charity-logo.jpg
+    figure_alt: Sheffield Children's Hospital Charity logo
+
+  - type: split
     title: Supporting Children's Healthcare
     reveal_content: left
     content: |
