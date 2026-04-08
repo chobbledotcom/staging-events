@@ -3,7 +3,7 @@ title: Stage Hire in Rotherham
 header_text: Rotherham Stage Hire
 subtitle: Professional staging and event hire in Rotherham, South Yorkshire
 description: Stage hire, PA systems, photo booths and event equipment hire in Rotherham. Local service from our Maltby warehouse with over 25 years experience in event production.
-header_image: images/choir-on-modular-stage.jpg
+header_image: images/band-on-stage-rotherham-festival.jpg
 area: Rotherham
 region: South Yorkshire
 featured: true
@@ -14,7 +14,7 @@ blocks:
   - type: image-background
     container_width: full
     parallax: true
-    image: images/choir-on-modular-stage.jpg
+    image: images/band-on-stage-rotherham-festival.jpg
     image_alt: Stage hire in Rotherham
     content: |-
       ## Stage Hire in Rotherham
@@ -41,7 +41,7 @@ blocks:
       href: /contact/
       variant: secondary
     figure_type: image
-    figure_src: images/memory-walk-stage-and-van.jpg
+    figure_src: images/town-centre-stage-rotherham.jpg
     figure_alt: Staging Events delivery in Rotherham
 
   - type: items
@@ -94,7 +94,7 @@ blocks:
       - **Festoon lighting** for evening events and beer gardens
       - **Generator hire** for events without mains power
     figure_type: image
-    figure_src: images/band-on-trailer-stage.jpg
+    figure_src: images/rotherham-wow-festival-acoustic-stage.jpg
     figure_alt: Stage hire for Rotherham events
 
   - type: cta

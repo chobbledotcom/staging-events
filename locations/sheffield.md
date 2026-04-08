@@ -3,7 +3,7 @@ title: Stage Hire in Sheffield
 header_text: Sheffield Stage Hire
 subtitle: Professional staging and event hire in Sheffield
 description: Stage hire, PA systems, photo booths and event equipment hire in Sheffield. Over 25 years experience delivering events across Sheffield and South Yorkshire.
-header_image: images/band-on-trailer-stage.jpg
+header_image: images/cathedral-concert-purple-lighting.jpg
 area: Sheffield
 region: South Yorkshire
 featured: true
@@ -14,7 +14,7 @@ blocks:
   - type: image-background
     container_width: full
     parallax: true
-    image: images/band-on-trailer-stage.jpg
+    image: images/cathedral-concert-purple-lighting.jpg
     image_alt: Stage hire in Sheffield
     content: |-
       ## Stage Hire in Sheffield
