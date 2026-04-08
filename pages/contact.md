@@ -23,7 +23,7 @@ blocks:
     content: |
       ## Get in Touch
 
-      **Phone:** 0845 468 0610
+      **Phone:** [0845 468 0610](tel:+448454680610)
 
       **Email:** [events@stagingevents.co.uk](mailto:events@stagingevents.co.uk)
 
