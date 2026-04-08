@@ -2,17 +2,28 @@
 title: "Sheffield Children's Hospital Charity"
 subtitle: "Event hire and production"
 description: "Event hire and production services for Sheffield Children's Hospital Charity fundraising events."
-header_image: images/doncaster-town-centre-christmas-stage.jpg
+header_image: images/festival-tent-chuckle-tent.jpg
 blocks:
   - type: image-background
     container_width: full
     parallax: true
-    image: images/doncaster-town-centre-christmas-stage.jpg
-    image_alt: Town centre charity event stage
+    image: images/festival-tent-chuckle-tent.jpg
+    image_alt: Families and children at a charity fundraising event tent
     content: |
       # Sheffield Children's Hospital Charity
 
       Event hire and production for charity fundraising events.
+
+  - type: split
+    title: About Sheffield Children's Hospital Charity
+    reverse: true
+    reveal_content: right
+    reveal_figure: scale
+    content: |
+      Sheffield Children's Hospital Charity raises funds to go above and beyond what the NHS can provide — supporting patients, families and staff at one of the UK's four specialist children's hospitals.
+    figure_type: image
+    figure_src: images/childrens-hospital-charity-logo.jpg
+    figure_alt: Sheffield Children's Hospital Charity logo
 
   - type: split
     title: Supporting Children's Healthcare
@@ -30,10 +41,10 @@ blocks:
     reverse: true
     reveal_content: right
     content: |
-      From small fundraising days to large town centre celebrations, we bring stages, PA, photo booths, festoon lighting and crowd barriers — everything you need to put on a safe, welcoming event for families and supporters.
+      From small fundraising days to large town centre celebrations, we bring stages, PA, festoon lighting and crowd barriers — everything you need to put on a safe, welcoming event for families and supporters.
     figure_type: image
-    figure_src: images/photo-booth-say-cheese.jpg
-    figure_alt: Photo booth at a charity fundraising event
+    figure_src: images/stage-with-gazebo-and-barriers.jpg
+    figure_alt: Outdoor stage with gazebo and crowd barriers at a fundraising event
 
   - type: icon_links
     section_class: alt

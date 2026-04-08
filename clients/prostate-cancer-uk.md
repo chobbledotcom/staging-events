@@ -17,6 +17,17 @@ blocks:
       Full production and logistics for the UK-wide fundraising walks.
 
   - type: split
+    title: About Prostate Cancer UK
+    reverse: true
+    reveal_content: right
+    reveal_figure: scale
+    content: |
+      Prostate Cancer UK is the UK's leading men's health charity, funding world-class research, providing information and support, and campaigning for a better deal for men with prostate cancer.
+    figure_type: image
+    figure_src: images/prostate-cancer-uk-logo.jpg
+    figure_alt: Supporting Prostate Cancer UK logo
+
+  - type: split
     title: Delivering March for Men
     reveal_content: left
     content: |

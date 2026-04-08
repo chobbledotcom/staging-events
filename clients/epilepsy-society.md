@@ -15,6 +15,17 @@ blocks:
       Nationwide event support and production services.
 
   - type: split
+    title: About Epilepsy Society
+    reverse: true
+    reveal_content: right
+    reveal_figure: scale
+    content: |
+      Epilepsy Society is the UK's leading epilepsy charity, providing expert research, care, information and support for people affected by epilepsy.
+    figure_type: image
+    figure_src: images/epilepsy-society-logo.jpg
+    figure_alt: Epilepsy Society logo
+
+  - type: split
     title: Nationwide Event Support
     reveal_content: left
     content: |

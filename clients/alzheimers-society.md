@@ -16,6 +16,17 @@ blocks:
 
       Full production and logistics for one of the UK's largest charity walks.
 
+  - type: split
+    title: About Alzheimer's Society
+    reverse: true
+    reveal_content: right
+    reveal_figure: scale
+    content: |
+      Alzheimer's Society is the UK's leading dementia charity, campaigning for change, funding research to find a cure and supporting people living with dementia and their families.
+    figure_type: image
+    figure_src: images/alzheimers-society-logo.jpg
+    figure_alt: Alzheimer's Society logo
+
   - type: stats
     section_class: dark
     items:
