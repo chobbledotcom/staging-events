@@ -9,10 +9,6 @@
 		"WhatsApp": null,
 		"RSS": "/feed.xml"
 	},
-	"opening_times": [
-		{ "day": "Monday – Friday", "hours": "9am – 5pm" },
-		{ "day": "Saturday – Sunday", "hours": "Closed (on-site event support available by prior arrangement)" }
-	],
 	"sticky_mobile_nav": true,
 	"horizontal_nav": true,
 	"template_repo_url": "https://git.chobble.com/chobble/chobble-client"
