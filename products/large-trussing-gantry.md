@@ -85,14 +85,11 @@ blocks:
         label: Start/Finish Panels
       - value: 3 x 0.29m (£15.32 each)
         label: Side Leg Panels
-  - type: cta
-    title: Hire the Large Trussing Gantry
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Large Trussing Gantry
+
+      Contact our team for availability and pricing.
 ---
 
 Our large trussing gantry provides a visible start and finish line at charity runs, marathons, cycling races and mass participation events. With a significantly larger top panel than the medium model, it provides good visibility for participants and spectators.

@@ -8,7 +8,10 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("/assets/fonts/barlow-latin-400.woff2") format("woff2");
+  src:
+    local("Barlow Regular"),
+    local("Barlow"),
+    url("/assets/fonts/barlow-latin-400.woff2") format("woff2");
 }
 
 @font-face {
@@ -16,7 +19,10 @@
   font-style: normal;
   font-weight: 600;
   font-display: swap;
-  src: url("/assets/fonts/barlow-latin-600.woff2") format("woff2");
+  src:
+    local("Barlow SemiBold"),
+    local("Barlow"),
+    url("/assets/fonts/barlow-latin-600.woff2") format("woff2");
 }
 
 @font-face {
@@ -24,7 +30,10 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url("/assets/fonts/barlow-latin-700.woff2") format("woff2");
+  src:
+    local("Barlow Bold"),
+    local("Barlow"),
+    url("/assets/fonts/barlow-latin-700.woff2") format("woff2");
 }
 
 // Staging Events Theme
@@ -77,6 +86,8 @@ nav {
   justify-content: space-between !important;
   text-transform: uppercase;
   font-family: var(--font-family-heading);
+  border-radius: 0 !important;
+  margin-bottom: 0 !important;
   img {
     height: 5rem !important;
     margin: -1rem 0 !important;
@@ -98,13 +109,14 @@ nav {
 
 @include breakpoints.up("md") {
   .design-system.horizontal-nav nav {
-    position: fixed;
-    top: 16px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: calc(100% - 32px);
-    max-width: 1200px;
+    position: sticky;
+    top: 0;
+    width: 100%;
     z-index: 1000;
+  }
+
+  .design-system.horizontal-nav main > :first-child {
+    margin-top: 0 !important;
   }
 }
 
@@ -113,6 +125,12 @@ ol.breadcrumbs {
 }
 
 .design-system {
+  footer p {
+    max-width: 30rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .image-background h1,
   .image-background h2,
   .image-background h3,

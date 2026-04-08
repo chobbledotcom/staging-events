@@ -89,14 +89,11 @@ blocks:
         label: Start/Finish Panels
       - value: 3 x 0.29m (£15.32 each)
         label: Side Leg Panels
-  - type: cta
-    title: Hire the X-Large Trussing Gantry
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the X-Large Trussing Gantry
+
+      Contact our team for availability and pricing.
 ---
 
 Our X-Large trussing gantry is the largest inflatable event structure in our range, used for major races, city-centre marathons, triathlons and large mass participation events. With a 9-metre span and tall side panels, it provides a visible finish line that suits the scale of larger events.

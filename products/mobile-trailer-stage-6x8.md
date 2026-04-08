@@ -97,14 +97,11 @@ blocks:
         label: Wind Resistance
       - value: 1 hour setup, 45 mins takedown
         label: Setup Time
-  - type: cta
-    title: Hire the Mobile Trailer Stage 6x8m
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Mobile Trailer Stage 6x8m
+
+      Contact our team for availability and pricing.
 ---
 
 A self-contained mobile trailer stage with a 7.9m x 5.9m performance area, large enough to accommodate a 10-piece band and up to 25 singers. The stage sets up in around one hour on either grass or hard standing, and packs down in just 45 minutes. Self-contained and self-balanced for hard standing use, this stage arrives ready to deploy with minimal site preparation.

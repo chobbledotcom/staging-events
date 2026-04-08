@@ -84,14 +84,11 @@ blocks:
         label: Insurance
       - value: Nationwide delivery
         label: Coverage
-  - type: cta
-    title: Hire the Festoon Lighting
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Festoon Lighting
+
+      Contact our team for availability and pricing.
 ---
 
 Our festoon lighting is available for festivals, private parties, corporate functions and weddings, and works well both indoors and outdoors. It works in marquees, outdoor festival sites and indoor venues, and provides useful lighting from early evening through to late at night.

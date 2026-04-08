@@ -68,14 +68,11 @@ blocks:
       - icon: mdi:check-circle
         title: UK-wide delivery and setup
         description: ""
-  - type: cta
-    title: Hire a Lectern
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire a Lectern
+
+      Contact our team for availability and pricing.
 ---
 
 Professional lectern hire for events across the UK. Whether you need a podium for a corporate conference, award ceremony, charity event or outdoor presentation, our lecterns provide a polished focal point for speakers.

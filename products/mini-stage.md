@@ -85,14 +85,11 @@ blocks:
         label: System
       - value: £5 million public liability
         label: Insurance
-  - type: cta
-    title: Hire the Mini Stage 3x3m
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Mini Stage 3x3m
+
+      Contact our team for availability and pricing.
 ---
 
 A versatile 3x3m trussing stage designed for corporate events, private parties and live entertainment. It works well as a platform for DJ sets, awards ceremonies, Christmas light switch-ons and fitness warm-up sessions.

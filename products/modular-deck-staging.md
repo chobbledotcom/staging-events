@@ -112,14 +112,11 @@ blocks:
       3. **Delivery and setup** -- our crew build it on site
       4. **Your event runs** -- on a stable platform
       5. **We collect** -- full takedown and removal included
-  - type: cta
-    title: Hire the Modular Deck Staging
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Modular Deck Staging
+
+      Contact our team for availability and pricing.
 ---
 
 Build exactly the stage you need with our Intelistage modular deck system. Each 1m x 2m carpeted deck section locks together using an internal locking mechanism, creating a stable platform that supports up to 185 lbs per square foot (900 kg per square metre). The system can be configured for anything from catwalks to full concert stages. We deliver nationwide, including major exhibition centres such as NEC Birmingham, Manchester Central, Telford Exhibition Centre and ExCel London.

@@ -37,11 +37,23 @@ blocks:
       S66 8JP
       United Kingdom
 
+  - type: icon_links
+    section_class: compact
+    intro: |
       ### Follow Us
-
-      - [Facebook](https://facebook.com/stagingevents)
-      - [Twitter](https://twitter.com/stagingevents)
-      - [Instagram](https://instagram.com/stagingevents)
+    items:
+      - icon: "mdi:facebook"
+        text: Facebook
+        url: "https://facebook.com/stagingevents"
+      - icon: "mdi:twitter"
+        text: Twitter
+        url: "https://twitter.com/stagingevents"
+      - icon: "mdi:instagram"
+        text: Instagram
+        url: "https://instagram.com/stagingevents"
+      - icon: "mdi:linkedin"
+        text: LinkedIn
+        url: "https://www.linkedin.com/company/staging-events"
 
   # Image background
   - type: image-background

@@ -84,14 +84,11 @@ blocks:
         label: CO2 Savings
       - value: Battery
         label: Power Type
-  - type: cta
-    title: Hire the Battery Generator (Instagrid)
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Battery Generator (Instagrid)
+
+      Contact our team for availability and pricing.
 ---
 
 The Instagrid ONE max is a battery-powered alternative to diesel generators. With 2.1kWh capacity and 3,600 watts of continuous output through a 230V AC mains outlet, it weighs 20kg, so one person can carry and position it on site.
