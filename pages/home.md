@@ -30,7 +30,7 @@ blocks:
 
       We cover every aspect of any event — from the procurement of equipment, storage, management and delivery. That's simply what we do! We also offer [event staff and crew](/about/) for the delivery of events and the setup of event villages. We have in-house equipment to hire, including [stage hire](/categories/staging/), [PA hire](/categories/audio/), compere/MC services, [generator hire](/categories/power/) and [gantry hire](/categories/gantries/) for any event, whether it's a park run or a marathon — we can deliver and manage it all. We can also provide bottled water and delivery to site at a very competitive rate; last year alone, we handled in the region of 120,000 bottles of water.
 
-      Working in this industry for a number of years, we are also in a position to offer expert advice and support for any kind of event. Please give one of our expert event coordinators a call on [08454680610](tel:08454680610).
+      Working in this industry for a number of years, we are also in a position to offer expert advice and support for any kind of event. Please give one of our expert event coordinators a call on [0845 468 0610](tel:+448454680610).
     button:
       text: View All Services
       href: /services/
