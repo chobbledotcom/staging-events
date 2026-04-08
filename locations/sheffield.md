@@ -41,7 +41,7 @@ blocks:
       href: /contact/
       variant: secondary
     figure_type: image
-    figure_src: images/choir-on-modular-stage.jpg
+    figure_src: images/event-stage-setup.jpg
     figure_alt: Event staging in Sheffield
 
   - type: items

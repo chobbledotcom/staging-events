@@ -42,7 +42,7 @@ blocks:
       href: /contact/
       variant: secondary
     figure_type: image
-    figure_src: images/trailer-stage-with-trussing.jpg
+    figure_src: images/mobile-trailer-stage-with-barriers.jpg
     figure_alt: Stage hire for Leeds events
 
   - type: items
