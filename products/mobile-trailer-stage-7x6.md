@@ -80,6 +80,7 @@ blocks:
 
       - Delivery, setup and collection by our crew
       - Wind and showerproof side walls
+      - Full 50mm tubular trussing for rigging
       - Slip-proof weatherproof stage floor
       - Floodlights for setup and takedown
       - Structural calculations and documentation

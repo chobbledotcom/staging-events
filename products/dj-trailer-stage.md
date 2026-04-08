@@ -102,7 +102,7 @@ blocks:
     reverse: true
     title: Easy Branding
     content: |-
-      Custom branding is available. The Velcro front panel accepts printed artwork, letting you display your event logo, sponsor details or company branding in minutes. Our team can advise on artwork sizing and production.
+      A Velcro panel on the front of the canopy makes it easy to attach custom branding. The panel accepts printed artwork, letting you display your event logo, sponsor details or company branding in minutes. Our team can advise on panel sizing, artwork requirements and production.
     figure_type: html
     figure_html: |-
       ### Branding Options
