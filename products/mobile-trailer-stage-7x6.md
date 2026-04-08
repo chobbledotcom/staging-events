@@ -97,14 +97,11 @@ blocks:
         label: Total Weight
       - value: 30 mins setup, 45 mins takedown
         label: Setup Time
-  - type: cta
-    title: Hire the Mobile Trailer Stage 7x6m
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Mobile Trailer Stage 7x6m
+
+      Contact our team for availability and pricing.
 ---
 
 Our standard M42 mobile trailer stage delivers 42 square metres of performance space (7m x 6m), comfortably accommodating a 10-piece band and up to 25 singers. Self-contained and self-balanced for hard standing use, this stage requires just 30 minutes to set up and 45 minutes to take down.

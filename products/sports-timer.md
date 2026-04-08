@@ -68,14 +68,11 @@ blocks:
       - icon: mdi:check-circle
         title: UK-wide delivery and setup
         description: ""
-  - type: cta
-    title: Hire a Sports Timer
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire a Sports Timer
+
+      Contact our team for availability and pricing.
 ---
 
 Professional sports timer hire for timed events across the UK. Our digital timing displays provide accurate countdown and elapsed time readings, giving participants and spectators a clear view of race progress at your start and finish line.

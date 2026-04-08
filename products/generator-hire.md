@@ -72,14 +72,11 @@ blocks:
         label: Fuel Type
       - value: UK-wide
         label: Delivery
-  - type: cta
-    title: Hire the Generator Hire
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Generator Hire
+
+      Contact our team for availability and pricing.
 ---
 
 Our range of generators from 2.2kva to 20kva provides reliable power for events, festivals, outdoor activities and construction sites. The range covers everything from small lighting rigs to full stage setups with PA and effects.

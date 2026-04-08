@@ -84,14 +84,11 @@ blocks:
         label: Coverage
       - value: Indoor or outdoor
         label: Setup
-  - type: cta
-    title: Hire the Crowd Barriers and Belt Barriers
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Crowd Barriers and Belt Barriers
+
+      Contact our team for availability and pricing.
 ---
 
 We supply two distinct types of professional crowd management barrier, suited to different environments. Both are available in bulk with volume discounts.

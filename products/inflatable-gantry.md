@@ -84,14 +84,11 @@ blocks:
         label: Best For
       - value: Quick setup/takedown
         label: Setup
-  - type: cta
-    title: Hire the Inflatable Gantry
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Inflatable Gantry
+
+      Contact our team for availability and pricing.
 ---
 
 Our inflatable gantry is a start and finish line for charity runs, fun runs, marathons, obstacle courses and mass participation events on grassed areas. Every hire is a full-service package: we handle delivery, on-site setup, inflation and collection so your team can focus entirely on running the event.

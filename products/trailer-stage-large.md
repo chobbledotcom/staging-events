@@ -90,14 +90,11 @@ blocks:
       - **Quick trailer-mounted deployment** on any surface
       - **Custom dimensions** available on request
       - **Over 25 years** of staging expertise
-  - type: cta
-    title: Hire the Large Trailer Stage
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Large Trailer Stage
+
+      Contact our team for availability and pricing.
 ---
 
 Our largest mobile trailer stage delivers an 8m x 6m performance area, used for festivals, outdoor concerts and major public events. The full covered truss roof structure provides weather protection for performers and equipment, while the trailer-mounted design means quick deployment on site.

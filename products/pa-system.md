@@ -82,14 +82,11 @@ blocks:
         label: Included
       - value: Microphones
         label: Included
-  - type: cta
-    title: Hire the PA System
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the PA System
+
+      Contact our team for availability and pricing.
 ---
 
 We have a massive range of PA which we can bespoke to your needs, covering events from corporate presentations to outdoor festivals. We can scale the system to suit your venue and audience.

@@ -85,14 +85,11 @@ blocks:
         label: System
       - value: 900 kg per square metre
         label: Weight Capacity
-  - type: cta
-    title: Hire the Event Stage 4x4m
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Event Stage 4x4m
+
+      Contact our team for availability and pricing.
 ---
 
 A 4x4m event stage that suits a wide range of events. Built from Intelistage portable platforms supporting up to 900 kg per square metre, with full 50mm tubular trussing for professional rigging. Setup takes approximately 1.5 hours, and the stage is available at three standard heights with custom heights possible.

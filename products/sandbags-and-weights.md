@@ -68,14 +68,11 @@ blocks:
       - icon: mdi:check-circle
         title: UK-wide delivery
         description: ""
-  - type: cta
-    title: Enquire About Ballast
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Enquire About Ballast
+
+      Contact our team for availability and pricing.
 ---
 
 Professional sandbag and weight hire for securing event structures across the UK. When setting up on hard standing, tarmac, concrete or other surfaces where ground stakes and anchors cannot be used, ballast is essential for keeping your structures stable and safe.

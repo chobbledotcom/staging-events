@@ -78,14 +78,11 @@ blocks:
         label: Surface
       - value: All stage systems
         label: Compatibility
-  - type: cta
-    title: Hire an Access Ramp
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire an Access Ramp
+
+      Contact our team for availability and pricing.
 ---
 
 Disabled access ramp hire for events across the UK. Our DDA-compliant ramps provide safe, dignified access to stages and raised platforms for wheelchair users and those with mobility needs.

@@ -85,14 +85,11 @@ blocks:
         label: System
       - value: 900 kg per square metre
         label: Weight Capacity
-  - type: cta
-    title: Hire the Event Stage 6x6m
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Event Stage 6x6m
+
+      Contact our team for availability and pricing.
 ---
 
 A large 6x6m covered truss stage offering 36 square metres of performance space, large enough for a five-piece band or up to 15 performers. The full roof structure and weather-resistant side walls keep the stage sheltered, and works for outdoor events year-round. Setup and breakdown each take approximately 1.5 hours.

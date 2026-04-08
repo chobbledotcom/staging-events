@@ -99,14 +99,11 @@ blocks:
       - **LED strip lighting** from £5
       - **Festoon lighting** from £149
       - **30 kVA generator** from £350
-  - type: cta
-    title: Hire the Marquee and Gazebo Hire
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Marquee and Gazebo Hire
+
+      Contact our team for availability and pricing.
 ---
 
 Commercial-grade pop-up gazebos and mini marquees built for professional use at outdoor events. Our 3x4.5m marquees feature adjustable ceiling height options, full sides and a door for complete enclosure, using quality materials designed to retain warmth and keep guests comfortable. These gazebos provide weatherproof shelter on grass or hard standing.

@@ -99,14 +99,11 @@ blocks:
       - **Event logos and sponsor branding**
       - **Artwork advice from our team**
       - **Quick attach and remove between events**
-  - type: cta
-    title: Hire the DJ Trailer Stage
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the DJ Trailer Stage
+
+      Contact our team for availability and pricing.
 ---
 
 A compact covered stage designed specifically for DJs, comperes and solo performers. With external measurements of 5m x 4m and a usable internal space of 3m x 4m, this mobile unit provides a covered performance platform for outdoor events. The Velcro front panel makes it simple to add your own branding.

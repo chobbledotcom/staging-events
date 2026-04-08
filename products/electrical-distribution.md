@@ -68,14 +68,11 @@ blocks:
       - icon: mdi:check-circle
         title: UK-wide delivery and setup
         description: ""
-  - type: cta
-    title: Hire Electrical Distribution
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire Electrical Distribution
+
+      Contact our team for availability and pricing.
 ---
 
 Professional electrical distribution hire for events across the UK. When you need to get power from a generator or mains supply to multiple locations across your event site, our distribution equipment ensures safe, reliable electricity delivery.

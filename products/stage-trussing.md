@@ -92,14 +92,11 @@ blocks:
         label: Product Categories
       - value: "~95%"
         label: In-House Owned
-  - type: cta
-    title: Hire the Stage Trussing
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Stage Trussing
+
+      Contact our team for availability and pricing.
 ---
 
 With over 25 years supplying stages and rigging for events across the UK, we carry a large inventory of professional Litec trussing. All equipment is well maintained, appropriately packaged for protection and packaged for efficient transport.

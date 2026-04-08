@@ -81,14 +81,11 @@ blocks:
         label: Start/Finish Panels
       - value: 3 x 0.29m (£15.32 each)
         label: Side Leg Panels
-  - type: cta
-    title: Hire the Medium Trussing Gantry
-    description: Contact our team for availability and pricing.
-    button:
-      text: Get a Quote
-      href: /contact/
-      variant: secondary
-      size: lg
+  - type: contact_form
+    content: |-
+      ## Hire the Medium Trussing Gantry
+
+      Contact our team for availability and pricing.
 ---
 
 Our medium trussing gantry is a professional start and finish line structure designed for charity runs, marathons, cycling events and mass participation races. With custom-designed panels and a clean, branded appearance, and it works on most surfaces.
