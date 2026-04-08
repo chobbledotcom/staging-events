@@ -55,6 +55,34 @@ blocks:
       href: /contact/
       variant: primary
   - type: content
+  - type: split
+    reverse: true
+    title: Truss Frame and Rigging
+    content: |-
+      Full 50mm tubular trussing provides robust rigging points for speakers, lighting rigs and production equipment. The 3.9m roof clearance provides headroom for lighting setups and keeps the stage floor clear.
+    figure_type: html
+    figure_html: |-
+      ### Rigging Highlights
+
+      - **Full 50mm tubular trussing** as standard
+      - **3.9m roof clearance** for lighting setups
+      - **Clear stage floor** for performers and choirs
+      - **Suitable for production equipment**
+  - type: split
+    title: Branding and Inclusions
+    content: |-
+      Side PA wings are available from £99 each, bottom banners from £249, top banners from £199, and full back stage banners (6x3m) from £476. Our design team can produce your artwork.
+    figure_type: html
+    figure_html: |-
+      ### Included as Standard
+
+      - Delivery, setup and collection by our crew
+      - Wind and showerproof side walls (rated to 90 km/h)
+      - Full 50mm tubular trussing for rigging
+      - Floodlights for setup and takedown
+      - Structural calculations and documentation
+      - Risk assessments and method statements
+      - £5 million public liability insurance
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -116,24 +144,6 @@ The stage floor sits 1.06m above ground with 3.9m of clearance to the roof, and 
 - Fireworks displays and Christmas light switch-ons
 - Council events and public gatherings
 
-### Truss Frame and Rigging
-
-Full 50mm tubular trussing provides robust rigging points for speakers, lighting rigs and production equipment. The 3.9m roof clearance provides headroom for lighting setups and keeps the stage floor clear.
-
-### Branding
-
-Side PA wings are available from £99 each, bottom banners from £249, top banners from £199, and full back stage banners (6x3m) from £476. Our design team can produce your artwork.
-
-### What's Included
-
-- Delivery, setup and collection by our crew
-- Wind and showerproof side walls (rated to 90 km/h)
-- Full 50mm tubular trussing for rigging
-- Floodlights for setup and takedown
-- Structural calculations and documentation
-- Risk assessments and method statements
-- £5 million public liability insurance
-
 ### Additional Options
 
 - PA systems with line array options
@@ -151,7 +161,3 @@ Side PA wings are available from £99 each, bottom banners from £249, top banne
 - **Day 3** — £500
 - Longer periods available on request
 - All prices subject to VAT
-
-### Suitable Locations
-
-This stage is designed for outdoor use only, on both grass and hard surfaces. The self-balanced design means no additional anchoring is required on hard standing.

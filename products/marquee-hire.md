@@ -48,6 +48,19 @@ blocks:
       href: /contact/
       variant: primary
   - type: content
+  - type: split
+    title: Shelter and Comfort
+    content: |-
+      Each marquee comes with sides and a door for complete enclosure, providing a dry, sheltered space. The quality material retains heat effectively, so the marquees work throughout the year. They can be positioned on grass or hard standing with no special groundwork required.
+    figure_type: html
+    figure_html: |-
+      ### What's Included
+
+      - Delivery, setup and collection by our crew
+      - Full sides and door for complete enclosure
+      - Adjustable ceiling height
+      - Risk assessments and method statements
+      - £5 million public liability insurance
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -122,18 +135,6 @@ Commercial-grade pop-up gazebos and mini marquees built for professional use at 
 - **3x3m Gazebo Marquee** - From £85
 - **3x4.5m Pop-up Gazebo Marquee** - From £85
 - **3x4.5m Gazebo Marquee (Black)** - From £95
-
-### Shelter and Comfort
-
-Each marquee comes with sides and a door for complete enclosure, providing a dry, sheltered space. The quality material retains heat effectively, so the marquees work throughout the year. They can be positioned on grass or hard standing with no special groundwork required.
-
-### What's Included
-
-- Delivery, setup and collection by our crew
-- Full sides and door for complete enclosure
-- Adjustable ceiling height
-- Risk assessments and method statements
-- £5 million public liability insurance
 
 ### Optional Extras
 

@@ -55,6 +55,36 @@ blocks:
       href: /contact/
       variant: primary
   - type: content
+  - type: split
+    reverse: true
+    title: Truss Frame and Rigging
+    content: |-
+      Full 50mm tubular trussing provides rigging points for speakers, lighting and production equipment. The 5m overall height gives clearance for lighting setups, keeping the stage floor clear for performers.
+    figure_type: html
+    figure_html: |-
+      ### Rigging Highlights
+
+      - **Full 50mm tubular trussing** as standard
+      - **5m overall height** for lighting clearance
+      - **Clear performance deck** for bands and choirs
+      - **Suitable for audio and lighting production**
+  - type: split
+    title: Weather Protection and Setup
+    content: |-
+      Wind and showerproof side walls protect performers and equipment in challenging conditions. The walls are rated to 17.8 m/s (approximately 40 mph) with covers fitted, while the uncovered structure withstands winds up to 30 m/s (approximately 67 mph).
+
+      The stage works both indoors and outdoors, on hard surfaces or grass. The self-balanced design means no additional anchoring is required on hard standing.
+    figure_type: html
+    figure_html: |-
+      ### Included as Standard
+
+      - Delivery, setup and collection by our crew
+      - Wind and showerproof side walls
+      - Slip-proof weatherproof stage floor
+      - Floodlights for setup and takedown
+      - Structural calculations and documentation
+      - Risk assessments and method statements
+      - £5 million public liability insurance
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -116,25 +146,6 @@ The stage height is adjustable between 1.0m and 1.3m above ground, with an overa
 - Council events and public gatherings
 - Indoor exhibitions and trade shows
 
-### Truss Frame and Rigging
-
-Full 50mm tubular trussing provides rigging points for speakers, lighting and production equipment. The 5m overall height gives clearance for lighting setups, keeping the stage floor clear for performers.
-
-### Weather Protection
-
-Wind and showerproof side walls protect performers and equipment in challenging conditions. The walls are rated to 17.8 m/s (approximately 40 mph) with covers fitted, while the uncovered structure withstands winds up to 30 m/s (approximately 67 mph).
-
-### What's Included
-
-- Delivery, setup and collection by our crew
-- Wind and showerproof side walls
-- Full 50mm tubular trussing for rigging
-- Slip-proof weatherproof stage floor
-- Floodlights for setup and takedown
-- Structural calculations and documentation
-- Risk assessments and method statements
-- £5 million public liability insurance
-
 ### Additional Options
 
 - PA wings trussing: £199
@@ -151,7 +162,3 @@ Wind and showerproof side walls protect performers and equipment in challenging 
 - **Day 2** — £895
 - **Day 3** — £595
 - All prices subject to VAT
-
-### Suitable Locations
-
-This stage works both indoors and outdoors, on hard surfaces or grass. The self-balanced design means no additional anchoring is required on hard standing.

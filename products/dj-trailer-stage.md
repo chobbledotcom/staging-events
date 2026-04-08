@@ -52,6 +52,20 @@ blocks:
       - image: images/memory-walk-stage-setup.jpg
       - image: images/memory-walk-stage-close-up.jpg
   - type: content
+  - type: split
+    title: Covered Performance Space
+    content: |-
+      The stage canopy provides full overhead cover, protecting performers and equipment from the elements. The 3m x 4m internal space gives performers enough room to set up decks, instruments or presentation equipment while staying sheltered.
+    figure_type: html
+    figure_html: |-
+      ### What's Included
+
+      - Delivery, setup and collection by our crew
+      - Covered canopy with weather protection
+      - Velcro front panel for branding
+      - Structural calculations and documentation
+      - Risk assessments and method statements
+      - £5 million public liability insurance
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -116,23 +130,6 @@ A compact covered stage designed specifically for DJs, comperes and solo perform
 - Up to a three-piece ensemble
 - Charity fun days and community events
 - Market performances and outdoor entertainment
-
-### Covered Performance Space
-
-The stage canopy provides full overhead cover, protecting performers and equipment from the elements. The 3m x 4m internal space gives performers enough room to set up decks, instruments or presentation equipment while staying sheltered.
-
-### Branding
-
-A Velcro panel on the front of the canopy makes it easy to attach custom branding. Add your event logo, sponsor details or company branding. Our team can advise on panel sizing and artwork requirements.
-
-### What's Included
-
-- Delivery, setup and collection by our crew
-- Covered canopy with weather protection
-- Velcro front panel for branding
-- Structural calculations and documentation
-- Risk assessments and method statements
-- £5 million public liability insurance
 
 ### Additional Options
 
