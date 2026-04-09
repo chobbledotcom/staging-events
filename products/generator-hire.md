@@ -126,7 +126,7 @@ blocks:
         label: Fuel Type
       - value: UK-wide
         label: Delivery
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Generator Hire
 

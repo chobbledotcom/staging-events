@@ -104,7 +104,7 @@ blocks:
       - icon: mdi:check-circle
         title: UK-wide delivery and setup
         description: ""
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire Electrical Distribution
 

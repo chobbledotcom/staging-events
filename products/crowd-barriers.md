@@ -123,7 +123,7 @@ blocks:
         label: Coverage
       - value: Indoor or outdoor
         label: Setup
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Crowd Barriers and Belt Barriers
 

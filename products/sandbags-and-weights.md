@@ -89,7 +89,7 @@ blocks:
       - icon: mdi:check-circle
         title: UK-wide delivery
         description: ""
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Enquire About Ballast
 

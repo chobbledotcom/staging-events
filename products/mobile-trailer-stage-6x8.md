@@ -168,7 +168,7 @@ blocks:
         label: Wind Resistance
       - value: 1 hour setup, 45 mins takedown
         label: Setup Time
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Mobile Trailer Stage 6x8m
 

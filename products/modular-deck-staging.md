@@ -183,7 +183,7 @@ blocks:
       3. **Delivery and setup** -- our crew build it on site
       4. **Your event runs** -- on a stable platform
       5. **We collect** -- full takedown and removal included
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Modular Deck Staging
 

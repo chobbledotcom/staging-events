@@ -123,7 +123,7 @@ blocks:
         label: Insurance
       - value: Nationwide delivery
         label: Coverage
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Festoon Lighting
 

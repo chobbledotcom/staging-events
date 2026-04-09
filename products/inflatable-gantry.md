@@ -98,7 +98,7 @@ blocks:
         label: Best For
       - value: Quick setup/takedown
         label: Setup
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Inflatable Gantry
 

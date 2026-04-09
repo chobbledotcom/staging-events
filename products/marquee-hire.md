@@ -162,7 +162,7 @@ blocks:
       - **LED strip lighting** from £5
       - **Festoon lighting** from £149
       - **30 kVA generator** from £350
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Marquee and Gazebo Hire
 

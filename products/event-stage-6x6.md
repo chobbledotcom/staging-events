@@ -137,7 +137,7 @@ blocks:
         label: System
       - value: 900 kg per square metre
         label: Weight Capacity
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Event Stage 6x6m
 

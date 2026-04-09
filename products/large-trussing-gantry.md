@@ -99,7 +99,7 @@ blocks:
         label: Start/Finish Panels
       - value: 3 x 0.29m (£15.32 each)
         label: Side Leg Panels
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Large Trussing Gantry
 

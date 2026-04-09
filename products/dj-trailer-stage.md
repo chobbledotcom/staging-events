@@ -131,7 +131,7 @@ blocks:
       - **Event logos and sponsor branding**
       - **Artwork advice from our team**
       - **Quick attach and remove between events**
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the DJ Trailer Stage
 

@@ -118,7 +118,7 @@ blocks:
         label: System
       - value: £5 million public liability
         label: Insurance
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Mini Stage 3x3m
 

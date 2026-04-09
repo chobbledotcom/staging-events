@@ -171,7 +171,7 @@ blocks:
         label: Total Weight
       - value: 30 mins setup, 45 mins takedown
         label: Setup Time
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Mobile Trailer Stage 7x6m
 

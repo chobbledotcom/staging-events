@@ -135,7 +135,7 @@ blocks:
         label: Included
       - value: Microphones
         label: Included
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the PA System
 

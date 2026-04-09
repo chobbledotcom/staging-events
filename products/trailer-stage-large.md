@@ -144,7 +144,7 @@ blocks:
       - **Quick trailer-mounted deployment** on any surface
       - **Custom dimensions** available on request
       - **Over 25 years** of staging expertise
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Large Trailer Stage
 

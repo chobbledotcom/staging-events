@@ -46,7 +46,7 @@ blocks:
     figure_src: images/stage-with-gazebo-and-barriers.jpg
     figure_alt: Outdoor stage with gazebo and crowd barriers at a fundraising event
 
-  - type: icon_links
+  - type: icon-links
     section_class: alt
     intro: |
       ## What We Provide

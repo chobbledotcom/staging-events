@@ -161,7 +161,7 @@ blocks:
         label: Product Categories
       - value: "~95%"
         label: In-House Owned
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Stage Trussing
 

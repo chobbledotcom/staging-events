@@ -154,7 +154,7 @@ blocks:
         label: CO2 Savings
       - value: Battery
         label: Power Type
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Battery Generator (Instagrid)
 

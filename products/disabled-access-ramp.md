@@ -130,7 +130,7 @@ blocks:
         label: Surface
       - value: All stage systems
         label: Compatibility
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire an Access Ramp
 
