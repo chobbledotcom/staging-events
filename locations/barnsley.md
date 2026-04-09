@@ -68,6 +68,9 @@ blocks:
         title: Personal Service
         description: Direct access to our events team
 
+  - type: markdown
+    content: |-
+      We supply professional staging and event hire across Barnsley and South Yorkshire. Our nearby warehouse means quick turnaround and competitive pricing for local events.
   - type: cta
     title: Planning an Event in Barnsley?
     description: >-
@@ -78,5 +81,3 @@ blocks:
       variant: secondary
       size: lg
 ---
-
-We supply professional staging and event hire across Barnsley and South Yorkshire. Our nearby warehouse means quick turnaround and competitive pricing for local events.

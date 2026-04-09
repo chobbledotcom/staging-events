@@ -48,7 +48,21 @@ blocks:
     items:
       - image: images/mobile-trailer-stage-on-field.jpg
       - image: images/memory-walk-stage-and-pa.jpg
-  - type: content
+  - type: markdown
+    content: |-
+      Our inflatable gantry is a start and finish line for charity runs, fun runs, marathons, obstacle courses and mass participation events on grassed areas. Every hire is a full-service package: we handle delivery, on-site setup, inflation and collection so your team can focus entirely on running the event.
+
+      ### Complete Hire Service
+
+      Each gantry comes with its own electric inflation fan and is erected and dismantled by our crew. We supply multiple units for events that need separate start and finish structures, and our event support staff remain on-site to manage the lines throughout your race.
+
+      ### Custom Branding Opportunities
+
+      We can add branding to the gantry with sponsor logos, event names or bespoke artwork. Banners are produced on durable 440gsm PVC with velcro attachment for quick swap-outs between events. We store branded gantries at no extra cost, so your custom setup is ready to go whenever you need it again.
+
+      ### End-to-End Event Support
+
+      Our gantry hire is part of our staging and event services. We coordinate crowd control management, bottled water distribution for participants, and generator provision on request. We can put together a support package that covers what your event needs.
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -84,23 +98,9 @@ blocks:
         label: Best For
       - value: Quick setup/takedown
         label: Setup
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Inflatable Gantry
 
       Contact our team for availability and pricing.
 ---
-
-Our inflatable gantry is a start and finish line for charity runs, fun runs, marathons, obstacle courses and mass participation events on grassed areas. Every hire is a full-service package: we handle delivery, on-site setup, inflation and collection so your team can focus entirely on running the event.
-
-### Complete Hire Service
-
-Each gantry comes with its own electric inflation fan and is erected and dismantled by our crew. We supply multiple units for events that need separate start and finish structures, and our event support staff remain on-site to manage the lines throughout your race.
-
-### Custom Branding Opportunities
-
-We can add branding to the gantry with sponsor logos, event names or bespoke artwork. Banners are produced on durable 440gsm PVC with velcro attachment for quick swap-outs between events. We store branded gantries at no extra cost, so your custom setup is ready to go whenever you need it again.
-
-### End-to-End Event Support
-
-Our gantry hire is part of our staging and event services. We coordinate crowd control management, bottled water distribution for participants, and generator provision on request. We can put together a support package that covers what your event needs.

@@ -56,7 +56,61 @@ blocks:
       - image: images/memory-walk-stage-and-van.jpg
       - image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
       - image: images/prostate-cancer-uk-march-for-men-led-screen.jpg
-  - type: content
+  - type: markdown
+    content: |-
+      Build exactly the stage you need with our Intelistage modular deck system. Each 1m x 2m carpeted deck section locks together using an internal locking mechanism, creating a stable platform that supports up to 185 lbs per square foot (900 kg per square metre). The system can be configured for anything from catwalks to full concert stages. We deliver nationwide, including major exhibition centres such as NEC Birmingham, Manchester Central, Telford Exhibition Centre and ExCel London.
+  - type: features
+    header_intro: "## Ideal For"
+    items:
+      - icon: mdi:check-circle
+        title: Conferences and corporate presentations
+        description: ""
+      - icon: mdi:check-circle
+        title: Fashion shows and catwalk events
+        description: ""
+      - icon: mdi:check-circle
+        title: Award ceremonies and galas
+        description: ""
+      - icon: mdi:check-circle
+        title: Choir and orchestra performances
+        description: ""
+      - icon: mdi:check-circle
+        title: Exhibition stands and trade shows
+        description: ""
+      - icon: mdi:check-circle
+        title: Indoor concerts and live performances
+        description: ""
+  - type: features
+    section_class: alt
+    header_intro: "## Available Heights"
+    items:
+      - icon: mdi:check-circle
+        title: 200mm
+        description: Low profile
+      - icon: mdi:check-circle
+        title: 570mm
+        description: Standard height
+      - icon: mdi:check-circle
+        title: 725mm
+        description: Raised platform
+      - icon: mdi:check-circle
+        title: Custom heights
+        description: Available for additional fees
+  - type: markdown
+    content: |-
+      ### Popular Configurations
+
+      - 7m x 5m
+      - 6m x 6m
+      - Custom dimensions to suit your venue
+
+      ### Additional Options
+
+      - 50mm tubular trussing for rigging (speakers, lighting)
+      - PA systems and audio equipment
+      - Lighting packages
+      - Accessible ramp on request
+      - Custom branding panels
   - type: split
     title: Modular Design and Build Quality
     content: |-
@@ -129,41 +183,9 @@ blocks:
       3. **Delivery and setup** -- our crew build it on site
       4. **Your event runs** -- on a stable platform
       5. **We collect** -- full takedown and removal included
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Modular Deck Staging
 
       Contact our team for availability and pricing.
 ---
-
-Build exactly the stage you need with our Intelistage modular deck system. Each 1m x 2m carpeted deck section locks together using an internal locking mechanism, creating a stable platform that supports up to 185 lbs per square foot (900 kg per square metre). The system can be configured for anything from catwalks to full concert stages. We deliver nationwide, including major exhibition centres such as NEC Birmingham, Manchester Central, Telford Exhibition Centre and ExCel London.
-
-### Ideal For
-
-- Conferences and corporate presentations
-- Fashion shows and catwalk events
-- Award ceremonies and galas
-- Choir and orchestra performances
-- Exhibition stands and trade shows
-- Indoor concerts and live performances
-
-### Available Heights
-
-- 200mm (low profile)
-- 570mm (standard)
-- 725mm (raised)
-- Custom heights available for additional fees
-
-### Popular Configurations
-
-- 7m x 5m
-- 6m x 6m
-- Custom dimensions to suit your venue
-
-### Additional Options
-
-- 50mm tubular trussing for rigging (speakers, lighting)
-- PA systems and audio equipment
-- Lighting packages
-- Accessible ramp on request
-- Custom branding panels

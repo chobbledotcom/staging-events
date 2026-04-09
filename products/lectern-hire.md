@@ -45,7 +45,28 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: primary
-  - type: content
+  - type: markdown
+    content: |-
+      Professional lectern hire for events across the UK. Whether you need a podium for a corporate conference, award ceremony, charity event or outdoor presentation, our lecterns provide a polished focal point for speakers.
+
+      ### Complete Presentation Setup
+
+      Combine a lectern with our modular deck staging and PA systems for a fully equipped presentation area. We supply wired and wireless microphones, mixing desks and monitor speakers to ensure your speakers are heard clearly.
+
+      ### What's Included
+
+      - Professional lectern
+      - Delivery, setup and collection
+      - Indoor and outdoor options
+      - £5 million public liability insurance
+
+      ### Optional Add-Ons
+
+      - Wired and wireless microphones
+      - PA system hire
+      - Stage hire and decking
+      - Custom branding panels
+      - Lighting packages
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -68,30 +89,9 @@ blocks:
       - icon: mdi:check-circle
         title: UK-wide delivery and setup
         description: ""
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire a Lectern
 
       Contact our team for availability and pricing.
 ---
-
-Professional lectern hire for events across the UK. Whether you need a podium for a corporate conference, award ceremony, charity event or outdoor presentation, our lecterns provide a polished focal point for speakers.
-
-### Complete Presentation Setup
-
-Combine a lectern with our modular deck staging and PA systems for a fully equipped presentation area. We supply wired and wireless microphones, mixing desks and monitor speakers to ensure your speakers are heard clearly.
-
-### What's Included
-
-- Professional lectern
-- Delivery, setup and collection
-- Indoor and outdoor options
-- £5 million public liability insurance
-
-### Optional Add-Ons
-
-- Wired and wireless microphones
-- PA system hire
-- Stage hire and decking
-- Custom branding panels
-- Lighting packages

@@ -46,7 +46,7 @@ blocks:
     figure_src: images/mobile-trailer-stage-with-barriers.jpg
     figure_alt: Mobile trailer stage with crowd barriers at an event
 
-  - type: icon_links
+  - type: icon-links
     section_class: alt
     intro: |
       ## What We Provide

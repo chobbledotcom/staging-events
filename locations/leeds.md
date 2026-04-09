@@ -80,6 +80,9 @@ blocks:
       - value: "UK-wide"
         label: Service Area
 
+  - type: markdown
+    content: |-
+      Staging Events provides comprehensive event hire and production across Leeds and West Yorkshire. From our South Yorkshire base, we deliver stages, PA systems, photo booths and full event infrastructure for events of all sizes.
   - type: cta
     title: Planning an Event in Leeds?
     description: >-
@@ -90,5 +93,3 @@ blocks:
       variant: secondary
       size: lg
 ---
-
-Staging Events provides comprehensive event hire and production across Leeds and West Yorkshire. From our South Yorkshire base, we deliver stages, PA systems, photo booths and full event infrastructure for events of all sizes.

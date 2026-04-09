@@ -46,7 +46,7 @@ blocks:
     figure_src: images/singer-on-stage-microphone.jpg
     figure_alt: Singer performing on stage at a fundraising music event
 
-  - type: icon_links
+  - type: icon-links
     section_class: alt
     intro: |
       ## What We Provide

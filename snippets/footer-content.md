@@ -16,8 +16,9 @@ blocks:
         icon_label: "Location"
         title: "Find Us"
         description: "Bede House, Salisbury Road, Maltby, Rotherham, South Yorkshire S66 8JP"
+  - type: markdown
+    content: |-
+      Staging Events Ltd is a company registered in England and Wales. Company number **09021340**. Registered office: Bede House, Salisbury Road, Maltby, Rotherham, South Yorkshire, S66 8JP.
+
+      [Privacy Policy](/privacy-policy/)
 ---
-
-Staging Events Ltd is a company registered in England and Wales. Company number **09021340**. Registered office: Bede House, Salisbury Road, Maltby, Rotherham, South Yorkshire, S66 8JP.
-
-[Privacy Policy](/privacy-policy/)

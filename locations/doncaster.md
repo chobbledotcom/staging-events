@@ -79,6 +79,9 @@ blocks:
       - value: "95%"
         label: Equipment Owned
 
+  - type: markdown
+    content: |-
+      Staging Events provides professional event hire across Doncaster and the surrounding area. Based nearby in Maltby, we offer quick delivery and competitive rates for events of all sizes.
   - type: cta
     title: Planning an Event in Doncaster?
     description: >-
@@ -89,5 +92,3 @@ blocks:
       variant: secondary
       size: lg
 ---
-
-Staging Events provides professional event hire across Doncaster and the surrounding area. Based nearby in Maltby, we offer quick delivery and competitive rates for events of all sizes.

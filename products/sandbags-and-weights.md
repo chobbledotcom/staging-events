@@ -45,7 +45,28 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: primary
-  - type: content
+  - type: markdown
+    content: |-
+      Professional sandbag and weight hire for securing event structures across the UK. When setting up on hard standing, tarmac, concrete or other surfaces where ground stakes and anchors cannot be used, ballast is essential for keeping your structures stable and safe.
+
+      ### When You Need Ballast
+
+      Sandbags and weights are required for gantries, stages, marquees and trussing rigs on hard surfaces. We supply adequate ballast as standard with all relevant equipment hires, calculated to meet structural requirements and comply with health and safety regulations.
+
+      ### What's Included
+
+      - Professional-grade sandbags and weights
+      - Calculated to structural requirements
+      - Delivery and collection
+      - Risk assessments and method statements
+      - £5 million public liability insurance
+
+      ### Used With
+
+      - Start and finish gantries on tarmac and concrete
+      - Modular deck staging on hard standing
+      - Marquees on paved areas
+      - Trussing rigs at indoor and outdoor venues
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -68,30 +89,9 @@ blocks:
       - icon: mdi:check-circle
         title: UK-wide delivery
         description: ""
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Enquire About Ballast
 
       Contact our team for availability and pricing.
 ---
-
-Professional sandbag and weight hire for securing event structures across the UK. When setting up on hard standing, tarmac, concrete or other surfaces where ground stakes and anchors cannot be used, ballast is essential for keeping your structures stable and safe.
-
-### When You Need Ballast
-
-Sandbags and weights are required for gantries, stages, marquees and trussing rigs on hard surfaces. We supply adequate ballast as standard with all relevant equipment hires, calculated to meet structural requirements and comply with health and safety regulations.
-
-### What's Included
-
-- Professional-grade sandbags and weights
-- Calculated to structural requirements
-- Delivery and collection
-- Risk assessments and method statements
-- £5 million public liability insurance
-
-### Used With
-
-- Start and finish gantries on tarmac and concrete
-- Modular deck staging on hard standing
-- Marquees on paved areas
-- Trussing rigs at indoor and outdoor venues

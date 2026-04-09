@@ -44,7 +44,61 @@ blocks:
     items:
       - image: images/fan-party-stage-crowd.jpg
       - image: images/town-centre-stage-rotherham.jpg
-  - type: content
+  - type: markdown
+    content: |-
+      Our range of generators from 2.2kva to 20kva provides reliable power for events, festivals, outdoor activities and construction sites. The range covers everything from small lighting rigs to full stage setups with PA and effects.
+
+      All generators are maintained to high standards and delivered fuelled, tested and ready to run.
+
+      ### Built for Performance
+
+      The 10 KVA unit is a good example of the specification across the range:
+
+      - **Engine**: Kubota D722E diesel, 3 cylinders, 17 HP at 3000 rpm, water cooled
+      - **Power outlets**: Two 100V/240V outlets for flexible equipment connections
+      - **Fuel consumption**: Just 2.4 litres per hour, with a 40-litre tank providing up to 16 hours of continuous runtime at 75% load
+      - **Construction**: Heavy-duty build with engine protection shutdown, certified lifting eye, and fully bunded base (110% containment)
+      - **Transport**: Trolley kit included for easy positioning on site
+  - type: features
+    header_intro: "## Available Sizes"
+    items:
+      - icon: mdi:lightning-bolt
+        title: 2.2kva
+        description: Small lighting rigs and basic power needs
+      - icon: mdi:lightning-bolt
+        title: 5kva
+        description: Food stalls, market traders and small PA systems
+      - icon: mdi:lightning-bolt
+        title: 10kva
+        description: Stage lighting, PA systems and multi-equipment setups
+      - icon: mdi:lightning-bolt
+        title: 20kva
+        description: Large stages, festivals and multi-zone events
+  - type: features
+    section_class: alt
+    header_intro: "## Ideal For"
+    items:
+      - icon: mdi:check-circle
+        title: Outdoor festivals and concerts
+        description: ""
+      - icon: mdi:check-circle
+        title: Corporate events and exhibitions
+        description: ""
+      - icon: mdi:check-circle
+        title: Construction and site power
+        description: ""
+      - icon: mdi:check-circle
+        title: Markets and food festivals
+        description: ""
+      - icon: mdi:check-circle
+        title: Emergency backup power
+        description: ""
+      - icon: mdi:check-circle
+        title: Film and production locations
+        description: ""
+  - type: markdown
+    content: |-
+      All generators are PAT tested, regularly serviced and delivered with full fuel tanks. UK-wide delivery available.
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -72,43 +126,9 @@ blocks:
         label: Fuel Type
       - value: UK-wide
         label: Delivery
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Generator Hire
 
       Contact our team for availability and pricing.
 ---
-
-Our range of generators from 2.2kva to 20kva provides reliable power for events, festivals, outdoor activities and construction sites. The range covers everything from small lighting rigs to full stage setups with PA and effects.
-
-All generators are maintained to high standards and delivered fuelled, tested and ready to run.
-
-### Built for Performance
-
-The 10 KVA unit is a good example of the specification across the range:
-
-- **Engine**: Kubota D722E diesel, 3 cylinders, 17 HP at 3000 rpm, water cooled
-- **Power outlets**: Two 100V/240V outlets for flexible equipment connections
-- **Fuel consumption**: Just 2.4 litres per hour, with a 40-litre tank providing up to 16 hours of continuous runtime at 75% load
-- **Construction**: Heavy-duty build with engine protection shutdown, certified lifting eye, and fully bunded base (110% containment)
-- **Transport**: Trolley kit included for easy positioning on site
-
-### Available Sizes
-
-We stock multiple generator sizes to suit every requirement:
-
-- **2.2kva** - Small lighting rigs and basic power needs
-- **5kva** - Food stalls, market traders and small PA systems
-- **10kva** - Stage lighting, PA systems and multi-equipment setups
-- **20kva** - Large stages, festivals and multi-zone events
-
-### Ideal For
-
-- Outdoor festivals and concerts
-- Corporate events and exhibitions
-- Construction and site power
-- Markets and food festivals
-- Emergency backup power
-- Film and production locations
-
-All generators are PAT tested, regularly serviced and delivered with full fuel tanks. UK-wide delivery available.

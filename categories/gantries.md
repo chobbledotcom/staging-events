@@ -26,7 +26,9 @@ blocks:
     filter:
       property: data.categories
       includes: gantries
-  - type: content
+  - type: markdown
+    content: |-
+      Customisable gantry hire services across the UK, including trussing and inflatable options suitable for various event types. All gantries offer custom print services with attachment, detachment, and storage included at no additional cost.
   - type: cta
     title: Need Start & Finish Gantries?
     description: Contact our team for availability and pricing.
@@ -36,5 +38,3 @@ blocks:
       variant: secondary
       size: lg
 ---
-
-Customisable gantry hire services across the UK, including trussing and inflatable options suitable for various event types. All gantries offer custom print services with attachment, detachment, and storage included at no additional cost.

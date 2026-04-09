@@ -18,7 +18,9 @@ blocks:
     filter:
       property: data.categories
       includes: event-infrastructure
-  - type: content
+  - type: markdown
+    content: |-
+      Essential event infrastructure hire including festoon lighting, crowd barriers, generators and safety equipment. Everything you need to complete your event setup, delivered and installed by our crew.
   - type: cta
     title: Need Event Infrastructure Hire?
     description: Contact our team for availability and pricing.
@@ -28,5 +30,3 @@ blocks:
       variant: secondary
       size: lg
 ---
-
-Essential event infrastructure hire including festoon lighting, crowd barriers, generators and safety equipment. Everything you need to complete your event setup, delivered and installed by our crew.

@@ -48,7 +48,27 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: primary
-  - type: content
+  - type: markdown
+    content: |-
+      A 4x4m event stage that suits a wide range of events. Built from Intelistage portable platforms supporting up to 900 kg per square metre, with full 50mm tubular trussing for professional rigging. Setup takes approximately 1.5 hours, and the stage is available at three standard heights with custom heights possible.
+
+      ### Ideal For
+
+      - Live bands (up to 3-piece) with choir (up to 12 singers)
+      - Small festivals and community events
+      - Corporate presentations and product launches
+      - Fireworks displays and Christmas light switch-ons
+      - Award ceremonies and charity galas
+
+      ### Truss Frame and Rigging
+
+      Full 50mm tubular trussing provides sturdy rigging points for speakers, lighting and production equipment. The truss system keeps the stage floor clear for performers.
+
+      ### Additional Options
+
+      - PA systems available at extra cost
+      - Side PA wings branding from £199
+      - Bottom banner from £79
   - type: split
     reverse: true
     title: Branding and Setup
@@ -103,29 +123,9 @@ blocks:
         label: System
       - value: 900 kg per square metre
         label: Weight Capacity
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Event Stage 4x4m
 
       Contact our team for availability and pricing.
 ---
-
-A 4x4m event stage that suits a wide range of events. Built from Intelistage portable platforms supporting up to 900 kg per square metre, with full 50mm tubular trussing for professional rigging. Setup takes approximately 1.5 hours, and the stage is available at three standard heights with custom heights possible.
-
-### Ideal For
-
-- Live bands (up to 3-piece) with choir (up to 12 singers)
-- Small festivals and community events
-- Corporate presentations and product launches
-- Fireworks displays and Christmas light switch-ons
-- Award ceremonies and charity galas
-
-### Truss Frame and Rigging
-
-Full 50mm tubular trussing provides sturdy rigging points for speakers, lighting and production equipment. The truss system keeps the stage floor clear for performers.
-
-### Additional Options
-
-- PA systems available at extra cost
-- Side PA wings branding from £199
-- Bottom banner from £79

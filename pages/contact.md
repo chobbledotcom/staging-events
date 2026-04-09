@@ -19,7 +19,7 @@ blocks:
       Connect with our event specialists.
 
   # Contact form with details
-  - type: contact_form
+  - type: contact-form
     content: |
       ## Get in Touch
 
@@ -37,7 +37,7 @@ blocks:
       S66 8JP
       United Kingdom
 
-  - type: icon_links
+  - type: icon-links
     section_class: compact
     intro: |
       ### Follow Us

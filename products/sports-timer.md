@@ -45,7 +45,50 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: primary
-  - type: content
+  - type: markdown
+    content: |-
+      Professional sports timer hire for timed events across the UK. Our digital timing displays provide accurate countdown and elapsed time readings, giving participants and spectators a clear view of race progress at your start and finish line.
+
+      ### Complete Race Timing Setup
+
+      Our sports timers pair with our range of trussing and inflatable gantries to create a professional start and finish line. We handle delivery, setup and operation, so your event team can focus on managing participants.
+  - type: features
+    header_intro: "## What's Included"
+    items:
+      - icon: mdi:check-circle
+        title: High-visibility LED timing display
+        description: ""
+      - icon: mdi:check-circle
+        title: Countdown and elapsed time modes
+        description: ""
+      - icon: mdi:check-circle
+        title: Delivery, setup and collection
+        description: ""
+      - icon: mdi:check-circle
+        title: On-site operation by our crew
+        description: ""
+      - icon: mdi:check-circle
+        title: £5 million public liability insurance
+        description: ""
+  - type: features
+    section_class: alt
+    header_intro: "## Ideal For"
+    items:
+      - icon: mdi:check-circle
+        title: Charity runs and fun runs
+        description: ""
+      - icon: mdi:check-circle
+        title: Marathons and half marathons
+        description: ""
+      - icon: mdi:check-circle
+        title: Cycling events and triathlons
+        description: ""
+      - icon: mdi:check-circle
+        title: Obstacle course races
+        description: ""
+      - icon: mdi:check-circle
+        title: Mass participation events
+        description: ""
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -68,31 +111,9 @@ blocks:
       - icon: mdi:check-circle
         title: UK-wide delivery and setup
         description: ""
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire a Sports Timer
 
       Contact our team for availability and pricing.
 ---
-
-Professional sports timer hire for timed events across the UK. Our digital timing displays provide accurate countdown and elapsed time readings, giving participants and spectators a clear view of race progress at your start and finish line.
-
-### Complete Race Timing Setup
-
-Our sports timers pair with our range of trussing and inflatable gantries to create a professional start and finish line. We handle delivery, setup and operation, so your event team can focus on managing participants.
-
-### What's Included
-
-- High-visibility LED timing display
-- Countdown and elapsed time modes
-- Delivery, setup and collection
-- On-site operation by our crew
-- £5 million public liability insurance
-
-### Ideal For
-
-- Charity runs and fun runs
-- Marathons and half marathons
-- Cycling events and triathlons
-- Obstacle course races
-- Mass participation events

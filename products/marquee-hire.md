@@ -47,7 +47,57 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: primary
-  - type: content
+  - type: markdown
+    content: |-
+      Commercial-grade pop-up gazebos and mini marquees built for professional use at outdoor events. Our 3x4.5m marquees feature adjustable ceiling height options, full sides and a door for complete enclosure, using quality materials designed to retain warmth and keep guests comfortable. These gazebos provide weatherproof shelter on grass or hard standing.
+  - type: features
+    header_intro: "## Ideal For"
+    items:
+      - icon: mdi:check-circle
+        title: Garden parties and private celebrations
+        description: ""
+      - icon: mdi:check-circle
+        title: Charity fun days and community events
+        description: ""
+      - icon: mdi:check-circle
+        title: Market trading stalls and pop-up shops
+        description: ""
+      - icon: mdi:check-circle
+        title: Festival VIP areas and backstage shelters
+        description: ""
+      - icon: mdi:check-circle
+        title: Corporate hospitality and registration areas
+        description: ""
+      - icon: mdi:check-circle
+        title: Outdoor catering and refreshment stations
+        description: ""
+  - type: features
+    section_class: alt
+    header_intro: "## Available Sizes"
+    items:
+      - icon: mdi:check-circle
+        title: 3x3m Gazebo Marquee
+        description: From £85
+      - icon: mdi:check-circle
+        title: 3x4.5m Pop-up Gazebo Marquee
+        description: From £85
+      - icon: mdi:check-circle
+        title: 3x4.5m Gazebo Marquee (Black)
+        description: From £95
+  - type: markdown
+    content: |-
+      ### Optional Extras
+
+      - 6ft foldable tables from £5
+      - Deck chairs from £6.95
+      - Roll-a-Track flooring from £120
+      - LED strip lighting from £5
+      - Festoon lighting from £149
+      - 30 kVA diesel generator from £350
+      - Concrete marquee weights from £15
+      - 2.5m concrete jersey barriers from £12.50
+      - Mobile fire point trolley from £45
+      - Foot-operated sanitiser station from £29
   - type: split
     title: Shelter and Comfort
     content: |-
@@ -112,39 +162,9 @@ blocks:
       - **LED strip lighting** from £5
       - **Festoon lighting** from £149
       - **30 kVA generator** from £350
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Marquee and Gazebo Hire
 
       Contact our team for availability and pricing.
 ---
-
-Commercial-grade pop-up gazebos and mini marquees built for professional use at outdoor events. Our 3x4.5m marquees feature adjustable ceiling height options, full sides and a door for complete enclosure, using quality materials designed to retain warmth and keep guests comfortable. These gazebos provide weatherproof shelter on grass or hard standing.
-
-### Ideal For
-
-- Garden parties and private celebrations
-- Charity fun days and community events
-- Market trading stalls and pop-up shops
-- Festival VIP areas and backstage shelters
-- Corporate hospitality and registration areas
-- Outdoor catering and refreshment stations
-
-### Available Sizes
-
-- **3x3m Gazebo Marquee** - From £85
-- **3x4.5m Pop-up Gazebo Marquee** - From £85
-- **3x4.5m Gazebo Marquee (Black)** - From £95
-
-### Optional Extras
-
-- 6ft foldable tables from £5
-- Deck chairs from £6.95
-- Roll-a-Track flooring from £120
-- LED strip lighting from £5
-- Festoon lighting from £149
-- 30 kVA diesel generator from £350
-- Concrete marquee weights from £15
-- 2.5m concrete jersey barriers from £12.50
-- Mobile fire point trolley from £45
-- Foot-operated sanitiser station from £29

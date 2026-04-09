@@ -51,7 +51,76 @@ blocks:
     items:
       - image: images/stage-trussing-flightcase.jpg
       - image: images/band-on-trussed-stage-night.jpg
-  - type: content
+  - type: markdown
+    content: |-
+      With over 25 years supplying stages and rigging for events across the UK, we carry a large inventory of professional Litec trussing. All equipment is well maintained, appropriately packaged for protection and packaged for efficient transport.
+
+      We offer two staging system styles to suit different event requirements: lightweight portable platforms for smaller setups and quick installations, and covered truss stages with full roof structures for larger events that need weather protection. Each configuration is built to your specifications.
+
+      ### Single-Source Supply
+
+      With a stock of over 600 products across 68 categories, we can provide your entire event infrastructure from a single order -- stages, PA systems, lighting, generators, lecterns and line array rigs. Approximately 95% of our equipment is owned in-house, which means we control availability and turnaround. If we do not currently stock a specific item, we can procure it to meet your requirements.
+  - type: features
+    header_intro: "## What's Included"
+    items:
+      - icon: mdi:check-circle
+        title: Professional Litec trussing equipment
+        description: ""
+      - icon: mdi:check-circle
+        title: Delivery, setup and collection by trained crew
+        description: ""
+      - icon: mdi:check-circle
+        title: Structural calculations and documentation
+        description: ""
+      - icon: mdi:check-circle
+        title: Risk assessments and method statements
+        description: ""
+      - icon: mdi:check-circle
+        title: £5 million public liability insurance
+        description: ""
+      - icon: mdi:check-circle
+        title: Equipment maintained to high standards
+        description: ""
+      - icon: mdi:check-circle
+        title: Items can be procured if not currently in stock
+        description: ""
+  - type: markdown
+    content: |-
+      ### Litec Stock Inventory
+
+      | Item | Quantity |
+      |------|----------|
+      | Dado 4 Ways | 20 |
+      | 0.5m sections | 4 |
+      | 1m sections | 13 |
+      | 1.5m sections | 4 |
+      | 2m sections | 16 |
+      | 3m sections | 17 |
+      | Base Plates | 16 |
+      | Large Base Plates | 4 |
+      | 2m Hand Rails | 9 |
+  - type: features
+    section_class: alt
+    header_intro: "## Ideal For"
+    items:
+      - icon: mdi:check-circle
+        title: Outdoor concerts and festivals
+        description: ""
+      - icon: mdi:check-circle
+        title: Corporate events and conferences
+        description: ""
+      - icon: mdi:check-circle
+        title: Community events and celebrations
+        description: ""
+      - icon: mdi:check-circle
+        title: Theatre and performance productions
+        description: ""
+      - icon: mdi:check-circle
+        title: Award ceremonies
+        description: ""
+      - icon: mdi:check-circle
+        title: Product launches and brand activations
+        description: ""
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -92,50 +161,9 @@ blocks:
         label: Product Categories
       - value: "~95%"
         label: In-House Owned
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the Stage Trussing
 
       Contact our team for availability and pricing.
 ---
-
-With over 25 years supplying stages and rigging for events across the UK, we carry a large inventory of professional Litec trussing. All equipment is well maintained, appropriately packaged for protection and packaged for efficient transport.
-
-We offer two staging system styles to suit different event requirements: lightweight portable platforms for smaller setups and quick installations, and covered truss stages with full roof structures for larger events that need weather protection. Each configuration is built to your specifications.
-
-### Single-Source Supply
-
-With a stock of over 600 products across 68 categories, we can provide your entire event infrastructure from a single order -- stages, PA systems, lighting, generators, lecterns and line array rigs. Approximately 95% of our equipment is owned in-house, which means we control availability and turnaround. If we do not currently stock a specific item, we can procure it to meet your requirements.
-
-### What's Included
-
-- Professional Litec trussing equipment
-- Delivery, setup and collection by trained crew
-- Structural calculations and documentation
-- Risk assessments and method statements
-- £5 million public liability insurance
-- Equipment maintained to high standards
-- Items can be procured if not currently in stock
-
-### Litec Stock Inventory
-
-| Item | Quantity |
-|------|----------|
-| Dado 4 Ways | 20 |
-| 0.5m sections | 4 |
-| 1m sections | 13 |
-| 1.5m sections | 4 |
-| 2m sections | 16 |
-| 3m sections | 17 |
-| Base Plates | 16 |
-| Large Base Plates | 4 |
-| 2m Hand Rails | 9 |
-
-### Ideal For
-
-- Outdoor concerts and festivals
-- Corporate events and conferences
-- Community events and celebrations
-- Theatre and performance productions
-- Award ceremonies
-- Product launches and brand activations

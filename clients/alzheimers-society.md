@@ -81,7 +81,7 @@ blocks:
 
       Tens of thousands of walkers honour their loved ones at Memory Walk events across the country.
 
-  - type: icon_links
+  - type: icon-links
     section_class: alt
     intro: |
       ## What We Provide

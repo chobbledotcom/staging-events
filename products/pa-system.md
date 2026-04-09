@@ -49,7 +49,60 @@ blocks:
       - image: images/mobile-trailer-stage-on-field.jpg
       - image: images/performers-with-pa-speakers.jpg
       - image: images/pa-speakers-audience-view.jpg
-  - type: content
+  - type: markdown
+    content: |-
+      We have a massive range of PA which we can bespoke to your needs, covering events from corporate presentations to outdoor festivals. We can scale the system to suit your venue and audience.
+
+      ### What's Included
+
+      Our PA system hire includes:
+
+      - Speakers for front-of-house coverage
+      - Monitor speakers for on-stage foldback, ensuring performers and speakers can hear themselves clearly
+      - CD players for pre-recorded music and backing tracks
+      - Mixing desks for full control over audio levels and inputs
+      - Wired microphones for reliable, interference-free audio
+      - Choice of handheld wireless microphones, or headset/lapel microphones for presenters who need to move freely
+  - type: features
+    header_intro: "## Additional Equipment"
+    items:
+      - icon: mdi:microphone
+        title: Wireless microphones
+        description: Handheld, headset or lapel options for speakers, presenters and panel discussions
+      - icon: mdi:microphone-variant
+        title: Microphone stands
+        description: Boom and straight stands for vocalists and instruments
+      - icon: mdi:music-box
+        title: Dual CD players
+        description: For DJs and pre-recorded playlists with seamless crossfading
+      - icon: mdi:lightbulb
+        title: Disco lights and effect lighting
+        description: Add a visual dimension to your event with professional effect lighting
+      - icon: mdi:speaker
+        title: Speaker stands
+        description: For optimal sound projection, positioning and coverage across larger venues
+  - type: features
+    section_class: alt
+    header_intro: "## Ideal For"
+    items:
+      - icon: mdi:check-circle
+        title: Outdoor festivals and concerts
+        description: ""
+      - icon: mdi:check-circle
+        title: Corporate conferences and presentations
+        description: ""
+      - icon: mdi:check-circle
+        title: Award ceremonies and gala dinners
+        description: ""
+      - icon: mdi:check-circle
+        title: Wedding receptions
+        description: ""
+      - icon: mdi:check-circle
+        title: Community events and fun days
+        description: ""
+      - icon: mdi:check-circle
+        title: Product launches and brand activations
+        description: ""
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -82,41 +135,9 @@ blocks:
         label: Included
       - value: Microphones
         label: Included
-  - type: contact_form
+  - type: contact-form
     content: |-
       ## Hire the PA System
 
       Contact our team for availability and pricing.
 ---
-
-We have a massive range of PA which we can bespoke to your needs, covering events from corporate presentations to outdoor festivals. We can scale the system to suit your venue and audience.
-
-### What's Included
-
-Our PA system hire includes:
-
-- Speakers for front-of-house coverage
-- Monitor speakers for on-stage foldback, ensuring performers and speakers can hear themselves clearly
-- CD players for pre-recorded music and backing tracks
-- Mixing desks for full control over audio levels and inputs
-- Wired microphones for reliable, interference-free audio
-- Choice of handheld wireless microphones, or headset/lapel microphones for presenters who need to move freely
-
-### Additional Equipment
-
-We can scale the system to suit your venue and audience with a range of add-on equipment:
-
-- **Wireless microphones** - handheld, headset or lapel options for speakers, presenters and panel discussions
-- **Microphone stands** - boom and straight stands for vocalists and instruments
-- **Dual CD players** - for DJs and pre-recorded playlists with seamless crossfading
-- **Disco lights and effect lighting** - add a visual dimension to your event with professional effect lighting
-- **Speaker stands** - for optimal sound projection, positioning and coverage across larger venues
-
-### Ideal For
-
-- Outdoor festivals and concerts
-- Corporate conferences and presentations
-- Award ceremonies and gala dinners
-- Wedding receptions
-- Community events and fun days
-- Product launches and brand activations
