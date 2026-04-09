@@ -51,7 +51,48 @@ blocks:
     items:
       - image: images/stage-trussing-flightcase.jpg
       - image: images/band-on-trussed-stage-night.jpg
-  - type: content
+  - type: markdown
+    content: |-
+      With over 25 years supplying stages and rigging for events across the UK, we carry a large inventory of professional Litec trussing. All equipment is well maintained, appropriately packaged for protection and packaged for efficient transport.
+
+      We offer two staging system styles to suit different event requirements: lightweight portable platforms for smaller setups and quick installations, and covered truss stages with full roof structures for larger events that need weather protection. Each configuration is built to your specifications.
+
+      ### Single-Source Supply
+
+      With a stock of over 600 products across 68 categories, we can provide your entire event infrastructure from a single order -- stages, PA systems, lighting, generators, lecterns and line array rigs. Approximately 95% of our equipment is owned in-house, which means we control availability and turnaround. If we do not currently stock a specific item, we can procure it to meet your requirements.
+
+      ### What's Included
+
+      - Professional Litec trussing equipment
+      - Delivery, setup and collection by trained crew
+      - Structural calculations and documentation
+      - Risk assessments and method statements
+      - £5 million public liability insurance
+      - Equipment maintained to high standards
+      - Items can be procured if not currently in stock
+
+      ### Litec Stock Inventory
+
+      | Item | Quantity |
+      |------|----------|
+      | Dado 4 Ways | 20 |
+      | 0.5m sections | 4 |
+      | 1m sections | 13 |
+      | 1.5m sections | 4 |
+      | 2m sections | 16 |
+      | 3m sections | 17 |
+      | Base Plates | 16 |
+      | Large Base Plates | 4 |
+      | 2m Hand Rails | 9 |
+
+      ### Ideal For
+
+      - Outdoor concerts and festivals
+      - Corporate events and conferences
+      - Community events and celebrations
+      - Theatre and performance productions
+      - Award ceremonies
+      - Product launches and brand activations
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -98,44 +139,3 @@ blocks:
 
       Contact our team for availability and pricing.
 ---
-
-With over 25 years supplying stages and rigging for events across the UK, we carry a large inventory of professional Litec trussing. All equipment is well maintained, appropriately packaged for protection and packaged for efficient transport.
-
-We offer two staging system styles to suit different event requirements: lightweight portable platforms for smaller setups and quick installations, and covered truss stages with full roof structures for larger events that need weather protection. Each configuration is built to your specifications.
-
-### Single-Source Supply
-
-With a stock of over 600 products across 68 categories, we can provide your entire event infrastructure from a single order -- stages, PA systems, lighting, generators, lecterns and line array rigs. Approximately 95% of our equipment is owned in-house, which means we control availability and turnaround. If we do not currently stock a specific item, we can procure it to meet your requirements.
-
-### What's Included
-
-- Professional Litec trussing equipment
-- Delivery, setup and collection by trained crew
-- Structural calculations and documentation
-- Risk assessments and method statements
-- £5 million public liability insurance
-- Equipment maintained to high standards
-- Items can be procured if not currently in stock
-
-### Litec Stock Inventory
-
-| Item | Quantity |
-|------|----------|
-| Dado 4 Ways | 20 |
-| 0.5m sections | 4 |
-| 1m sections | 13 |
-| 1.5m sections | 4 |
-| 2m sections | 16 |
-| 3m sections | 17 |
-| Base Plates | 16 |
-| Large Base Plates | 4 |
-| 2m Hand Rails | 9 |
-
-### Ideal For
-
-- Outdoor concerts and festivals
-- Corporate events and conferences
-- Community events and celebrations
-- Theatre and performance productions
-- Award ceremonies
-- Product launches and brand activations

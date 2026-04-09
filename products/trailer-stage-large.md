@@ -46,7 +46,32 @@ blocks:
       - image: images/festival-tent-chuckle-tent.jpg
       - image: images/band-on-stage-rotherham-festival.jpg
       - image: images/dancers-on-stage-festival.jpg
-  - type: content
+  - type: markdown
+    content: |-
+      Our largest mobile trailer stage delivers an 8m x 6m performance area, used for festivals, outdoor concerts and major public events. The full covered truss roof structure provides weather protection for performers and equipment, while the trailer-mounted design means quick deployment on site.
+
+      ### Ideal For
+
+      - Music festivals and multi-day outdoor concerts
+      - Large corporate events and product launches
+      - Council events and civic celebrations
+      - Fireworks displays and Christmas light switch-ons
+      - Outdoor theatre and dance performances
+      - Charity events and community gatherings
+
+      ### Truss Frame and Rigging
+
+      Full covered truss roof structure with solid rigging points for speakers, lighting rigs and production equipment. The performance area and overhead clearance accommodate large stage setups while keeping the deck clear for performers.
+
+      ### Additional Options
+
+      - PA systems with line array options
+      - Lighting packages and festoon lighting
+      - Audio technicians and supervising staff
+      - Custom branding panels and banners
+      - Generators
+      - Accessible ramp on request
+      - Custom stage dimensions available
   - type: split
     title: Weather Protection and Setup
     content: |-
@@ -112,28 +137,3 @@ blocks:
 
       Contact our team for availability and pricing.
 ---
-
-Our largest mobile trailer stage delivers an 8m x 6m performance area, used for festivals, outdoor concerts and major public events. The full covered truss roof structure provides weather protection for performers and equipment, while the trailer-mounted design means quick deployment on site.
-
-### Ideal For
-
-- Music festivals and multi-day outdoor concerts
-- Large corporate events and product launches
-- Council events and civic celebrations
-- Fireworks displays and Christmas light switch-ons
-- Outdoor theatre and dance performances
-- Charity events and community gatherings
-
-### Truss Frame and Rigging
-
-Full covered truss roof structure with solid rigging points for speakers, lighting rigs and production equipment. The performance area and overhead clearance accommodate large stage setups while keeping the deck clear for performers.
-
-### Additional Options
-
-- PA systems with line array options
-- Lighting packages and festoon lighting
-- Audio technicians and supervising staff
-- Custom branding panels and banners
-- Generators
-- Accessible ramp on request
-- Custom stage dimensions available

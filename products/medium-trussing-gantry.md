@@ -51,7 +51,21 @@ blocks:
         caption: Gantry, stage and PA at an Alzheimer's Society Memory Walk
       - image: images/medium-trussing.png
         caption: Specifications and dimensions
-  - type: content
+  - type: markdown
+    content: |-
+      Our medium trussing gantry is a professional start and finish line structure designed for charity runs, marathons, cycling events and mass participation races. With custom-designed panels and a clean, branded appearance, and it works on most surfaces.
+
+      ### Dimensions and Design
+
+      The gantry features a Start/Finish top panel measuring 6.58m x 0.29m and side leg panels of 3m x 0.29m. Custom designs are printed on durable 300gsm PVC Mesh and holds up in all weather. It works on artificial grass, hard surfaces, concrete, natural grass, mixed terrain and wood chip.
+
+      ### What Is Included
+
+      Every hire comes with full setup, takedown and an electric inflation fan. We supply adequate pallets for hard standing surfaces for stability. Free printing services are available based on booking volume, which reduces costs for repeat events. We also store branded versions between events at no additional charge, so your custom gantry is always ready for the next race day.
+
+      ### UK-Wide Delivery and Event Support
+
+      We deliver and set up across the UK, with event support staff available to manage your start and finish line throughout the day. Whether you need a single gantry for a local fun run or a complete staging solution for a city-centre marathon, our team handles setup and takedown.
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -87,17 +101,3 @@ blocks:
 
       Contact our team for availability and pricing.
 ---
-
-Our medium trussing gantry is a professional start and finish line structure designed for charity runs, marathons, cycling events and mass participation races. With custom-designed panels and a clean, branded appearance, and it works on most surfaces.
-
-### Dimensions and Design
-
-The gantry features a Start/Finish top panel measuring 6.58m x 0.29m and side leg panels of 3m x 0.29m. Custom designs are printed on durable 300gsm PVC Mesh and holds up in all weather. It works on artificial grass, hard surfaces, concrete, natural grass, mixed terrain and wood chip.
-
-### What Is Included
-
-Every hire comes with full setup, takedown and an electric inflation fan. We supply adequate pallets for hard standing surfaces for stability. Free printing services are available based on booking volume, which reduces costs for repeat events. We also store branded versions between events at no additional charge, so your custom gantry is always ready for the next race day.
-
-### UK-Wide Delivery and Event Support
-
-We deliver and set up across the UK, with event support staff available to manage your start and finish line throughout the day. Whether you need a single gantry for a local fun run or a complete staging solution for a city-centre marathon, our team handles setup and takedown.

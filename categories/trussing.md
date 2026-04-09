@@ -26,7 +26,9 @@ blocks:
     filter:
       property: data.categories
       includes: trussing
-  - type: content
+  - type: markdown
+    content: |-
+      Extensive inventory of rigging equipment from leading manufacturers, appropriately packaged for protection, efficient transport and rapid deployment.
   - type: cta
     title: Need Stage Trussing?
     description: Contact our team for availability and pricing.
@@ -36,5 +38,3 @@ blocks:
       variant: secondary
       size: lg
 ---
-
-Extensive inventory of rigging equipment from leading manufacturers, appropriately packaged for protection, efficient transport and rapid deployment.

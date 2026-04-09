@@ -1,123 +1,61 @@
 ---
 permalink: "/privacy-policy/"
-layout: "design-system-base.html"
+layout: "design-system-base"
 title: "Privacy Policy"
 description: "Privacy policy for Staging Events Ltd. How we collect, store and process your personal data."
 eleventyExcludeFromCollections: true
 blocks:
-  - type: hero
-    title: Privacy Policy
-    lead: >-
-      We make sure that your data is handled in a way which complies with the EU
-      General Data Protection Regulation (GDPR), the Data Protection Act 1998,
-      and any other relevant legislation.
-
   - type: markdown
-    content: |
-      In this document, 'we' refers to Staging Events and its representatives.
-      'You' refers to visitors to our website and our customers.
+    content: |-
+      ## Privacy Policy
 
-  - type: markdown
-    content: |
-      ### Who is responsible for your data?
+      ### Data Controller
 
-      Our data protection officer and company owner is **Dean Bulbeck**. The data
-      protection officer is responsible for making sure that your data is stored
-      and processed safely. You can contact them at:
+      **Dean Bulbeck** - Data Protection Officer & Company Owner
 
-      Staging Events, Bede House, Salisbury Road, Maltby, Rotherham, S66 8JP
+      **Contact:**
+      Staging Events
+      Bede House
+      Salisbury Road
+      Maltby
+      Rotherham
+      S66 8JP
 
-      **Tel:** [0845 468 0610](tel:+448454680610)
+      **Phone:** [0845 468 0610](tel:+448454680610)
 
-  - type: markdown
-    content: |
-      ### Why do we process and store your data?
+      ### Data Processing Purpose
 
-      We need to store and process your data if you make an enquiry or place an
-      order with us, to allow us to provide our services as an Event Hirer. This
-      includes your name, contact details, and IP address. We also need to store
-      your details for tax and insurance reasons.
+      We need to store and process your data if you make an enquiry or place an order with us, to allow us to provide our services as an Event Hirer.
 
-      We only store or process data which you have given directly to us and which
-      we need to run our business.
+      ### Data Retention
 
-  - type: markdown
-    content: |
-      ### How long will we keep your data?
+      We may need to keep your personal details until up to 4 years after you were a customer of ours, for tax and insurance purposes.
 
-      We may need to keep your personal details until up to 4 years after you were
-      a customer of ours, for tax and insurance purposes. After this date, your
-      data will be anonymised unless you have opted in to receive ongoing
-      communications from us.
+      ### Data Access
 
-  - type: markdown
-    content: |
-      ### Who has access to your data?
+      Only the data protection officer and authorised staff access personal data. Third-party service providers (Booking Online Ltd, Fastmail) maintain copies.
 
-      Our data protection officer is responsible for managing access to the
-      personal data we store. Generally speaking, only the data protection officer
-      and authorised members of staff will access your data.
+      **We do not sell or give your data to any third parties for their marketing purposes.**
 
-      Some of the services we use will also store a copy of your data. For
-      example, our website provider Booking Online Ltd, our email provider
-      Fastmail, and any providers they use to provide their services. If you send
-      your details over a social media platform, that platform may keep a copy of
-      your messages.
+      ### Data Sharing
 
-      **We do not sell or give your data to any third parties for their marketing
-      purposes.**
+      Personal data may be shared with third parties only when legally required:
 
-  - type: markdown
-    content: |
-      ### Who else might your data be shared with?
+      - Insurance claims
+      - Tax audits
+      - Fraud prevention
 
-      We reserve the right to share your personal data with other third parties if
-      required for legal reasons. For example, in the case of an insurance claim,
-      a tax audit, or to prevent fraud.
+      ### Your Rights
 
-  - type: markdown
-    content: |
-      ### How can you see what data we store about you?
+      - Right to request stored data
+      - Right to deletion (subject to tax/insurance retention requirements)
+      - Marketing opt-out via email links or direct contact
 
-      You have the right to request details on any data we store about you. We can
-      send a copy of your data to the email address you entered when using our
-      services.
+      ### Cookies
 
-  - type: markdown
-    content: |
-      ### Your right to deletion
+      Our website stores cookies on your browser to allow you to place an order with us. Third parties (Google Analytics) set their own cookies with separate policies.
 
-      If you were previously a customer of ours, we might need to hold onto some
-      of your data for tax or insurance reasons. Otherwise, we will happily comply
-      with your request as best we can.
+      ### Complaints
 
-  - type: markdown
-    content: |
-      ### How can you opt in or out of our marketing messages?
-
-      You can manage your marketing preferences at any time by clicking the link
-      at the bottom of the emails we send, or by getting in touch with us through
-      any other means.
-
-  - type: markdown
-    content: |
-      ### How does our website use cookies?
-
-      Our website stores cookies on your browser to allow you to place an order
-      with us. Our website's cookies are temporary and cannot be used to identify
-      individual visitors.
-
-      Third parties might also set cookies on your browser. We use Google
-      Analytics to monitor the performance of our website, for example. Third
-      parties have their own cookie policies.
-
-  - type: markdown
-    content: |
-      ### How do you make a complaint about our use of your data?
-
-      The Information Commissioner's Office (ICO) is the authority for data
-      protection in the UK. If you have an unresolvable problem with us and our
-      use of your data, they are who you should contact.
-
-      **Tel:** [0303 123 1113](tel:+443031231113)
+      Contact the Information Commissioner's Office (ICO) - UK data protection authority.
 ---

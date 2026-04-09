@@ -54,7 +54,41 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: primary
-  - type: content
+  - type: markdown
+    content: |-
+      A self-contained mobile trailer stage with a 7.9m x 5.9m performance area, large enough to accommodate a 10-piece band and up to 25 singers. The stage sets up in around one hour on either grass or hard standing, and packs down in just 45 minutes. Self-contained and self-balanced for hard standing use, this stage arrives ready to deploy with minimal site preparation.
+
+      The stage floor sits 1.06m above ground with 3.9m of clearance to the roof, and can bear up to 500 kg/m² (8,000 kg total). Wind and showerproof side walls are rated to 90 km/h, and the stair access supports up to 400 kg. Full 50mm tubular trussing is included for rigging, along with floodlights for setup and takedown.
+
+      ### Ideal For
+
+      - Music festivals and outdoor concerts
+      - Large corporate events and product launches
+      - Community celebrations and charity events
+      - Fireworks displays and Christmas light switch-ons
+      - Council events and public gatherings
+
+      ### Additional Options
+
+      - PA systems with line array options
+      - Audio technicians
+      - Disabled ramp: £200
+      - Side PA wings branding: from £99 each
+      - Bottom banner: £249
+      - Top banner: £199
+      - Back stage banner (6x3m): £476
+
+      ### Pricing
+
+      - **Day 1** — from £1,495
+      - **Day 2** — £895
+      - **Day 3** — £500
+      - Longer periods available on request
+      - All prices subject to VAT
+
+      ### Suitable Locations
+
+      This stage is designed for outdoor use only, on both grass and hard surfaces. The self-balanced design means no additional anchoring is required on hard standing.
   - type: split
     reverse: true
     title: Truss Frame and Rigging
@@ -131,37 +165,3 @@ blocks:
 
       Contact our team for availability and pricing.
 ---
-
-A self-contained mobile trailer stage with a 7.9m x 5.9m performance area, large enough to accommodate a 10-piece band and up to 25 singers. The stage sets up in around one hour on either grass or hard standing, and packs down in just 45 minutes. Self-contained and self-balanced for hard standing use, this stage arrives ready to deploy with minimal site preparation.
-
-The stage floor sits 1.06m above ground with 3.9m of clearance to the roof, and can bear up to 500 kg/m² (8,000 kg total). Wind and showerproof side walls are rated to 90 km/h, and the stair access supports up to 400 kg. Full 50mm tubular trussing is included for rigging, along with floodlights for setup and takedown.
-
-### Ideal For
-
-- Music festivals and outdoor concerts
-- Large corporate events and product launches
-- Community celebrations and charity events
-- Fireworks displays and Christmas light switch-ons
-- Council events and public gatherings
-
-### Additional Options
-
-- PA systems with line array options
-- Audio technicians
-- Disabled ramp: £200
-- Side PA wings branding: from £99 each
-- Bottom banner: £249
-- Top banner: £199
-- Back stage banner (6x3m): £476
-
-### Pricing
-
-- **Day 1** — from £1,495
-- **Day 2** — £895
-- **Day 3** — £500
-- Longer periods available on request
-- All prices subject to VAT
-
-### Suitable Locations
-
-This stage is designed for outdoor use only, on both grass and hard surfaces. The self-balanced design means no additional anchoring is required on hard standing.

@@ -45,7 +45,29 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: primary
-  - type: content
+  - type: markdown
+    content: |-
+      Professional sports timer hire for timed events across the UK. Our digital timing displays provide accurate countdown and elapsed time readings, giving participants and spectators a clear view of race progress at your start and finish line.
+
+      ### Complete Race Timing Setup
+
+      Our sports timers pair with our range of trussing and inflatable gantries to create a professional start and finish line. We handle delivery, setup and operation, so your event team can focus on managing participants.
+
+      ### What's Included
+
+      - High-visibility LED timing display
+      - Countdown and elapsed time modes
+      - Delivery, setup and collection
+      - On-site operation by our crew
+      - £5 million public liability insurance
+
+      ### Ideal For
+
+      - Charity runs and fun runs
+      - Marathons and half marathons
+      - Cycling events and triathlons
+      - Obstacle course races
+      - Mass participation events
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -74,25 +96,3 @@ blocks:
 
       Contact our team for availability and pricing.
 ---
-
-Professional sports timer hire for timed events across the UK. Our digital timing displays provide accurate countdown and elapsed time readings, giving participants and spectators a clear view of race progress at your start and finish line.
-
-### Complete Race Timing Setup
-
-Our sports timers pair with our range of trussing and inflatable gantries to create a professional start and finish line. We handle delivery, setup and operation, so your event team can focus on managing participants.
-
-### What's Included
-
-- High-visibility LED timing display
-- Countdown and elapsed time modes
-- Delivery, setup and collection
-- On-site operation by our crew
-- £5 million public liability insurance
-
-### Ideal For
-
-- Charity runs and fun runs
-- Marathons and half marathons
-- Cycling events and triathlons
-- Obstacle course races
-- Mass participation events

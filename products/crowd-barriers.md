@@ -47,7 +47,35 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: primary
-  - type: content
+  - type: markdown
+    content: |-
+      We supply two distinct types of professional crowd management barrier, suited to different environments. Both are available in bulk with volume discounts.
+
+      ### Metal Crowd Control Barriers
+
+      Our galvanised metal barriers are used for crowd control at outdoor events, races and festivals. Each barrier measures 2300mm long by 1100mm high, constructed with a sturdy 38.1mm frame and 15 infill bars of 12.6mm diameter. The fixed-leg model weighs 14kg and features hook-and-eye fittings welded to each side for quick, secure linking between units to form continuous barrier lines of any length.
+
+      - **Hire from £10 per barrier**
+      - **Long-term hire from £3 per week**
+
+      ### Tensa Belt Barriers
+
+      For indoor venues, exhibitions and corporate events, our Tensa economy belt barriers deliver a polished, professional appearance. Each unit features a 2.0m retractable webbing belt with an integrated braking system and locking tape end to prevent accidental release. Posts and bases are available in black or mirror chrome finish, with a solid 356mm diameter base weighing 9.5kg for reliable stability on smooth floors. These barriers are ideal for creating defined queuing lanes, cordoning off areas and directing foot traffic through indoor spaces.
+
+      - **From £7.50 per unit**
+      - **26-49 units** -- £6 each
+      - **50-99 units** -- £5 each
+      - **100-149 units** -- £4 each
+      - **150+ units** -- £3.75 each
+
+      ### Ideal For
+
+      - Mass participation event start, finish and spectator areas
+      - Exhibition halls and trade shows
+      - Queue management at festivals and venues
+      - VIP and backstage area separation
+      - Venue access control and pedestrian routing
+      - Corporate events and product launches
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -90,31 +118,3 @@ blocks:
 
       Contact our team for availability and pricing.
 ---
-
-We supply two distinct types of professional crowd management barrier, suited to different environments. Both are available in bulk with volume discounts.
-
-### Metal Crowd Control Barriers
-
-Our galvanised metal barriers are used for crowd control at outdoor events, races and festivals. Each barrier measures 2300mm long by 1100mm high, constructed with a sturdy 38.1mm frame and 15 infill bars of 12.6mm diameter. The fixed-leg model weighs 14kg and features hook-and-eye fittings welded to each side for quick, secure linking between units to form continuous barrier lines of any length.
-
-- **Hire from £10 per barrier**
-- **Long-term hire from £3 per week**
-
-### Tensa Belt Barriers
-
-For indoor venues, exhibitions and corporate events, our Tensa economy belt barriers deliver a polished, professional appearance. Each unit features a 2.0m retractable webbing belt with an integrated braking system and locking tape end to prevent accidental release. Posts and bases are available in black or mirror chrome finish, with a solid 356mm diameter base weighing 9.5kg for reliable stability on smooth floors. These barriers are ideal for creating defined queuing lanes, cordoning off areas and directing foot traffic through indoor spaces.
-
-- **From £7.50 per unit**
-- **26-49 units** -- £6 each
-- **50-99 units** -- £5 each
-- **100-149 units** -- £4 each
-- **150+ units** -- £3.75 each
-
-### Ideal For
-
-- Mass participation event start, finish and spectator areas
-- Exhibition halls and trade shows
-- Queue management at festivals and venues
-- VIP and backstage area separation
-- Venue access control and pedestrian routing
-- Corporate events and product launches

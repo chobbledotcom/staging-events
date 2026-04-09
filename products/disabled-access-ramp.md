@@ -45,7 +45,32 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: primary
-  - type: content
+  - type: markdown
+    content: |-
+      Disabled access ramp hire for events across the UK. Our DDA-compliant ramps provide safe, dignified access to stages and raised platforms for wheelchair users and those with mobility needs.
+
+      ### Compatible With All Our Stages
+
+      Our access ramps work with every stage system in our range, including modular deck staging at 200mm, 570mm and 725mm heights, event stages, and trailer stages. We match the ramp gradient and handrail configuration to your stage height and layout.
+
+      ### What's Included
+
+      - DDA-compliant access ramp
+      - Non-slip surface
+      - Handrails
+      - Delivery, setup and collection
+      - Structural calculations
+      - Risk assessments and method statements
+      - £5 million public liability insurance
+
+      ### Ideal For
+
+      - Award ceremonies and presentations
+      - Corporate conferences
+      - Charity events
+      - Community events and fairs
+      - Exhibition and trade shows
+      - Any event requiring accessible staging
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -84,28 +109,3 @@ blocks:
 
       Contact our team for availability and pricing.
 ---
-
-Disabled access ramp hire for events across the UK. Our DDA-compliant ramps provide safe, dignified access to stages and raised platforms for wheelchair users and those with mobility needs.
-
-### Compatible With All Our Stages
-
-Our access ramps work with every stage system in our range, including modular deck staging at 200mm, 570mm and 725mm heights, event stages, and trailer stages. We match the ramp gradient and handrail configuration to your stage height and layout.
-
-### What's Included
-
-- DDA-compliant access ramp
-- Non-slip surface
-- Handrails
-- Delivery, setup and collection
-- Structural calculations
-- Risk assessments and method statements
-- £5 million public liability insurance
-
-### Ideal For
-
-- Award ceremonies and presentations
-- Corporate conferences
-- Charity events
-- Community events and fairs
-- Exhibition and trade shows
-- Any event requiring accessible staging

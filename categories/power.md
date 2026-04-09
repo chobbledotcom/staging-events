@@ -24,7 +24,9 @@ blocks:
     filter:
       property: data.categories
       includes: power
-  - type: content
+  - type: markdown
+    content: |-
+      Range of generators available from 2.2kva to 20kva, including battery-powered options for eco-friendly events.
   - type: cta
     title: Need Generator Hire?
     description: Contact our team for availability and pricing.
@@ -34,5 +36,3 @@ blocks:
       variant: secondary
       size: lg
 ---
-
-Range of generators available from 2.2kva to 20kva, including battery-powered options for eco-friendly events.

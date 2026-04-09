@@ -97,6 +97,9 @@ blocks:
     figure_src: images/rotherham-wow-festival-acoustic-stage.jpg
     figure_alt: Stage hire for Rotherham events
 
+  - type: markdown
+    content: |-
+      Staging Events is Rotherham's leading staging and event hire company, operating from our warehouse in Maltby. We provide a comprehensive range of event equipment and production services for events of all sizes across Rotherham and South Yorkshire.
   - type: cta
     title: Planning an Event in Rotherham?
     description: >-
@@ -107,5 +110,3 @@ blocks:
       variant: secondary
       size: lg
 ---
-
-Staging Events is Rotherham's leading staging and event hire company, operating from our warehouse in Maltby. We provide a comprehensive range of event equipment and production services for events of all sizes across Rotherham and South Yorkshire.

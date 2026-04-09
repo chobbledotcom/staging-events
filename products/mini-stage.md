@@ -48,7 +48,22 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: primary
-  - type: content
+  - type: markdown
+    content: |-
+      A versatile 3x3m trussing stage designed for corporate events, private parties and live entertainment. It works well as a platform for DJ sets, awards ceremonies, Christmas light switch-ons and fitness warm-up sessions.
+
+      ### Ideal For
+
+      - DJ sets, solo performers and duos
+      - Awards presentations and speeches
+      - Corporate events and product launches
+      - Christmas light switch-ons and market performances
+      - Mass participation warm-ups and fitness sessions
+      - Small band performances (up to 3-piece)
+
+      ### Truss Frame and Rigging
+
+      The stage is built on a 50mm tubular truss frame, providing solid rigging points for speakers, lighting and effects without cluttering the performance area. This keeps the stage floor clear for performers.
   - type: split
     reverse: true
     title: Branding and Setup
@@ -109,18 +124,3 @@ blocks:
 
       Contact our team for availability and pricing.
 ---
-
-A versatile 3x3m trussing stage designed for corporate events, private parties and live entertainment. It works well as a platform for DJ sets, awards ceremonies, Christmas light switch-ons and fitness warm-up sessions.
-
-### Ideal For
-
-- DJ sets, solo performers and duos
-- Awards presentations and speeches
-- Corporate events and product launches
-- Christmas light switch-ons and market performances
-- Mass participation warm-ups and fitness sessions
-- Small band performances (up to 3-piece)
-
-### Truss Frame and Rigging
-
-The stage is built on a 50mm tubular truss frame, providing solid rigging points for speakers, lighting and effects without cluttering the performance area. This keeps the stage floor clear for performers.

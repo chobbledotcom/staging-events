@@ -52,7 +52,21 @@ blocks:
         caption: Gantry, stage and PA at a Memory Walk event
       - image: images/large-trussing.png
         caption: Specifications and dimensions
-  - type: content
+  - type: markdown
+    content: |-
+      Our large trussing gantry provides a visible start and finish line at charity runs, marathons, cycling races and mass participation events. With a significantly larger top panel than the medium model, it provides good visibility for participants and spectators.
+
+      ### Dimensions and Design
+
+      The gantry features a generous Start/Finish top section measuring 6.58m x 1.58m, paired with 3m x 0.29m side leg panels. This larger format gives more space for sponsor and event branding than the medium model.
+
+      ### What Is Included
+
+      Every hire includes full setup, takedown and an electric inflation fan. We provide adequate ballasts for hard standing surfaces, ensuring stability on concrete, tarmac and other solid ground as well as natural grass. Customisable designs are available with free printing for multiple bookings, and we store branded gantries at no extra cost between events so they are always race-ready.
+
+      ### Comprehensive Event Support
+
+      This gantry is part of our wider event staging offering. We supply experienced event support staff to manage your start and finish line, coordinate crowd control, handle event logistics and arrange bottled water distribution for mass participation events. Generators are also available on request. We work closely with organisers to build a complete support package, from staging infrastructure to on-the-ground staffing.
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -91,17 +105,3 @@ blocks:
 
       Contact our team for availability and pricing.
 ---
-
-Our large trussing gantry provides a visible start and finish line at charity runs, marathons, cycling races and mass participation events. With a significantly larger top panel than the medium model, it provides good visibility for participants and spectators.
-
-### Dimensions and Design
-
-The gantry features a generous Start/Finish top section measuring 6.58m x 1.58m, paired with 3m x 0.29m side leg panels. This larger format gives more space for sponsor and event branding than the medium model.
-
-### What Is Included
-
-Every hire includes full setup, takedown and an electric inflation fan. We provide adequate ballasts for hard standing surfaces, ensuring stability on concrete, tarmac and other solid ground as well as natural grass. Customisable designs are available with free printing for multiple bookings, and we store branded gantries at no extra cost between events so they are always race-ready.
-
-### Comprehensive Event Support
-
-This gantry is part of our wider event staging offering. We supply experienced event support staff to manage your start and finish line, coordinate crowd control, handle event logistics and arrange bottled water distribution for mass participation events. Generators are also available on request. We work closely with organisers to build a complete support package, from staging infrastructure to on-the-ground staffing.

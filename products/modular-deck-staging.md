@@ -56,7 +56,39 @@ blocks:
       - image: images/memory-walk-stage-and-van.jpg
       - image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
       - image: images/prostate-cancer-uk-march-for-men-led-screen.jpg
-  - type: content
+  - type: markdown
+    content: |-
+      Build exactly the stage you need with our Intelistage modular deck system. Each 1m x 2m carpeted deck section locks together using an internal locking mechanism, creating a stable platform that supports up to 185 lbs per square foot (900 kg per square metre). The system can be configured for anything from catwalks to full concert stages. We deliver nationwide, including major exhibition centres such as NEC Birmingham, Manchester Central, Telford Exhibition Centre and ExCel London.
+
+      ### Ideal For
+
+      - Conferences and corporate presentations
+      - Fashion shows and catwalk events
+      - Award ceremonies and galas
+      - Choir and orchestra performances
+      - Exhibition stands and trade shows
+      - Indoor concerts and live performances
+
+      ### Available Heights
+
+      - 200mm (low profile)
+      - 570mm (standard)
+      - 725mm (raised)
+      - Custom heights available for additional fees
+
+      ### Popular Configurations
+
+      - 7m x 5m
+      - 6m x 6m
+      - Custom dimensions to suit your venue
+
+      ### Additional Options
+
+      - 50mm tubular trussing for rigging (speakers, lighting)
+      - PA systems and audio equipment
+      - Lighting packages
+      - Accessible ramp on request
+      - Custom branding panels
   - type: split
     title: Modular Design and Build Quality
     content: |-
@@ -135,35 +167,3 @@ blocks:
 
       Contact our team for availability and pricing.
 ---
-
-Build exactly the stage you need with our Intelistage modular deck system. Each 1m x 2m carpeted deck section locks together using an internal locking mechanism, creating a stable platform that supports up to 185 lbs per square foot (900 kg per square metre). The system can be configured for anything from catwalks to full concert stages. We deliver nationwide, including major exhibition centres such as NEC Birmingham, Manchester Central, Telford Exhibition Centre and ExCel London.
-
-### Ideal For
-
-- Conferences and corporate presentations
-- Fashion shows and catwalk events
-- Award ceremonies and galas
-- Choir and orchestra performances
-- Exhibition stands and trade shows
-- Indoor concerts and live performances
-
-### Available Heights
-
-- 200mm (low profile)
-- 570mm (standard)
-- 725mm (raised)
-- Custom heights available for additional fees
-
-### Popular Configurations
-
-- 7m x 5m
-- 6m x 6m
-- Custom dimensions to suit your venue
-
-### Additional Options
-
-- 50mm tubular trussing for rigging (speakers, lighting)
-- PA systems and audio equipment
-- Lighting packages
-- Accessible ramp on request
-- Custom branding panels

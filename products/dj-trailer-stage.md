@@ -51,7 +51,25 @@ blocks:
     items:
       - image: images/memory-walk-stage-setup.jpg
       - image: images/memory-walk-stage-close-up.jpg
-  - type: content
+  - type: markdown
+    content: |-
+      A compact covered stage designed specifically for DJs, comperes and solo performers. With external measurements of 5m x 4m and a usable internal space of 3m x 4m, this mobile unit provides a covered performance platform for outdoor events. The Velcro front panel makes it simple to add your own branding.
+
+      ### Ideal For
+
+      - DJ sets and disco nights
+      - Comperes and MCs
+      - Solo artists and duos
+      - Up to a three-piece ensemble
+      - Charity fun days and community events
+      - Market performances and outdoor entertainment
+
+      ### Additional Options
+
+      - PA systems and speakers
+      - Lighting packages
+      - Custom branded front panels
+      - Audio technicians
   - type: split
     title: Covered Performance Space
     content: |-
@@ -119,21 +137,3 @@ blocks:
 
       Contact our team for availability and pricing.
 ---
-
-A compact covered stage designed specifically for DJs, comperes and solo performers. With external measurements of 5m x 4m and a usable internal space of 3m x 4m, this mobile unit provides a covered performance platform for outdoor events. The Velcro front panel makes it simple to add your own branding.
-
-### Ideal For
-
-- DJ sets and disco nights
-- Comperes and MCs
-- Solo artists and duos
-- Up to a three-piece ensemble
-- Charity fun days and community events
-- Market performances and outdoor entertainment
-
-### Additional Options
-
-- PA systems and speakers
-- Lighting packages
-- Custom branded front panels
-- Audio technicians

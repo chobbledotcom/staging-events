@@ -79,6 +79,9 @@ blocks:
       - value: "100%"
         label: Setup Included
 
+  - type: markdown
+    content: |-
+      We deliver professional staging and event hire across Sheffield, from city centre venues to parks and outdoor spaces. Our Maltby warehouse is just 20 minutes away, meaning fast delivery and competitive rates for events across the city.
   - type: cta
     title: Planning an Event in Sheffield?
     description: >-
@@ -89,5 +92,3 @@ blocks:
       variant: secondary
       size: lg
 ---
-
-We deliver professional staging and event hire across Sheffield, from city centre venues to parks and outdoor spaces. Our Maltby warehouse is just 20 minutes away, meaning fast delivery and competitive rates for events across the city.

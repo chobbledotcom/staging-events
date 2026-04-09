@@ -24,7 +24,9 @@ blocks:
     filter:
       property: data.categories
       includes: audio
-  - type: content
+  - type: markdown
+    content: |-
+      Professional PA system hire with full rigs including mixers, microphones and monitors for events of all sizes.
   - type: cta
     title: Need PA Systems?
     description: Contact our team for availability and pricing.
@@ -34,5 +36,3 @@ blocks:
       variant: secondary
       size: lg
 ---
-
-Professional PA system hire with full rigs including mixers, microphones and monitors for events of all sizes.

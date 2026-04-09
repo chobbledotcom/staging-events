@@ -48,7 +48,31 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: primary
-  - type: content
+  - type: markdown
+    content: |-
+      A large 6x6m covered truss stage offering 36 square metres of performance space, large enough for a five-piece band or up to 15 performers. The full roof structure and weather-resistant side walls keep the stage sheltered, and works for outdoor events year-round. Setup and breakdown each take approximately 1.5 hours.
+
+      ### Ideal For
+
+      - Festivals and outdoor concerts
+      - Large corporate events and product launches
+      - Community celebrations and charity galas
+      - Fireworks displays and Christmas light switch-ons
+      - Outdoor theatre and dance performances
+
+      ### Truss Frame and Rigging
+
+      Built on 50mm tubular trussing with solid rigging points throughout. The truss system supports speakers, lighting rigs and production equipment overhead, keeping the 36 sqm stage floor completely clear for performers.
+
+      ### Additional Options
+
+      - Line array PA systems
+      - Festoon lighting and uplighters
+      - Lecterns for presentations
+      - Generators
+      - Supervising staff and audio technicians
+      - Custom branded PA panels and banners (in-house design team)
+      - Multi-item discounts when booking stage alongside PA, lighting or other equipment
   - type: split
     reverse: true
     title: Weather Protection and Inclusions
@@ -108,27 +132,3 @@ blocks:
 
       Contact our team for availability and pricing.
 ---
-
-A large 6x6m covered truss stage offering 36 square metres of performance space, large enough for a five-piece band or up to 15 performers. The full roof structure and weather-resistant side walls keep the stage sheltered, and works for outdoor events year-round. Setup and breakdown each take approximately 1.5 hours.
-
-### Ideal For
-
-- Festivals and outdoor concerts
-- Large corporate events and product launches
-- Community celebrations and charity galas
-- Fireworks displays and Christmas light switch-ons
-- Outdoor theatre and dance performances
-
-### Truss Frame and Rigging
-
-Built on 50mm tubular trussing with solid rigging points throughout. The truss system supports speakers, lighting rigs and production equipment overhead, keeping the 36 sqm stage floor completely clear for performers.
-
-### Additional Options
-
-- Line array PA systems
-- Festoon lighting and uplighters
-- Lecterns for presentations
-- Generators
-- Supervising staff and audio technicians
-- Custom branded PA panels and banners (in-house design team)
-- Multi-item discounts when booking stage alongside PA, lighting or other equipment

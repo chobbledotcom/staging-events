@@ -26,7 +26,9 @@ blocks:
     filter:
       property: data.categories
       includes: staging
-  - type: content
+  - type: markdown
+    content: |-
+      Professional stage hire services with modular deck staging in various configurations and trailer stages for outdoor events.
   - type: cta
     title: Need Stage Hire?
     description: Contact our team for availability and pricing.
@@ -36,5 +38,3 @@ blocks:
       variant: secondary
       size: lg
 ---
-
-Professional stage hire services with modular deck staging in various configurations and trailer stages for outdoor events.
