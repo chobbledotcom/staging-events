@@ -18,7 +18,6 @@ blocks:
       'You' refers to visitors to our website and our customers.
 
   - type: markdown
-    section_class: alt
     content: |
       ### Who is responsible for your data?
 
@@ -43,7 +42,6 @@ blocks:
       we need to run our business.
 
   - type: markdown
-    section_class: alt
     content: |
       ### How long will we keep your data?
 
@@ -70,7 +68,6 @@ blocks:
       purposes.**
 
   - type: markdown
-    section_class: alt
     content: |
       ### Who else might your data be shared with?
 
@@ -87,7 +84,6 @@ blocks:
       services.
 
   - type: markdown
-    section_class: alt
     content: |
       ### Your right to deletion
 
@@ -104,7 +100,6 @@ blocks:
       any other means.
 
   - type: markdown
-    section_class: alt
     content: |
       ### How does our website use cookies?
 
