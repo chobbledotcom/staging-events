@@ -10,7 +10,7 @@ blocks:
       size: lg
   - type: features
     section_class: dark compact
-    grid_class: grid text-center
+    grid_class: grid
     items:
       - icon: "mdi:phone"
         icon_label: "Phone"
