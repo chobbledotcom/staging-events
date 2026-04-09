@@ -1,7 +1,7 @@
 {
   "has_products_filter": true,
   "has_properties_filter": null,
-  "show_breadcrumbs": true,
+  "show_breadcrumbs": false,
   "placeholder_images": false,
   "product_mode": null,
   "contact_form_target": null,
