@@ -102,6 +102,6 @@ blocks:
       variant: secondary
       size: lg
 
-  - type: include
-    path: snippets/contact-info
+  - type: snippet
+    reference: contact-info
 ---

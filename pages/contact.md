@@ -64,9 +64,9 @@ blocks:
     content: |
       ## Based in Rotherham, Serving Events Across the UK
 
-  - type: include
-    path: snippets/stats-highlights
+  - type: snippet
+    reference: stats-highlights
 
-  - type: include
-    path: snippets/notable-events
+  - type: snippet
+    reference: notable-events
 ---

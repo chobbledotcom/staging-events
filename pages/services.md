@@ -64,11 +64,11 @@ blocks:
     href: /locations/
     variant: ghost
 
-  - type: include
-    path: snippets/notable-events
+  - type: snippet
+    reference: notable-events
 
-  - type: include
-    path: snippets/stats-highlights
+  - type: snippet
+    reference: stats-highlights
 
   # CTA
   - type: cta
