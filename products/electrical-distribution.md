@@ -52,16 +52,29 @@ blocks:
       ### What We Supply
 
       We provide distribution boards, cabling runs and power management equipment sized to your event requirements. Whether you are powering a single stage with PA and lighting or distributing electricity across a multi-zone festival site with catering, bars and multiple performance areas, we can specify and supply the right setup.
-
-      ### What's Included
-
-      - Distribution boards and consumer units
-      - Cabling and connectors
-      - PAT tested equipment
-      - Delivery, setup and collection
-      - Risk assessments and method statements
-      - £5 million public liability insurance
-
+  - type: features
+    header_intro: "## What's Included"
+    items:
+      - icon: mdi:check-circle
+        title: Distribution boards and consumer units
+        description: ""
+      - icon: mdi:check-circle
+        title: Cabling and connectors
+        description: ""
+      - icon: mdi:check-circle
+        title: PAT tested equipment
+        description: ""
+      - icon: mdi:check-circle
+        title: Delivery, setup and collection
+        description: ""
+      - icon: mdi:check-circle
+        title: Risk assessments and method statements
+        description: ""
+      - icon: mdi:check-circle
+        title: £5 million public liability insurance
+        description: ""
+  - type: markdown
+    content: |-
       ### Pairs With
 
       - Generator hire (2.2kva to 20kva)

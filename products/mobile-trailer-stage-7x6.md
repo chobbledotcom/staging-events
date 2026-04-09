@@ -59,15 +59,26 @@ blocks:
       Our standard M42 mobile trailer stage delivers 42 square metres of performance space (7m x 6m), comfortably accommodating a 10-piece band and up to 25 singers. Self-contained and self-balanced for hard standing use, this stage requires just 30 minutes to set up and 45 minutes to take down.
 
       The stage height is adjustable between 1.0m and 1.3m above ground, with an overall height of 5m. The slip-proof weatherproof floor has a load capacity of 3.5 kN/m² (approximately 350 kg/m²). Wind and showerproof side walls are rated to 17.8 m/s with covers fitted, or 30 m/s without covers. Full 50mm tubular trussing is included for rigging, along with floodlights for setup and takedown.
-
-      ### Ideal For
-
-      - Music festivals and outdoor concerts
-      - Large corporate events and conferences
-      - Community celebrations and charity events
-      - Council events and public gatherings
-      - Indoor exhibitions and trade shows
-
+  - type: features
+    header_intro: "## Ideal For"
+    items:
+      - icon: mdi:check-circle
+        title: Music festivals and outdoor concerts
+        description: ""
+      - icon: mdi:check-circle
+        title: Large corporate events and conferences
+        description: ""
+      - icon: mdi:check-circle
+        title: Community celebrations and charity events
+        description: ""
+      - icon: mdi:check-circle
+        title: Council events and public gatherings
+        description: ""
+      - icon: mdi:check-circle
+        title: Indoor exhibitions and trade shows
+        description: ""
+  - type: markdown
+    content: |-
       ### Additional Options
 
       - PA wings trussing: £199
@@ -77,13 +88,15 @@ blocks:
       - Bottom banner: £249
       - Top banner: £199
       - Back stage banner (6x3m): £426
-
-      ### Pricing
-
-      - **Day 1** — from £1,495
-      - **Day 2** — £895
-      - **Day 3** — £595
-      - All prices subject to VAT
+  - type: stats
+    header_intro: "## Pricing"
+    items:
+      - value: From £1,495
+        label: Day 1
+      - value: £895
+        label: Day 2
+      - value: £595
+        label: Day 3
   - type: split
     reverse: true
     title: Truss Frame and Rigging

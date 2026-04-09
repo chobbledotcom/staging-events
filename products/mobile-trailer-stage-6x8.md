@@ -60,14 +60,27 @@ blocks:
 
       The stage floor sits 1.06m above ground with 3.9m of clearance to the roof, and can bear up to 500 kg/m² (8,000 kg total). Wind and showerproof side walls are rated to 90 km/h, and the stair access supports up to 400 kg. Full 50mm tubular trussing is included for rigging, along with floodlights for setup and takedown.
 
-      ### Ideal For
-
-      - Music festivals and outdoor concerts
-      - Large corporate events and product launches
-      - Community celebrations and charity events
-      - Fireworks displays and Christmas light switch-ons
-      - Council events and public gatherings
-
+      This stage is designed for outdoor use only, on both grass and hard surfaces. The self-balanced design means no additional anchoring is required on hard standing.
+  - type: features
+    header_intro: "## Ideal For"
+    items:
+      - icon: mdi:check-circle
+        title: Music festivals and outdoor concerts
+        description: ""
+      - icon: mdi:check-circle
+        title: Large corporate events and product launches
+        description: ""
+      - icon: mdi:check-circle
+        title: Community celebrations and charity events
+        description: ""
+      - icon: mdi:check-circle
+        title: Fireworks displays and Christmas light switch-ons
+        description: ""
+      - icon: mdi:check-circle
+        title: Council events and public gatherings
+        description: ""
+  - type: markdown
+    content: |-
       ### Additional Options
 
       - PA systems with line array options
@@ -77,18 +90,14 @@ blocks:
       - Bottom banner: £249
       - Top banner: £199
       - Back stage banner (6x3m): £476
-
-      ### Pricing
-
-      - **Day 1** — from £1,495
-      - **Day 2** — £895
-      - **Day 3** — £500
-      - Longer periods available on request
-      - All prices subject to VAT
-
-      ### Suitable Locations
-
-      This stage is designed for outdoor use only, on both grass and hard surfaces. The self-balanced design means no additional anchoring is required on hard standing.
+  - type: stats
+    items:
+      - value: From £1,495
+        label: Day 1
+      - value: £895
+        label: Day 2
+      - value: £500
+        label: Day 3
   - type: split
     reverse: true
     title: Truss Frame and Rigging

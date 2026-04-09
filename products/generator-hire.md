@@ -59,25 +59,45 @@ blocks:
       - **Fuel consumption**: Just 2.4 litres per hour, with a 40-litre tank providing up to 16 hours of continuous runtime at 75% load
       - **Construction**: Heavy-duty build with engine protection shutdown, certified lifting eye, and fully bunded base (110% containment)
       - **Transport**: Trolley kit included for easy positioning on site
-
-      ### Available Sizes
-
-      We stock multiple generator sizes to suit every requirement:
-
-      - **2.2kva** - Small lighting rigs and basic power needs
-      - **5kva** - Food stalls, market traders and small PA systems
-      - **10kva** - Stage lighting, PA systems and multi-equipment setups
-      - **20kva** - Large stages, festivals and multi-zone events
-
-      ### Ideal For
-
-      - Outdoor festivals and concerts
-      - Corporate events and exhibitions
-      - Construction and site power
-      - Markets and food festivals
-      - Emergency backup power
-      - Film and production locations
-
+  - type: features
+    header_intro: "## Available Sizes"
+    items:
+      - icon: mdi:lightning-bolt
+        title: 2.2kva
+        description: Small lighting rigs and basic power needs
+      - icon: mdi:lightning-bolt
+        title: 5kva
+        description: Food stalls, market traders and small PA systems
+      - icon: mdi:lightning-bolt
+        title: 10kva
+        description: Stage lighting, PA systems and multi-equipment setups
+      - icon: mdi:lightning-bolt
+        title: 20kva
+        description: Large stages, festivals and multi-zone events
+  - type: features
+    section_class: alt
+    header_intro: "## Ideal For"
+    items:
+      - icon: mdi:check-circle
+        title: Outdoor festivals and concerts
+        description: ""
+      - icon: mdi:check-circle
+        title: Corporate events and exhibitions
+        description: ""
+      - icon: mdi:check-circle
+        title: Construction and site power
+        description: ""
+      - icon: mdi:check-circle
+        title: Markets and food festivals
+        description: ""
+      - icon: mdi:check-circle
+        title: Emergency backup power
+        description: ""
+      - icon: mdi:check-circle
+        title: Film and production locations
+        description: ""
+  - type: markdown
+    content: |-
       All generators are PAT tested, regularly serviced and delivered with full fuel tanks. UK-wide delivery available.
   - type: features
     section_class: alt

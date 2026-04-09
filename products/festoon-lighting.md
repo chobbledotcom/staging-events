@@ -57,7 +57,8 @@ blocks:
       - **Each additional 100 metres** -- £99
       - Order individually or in multiple units to cover larger sites
       - All prices subject to VAT
-
+  - type: markdown
+    content: |-
       ### Indoor and Outdoor Use
 
       Festoon lighting works in most settings. Outdoors, it defines walkways, highlights stages and provides warm light across event villages. Indoors, it adds warmth to exhibition halls, warehouse venues and function rooms.
@@ -65,15 +66,27 @@ blocks:
       ### Evening Ambiance and Nighttime Illumination
 
       Festoon lighting also serves a practical purpose, providing even illumination across large areas during evening hours and keeping the site well-lit for events that run late.
-
-      ### Ideal For
-
-      - Festivals and outdoor music events
-      - Marquee weddings and garden parties
-      - Corporate events and product launches
-      - Exhibition halls and trade shows
-      - Event villages, walkways and dining areas
-      - Evening receptions and after-parties
+  - type: features
+    header_intro: "## Ideal For"
+    items:
+      - icon: mdi:check-circle
+        title: Festivals and outdoor music events
+        description: ""
+      - icon: mdi:check-circle
+        title: Marquee weddings and garden parties
+        description: ""
+      - icon: mdi:check-circle
+        title: Corporate events and product launches
+        description: ""
+      - icon: mdi:check-circle
+        title: Exhibition halls and trade shows
+        description: ""
+      - icon: mdi:check-circle
+        title: Event villages, walkways and dining areas
+        description: ""
+      - icon: mdi:check-circle
+        title: Evening receptions and after-parties
+        description: ""
   - type: features
     section_class: alt
     header_intro: "## Key Features"

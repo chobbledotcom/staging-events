@@ -52,22 +52,43 @@ blocks:
       ### Complete Race Timing Setup
 
       Our sports timers pair with our range of trussing and inflatable gantries to create a professional start and finish line. We handle delivery, setup and operation, so your event team can focus on managing participants.
-
-      ### What's Included
-
-      - High-visibility LED timing display
-      - Countdown and elapsed time modes
-      - Delivery, setup and collection
-      - On-site operation by our crew
-      - £5 million public liability insurance
-
-      ### Ideal For
-
-      - Charity runs and fun runs
-      - Marathons and half marathons
-      - Cycling events and triathlons
-      - Obstacle course races
-      - Mass participation events
+  - type: features
+    header_intro: "## What's Included"
+    items:
+      - icon: mdi:check-circle
+        title: High-visibility LED timing display
+        description: ""
+      - icon: mdi:check-circle
+        title: Countdown and elapsed time modes
+        description: ""
+      - icon: mdi:check-circle
+        title: Delivery, setup and collection
+        description: ""
+      - icon: mdi:check-circle
+        title: On-site operation by our crew
+        description: ""
+      - icon: mdi:check-circle
+        title: £5 million public liability insurance
+        description: ""
+  - type: features
+    section_class: alt
+    header_intro: "## Ideal For"
+    items:
+      - icon: mdi:check-circle
+        title: Charity runs and fun runs
+        description: ""
+      - icon: mdi:check-circle
+        title: Marathons and half marathons
+        description: ""
+      - icon: mdi:check-circle
+        title: Cycling events and triathlons
+        description: ""
+      - icon: mdi:check-circle
+        title: Obstacle course races
+        description: ""
+      - icon: mdi:check-circle
+        title: Mass participation events
+        description: ""
   - type: features
     section_class: alt
     header_intro: "## Key Features"

@@ -50,19 +50,32 @@ blocks:
     content: |-
       Our largest mobile trailer stage delivers an 8m x 6m performance area, used for festivals, outdoor concerts and major public events. The full covered truss roof structure provides weather protection for performers and equipment, while the trailer-mounted design means quick deployment on site.
 
-      ### Ideal For
-
-      - Music festivals and multi-day outdoor concerts
-      - Large corporate events and product launches
-      - Council events and civic celebrations
-      - Fireworks displays and Christmas light switch-ons
-      - Outdoor theatre and dance performances
-      - Charity events and community gatherings
-
       ### Truss Frame and Rigging
 
       Full covered truss roof structure with solid rigging points for speakers, lighting rigs and production equipment. The performance area and overhead clearance accommodate large stage setups while keeping the deck clear for performers.
-
+  - type: features
+    header_intro: "## Ideal For"
+    items:
+      - icon: mdi:check-circle
+        title: Music festivals and multi-day outdoor concerts
+        description: ""
+      - icon: mdi:check-circle
+        title: Large corporate events and product launches
+        description: ""
+      - icon: mdi:check-circle
+        title: Council events and civic celebrations
+        description: ""
+      - icon: mdi:check-circle
+        title: Fireworks displays and Christmas light switch-ons
+        description: ""
+      - icon: mdi:check-circle
+        title: Outdoor theatre and dance performances
+        description: ""
+      - icon: mdi:check-circle
+        title: Charity events and community gatherings
+        description: ""
+  - type: markdown
+    content: |-
       ### Additional Options
 
       - PA systems with line array options
