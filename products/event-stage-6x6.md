@@ -49,6 +49,23 @@ blocks:
       href: /contact/
       variant: primary
   - type: content
+  - type: split
+    reverse: true
+    title: Weather Protection and Inclusions
+    content: |-
+      The full roof structure combined with wind and showerproof side walls creates a sheltered performance environment. This protects performers and equipment in rain or wind.
+    figure_type: html
+    figure_html: |-
+      ### What's Included
+
+      - Delivery, setup and collection by our crew
+      - Full roof structure with weather-resistant side walls
+      - 50mm tubular trussing for rigging
+      - Matching stage steps
+      - Structural calculations and design documentation
+      - Risk assessments and method statements
+      - £5 million public liability insurance
+      - Accessible ramp available on request
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -105,21 +122,6 @@ A large 6x6m covered truss stage offering 36 square metres of performance space,
 ### Truss Frame and Rigging
 
 Built on 50mm tubular trussing with solid rigging points throughout. The truss system supports speakers, lighting rigs and production equipment overhead, keeping the 36 sqm stage floor completely clear for performers.
-
-### Weather Protection
-
-The full roof structure combined with wind and showerproof side walls creates a sheltered performance environment. This protects performers and equipment in rain or wind.
-
-### What's Included
-
-- Delivery, setup and collection by our crew
-- Full roof structure with weather-resistant side walls
-- 50mm tubular trussing for rigging
-- Matching stage steps
-- Structural calculations and design documentation
-- Risk assessments and method statements
-- £5 million public liability insurance
-- Accessible ramp available on request
 
 ### Additional Options
 

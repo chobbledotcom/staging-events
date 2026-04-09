@@ -49,6 +49,24 @@ blocks:
       href: /contact/
       variant: primary
   - type: content
+  - type: split
+    reverse: true
+    title: Branding and Setup
+    content: |-
+      Custom branding options are available. Side PA wings are available from £199 and bottom banners from £79.
+
+      Setup takes approximately 1.5 hours on grass or hard surfaces, indoors or outdoors. The stage is available at standard heights of 200mm, 570mm and 725mm, with custom heights possible on request.
+    figure_type: html
+    figure_html: |-
+      ### What's Included
+
+      - Delivery, setup and collection by our crew
+      - Matching stage steps
+      - Full 50mm tubular trussing for rigging
+      - Structural calculations and design documentation
+      - Risk assessments and method statements
+      - £5 million public liability insurance
+      - Accessible ramp available from £175
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -105,24 +123,6 @@ A 4x4m event stage that suits a wide range of events. Built from Intelistage por
 ### Truss Frame and Rigging
 
 Full 50mm tubular trussing provides sturdy rigging points for speakers, lighting and production equipment. The truss system keeps the stage floor clear for performers.
-
-### Branding
-
-Custom branding options are available. Side PA wings are available from £199 and bottom banners from £79.
-
-### Setup
-
-Setup takes approximately 1.5 hours on grass or hard surfaces, indoors or outdoors. The stage is available at standard heights of 200mm, 570mm and 725mm, with custom heights possible on request.
-
-### What's Included
-
-- Delivery, setup and collection by our crew
-- Matching stage steps
-- Full 50mm tubular trussing for rigging
-- Structural calculations and design documentation
-- Risk assessments and method statements
-- £5 million public liability insurance
-- Accessible ramp available from £175
 
 ### Additional Options
 

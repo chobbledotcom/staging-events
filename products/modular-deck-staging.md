@@ -57,6 +57,23 @@ blocks:
       - image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
       - image: images/prostate-cancer-uk-march-for-men-led-screen.jpg
   - type: content
+  - type: split
+    title: Modular Design and Build Quality
+    content: |-
+      The Intelistage system pioneered modular stage design. Each 1m x 2m deck section features a carpeted finish and collapsible risers, making transport and setup efficient. Sections lock together securely with an internal mechanism, and the system can be configured in virtually any layout.
+
+      Square platforms combine with matching quarter-round risers for a professional, finished appearance.
+    figure_type: html
+    figure_html: |-
+      ### What's Included
+
+      - Delivery, setup and collection by our crew
+      - Carpeted deck sections with collapsible risers
+      - Internal locking mechanism for secure assembly
+      - Structural calculations and design documentation
+      - Risk assessments and method statements
+      - £5 million public liability insurance
+      - Matching stage steps
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -130,10 +147,6 @@ Build exactly the stage you need with our Intelistage modular deck system. Each 
 - Exhibition stands and trade shows
 - Indoor concerts and live performances
 
-### Modular Design
-
-The Intelistage system pioneered modular stage design. Each 1m x 2m deck section features a carpeted finish and collapsible risers, making transport and setup efficient. Sections lock together securely with an internal mechanism, and the system can be configured in virtually any layout. Square platforms combine with matching quarter-round risers for a professional, finished appearance.
-
 ### Available Heights
 
 - 200mm (low profile)
@@ -146,16 +159,6 @@ The Intelistage system pioneered modular stage design. Each 1m x 2m deck section
 - 7m x 5m
 - 6m x 6m
 - Custom dimensions to suit your venue
-
-### What's Included
-
-- Delivery, setup and collection by our crew
-- Carpeted deck sections with collapsible risers
-- Internal locking mechanism for secure assembly
-- Structural calculations and design documentation
-- Risk assessments and method statements
-- £5 million public liability insurance
-- Matching stage steps
 
 ### Additional Options
 

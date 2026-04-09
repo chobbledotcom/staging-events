@@ -47,6 +47,22 @@ blocks:
       - image: images/band-on-stage-rotherham-festival.jpg
       - image: images/dancers-on-stage-festival.jpg
   - type: content
+  - type: split
+    title: Weather Protection and Setup
+    content: |-
+      The covered roof structure shields performers and equipment from rain and wind. Side walls are available for additional protection in challenging weather.
+
+      The trailer-mounted design allows for quick deployment on grass or hard surfaces. Our crew handle delivery, setup and collection.
+    figure_type: html
+    figure_html: |-
+      ### What's Included
+
+      - Delivery, setup and collection by our crew
+      - Full covered truss roof structure
+      - Matching stage steps
+      - Structural calculations and design documentation
+      - Risk assessments and method statements
+      - £5 million public liability insurance
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -111,23 +127,6 @@ Our largest mobile trailer stage delivers an 8m x 6m performance area, used for 
 ### Truss Frame and Rigging
 
 Full covered truss roof structure with solid rigging points for speakers, lighting rigs and production equipment. The performance area and overhead clearance accommodate large stage setups while keeping the deck clear for performers.
-
-### Weather Protection
-
-The covered roof structure shields performers and equipment from rain and wind. Side walls are available for additional protection in challenging weather.
-
-### Setup
-
-The trailer-mounted design allows for quick deployment on grass or hard surfaces. Our crew handle delivery, setup and collection.
-
-### What's Included
-
-- Delivery, setup and collection by our crew
-- Full covered truss roof structure
-- Matching stage steps
-- Structural calculations and design documentation
-- Risk assessments and method statements
-- £5 million public liability insurance
 
 ### Additional Options
 

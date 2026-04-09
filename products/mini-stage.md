@@ -49,6 +49,24 @@ blocks:
       href: /contact/
       variant: primary
   - type: content
+  - type: split
+    reverse: true
+    title: Branding and Setup
+    content: |-
+      Our in-house design team can produce custom panels with your logo, event branding or sponsor details.
+
+      The Mini Stage sets up in approximately one hour and comes down in around 45 minutes. It works on both grass and hard surfaces, indoors or outdoors, and works at most venues.
+    figure_type: html
+    figure_html: |-
+      ### What's Included
+
+      - Delivery, setup and collection by our crew
+      - Matching stage steps
+      - 50mm tubular trussing for rigging
+      - Structural calculations and design documentation
+      - Risk assessments and method statements
+      - £5 million public liability insurance
+      - Accessible ramp available on request
   - type: features
     section_class: alt
     header_intro: "## Key Features"
@@ -106,21 +124,3 @@ A versatile 3x3m trussing stage designed for corporate events, private parties a
 ### Truss Frame and Rigging
 
 The stage is built on a 50mm tubular truss frame, providing solid rigging points for speakers, lighting and effects without cluttering the performance area. This keeps the stage floor clear for performers.
-
-### Branding
-
-Our in-house design team can produce custom panels with your logo, event branding or sponsor details.
-
-### Setup
-
-The Mini Stage sets up in approximately one hour and comes down in around 45 minutes. It works on both grass and hard surfaces, indoors or outdoors, and works at most venues.
-
-### What's Included
-
-- Delivery, setup and collection by our crew
-- Matching stage steps
-- 50mm tubular trussing for rigging
-- Structural calculations and design documentation
-- Risk assessments and method statements
-- £5 million public liability insurance
-- Accessible ramp available on request
