@@ -1,11 +1,30 @@
-## Staging Events Ltd
-
-Bede House, Salisbury Road
-Maltby, Rotherham
-South Yorkshire S66 8JP
-
-[0845 468 0610](tel:+448454680610)
-[events@stagingevents.co.uk](mailto:events@stagingevents.co.uk)
+---
+blocks:
+  - type: cta
+    title: "Ready to stage your event?"
+    description: "From intimate acoustic sets to large-scale festivals, we provide staging, PA, lighting and full event infrastructure nationwide."
+    button:
+      text: "Get in touch"
+      href: "mailto:events@stagingevents.co.uk"
+      variant: secondary
+      size: lg
+  - type: features
+    section_class: dark compact
+    grid_class: grid text-center
+    items:
+      - icon: "mdi:phone"
+        icon_label: "Phone"
+        title: "Call Us"
+        description: "0845 468 0610"
+      - icon: "mdi:email-outline"
+        icon_label: "Email"
+        title: "Email Us"
+        description: "events@stagingevents.co.uk"
+      - icon: "mdi:map-marker"
+        icon_label: "Location"
+        title: "Find Us"
+        description: "Bede House, Salisbury Road, Maltby, Rotherham, South Yorkshire S66 8JP"
+---
 
 Staging Events Ltd is a company registered in England and Wales. Company number **09021340**. Registered office: Bede House, Salisbury Road, Maltby, Rotherham, South Yorkshire, S66 8JP.
 
