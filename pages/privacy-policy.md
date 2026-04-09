@@ -12,12 +12,14 @@ blocks:
       General Data Protection Regulation (GDPR), the Data Protection Act 1998,
       and any other relevant legislation.
 
-  - type: section-header
-    align: left
-    intro: |
+  - type: markdown
+    content: |
       In this document, 'we' refers to Staging Events and its representatives.
       'You' refers to visitors to our website and our customers.
 
+  - type: markdown
+    section_class: alt
+    content: |
       ### Who is responsible for your data?
 
       Our data protection officer and company owner is **Dean Bulbeck**. The data
@@ -28,6 +30,8 @@ blocks:
 
       **Tel:** [0845 468 0610](tel:+448454680610)
 
+  - type: markdown
+    content: |
       ### Why do we process and store your data?
 
       We need to store and process your data if you make an enquiry or place an
@@ -38,6 +42,9 @@ blocks:
       We only store or process data which you have given directly to us and which
       we need to run our business.
 
+  - type: markdown
+    section_class: alt
+    content: |
       ### How long will we keep your data?
 
       We may need to keep your personal details until up to 4 years after you were
@@ -45,6 +52,8 @@ blocks:
       data will be anonymised unless you have opted in to receive ongoing
       communications from us.
 
+  - type: markdown
+    content: |
       ### Who has access to your data?
 
       Our data protection officer is responsible for managing access to the
@@ -60,30 +69,43 @@ blocks:
       **We do not sell or give your data to any third parties for their marketing
       purposes.**
 
+  - type: markdown
+    section_class: alt
+    content: |
       ### Who else might your data be shared with?
 
       We reserve the right to share your personal data with other third parties if
       required for legal reasons. For example, in the case of an insurance claim,
       a tax audit, or to prevent fraud.
 
+  - type: markdown
+    content: |
       ### How can you see what data we store about you?
 
       You have the right to request details on any data we store about you. We can
       send a copy of your data to the email address you entered when using our
       services.
 
+  - type: markdown
+    section_class: alt
+    content: |
       ### Your right to deletion
 
       If you were previously a customer of ours, we might need to hold onto some
       of your data for tax or insurance reasons. Otherwise, we will happily comply
       with your request as best we can.
 
+  - type: markdown
+    content: |
       ### How can you opt in or out of our marketing messages?
 
       You can manage your marketing preferences at any time by clicking the link
       at the bottom of the emails we send, or by getting in touch with us through
       any other means.
 
+  - type: markdown
+    section_class: alt
+    content: |
       ### How does our website use cookies?
 
       Our website stores cookies on your browser to allow you to place an order
@@ -94,6 +116,8 @@ blocks:
       Analytics to monitor the performance of our website, for example. Third
       parties have their own cookie policies.
 
+  - type: markdown
+    content: |
       ### How do you make a complaint about our use of your data?
 
       The Information Commissioner's Office (ICO) is the authority for data
