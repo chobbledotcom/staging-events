@@ -107,15 +107,4 @@ blocks:
       - icon: "mdi:heart-pulse"
         title: Epilepsy Society
         description: Nationwide event support
-
-  # CTA
-  - type: cta
-    title: Ready to Plan Your Event?
-    description: >-
-      Contact our event specialists to discuss your requirements.
-    button:
-      text: Contact Us
-      href: /contact/
-      variant: secondary
-      size: lg
 ---
