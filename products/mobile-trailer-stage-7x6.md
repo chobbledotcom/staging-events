@@ -88,8 +88,9 @@ blocks:
       - Bottom banner: £249
       - Top banner: £199
       - Back stage banner (6x3m): £426
+  - type: section-header
+    intro: "## Pricing"
   - type: stats
-    header_intro: "## Pricing"
     items:
       - value: From £1,495
         label: Day 1
