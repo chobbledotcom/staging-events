@@ -45,8 +45,8 @@ blocks:
     intro: |
       ## Areas We Serve
 
-  - type: include
-    file: snippets/stats-highlights
+  - type: snippet
+    reference: stats-highlights
 
   - type: cta
     title: Don't See Your Area?
@@ -58,6 +58,6 @@ blocks:
       variant: secondary
       size: lg
 
-  - type: include
-    file: snippets/contact-info
+  - type: snippet
+    reference: contact-info
 ---

@@ -26,8 +26,8 @@ blocks:
     href: /services/
     variant: ghost
 
-  - type: include
-    file: snippets/stats-highlights
+  - type: snippet
+    reference: stats-highlights
 
   - type: cta
     title: Need Equipment for Your Event?
@@ -39,6 +39,6 @@ blocks:
       variant: secondary
       size: lg
 
-  - type: include
-    file: snippets/contact-info
+  - type: snippet
+    reference: contact-info
 ---
