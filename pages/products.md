@@ -26,6 +26,9 @@ blocks:
     href: /services/
     variant: ghost
 
+  - type: include
+    path: snippets/stats-highlights
+
   - type: cta
     title: Need Equipment for Your Event?
     description: >-
@@ -35,4 +38,7 @@ blocks:
       href: /contact/
       variant: secondary
       size: lg
+
+  - type: include
+    path: snippets/contact-info
 ---

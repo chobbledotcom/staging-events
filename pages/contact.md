@@ -63,4 +63,10 @@ blocks:
     image_alt: Staging Events event setup
     content: |
       ## Based in Rotherham, Serving Events Across the UK
+
+  - type: include
+    path: snippets/stats-highlights
+
+  - type: include
+    path: snippets/notable-events
 ---
