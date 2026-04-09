@@ -101,4 +101,7 @@ blocks:
       href: /contact/
       variant: secondary
       size: lg
+
+  - type: include
+    path: snippets/contact-info
 ---

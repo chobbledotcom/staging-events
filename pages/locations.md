@@ -45,6 +45,9 @@ blocks:
     intro: |
       ## Areas We Serve
 
+  - type: include
+    path: snippets/stats-highlights
+
   - type: cta
     title: Don't See Your Area?
     description: >-
@@ -54,4 +57,7 @@ blocks:
       href: /contact/
       variant: secondary
       size: lg
+
+  - type: include
+    path: snippets/contact-info
 ---

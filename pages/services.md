@@ -64,6 +64,12 @@ blocks:
     href: /locations/
     variant: ghost
 
+  - type: include
+    path: snippets/notable-events
+
+  - type: include
+    path: snippets/stats-highlights
+
   # CTA
   - type: cta
     title: Ready to Plan Your Event?

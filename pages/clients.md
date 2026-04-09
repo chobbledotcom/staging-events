@@ -64,6 +64,9 @@ blocks:
 
       From cultural festivals to charity walks, we deliver the production that makes your event unforgettable.
 
+  - type: include
+    path: snippets/contact-info
+
   # CTA
   - type: cta
     title: Work With Us
