@@ -65,10 +65,10 @@ blocks:
     variant: ghost
 
   - type: include
-    path: snippets/notable-events
+    file: snippets/notable-events
 
   - type: include
-    path: snippets/stats-highlights
+    file: snippets/stats-highlights
 
   # CTA
   - type: cta

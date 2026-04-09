@@ -27,7 +27,7 @@ blocks:
     variant: ghost
 
   - type: include
-    path: snippets/stats-highlights
+    file: snippets/stats-highlights
 
   - type: cta
     title: Need Equipment for Your Event?
@@ -40,5 +40,5 @@ blocks:
       size: lg
 
   - type: include
-    path: snippets/contact-info
+    file: snippets/contact-info
 ---

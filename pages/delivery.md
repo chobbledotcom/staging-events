@@ -103,5 +103,5 @@ blocks:
       size: lg
 
   - type: include
-    path: snippets/contact-info
+    file: snippets/contact-info
 ---
