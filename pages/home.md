@@ -12,6 +12,7 @@ blocks:
     container_width: full
     video_id: w93-QFEeGsk
     video_title: Staging Events production
+    thumbnail_url: /assets/homepage-video-thumb.jpg
     aspect_ratio: "21/9"
     content: |
       # Staging, Event Hire and Production across the UK
