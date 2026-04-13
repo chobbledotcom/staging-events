@@ -287,6 +287,7 @@ components:
         fields:
           - { name: image, type: string, label: Image Path, required: true }
           - { name: alt, type: string, label: Alt Text }
+          - { name: link_url, type: string, label: Link URL }
       - { name: speed, type: string, label: Scroll Speed (e.g. 30s) }
       - { name: height, type: string, label: Image Height (e.g. 50px) }
   block_icon_links:
@@ -482,6 +483,27 @@ content:
       - { name: gallery, component: gallery }
       - { name: specs, component: specs }
       - { name: tabs, component: tabs }
+      - name: blocks
+        label: Content Blocks
+        type: block
+        list: true
+        blockKey: type
+        blocks:
+          - { name: section-header, component: block_section_header }
+          - { name: features, component: block_features }
+          - { name: stats, component: block_stats }
+          - { name: code-block, component: block_code_block }
+          - { name: hero, component: block_hero }
+          - { name: split, component: block_split }
+          - { name: split-full, component: block_split_full }
+          - { name: cta, component: block_cta }
+          - { name: video-background, component: block_video_background }
+          - { name: items, component: block_items }
+          - { name: items-array, component: block_items_array }
+          - { name: contact-form, component: block_contact_form }
+          - { name: marquee-images, component: block_marquee_images }
+          - { name: icon-links, component: block_icon_links }
+          - { name: snippet, component: block_snippet }
   - name: categories
     label: Categories
     path: categories
@@ -510,6 +532,27 @@ content:
       - { name: subtitle, type: string, label: Subtitle }
       - { name: faqs, component: faqs }
       - { name: gallery, component: gallery }
+      - name: blocks
+        label: Content Blocks
+        type: block
+        list: true
+        blockKey: type
+        blocks:
+          - { name: section-header, component: block_section_header }
+          - { name: features, component: block_features }
+          - { name: stats, component: block_stats }
+          - { name: code-block, component: block_code_block }
+          - { name: hero, component: block_hero }
+          - { name: split, component: block_split }
+          - { name: split-full, component: block_split_full }
+          - { name: cta, component: block_cta }
+          - { name: video-background, component: block_video_background }
+          - { name: items, component: block_items }
+          - { name: items-array, component: block_items_array }
+          - { name: contact-form, component: block_contact_form }
+          - { name: marquee-images, component: block_marquee_images }
+          - { name: icon-links, component: block_icon_links }
+          - { name: snippet, component: block_snippet }
   - name: news
     label: News
     path: news
@@ -532,6 +575,27 @@ content:
       - { name: meta_description, component: meta_description }
       - { name: faqs, component: faqs }
       - { name: gallery, component: gallery }
+      - name: blocks
+        label: Content Blocks
+        type: block
+        list: true
+        blockKey: type
+        blocks:
+          - { name: section-header, component: block_section_header }
+          - { name: features, component: block_features }
+          - { name: stats, component: block_stats }
+          - { name: code-block, component: block_code_block }
+          - { name: hero, component: block_hero }
+          - { name: split, component: block_split }
+          - { name: split-full, component: block_split_full }
+          - { name: cta, component: block_cta }
+          - { name: video-background, component: block_video_background }
+          - { name: items, component: block_items }
+          - { name: items-array, component: block_items_array }
+          - { name: contact-form, component: block_contact_form }
+          - { name: marquee-images, component: block_marquee_images }
+          - { name: icon-links, component: block_icon_links }
+          - { name: snippet, component: block_snippet }
   - name: events
     label: Events
     path: events
@@ -557,6 +621,27 @@ content:
       - { name: meta_description, component: meta_description }
       - { name: faqs, component: faqs }
       - { name: gallery, component: gallery }
+      - name: blocks
+        label: Content Blocks
+        type: block
+        list: true
+        blockKey: type
+        blocks:
+          - { name: section-header, component: block_section_header }
+          - { name: features, component: block_features }
+          - { name: stats, component: block_stats }
+          - { name: code-block, component: block_code_block }
+          - { name: hero, component: block_hero }
+          - { name: split, component: block_split }
+          - { name: split-full, component: block_split_full }
+          - { name: cta, component: block_cta }
+          - { name: video-background, component: block_video_background }
+          - { name: items, component: block_items }
+          - { name: items-array, component: block_items_array }
+          - { name: contact-form, component: block_contact_form }
+          - { name: marquee-images, component: block_marquee_images }
+          - { name: icon-links, component: block_icon_links }
+          - { name: snippet, component: block_snippet }
   - name: team
     label: Team
     path: team
@@ -572,6 +657,27 @@ content:
       - { name: body, type: rich-text, label: Biography }
       - { name: faqs, component: faqs }
       - { name: gallery, component: gallery }
+      - name: blocks
+        label: Content Blocks
+        type: block
+        list: true
+        blockKey: type
+        blocks:
+          - { name: section-header, component: block_section_header }
+          - { name: features, component: block_features }
+          - { name: stats, component: block_stats }
+          - { name: code-block, component: block_code_block }
+          - { name: hero, component: block_hero }
+          - { name: split, component: block_split }
+          - { name: split-full, component: block_split_full }
+          - { name: cta, component: block_cta }
+          - { name: video-background, component: block_video_background }
+          - { name: items, component: block_items }
+          - { name: items-array, component: block_items_array }
+          - { name: contact-form, component: block_contact_form }
+          - { name: marquee-images, component: block_marquee_images }
+          - { name: icon-links, component: block_icon_links }
+          - { name: snippet, component: block_snippet }
   - name: reviews
     label: Reviews
     path: reviews
@@ -594,6 +700,27 @@ content:
           value: "{path}"
           label: "{primary}"
       - { name: faqs, component: faqs }
+      - name: blocks
+        label: Content Blocks
+        type: block
+        list: true
+        blockKey: type
+        blocks:
+          - { name: section-header, component: block_section_header }
+          - { name: features, component: block_features }
+          - { name: stats, component: block_stats }
+          - { name: code-block, component: block_code_block }
+          - { name: hero, component: block_hero }
+          - { name: split, component: block_split }
+          - { name: split-full, component: block_split_full }
+          - { name: cta, component: block_cta }
+          - { name: video-background, component: block_video_background }
+          - { name: items, component: block_items }
+          - { name: items-array, component: block_items_array }
+          - { name: contact-form, component: block_contact_form }
+          - { name: marquee-images, component: block_marquee_images }
+          - { name: icon-links, component: block_icon_links }
+          - { name: snippet, component: block_snippet }
   - name: locations
     label: Locations
     path: locations
@@ -627,6 +754,69 @@ content:
       - { name: meta_description, component: meta_description }
       - { name: faqs, component: faqs }
       - { name: gallery, component: gallery }
+      - name: blocks
+        label: Content Blocks
+        type: block
+        list: true
+        blockKey: type
+        blocks:
+          - { name: section-header, component: block_section_header }
+          - { name: features, component: block_features }
+          - { name: stats, component: block_stats }
+          - { name: code-block, component: block_code_block }
+          - { name: hero, component: block_hero }
+          - { name: split, component: block_split }
+          - { name: split-full, component: block_split_full }
+          - { name: cta, component: block_cta }
+          - { name: video-background, component: block_video_background }
+          - { name: items, component: block_items }
+          - { name: items-array, component: block_items_array }
+          - { name: contact-form, component: block_contact_form }
+          - { name: marquee-images, component: block_marquee_images }
+          - { name: icon-links, component: block_icon_links }
+          - { name: snippet, component: block_snippet }
+  - name: clients
+    label: Clients
+    path: clients
+    type: collection
+    filename: "{primary}.md"
+    fields:
+      - { name: title, type: string, label: Title }
+      - { name: subtitle, type: string, label: Subtitle }
+      - { name: thumbnail, type: image, label: Thumbnail }
+      - { name: order, type: number, label: Order }
+      - { name: body, type: rich-text, label: Body }
+      - { name: meta_title, component: meta_title }
+      - { name: meta_description, component: meta_description }
+      - name: eleventyNavigation
+        label: Navigation
+        type: object
+        fields:
+          - { name: key, type: string }
+          - { name: order, type: number }
+      - { name: faqs, component: faqs }
+      - { name: gallery, component: gallery }
+      - name: blocks
+        label: Content Blocks
+        type: block
+        list: true
+        blockKey: type
+        blocks:
+          - { name: section-header, component: block_section_header }
+          - { name: features, component: block_features }
+          - { name: stats, component: block_stats }
+          - { name: code-block, component: block_code_block }
+          - { name: hero, component: block_hero }
+          - { name: split, component: block_split }
+          - { name: split-full, component: block_split_full }
+          - { name: cta, component: block_cta }
+          - { name: video-background, component: block_video_background }
+          - { name: items, component: block_items }
+          - { name: items-array, component: block_items_array }
+          - { name: contact-form, component: block_contact_form }
+          - { name: marquee-images, component: block_marquee_images }
+          - { name: icon-links, component: block_icon_links }
+          - { name: snippet, component: block_snippet }
   - name: homepage
     label: Homepage Settings
     type: file

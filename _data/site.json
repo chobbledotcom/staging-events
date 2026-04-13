@@ -41,9 +41,13 @@
 			"keywords": false,
 			"parent_categories": true,
 			"videos": true,
-			"below_products": true
+			"below_products": true,
+			"use_blocks": true
 		},
 		"hasSrcFolder": false,
-		"customHomePage": false
+		"customHomePage": false,
+		"customBlocksCollections": [
+			"clients"
+		]
 	}
 }
