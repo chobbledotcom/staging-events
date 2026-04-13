@@ -109,6 +109,10 @@ blocks:
         title: Epilepsy Society
         description: Nationwide event support
 
+  # Valued clients logo marquee
+  - type: snippet
+    reference: brands
+
   - type: cta
     title: Ready to Plan Your Event?
     description: >-

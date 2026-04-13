@@ -5,7 +5,7 @@ description: Medium trussing gantry hire for charity runs, marathons and events.
 header_image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
 categories:
   - gantries
-price: From £495
+price: From £695
 features:
   - Custom branding available
   - 300gsm PVC Mesh material
@@ -14,7 +14,7 @@ features:
   - Storage included at no additional cost
 specs:
   - name: Hire Price
-    value: From £495
+    value: From £695
   - name: Material
     value: 300gsm PVC Mesh
   - name: Start/Finish Panels
@@ -34,7 +34,7 @@ blocks:
     content: |-
       A professional inflatable gantry system with custom-designed panels measuring 6.58m x 0.29m across the top and 3m x 0.29m side legs. Ideal for races on grass, hard standing, tarmac, artificial turf or mixed surfaces, with full setup, takedown and electric inflation fan included. Free printing is available for multiple bookings, and we store branded versions at no extra cost.
 
-      **From £495**
+      **From £695**
     figure_type: image
     figure_src: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
     figure_alt: Medium trussing gantry at a charity walk start line
@@ -87,7 +87,7 @@ blocks:
         description: ""
   - type: stats
     items:
-      - value: From £495
+      - value: From £695
         label: Hire Price
       - value: 300gsm PVC Mesh
         label: Material

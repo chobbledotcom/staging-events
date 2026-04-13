@@ -18,6 +18,10 @@ blocks:
 
       We work with a wide range of charity organisations and events.
 
+  # Brand logos marquee
+  - type: snippet
+    reference: brands
+
   # Client list
   - type: split
     title: Charity Events

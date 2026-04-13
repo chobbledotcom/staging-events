@@ -5,7 +5,7 @@ description: X-Large trussing gantry hire for major charity runs, marathons and 
 header_image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
 categories:
   - gantries
-price: From £995
+price: From £1,495
 features:
   - Our largest trussing gantry
   - Custom branding available
@@ -16,7 +16,7 @@ features:
   - Storage included at no additional cost
 specs:
   - name: Hire Price
-    value: From £995
+    value: From £1,495
   - name: Material
     value: 300gsm PVC Mesh
   - name: Start/Finish Panels
@@ -36,7 +36,7 @@ blocks:
     content: |-
       The largest inflatable event structure in our range, with an imposing 9.16m x 1.58m top section and 3m x 1.6m side panels. Purpose-built for major races and mass participation events, this gantry can also be custom-manufactured to your exact specifications. Comprehensive event support, free branded storage and nationwide delivery included.
 
-      **From £995**
+      **From £1,495**
     figure_type: image
     figure_src: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
     figure_alt: Large branded trussing gantry at a March for Men event
@@ -95,7 +95,7 @@ blocks:
         description: ""
   - type: stats
     items:
-      - value: From £995
+      - value: From £1,495
         label: Hire Price
       - value: 300gsm PVC Mesh
         label: Material
