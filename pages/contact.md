@@ -2,7 +2,7 @@
 permalink: "/contact/"
 layout: "design-system-base.html"
 title: "Contact"
-description: "Contact Staging Events for event hire, production and logistics services. Based in Rotherham, serving events across the UK."
+description: "Contact Staging Events for event hire, production and logistics services. Based centrally, serving events across the UK."
 eleventyNavigation:
   key: Contact
   order: 5
@@ -29,6 +29,7 @@ blocks:
 
       ### Address
 
+      Head Office
       Bede House
       Salisbury Road
       Maltby
@@ -62,7 +63,7 @@ blocks:
     image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
     image_alt: Staging Events event setup
     content: |
-      ## Based in Rotherham, Serving Events Across the UK
+      ## Based Centrally, Serving Events Across the UK
 
   - type: snippet
     reference: stats-highlights
