@@ -110,40 +110,29 @@ blocks:
         description: Nationwide event support
 
   # Valued clients logos
-  - type: features
+  - type: image-cards
     section_class: alt
     header_intro: |
       ## Our Valued Clients
+    image_aspect_ratio: "4/3"
     items:
-      - icon: image
-        image: images/alzheimers-society-logo.jpg
+      - image: images/alzheimers-society-logo.jpg
         title: Alzheimer's Society
-        description: ""
-        url: /clients/alzheimers-society/
-      - icon: image
-        image: images/prostate-cancer-uk-logo.jpg
+        link: /clients/alzheimers-society/
+      - image: images/prostate-cancer-uk-logo.jpg
         title: Prostate Cancer UK
-        description: ""
-        url: /clients/prostate-cancer-uk/
-      - icon: image
-        image: images/childrens-hospital-charity-logo.jpg
+        link: /clients/prostate-cancer-uk/
+      - image: images/childrens-hospital-charity-logo.jpg
         title: Sheffield Children's Hospital Charity
-        description: ""
-        url: /clients/childrens-hospital-charity/
-      - icon: image
-        image: images/coppafeel-logo.png
+        link: /clients/childrens-hospital-charity/
+      - image: images/coppafeel-logo.png
         title: CoppaFeel!
-        description: ""
-        url: /clients/coppafeel/
-      - icon: image
-        image: images/epilepsy-society-logo.jpg
+        link: /clients/coppafeel/
+      - image: images/epilepsy-society-logo.jpg
         title: Epilepsy Society
-        description: ""
-        url: /clients/epilepsy-society/
-      - icon: image
-        image: images/pancreatic-cancer-uk-logo.jpg
+        link: /clients/epilepsy-society/
+      - image: images/pancreatic-cancer-uk-logo.jpg
         title: Pancreatic Cancer UK
-        description: ""
 
   - type: cta
     title: Ready to Plan Your Event?
