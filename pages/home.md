@@ -109,14 +109,9 @@ blocks:
         title: Epilepsy Society
         description: Nationwide event support
 
-  # Valued clients
-  - type: items
-    collection: clients
-    section_class: alt
-    intro: |
-      ## Our Valued Clients
-
-      We proudly work with leading charities and organisations across the UK.
+  # Valued clients logo marquee
+  - type: snippet
+    reference: brands
 
   - type: cta
     title: Ready to Plan Your Event?
