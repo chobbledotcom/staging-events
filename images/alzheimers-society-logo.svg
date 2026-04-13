@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 110">
+  <!-- Forget-me-not flower -->
+  <g transform="translate(35,38) rotate(-18)">
+    <path d="M0,-2 C-7,-7 -10,-19 0,-25 C10,-19 7,-7 0,-2Z" fill="#2B8FCD"/>
+    <path d="M0,-2 C-7,-7 -10,-19 0,-25 C10,-19 7,-7 0,-2Z" fill="#2B8FCD" transform="rotate(72)"/>
+    <path d="M0,-2 C-7,-7 -10,-19 0,-25 C10,-19 7,-7 0,-2Z" fill="#2B8FCD" transform="rotate(144)"/>
+    <path d="M0,-2 C-7,-7 -10,-19 0,-25 C10,-19 7,-7 0,-2Z" fill="#2B8FCD" transform="rotate(216)"/>
+    <path d="M0,-2 C-7,-7 -10,-19 0,-25 C10,-19 7,-7 0,-2Z" fill="#2B8FCD" transform="rotate(288)"/>
+    <circle cx="0" cy="0" r="5.5" fill="#F1A61C"/>
+    <circle cx="0" cy="0" r="2.2" fill="#D4881C"/>
+  </g>
+  <!-- Text -->
+  <text x="68" y="50" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="bold" fill="#2B8FCD">Alzheimer's</text>
+  <text x="68" y="88" font-family="Arial,Helvetica,sans-serif" font-size="32" font-weight="bold" fill="#182B5B">Society</text>
+</svg>

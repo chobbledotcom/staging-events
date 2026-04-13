@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 95">
+  <!-- "epilepsy" with lighter "i" -->
+  <text y="40" font-family="'VAG Rounded','Arial Rounded MT Bold','Nunito',Arial,sans-serif" font-size="38" font-weight="bold" letter-spacing="-1">
+    <tspan x="5" fill="#6B3FA0">ep</tspan><tspan fill="#B09ECE">i</tspan><tspan fill="#6B3FA0">lepsy</tspan>
+  </text>
+  <!-- "society" with lighter "i" -->
+  <text y="82" font-family="'VAG Rounded','Arial Rounded MT Bold','Nunito',Arial,sans-serif" font-size="38" font-weight="bold" letter-spacing="-1">
+    <tspan x="5" fill="#6B3FA0">soc</tspan><tspan fill="#B09ECE">i</tspan><tspan fill="#6B3FA0">ety</tspan>
+  </text>
+</svg>

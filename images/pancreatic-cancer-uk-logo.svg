@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 80">
+  <!-- Awareness ribbon -->
+  <g fill="none" stroke="#562583" stroke-width="4.5" stroke-linecap="round">
+    <path d="M10,55 Q14,40 22,30 Q32,16 24,6 Q21,2 18,7"/>
+    <path d="M26,55 Q22,40 14,30 Q4,16 12,6 Q15,2 18,7"/>
+  </g>
+  <!-- Text -->
+  <text x="42" y="35" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="bold" fill="#562583" letter-spacing="0.5">PANCREATIC</text>
+  <text x="42" y="62" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="bold" fill="#562583" letter-spacing="0.5">CANCER UK</text>
+</svg>
