@@ -109,30 +109,14 @@ blocks:
         title: Epilepsy Society
         description: Nationwide event support
 
-  # Valued clients logos
-  - type: image-cards
+  # Valued clients
+  - type: items
+    collection: clients
     section_class: alt
-    header_intro: |
+    intro: |
       ## Our Valued Clients
-    image_aspect_ratio: "4/3"
-    items:
-      - image: images/alzheimers-society-logo.jpg
-        title: Alzheimer's Society
-        link: /clients/alzheimers-society/
-      - image: images/prostate-cancer-uk-logo.jpg
-        title: Prostate Cancer UK
-        link: /clients/prostate-cancer-uk/
-      - image: images/childrens-hospital-charity-logo.jpg
-        title: Sheffield Children's Hospital Charity
-        link: /clients/childrens-hospital-charity/
-      - image: images/coppafeel-logo.png
-        title: CoppaFeel!
-        link: /clients/coppafeel/
-      - image: images/epilepsy-society-logo.jpg
-        title: Epilepsy Society
-        link: /clients/epilepsy-society/
-      - image: images/pancreatic-cancer-uk-logo.jpg
-        title: Pancreatic Cancer UK
+
+      We proudly work with leading charities and organisations across the UK.
 
   - type: cta
     title: Ready to Plan Your Event?

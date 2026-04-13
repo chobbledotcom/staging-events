@@ -56,18 +56,27 @@ blocks:
         text: LinkedIn
         url: "https://www.linkedin.com/company/staging-events"
 
-  # Image background
-  - type: image-background
-    container_width: full
-    parallax: true
-    image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
-    image_alt: Staging Events event setup
-    content: |
-      ## Based Centrally, Serving Events Across the UK
+  # UK coverage
+  - type: split-full
+    variant: dark-left
+    left_title: Based Centrally, Serving Events Across the UK
+    left_content: |
+      Operating from our 25,000 sq ft warehouse, we deliver professional event production and equipment hire nationwide. From charity walks in London to festivals in Edinburgh — wherever your event is, we can be there.
+    left_button:
+      text: View Our Clients
+      href: /clients/
+      variant: secondary
+    right_title: Why Choose Us
+    right_content: |
+      - **25+ years** of event production experience
+      - **95% of equipment** owned and operated in-house
+      - **Full logistics** — delivery, setup and collection UK-wide
+      - **Single supplier** for staging, PA, power and infrastructure
+    right_button:
+      text: Get a Quote
+      href: /contact/
+      variant: primary
 
   - type: snippet
     reference: stats-highlights
-
-  - type: snippet
-    reference: notable-events
 ---
