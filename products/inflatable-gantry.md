@@ -2,7 +2,7 @@
 title: Inflatable Gantry
 subtitle: Quick setup gantry for grassed areas
 description: Inflatable gantry hire for charity runs and events. Quick setup and takedown with custom velcro banners available.
-header_image: images/alzheimers-memory-walk-stage-santander.jpg
+header_image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
 categories:
   - gantries
 price: From £275
@@ -24,8 +24,7 @@ specs:
   - name: Setup
     value: Quick setup/takedown
 gallery:
-  - images/mobile-trailer-stage-on-field.jpg
-  - images/memory-walk-stage-and-pa.jpg
+  - images/prostate-cancer-uk-march-for-men-start-gantry.jpg
 eleventyNavigation:
   key: Inflatable Gantry
   parent: Gantries
@@ -37,7 +36,7 @@ blocks:
 
       **From £275**
     figure_type: image
-    figure_src: images/alzheimers-memory-walk-stage-santander.jpg
+    figure_src: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
     figure_alt: Inflatable Gantry
     button:
       text: Get a Quote
@@ -46,8 +45,7 @@ blocks:
   - type: gallery
     section_class: alt
     items:
-      - image: images/mobile-trailer-stage-on-field.jpg
-      - image: images/memory-walk-stage-and-pa.jpg
+      - image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
   - type: markdown
     content: |-
       Our inflatable gantry is a start and finish line for charity runs, fun runs, marathons, obstacle courses and mass participation events on grassed areas. Every hire is a full-service package: we handle delivery, on-site setup, inflation and collection so your team can focus entirely on running the event.

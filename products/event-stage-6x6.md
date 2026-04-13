@@ -1,11 +1,11 @@
 ---
 title: Event Stage 6x6m
 subtitle: Large stage with weather protection for major events
-description: 6x6m event stage hire from £1,950. Supports a 5-piece band and 15 singers with wind and showerproof side walls. Professional production staging for festivals and large events.
+description: 6x6m event stage hire from £1,450 + delivery. Supports a 5-piece band and 15 singers with wind and showerproof side walls. Professional production staging for festivals and large events.
 header_image: images/fan-party-large-stage.jpg
 categories:
   - staging
-price: From £1,950
+price: From £1,450
 features:
   - 6m x 6m stage area
   - 5-piece band and 15 singers
@@ -17,11 +17,15 @@ specs:
   - name: Size
     value: 6m x 6m
   - name: Hire Price
-    value: From £1,950
+    value: From £1,450 + delivery
+  - name: Additional Days
+    value: 2nd day £895, 3rd day £750
   - name: Capacity
     value: 5-piece band and 15 singers
   - name: Weather Protection
     value: Wind and showerproof side walls
+  - name: Height Options
+    value: 200mm, 540mm, 725mm
   - name: System
     value: Intelistage portable
   - name: Weight Capacity
@@ -40,7 +44,7 @@ blocks:
     content: |-
       A 6x6m covered truss stage with 36 square metres of performance area, big enough for a five-piece band or up to 15 performers. Full roof structure and weather-resistant side walls mean your event goes ahead regardless of conditions.
 
-      **From £1,950**
+      **From £1,450** + delivery (2nd day £895, 3rd day £750)
     figure_type: image
     figure_src: images/fan-party-large-stage.jpg
     figure_alt: Event Stage 6x6m
@@ -127,8 +131,10 @@ blocks:
     items:
       - value: 6m x 6m
         label: Size
-      - value: From £1,950
+      - value: From £1,450
         label: Hire Price
+      - value: 2nd £895, 3rd £750
+        label: Additional Days
       - value: 5-piece band and 15 singers
         label: Capacity
       - value: Wind and showerproof side walls
