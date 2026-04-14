@@ -428,6 +428,41 @@ components:
           search: primary
           value: "{path}"
           label: "{primary}"
+  block_image_background:
+    label: Image Background
+    type: object
+    fields:
+      - name: container_width
+        type: string
+        label: Container Width (full, wide, narrow)
+      - { name: section_class, type: string, label: Section Class }
+      - { name: image, type: image, label: Background Image, required: true }
+      - { name: image_alt, type: string, label: Image Alt Text }
+      - { name: parallax, type: boolean, label: Enable Parallax }
+      - { name: class, type: string, label: CSS Class }
+      - { name: content, type: rich-text, label: Overlay Content, required: true }
+  block_markdown:
+    label: Markdown
+    type: object
+    fields:
+      - name: container_width
+        type: string
+        label: Container Width (full, wide, narrow)
+      - { name: section_class, type: string, label: Section Class }
+      - { name: content, type: rich-text, label: Markdown Content, required: true }
+  block_link_button:
+    label: Link Button
+    type: object
+    fields:
+      - name: container_width
+        type: string
+        label: Container Width (full, wide, narrow)
+      - { name: section_class, type: string, label: Section Class }
+      - { name: text, type: string, label: Button Text, required: true }
+      - { name: href, type: string, label: URL, required: true }
+      - { name: variant, type: string, label: Variant (primary, secondary, ghost) }
+      - { name: size, type: string, label: Size (sm, lg) }
+      - { name: reveal, type: string, label: Reveal Animation (left, right, scale) }
   faqs:
     label: FAQs
     type: object
@@ -518,6 +553,9 @@ content:
           - { name: contact-form, component: block_contact_form }
           - { name: marquee-images, component: block_marquee_images }
           - { name: icon-links, component: block_icon_links }
+          - { name: image-background, component: block_image_background }
+          - { name: markdown, component: block_markdown }
+          - { name: link-button, component: block_link_button }
           - { name: snippet, component: block_snippet }
       - { name: faqs, component: faqs }
       - { name: gallery, component: gallery }
@@ -613,6 +651,9 @@ content:
           - { name: contact-form, component: block_contact_form }
           - { name: marquee-images, component: block_marquee_images }
           - { name: icon-links, component: block_icon_links }
+          - { name: image-background, component: block_image_background }
+          - { name: markdown, component: block_markdown }
+          - { name: link-button, component: block_link_button }
           - { name: snippet, component: block_snippet }
   - name: categories
     label: Categories
@@ -666,6 +707,9 @@ content:
           - { name: contact-form, component: block_contact_form }
           - { name: marquee-images, component: block_marquee_images }
           - { name: icon-links, component: block_icon_links }
+          - { name: image-background, component: block_image_background }
+          - { name: markdown, component: block_markdown }
+          - { name: link-button, component: block_link_button }
           - { name: snippet, component: block_snippet }
   - name: news
     label: News
@@ -713,6 +757,9 @@ content:
           - { name: contact-form, component: block_contact_form }
           - { name: marquee-images, component: block_marquee_images }
           - { name: icon-links, component: block_icon_links }
+          - { name: image-background, component: block_image_background }
+          - { name: markdown, component: block_markdown }
+          - { name: link-button, component: block_link_button }
           - { name: snippet, component: block_snippet }
   - name: events
     label: Events
@@ -763,6 +810,9 @@ content:
           - { name: contact-form, component: block_contact_form }
           - { name: marquee-images, component: block_marquee_images }
           - { name: icon-links, component: block_icon_links }
+          - { name: image-background, component: block_image_background }
+          - { name: markdown, component: block_markdown }
+          - { name: link-button, component: block_link_button }
           - { name: snippet, component: block_snippet }
   - name: team
     label: Team
@@ -803,6 +853,9 @@ content:
           - { name: contact-form, component: block_contact_form }
           - { name: marquee-images, component: block_marquee_images }
           - { name: icon-links, component: block_icon_links }
+          - { name: image-background, component: block_image_background }
+          - { name: markdown, component: block_markdown }
+          - { name: link-button, component: block_link_button }
           - { name: snippet, component: block_snippet }
   - name: reviews
     label: Reviews
@@ -850,6 +903,9 @@ content:
           - { name: contact-form, component: block_contact_form }
           - { name: marquee-images, component: block_marquee_images }
           - { name: icon-links, component: block_icon_links }
+          - { name: image-background, component: block_image_background }
+          - { name: markdown, component: block_markdown }
+          - { name: link-button, component: block_link_button }
           - { name: snippet, component: block_snippet }
   - name: locations
     label: Locations
@@ -908,6 +964,9 @@ content:
           - { name: contact-form, component: block_contact_form }
           - { name: marquee-images, component: block_marquee_images }
           - { name: icon-links, component: block_icon_links }
+          - { name: image-background, component: block_image_background }
+          - { name: markdown, component: block_markdown }
+          - { name: link-button, component: block_link_button }
           - { name: snippet, component: block_snippet }
   - name: clients
     label: Clients
@@ -954,6 +1013,9 @@ content:
           - { name: contact-form, component: block_contact_form }
           - { name: marquee-images, component: block_marquee_images }
           - { name: icon-links, component: block_icon_links }
+          - { name: image-background, component: block_image_background }
+          - { name: markdown, component: block_markdown }
+          - { name: link-button, component: block_link_button }
           - { name: snippet, component: block_snippet }
   - name: homepage
     label: Homepage Settings
