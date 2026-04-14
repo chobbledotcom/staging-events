@@ -14,35 +14,32 @@ blocks:
 
       Event hire and production for charity fundraising events.
 
-  - type: split
+  - type: split-image
     title: About Sheffield Children's Hospital Charity
     reverse: true
     reveal_content: right
     reveal_figure: scale
     content: |
       Sheffield Children's Hospital Charity raises funds to go above and beyond what the NHS can provide — supporting patients, families and staff at one of the UK's four specialist children's hospitals.
-    figure_type: image
     figure_src: images/childrens-hospital-charity-logo.jpg
     figure_alt: Sheffield Children's Hospital Charity logo
 
-  - type: split
+  - type: split-image
     title: Supporting Children's Healthcare
     reveal_content: left
     content: |
       We are pleased to support Sheffield Children's Hospital Charity with event hire and production services for their fundraising events.
 
       Our team provides staging, sound systems, and full logistical support to help deliver successful charity events that raise vital funds for children's healthcare.
-    figure_type: image
     figure_src: images/town-centre-stage-rotherham.jpg
     figure_alt: Town centre stage at a community fundraising event
 
-  - type: split
+  - type: split-image
     title: Built for Family-Friendly Events
     reverse: true
     reveal_content: right
     content: |
       From small fundraising days to large town centre celebrations, we bring stages, PA, festoon lighting and crowd barriers — everything you need to put on a safe, welcoming event for families and supporters.
-    figure_type: image
     figure_src: images/stage-with-gazebo-and-barriers.jpg
     figure_alt: Outdoor stage with gazebo and crowd barriers at a fundraising event
 

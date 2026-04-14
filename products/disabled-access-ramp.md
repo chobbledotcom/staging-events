@@ -30,7 +30,7 @@ eleventyNavigation:
   key: Disabled Access Ramp
   parent: Event Infrastructure
 blocks:
-  - type: split
+  - type: split-image
     title: Disabled Access Ramp
     reveal_content: left
     reveal_figure: scale
@@ -38,7 +38,6 @@ blocks:
       DDA-compliant disabled access ramps for stages and event platforms. Our ramps ensure wheelchair users and those with mobility needs can access your stage, presentation area or event platform safely. Compatible with all our stage systems including modular deck staging, event stages and trailer stages.
 
       **From £175**
-    figure_type: image
     figure_src: images/choir-on-modular-stage.jpg
     figure_alt: Accessible stage setup
     button:

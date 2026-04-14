@@ -16,14 +16,13 @@ blocks:
 
       Full production and logistics for one of the UK's largest charity walks.
 
-  - type: split
+  - type: split-image
     title: About Alzheimer's Society
     reverse: true
     reveal_content: right
     reveal_figure: scale
     content: |
       Alzheimer's Society is the UK's leading dementia charity, campaigning for change, funding research to find a cure and supporting people living with dementia and their families.
-    figure_type: image
     figure_src: images/alzheimers-society-logo.jpg
     figure_alt: Alzheimer's Society logo
 
@@ -37,7 +36,7 @@ blocks:
       - value: "UK-wide"
         label: Event Locations
 
-  - type: split
+  - type: split-image
     title: Delivering Memory Walk
     reveal_content: left
     content: |
@@ -46,11 +45,10 @@ blocks:
       The Memory Walk is one of the UK's largest charity walking events, with 110,000 participants taking part over a 7-week period at locations across the country.
 
       Our services include stage hire, PA systems, start/finish gantries, bottled water supply, event staffing, and full logistics coordination for each venue.
-    figure_type: image
     figure_src: images/alzheimers-memory-walk-stage-santander.jpg
     figure_alt: Alzheimer's Society Memory Walk stage with Santander branding
 
-  - type: split
+  - type: split-image
     title: On the Ground at Memory Walk
     reverse: true
     reveal_content: right
@@ -58,16 +56,14 @@ blocks:
       From bottled water and rehydration stations to start lines, finish gantries, stages and PA, our crew handles every part of the production so the focus stays on the participants.
 
       Our team supports each Memory Walk venue, working alongside the Alzheimer's Society team to deliver a smooth, safe and uplifting day out for thousands of walkers.
-    figure_type: image
     figure_src: images/staging-events-team-alzheimers-memory-walk.jpg
     figure_alt: Staging Events crew at an Alzheimer's Society Memory Walk
 
-  - type: split
+  - type: split-image
     title: Hydration and Welfare
     reveal_content: left
     content: |
       Mass participation walks need reliable hydration. We supply branded rehydration stations and bottled water distribution points across each route, alongside the welfare infrastructure required to keep large numbers of walkers safe.
-    figure_type: image
     figure_src: images/rehydration-station-alzheimers-society.jpg
     figure_alt: Alzheimer's Society branded rehydration station
 

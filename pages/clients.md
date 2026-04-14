@@ -29,7 +29,6 @@ blocks:
     reveal_figure: scale
     content: |
       We have proudly worked with some of the UK's leading charities and organisations, providing full event production, staging, PA systems, gantry hire and logistics for mass participation events nationwide.
-    figure_type: image
     figure_src: images/alzheimers-memory-walk-crowd-heart-hands.jpg
     figure_alt: Memory Walk participants making heart shapes at a charity event
     button:

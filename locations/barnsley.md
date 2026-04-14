@@ -21,7 +21,7 @@ blocks:
 
       Event equipment and staging hire for Barnsley and surrounding areas
 
-  - type: split
+  - type: split-image
     title: Event Hire Across Barnsley
     reveal_content: left
     reveal_figure: scale
@@ -41,7 +41,6 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: secondary
-    figure_type: image
     figure_src: images/memory-walk-stage-and-van.jpg
     figure_alt: Staging hire in Barnsley
 

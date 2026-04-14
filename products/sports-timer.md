@@ -30,7 +30,7 @@ eleventyNavigation:
   key: Sports Timer Hire
   parent: Event Infrastructure
 blocks:
-  - type: split
+  - type: split-image
     title: Sports Timer Hire
     reveal_content: left
     reveal_figure: scale
@@ -38,7 +38,6 @@ blocks:
       Professional digital sports timers for charity runs, marathons, fun runs and mass participation events. High-visibility LED displays show countdown or elapsed time, visible to participants and spectators at your start and finish line. Pairs with our range of trussing and inflatable gantries for a complete race setup.
 
       **Contact for pricing**
-    figure_type: image
     figure_src: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
     figure_alt: Sports Timer at event
     button:

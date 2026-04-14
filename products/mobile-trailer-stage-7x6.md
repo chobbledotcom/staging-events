@@ -41,13 +41,12 @@ eleventyNavigation:
   key: Mobile Trailer Stage 7x6m
   parent: Staging
 blocks:
-  - type: split
+  - type: split-image
     title: Mobile Trailer Stage 7x6m
     content: |-
       A self-contained mobile trailer stage offering 42 square metres of performance space with a slip-proof weatherproof floor. Sets up in just 30 minutes and is self-balanced for hard standing use, with full 50mm tubular trussing and wind-rated side walls.
 
       **From £1,495**
-    figure_type: image
     figure_src: images/trailer-stage-with-trussing.jpg
     figure_alt: Mobile Trailer Stage 7x6m
     button:
@@ -98,12 +97,11 @@ blocks:
         label: Day 2
       - value: £595
         label: Day 3
-  - type: split
+  - type: split-html
     reverse: true
     title: Truss Frame and Rigging
     content: |-
       Full 50mm tubular trussing provides rigging points for speakers, lighting and production equipment. The 5m overall height gives clearance for lighting setups, keeping the stage floor clear for performers.
-    figure_type: html
     figure_html: |-
       ### Rigging Highlights
 
@@ -111,13 +109,12 @@ blocks:
       - **5m overall height** for lighting clearance
       - **Clear performance deck** for bands and choirs
       - **Suitable for audio and lighting production**
-  - type: split
+  - type: split-html
     title: Weather Protection and Setup
     content: |-
       Wind and showerproof side walls protect performers and equipment in challenging conditions. The walls are rated to 17.8 m/s (approximately 40 mph) with covers fitted, while the uncovered structure withstands winds up to 30 m/s (approximately 67 mph).
 
       The stage works both indoors and outdoors, on hard surfaces or grass. The self-balanced design means no additional anchoring is required on hard standing.
-    figure_type: html
     figure_html: |-
       ### Included as Standard
 

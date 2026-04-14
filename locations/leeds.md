@@ -21,7 +21,7 @@ blocks:
 
       Full event production and equipment hire for Leeds and West Yorkshire
 
-  - type: split
+  - type: split-image
     title: Event Hire for Leeds
     reveal_content: left
     reveal_figure: scale
@@ -41,7 +41,6 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: secondary
-    figure_type: image
     figure_src: images/mobile-trailer-stage-with-barriers.jpg
     figure_alt: Stage hire for Leeds events
 
