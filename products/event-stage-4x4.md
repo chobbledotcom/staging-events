@@ -35,13 +35,12 @@ eleventyNavigation:
   key: Event Stage 4x4m
   parent: Staging
 blocks:
-  - type: split
+  - type: split-image
     title: Event Stage 4x4m
     content: |-
       A 4x4m stage that suits a range of events, from small festivals and product launches to fireworks displays and Christmas light switch-ons. Full 50mm tubular trussing accommodates up to a 3-piece band and 12 singers.
 
       **From £1,095**
-    figure_type: image
     figure_src: images/town-centre-stage-rotherham.jpg
     figure_alt: Event Stage 4x4m
     button:
@@ -69,14 +68,13 @@ blocks:
       - PA systems available at extra cost
       - Side PA wings branding from £199
       - Bottom banner from £79
-  - type: split
+  - type: split-html
     reverse: true
     title: Branding and Setup
     content: |-
       Custom branding options are available. Side PA wings are available from £199 and bottom banners from £79.
 
       Setup takes approximately 1.5 hours on grass or hard surfaces, indoors or outdoors. The stage is available at standard heights of 200mm, 570mm and 725mm, with custom heights possible on request.
-    figure_type: html
     figure_html: |-
       ### What's Included
 

@@ -30,7 +30,7 @@ eleventyNavigation:
   key: Electrical Distribution Hire
   parent: Power
 blocks:
-  - type: split
+  - type: split-image
     title: Electrical Distribution Hire
     reveal_content: left
     reveal_figure: scale
@@ -38,7 +38,6 @@ blocks:
       Professional electrical distribution hire for events of all sizes. We supply distribution boards, cabling and power management equipment to safely deliver electricity from generators or mains supplies to your stages, PA systems, lighting rigs and catering areas. All equipment is PAT tested and compliant with event safety regulations.
 
       **Contact for pricing**
-    figure_type: image
     figure_src: images/event-stage-setup.jpg
     figure_alt: Event electrical distribution setup
     button:

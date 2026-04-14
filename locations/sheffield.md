@@ -21,7 +21,7 @@ blocks:
 
       Event equipment and production services for Sheffield's venues and outdoor spaces
 
-  - type: split
+  - type: split-image
     title: Event Hire Across Sheffield
     reveal_content: left
     reveal_figure: scale
@@ -40,7 +40,6 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: secondary
-    figure_type: image
     figure_src: images/event-stage-setup.jpg
     figure_alt: Event staging in Sheffield
 

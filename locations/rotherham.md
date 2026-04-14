@@ -21,7 +21,7 @@ blocks:
 
       Professional staging and event equipment hire, delivered from our local warehouse
 
-  - type: split
+  - type: split-image
     title: Your Local Event Hire Company
     reveal_content: left
     reveal_figure: scale
@@ -40,7 +40,6 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: secondary
-    figure_type: image
     figure_src: images/town-centre-stage-rotherham.jpg
     figure_alt: Staging Events delivery in Rotherham
 
@@ -79,7 +78,7 @@ blocks:
       - value: "95%"
         label: Equipment Owned
 
-  - type: split
+  - type: split-image
     title: Popular Hire for Rotherham Events
     reverse: true
     reveal_content: right
@@ -93,7 +92,6 @@ blocks:
       - **Crowd barriers and fencing** for public events
       - **Festoon lighting** for evening events and beer gardens
       - **Generator hire** for events without mains power
-    figure_type: image
     figure_src: images/rotherham-wow-festival-acoustic-stage.jpg
     figure_alt: Stage hire for Rotherham events
 

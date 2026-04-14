@@ -29,13 +29,12 @@ eleventyNavigation:
   key: Inflatable Gantry
   parent: Gantries
 blocks:
-  - type: split
+  - type: split-image
     title: Inflatable Gantry
     content: |-
       Our most popular inflatable gantry for charity runs, fun runs and community events on grassed areas. Every hire includes full setup, takedown and electric inflation fan, plus dedicated event support staff to manage your start and finish line. Custom branding available on nearly any surface, with multiple units ready for events requiring separate structures.
 
       **From £275**
-    figure_type: image
     figure_src: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
     figure_alt: Inflatable Gantry
     button:

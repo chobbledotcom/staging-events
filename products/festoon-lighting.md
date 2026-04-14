@@ -34,13 +34,12 @@ eleventyNavigation:
   key: Festoon Lighting
   parent: Event Infrastructure
 blocks:
-  - type: split
+  - type: split-image
     title: Festoon Lighting
     content: |-
       Transform any venue with warm, atmospheric festoon lighting that works brilliantly both indoors and out. Perfect for festivals, private parties, corporate events and marquee installations, our lighting creates inviting ambiance as evening falls and keeps your event glowing well into the night. Order individually or in multiple runs to cover larger sites.
 
       **From £149**
-    figure_type: image
     figure_src: images/church-event-atmospheric-lighting.jpg
     figure_alt: Festoon Lighting
     button:

@@ -39,13 +39,12 @@ eleventyNavigation:
   key: Event Stage 6x6m
   parent: Staging
 blocks:
-  - type: split
+  - type: split-image
     title: Event Stage 6x6m
     content: |-
       A 6x6m covered truss stage with 36 square metres of performance area, big enough for a five-piece band or up to 15 performers. Full roof structure and weather-resistant side walls mean your event goes ahead regardless of conditions.
 
       **From £1,450** + delivery (2nd day £895, 3rd day £750)
-    figure_type: image
     figure_src: images/fan-party-large-stage.jpg
     figure_alt: Event Stage 6x6m
     button:
@@ -88,12 +87,11 @@ blocks:
       - Supervising staff and audio technicians
       - Custom branded PA panels and banners (in-house design team)
       - Multi-item discounts when booking stage alongside PA, lighting or other equipment
-  - type: split
+  - type: split-html
     reverse: true
     title: Weather Protection and Inclusions
     content: |-
       The full roof structure combined with wind and showerproof side walls creates a sheltered performance environment. This protects performers and equipment in rain or wind.
-    figure_type: html
     figure_html: |-
       ### What's Included
 

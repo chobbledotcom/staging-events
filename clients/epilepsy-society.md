@@ -14,35 +14,32 @@ blocks:
 
       Nationwide event support and production services.
 
-  - type: split
+  - type: split-image
     title: About Epilepsy Society
     reverse: true
     reveal_content: right
     reveal_figure: scale
     content: |
       Epilepsy Society is the UK's leading epilepsy charity, providing expert research, care, information and support for people affected by epilepsy.
-    figure_type: image
     figure_src: images/epilepsy-society-logo.jpg
     figure_alt: Epilepsy Society logo
 
-  - type: split
+  - type: split-image
     title: Nationwide Event Support
     reveal_content: left
     content: |
       We provide nationwide event support for Epilepsy Society, delivering production services and equipment hire for their fundraising and awareness events across the country.
 
       Our comprehensive service includes staging, sound systems, logistics coordination, and experienced event crew to ensure each event runs smoothly.
-    figure_type: image
     figure_src: images/event-stage-setup.jpg
     figure_alt: Outdoor stage at a fundraising event
 
-  - type: split
+  - type: split-image
     title: Equipment for Every Venue
     reverse: true
     reveal_content: right
     content: |
       From parks and high streets to indoor venues, we bring the staging, PA and infrastructure that suits the event. Mobile trailer stages for outdoor fundraisers, modular decks for indoor venues — and our crew handles delivery, setup and breakdown.
-    figure_type: image
     figure_src: images/mobile-trailer-stage-with-barriers.jpg
     figure_alt: Mobile trailer stage with crowd barriers at an event
 

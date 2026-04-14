@@ -27,13 +27,12 @@ eleventyNavigation:
   key: Large Trailer Stage
   parent: Staging
 blocks:
-  - type: split
+  - type: split-image
     title: Large Trailer Stage
     content: |-
       Our largest mobile trailer stage, offering an 8m x 6m performance area with a full covered truss roof structure for outdoor festivals, concerts and major events. We have supplied stages of this size for over 25 years.
 
       **Contact for pricing**
-    figure_type: image
     figure_src: images/festival-tent-chuckle-tent.jpg
     figure_alt: Large Trailer Stage
     button:
@@ -85,13 +84,12 @@ blocks:
       - Generators
       - Accessible ramp on request
       - Custom stage dimensions available
-  - type: split
+  - type: split-html
     title: Weather Protection and Setup
     content: |-
       The covered roof structure shields performers and equipment from rain and wind. Side walls are available for additional protection in challenging weather.
 
       The trailer-mounted design allows for quick deployment on grass or hard surfaces. Our crew handle delivery, setup and collection.
-    figure_type: html
     figure_html: |-
       ### What's Included
 
@@ -128,14 +126,13 @@ blocks:
         label: Type
       - value: Mobile, quick setup
         label: Setup
-  - type: split
+  - type: split-html
     reverse: true
     title: Built for Big Events
     content: |-
       The Large Trailer Stage suits headline acts, festival line-ups and large-scale corporate productions.
 
       Custom dimensions are available on request, and our team can configure the stage to your requirements.
-    figure_type: html
     figure_html: |-
       ### Why Choose This Stage
 

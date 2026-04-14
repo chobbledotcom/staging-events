@@ -34,13 +34,12 @@ eleventyNavigation:
   key: Marquee and Gazebo Hire
   parent: Staging
 blocks:
-  - type: split
+  - type: split-image
     title: Marquee and Gazebo Hire
     content: |-
       Commercial-grade pop-up gazebos and marquees in 3x3m and 3x4.5m sizes, complete with sides and a door for full enclosure. Quality materials retain warmth and provide shelter for garden parties, charity fun days, market stalls and outdoor events on grass or hard standing.
 
       **From £85**
-    figure_type: image
     figure_src: images/stage-with-gazebo-and-barriers.jpg
     figure_alt: Marquee and Gazebo Hire
     button:
@@ -98,11 +97,10 @@ blocks:
       - 2.5m concrete jersey barriers from £12.50
       - Mobile fire point trolley from £45
       - Foot-operated sanitiser station from £29
-  - type: split
+  - type: split-html
     title: Shelter and Comfort
     content: |-
       Each marquee comes with sides and a door for complete enclosure, providing a dry, sheltered space. The quality material retains heat effectively, so the marquees work throughout the year. They can be positioned on grass or hard standing with no special groundwork required.
-    figure_type: html
     figure_html: |-
       ### What's Included
 
@@ -147,12 +145,11 @@ blocks:
         label: Lighting
       - value: Roll-a-Track from £120
         label: Flooring
-  - type: split
+  - type: split-html
     reverse: true
     title: Complete Event Setup
     content: |-
       We supply tables, chairs, lighting and flooring alongside marquee hire, all in one booking.
-    figure_type: html
     figure_html: |-
       ### Popular Add-Ons
 

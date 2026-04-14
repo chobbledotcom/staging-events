@@ -31,7 +31,7 @@ eleventyNavigation:
   key: DJ Trailer Stage
   parent: Staging
 blocks:
-  - type: split
+  - type: split-image
     title: DJ Trailer Stage
     reveal_content: left
     reveal_figure: scale
@@ -39,7 +39,6 @@ blocks:
       A compact covered stage designed specifically for DJs, comperes and solo performers. With 3m x 4m of usable internal space and a Velcro front panel for easy branding, it provides a tidy, covered setup for outdoor events.
 
       **Contact for pricing**
-    figure_type: image
     figure_src: images/memory-walk-stage-setup.jpg
     figure_alt: DJ Trailer Stage
     button:
@@ -70,11 +69,10 @@ blocks:
       - Lighting packages
       - Custom branded front panels
       - Audio technicians
-  - type: split
+  - type: split-html
     title: Covered Performance Space
     content: |-
       The stage canopy provides full overhead cover, protecting performers and equipment from the elements. The 3m x 4m internal space gives performers enough room to set up decks, instruments or presentation equipment while staying sheltered.
-    figure_type: html
     figure_html: |-
       ### What's Included
 
@@ -116,12 +114,11 @@ blocks:
         label: Horizontal Banner
       - value: 2500 x 600mm
         label: Side Banners
-  - type: split
+  - type: split-html
     reverse: true
     title: Easy Branding
     content: |-
       A Velcro panel on the front of the canopy makes it easy to attach custom branding. The panel accepts printed artwork, letting you display your event logo, sponsor details or company branding in minutes. Our team can advise on panel sizing, artwork requirements and production.
-    figure_type: html
     figure_html: |-
       ### Branding Options
 

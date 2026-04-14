@@ -36,13 +36,12 @@ eleventyNavigation:
   key: Modular Deck Staging
   parent: Staging
 blocks:
-  - type: split
+  - type: split-image
     title: Modular Deck Staging
     content: |-
       Build the stage you need with our Intelistage modular deck system. Each 1m x 2m section locks together securely and supports up to 900 kg per square metre, and the system can be configured for anything from catwalks to concert stages.
 
       **Contact for pricing**
-    figure_type: image
     figure_src: images/choir-on-modular-stage.jpg
     figure_alt: Modular Deck Staging
     button:
@@ -111,13 +110,12 @@ blocks:
       - Lighting packages
       - Accessible ramp on request
       - Custom branding panels
-  - type: split
+  - type: split-html
     title: Modular Design and Build Quality
     content: |-
       The Intelistage system pioneered modular stage design. Each 1m x 2m deck section features a carpeted finish and collapsible risers, making transport and setup efficient. Sections lock together securely with an internal mechanism, and the system can be configured in virtually any layout.
 
       Square platforms combine with matching quarter-round risers for a professional, finished appearance.
-    figure_type: html
     figure_html: |-
       ### What's Included
 
@@ -167,14 +165,13 @@ blocks:
         label: Weight Capacity
       - value: Intelistage Portable
         label: System
-  - type: split
+  - type: split-html
     reverse: true
     title: How It Works
     content: |-
       Our Intelistage modular system uses individual 1m x 2m deck sections that lock together with an internal mechanism. Collapsible risers make transport efficient, and the carpeted finish gives a clean look.
 
       Tell us your dimensions and we will configure the right number of sections for your event. We deliver nationwide, including major exhibition centres across the UK.
-    figure_type: html
     figure_html: |-
       ### The Intelistage Process
 

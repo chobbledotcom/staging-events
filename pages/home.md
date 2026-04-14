@@ -35,7 +35,6 @@ blocks:
       text: View All Services
       href: /services/
       variant: secondary
-    figure_type: image
     figure_src: images/singer-on-stage-microphone.jpg
     figure_alt: Live performer on stage at a Staging Events production
 

@@ -41,13 +41,12 @@ eleventyNavigation:
   key: Mobile Trailer Stage 6x8m
   parent: Staging
 blocks:
-  - type: split
+  - type: split-image
     title: Mobile Trailer Stage 6x8m
     content: |-
       A self-contained mobile trailer stage with a 7.9m x 5.9m performance area, accommodating up to a 10-piece band and 25 singers. Sets up in just one hour on grass or hard surfaces with full 50mm tubular trussing for professional rigging.
 
       **From £1,495**
-    figure_type: image
     figure_src: images/mobile-trailer-stage-with-barriers.jpg
     figure_alt: Mobile Trailer Stage 6x8m
     button:
@@ -98,12 +97,11 @@ blocks:
         label: Day 2
       - value: £500
         label: Day 3
-  - type: split
+  - type: split-html
     reverse: true
     title: Truss Frame and Rigging
     content: |-
       Full 50mm tubular trussing provides robust rigging points for speakers, lighting rigs and production equipment. The 3.9m roof clearance provides headroom for lighting setups and keeps the stage floor clear.
-    figure_type: html
     figure_html: |-
       ### Rigging Highlights
 
@@ -111,11 +109,10 @@ blocks:
       - **3.9m roof clearance** for lighting setups
       - **Clear stage floor** for performers and choirs
       - **Suitable for production equipment**
-  - type: split
+  - type: split-html
     title: Branding and Inclusions
     content: |-
       Side PA wings are available from £99 each, bottom banners from £249, top banners from £199, and full back stage banners (6x3m) from £476. Our design team can produce your artwork.
-    figure_type: html
     figure_html: |-
       ### Included as Standard
 

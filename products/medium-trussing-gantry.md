@@ -29,13 +29,12 @@ eleventyNavigation:
   key: Medium Trussing Gantry
   parent: Gantries
 blocks:
-  - type: split
+  - type: split-image
     title: Medium Trussing Gantry
     content: |-
       A professional inflatable gantry system with custom-designed panels measuring 6.58m x 0.29m across the top and 3m x 0.29m side legs. Ideal for races on grass, hard standing, tarmac, artificial turf or mixed surfaces, with full setup, takedown and electric inflation fan included. Free printing is available for multiple bookings, and we store branded versions at no extra cost.
 
       **From £695**
-    figure_type: image
     figure_src: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
     figure_alt: Medium trussing gantry at a charity walk start line
     button:

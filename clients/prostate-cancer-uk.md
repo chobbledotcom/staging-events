@@ -16,35 +16,32 @@ blocks:
 
       Full production and logistics for the UK-wide fundraising walks.
 
-  - type: split
+  - type: split-image
     title: About Prostate Cancer UK
     reverse: true
     reveal_content: right
     reveal_figure: scale
     content: |
       Prostate Cancer UK is the UK's leading men's health charity, funding world-class research, providing information and support, and campaigning for a better deal for men with prostate cancer.
-    figure_type: image
     figure_src: images/prostate-cancer-uk-logo.jpg
     figure_alt: Supporting Prostate Cancer UK logo
 
-  - type: split
+  - type: split-image
     title: Delivering March for Men
     reveal_content: left
     content: |
       We provide full production and logistics support for Prostate Cancer UK's March for Men events, one of the charity's key fundraising initiatives.
 
       Our team delivers end-to-end event production including staging, sound systems, gantry hire for start and finish lines, and comprehensive logistics management across multiple event locations.
-    figure_type: image
     figure_src: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
     figure_alt: Prostate Cancer UK March for Men start gantry
 
-  - type: split
+  - type: split-image
     title: Stage, Sound and LED
     reverse: true
     reveal_content: right
     content: |
       We deliver the full event production package — main stage, PA, LED screen and start/finish gantries — branded throughout for Prostate Cancer UK. Our crew rigs and operates the equipment at each location so the day runs to schedule.
-    figure_type: image
     figure_src: images/prostate-cancer-uk-march-for-men-led-screen.jpg
     figure_alt: LED screen at Prostate Cancer UK March for Men
 

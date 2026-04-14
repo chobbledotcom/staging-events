@@ -21,7 +21,7 @@ blocks:
 
       Complete event hire and production for Doncaster and surrounding areas
 
-  - type: split
+  - type: split-image
     title: Event Equipment Hire in Doncaster
     reveal_content: left
     reveal_figure: scale
@@ -40,7 +40,6 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: secondary
-    figure_type: image
     figure_src: images/mobile-trailer-stage-on-field.jpg
     figure_alt: Event hire in Doncaster
 

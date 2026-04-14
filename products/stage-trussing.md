@@ -33,13 +33,12 @@ eleventyNavigation:
   key: Stage Trussing
   parent: Trussing
 blocks:
-  - type: split
+  - type: split-image
     title: Stage Trussing
     content: |-
       With over 25 years of experience and an extensive inventory of professional Litec trussing, we supply modular rigging systems for events of every scale. From lightweight portable platforms to covered truss stages with full roof structures, our in-house stock of over 600 products means we can provide stages, PA, lighting, generators and rigging from a single order.
 
       **Contact for pricing**
-    figure_type: image
     figure_src: images/stage-trussing-flightcase.jpg
     figure_alt: Stage Trussing
     button:
