@@ -34,7 +34,6 @@ blocks:
       - PA systems and generators
       - Festoon lighting and crowd barriers
       - Trussing and rigging equipment
-    figure_type: image
     figure_src: images/memory-walk-stage-and-van.jpg
     figure_alt: Staging Events delivery van
     button:
@@ -76,7 +75,6 @@ blocks:
       - **East** — Lincoln, Grimsby, Peterborough, Kings Lynn, Norwich, Cambridge
 
       A minimum spend is required to benefit from our delivery services.
-    figure_type: image
     figure_src: images/fan-party-stage-crowd.jpg
     figure_alt: Events across the UK
 
