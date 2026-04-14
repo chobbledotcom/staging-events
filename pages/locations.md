@@ -33,7 +33,6 @@ blocks:
       text: Get a Quote
       href: /contact/
       variant: secondary
-    figure_type: image
     figure_src: images/band-on-trailer-stage.jpg
     figure_alt: Stage hire delivery
 
