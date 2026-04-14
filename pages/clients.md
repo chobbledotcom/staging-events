@@ -23,7 +23,7 @@ blocks:
     reference: brands
 
   # Client list
-  - type: split
+  - type: split-image
     title: Charity Events
     reveal_content: left
     reveal_figure: scale
