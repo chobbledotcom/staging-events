@@ -39,6 +39,10 @@ blocks:
     figure_src: images/singer-on-stage-microphone.jpg
     figure_alt: Live performer on stage at a Staging Events production
 
+  # Valued clients logo marquee
+  - type: snippet
+    reference: brands
+
   # Service blocks
   - type: features
     section_class: alt
@@ -108,10 +112,6 @@ blocks:
       - icon: "mdi:heart-pulse"
         title: Epilepsy Society
         description: Nationwide event support
-
-  # Valued clients logo marquee
-  - type: snippet
-    reference: brands
 
   - type: cta
     title: Ready to Plan Your Event?
