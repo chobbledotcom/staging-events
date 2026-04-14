@@ -19,7 +19,7 @@ blocks:
       For more than 25 years we have been one of the UK's leading staging and event hire companies, providing production and logistics nationwide.
 
   # About split
-  - type: split
+  - type: split-image
     title: Our Background
     reveal_content: left
     reveal_figure: scale

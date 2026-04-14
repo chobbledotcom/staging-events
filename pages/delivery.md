@@ -20,7 +20,7 @@ blocks:
 
       Professional logistics from our 25,000 sq ft Rotherham warehouse
 
-  - type: split
+  - type: split-image
     title: Delivery & Logistics
     reveal_content: left
     reveal_figure: scale
@@ -60,7 +60,7 @@ blocks:
         title: Fully Insured
         description: Complete public liability cover on all deliveries
 
-  - type: split
+  - type: split-image
     title: UK Coverage
     reverse: true
     reveal_content: right

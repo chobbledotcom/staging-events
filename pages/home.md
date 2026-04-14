@@ -20,7 +20,7 @@ blocks:
       Stage hire, PA systems and event infrastructure. Full production and logistics services nationwide from our 25,000 sq ft warehouse.
 
   # Services intro
-  - type: split
+  - type: split-image
     title: Full Production, Equipment Hire and Logistics
     reveal_content: left
     content: |

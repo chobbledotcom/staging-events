@@ -15,7 +15,7 @@ blocks:
 
       Local staging and event hire across Yorkshire and beyond
 
-  - type: split
+  - type: split-image
     title: Based in South Yorkshire, Serving the UK
     reveal_content: left
     content: |
