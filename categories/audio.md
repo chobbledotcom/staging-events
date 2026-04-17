@@ -3,7 +3,7 @@ title: Audio
 header_text: PA Systems
 subtitle: Professional sound systems for events
 description: PA system hire including full rigs with mixers, microphones and monitors. Professional sound solutions for events.
-header_image: images/mobile-trailer-stage-on-field.jpg
+header_image: images/band-performing-night-lights.jpg
 featured: true
 eleventyNavigation:
   key: Audio
@@ -13,7 +13,7 @@ blocks:
   - type: image-background
     container_width: full
     parallax: true
-    image: images/mobile-trailer-stage-on-field.jpg
+    image: images/band-performing-night-lights.jpg
     image_alt: PA Systems
     content: |-
       ## PA Systems

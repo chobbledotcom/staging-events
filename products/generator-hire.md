@@ -2,7 +2,7 @@
 title: Generator Hire
 subtitle: 2.2kva to 20kva generators
 description: Generator hire from 2.2kva to 20kva. Reliable power solutions for events, festivals and outdoor activities UK-wide.
-header_image: images/fan-party-stage-crowd.jpg
+header_image: images/mobile-generator-tower-fleet.jpg
 categories:
   - power
 price: Contact for pricing
@@ -20,6 +20,7 @@ specs:
   - name: Delivery
     value: UK-wide
 gallery:
+  - images/mobile-generator-tower-fleet.jpg
   - images/fan-party-stage-crowd.jpg
   - images/town-centre-stage-rotherham.jpg
 eleventyNavigation:
@@ -32,8 +33,8 @@ blocks:
       Reliable, heavy-duty generators ranging from 2.2kva to 20kva, ideal for powering everything from site tools and portable lighting to full stage rigs and PA systems. They feature efficient diesel engines, engine protection shutdown and fully bunded bases for environmental compliance, with up to 16 hours runtime at 75% load on the larger units.
 
       **Contact for pricing**
-    figure_src: images/fan-party-stage-crowd.jpg
-    figure_alt: Generator Hire
+    figure_src: images/mobile-generator-tower-fleet.jpg
+    figure_alt: Fleet of mobile generator/lighting towers
     button:
       text: Get a Quote
       href: /contact/
@@ -41,6 +42,7 @@ blocks:
   - type: gallery
     section_class: alt
     items:
+      - image: images/mobile-generator-tower-fleet.jpg
       - image: images/fan-party-stage-crowd.jpg
       - image: images/town-centre-stage-rotherham.jpg
   - type: markdown
