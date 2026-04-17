@@ -37,6 +37,7 @@ gallery:
   - images/mobile-trailer-stage-on-field.jpg
   - images/band-on-trailer-stage.jpg
   - images/trailer-stage-with-trussing.jpg
+  - images/trailer-stage-side-view-empty.jpg
 eleventyNavigation:
   key: Mobile Trailer Stage 6x8m
   parent: Staging

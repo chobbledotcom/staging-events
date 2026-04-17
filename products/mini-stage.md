@@ -31,6 +31,7 @@ gallery:
   - images/acoustic-duo-mini-stage-field.jpg
   - images/solo-performer-on-lit-stage.jpg
   - images/singer-on-stage-microphone.jpg
+  - images/mini-trussed-stage-with-band-field.jpg
 eleventyNavigation:
   key: Mini Stage 3x3m
   parent: Staging

@@ -66,6 +66,27 @@ blocks:
     figure_src: images/rehydration-station-alzheimers-society.jpg
     figure_alt: Alzheimer's Society branded rehydration station
 
+  - type: split-image
+    title: Finishers' Medals
+    reverse: true
+    reveal_content: right
+    content: |
+      Every walker who crosses the finish line collects a Memory Walk medal — a small token that closes out the day for thousands of participants at every venue.
+    figure_src: images/alzheimers-memory-walk-medals.jpg
+    figure_alt: Stacks of pink, blue and green Memory Walk medals on a finish-line table
+
+  - type: gallery
+    section_class: alt
+    items:
+      - image: images/alzheimers-memory-walk-london-crowd-selfie.jpg
+      - image: images/alzheimers-memory-walk-london-crowd.jpg
+      - image: images/alzheimers-memory-walk-crowd-front-summer.jpg
+      - image: images/alzheimers-memory-walk-stormont-gazebos.jpg
+      - image: images/alzheimers-memory-walk-finish-gantry-team.jpg
+      - image: images/alzheimers-memory-walk-team-photo-frame.jpg
+      - image: images/alzheimers-memory-walk-team-selfie-park.jpg
+      - image: images/santander-event-staff-facepaint-night.jpg
+
   - type: image-background
     parallax: true
     image: images/alzheimers-memory-walk-memory-tree.jpg

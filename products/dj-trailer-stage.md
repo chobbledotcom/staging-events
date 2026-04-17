@@ -27,6 +27,7 @@ specs:
 gallery:
   - images/memory-walk-stage-setup.jpg
   - images/memory-walk-stage-close-up.jpg
+  - images/pa-speakers-dj-booth-inflatable-tent.jpg
 eleventyNavigation:
   key: DJ Trailer Stage
   parent: Staging
@@ -49,6 +50,7 @@ blocks:
     items:
       - image: images/memory-walk-stage-setup.jpg
       - image: images/memory-walk-stage-close-up.jpg
+      - image: images/pa-speakers-dj-booth-inflatable-tent.jpg
   - type: markdown
     content: |-
       A compact covered stage designed specifically for DJs, comperes and solo performers. With external measurements of 5m x 4m and a usable internal space of 3m x 4m, this mobile unit provides a covered performance platform for outdoor events. The Velcro front panel makes it simple to add your own branding.

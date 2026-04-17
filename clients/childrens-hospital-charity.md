@@ -24,6 +24,14 @@ blocks:
     figure_alt: Sheffield Children's Hospital Charity logo
 
   - type: split-image
+    title: Sheffield Children's Hospital
+    reveal_content: left
+    content: |
+      The charity raises funds for Sheffield Children's Hospital, one of just four specialist children's hospitals in the UK. Every pound raised goes beyond what the NHS can provide, supporting young patients and their families across the North of England.
+    figure_src: images/sheffield-childrens-hospital-building.jpg
+    figure_alt: Sheffield Children's Hospital building exterior
+
+  - type: split-image
     title: Supporting Children's Healthcare
     reveal_content: left
     content: |

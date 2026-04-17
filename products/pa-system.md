@@ -26,6 +26,9 @@ gallery:
   - images/mobile-trailer-stage-on-field.jpg
   - images/performers-with-pa-speakers.jpg
   - images/pa-speakers-audience-view.jpg
+  - images/band-performing-night-lights.jpg
+  - images/pa-speakers-outdoor-stage.jpg
+  - images/pa-speakers-memory-walk-stage.jpg
 eleventyNavigation:
   key: PA System
   parent: Audio
@@ -47,6 +50,9 @@ blocks:
       - image: images/mobile-trailer-stage-on-field.jpg
       - image: images/performers-with-pa-speakers.jpg
       - image: images/pa-speakers-audience-view.jpg
+      - image: images/band-performing-night-lights.jpg
+      - image: images/pa-speakers-outdoor-stage.jpg
+      - image: images/pa-speakers-memory-walk-stage.jpg
   - type: markdown
     content: |-
       We have a massive range of PA which we can bespoke to your needs, covering events from corporate presentations to outdoor festivals. We can scale the system to suit your venue and audience.
