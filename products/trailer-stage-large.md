@@ -2,7 +2,7 @@
 title: Large Trailer Stage
 subtitle: 8m x 6m mobile stage
 description: Large trailer stage hire with 8m x 6m deck size. Mobile staging solution for outdoor events, festivals and concerts UK-wide.
-header_image: images/festival-tent-chuckle-tent.jpg
+header_image: images/band-on-trailer-stage.jpg
 categories:
   - staging
 price: Contact for pricing
@@ -20,7 +20,7 @@ specs:
   - name: Setup
     value: Mobile, quick setup
 gallery:
-  - images/festival-tent-chuckle-tent.jpg
+  - images/band-on-trailer-stage.jpg
   - images/band-on-stage-rotherham-festival.jpg
   - images/dancers-on-stage-festival.jpg
 eleventyNavigation:
@@ -33,7 +33,7 @@ blocks:
       Our largest mobile trailer stage, offering an 8m x 6m performance area with a full covered truss roof structure for outdoor festivals, concerts and major events. We have supplied stages of this size for over 25 years.
 
       **Contact for pricing**
-    figure_src: images/festival-tent-chuckle-tent.jpg
+    figure_src: images/band-on-trailer-stage.jpg
     figure_alt: Large Trailer Stage
     button:
       text: Get a Quote
@@ -42,7 +42,7 @@ blocks:
   - type: gallery
     section_class: alt
     items:
-      - image: images/festival-tent-chuckle-tent.jpg
+      - image: images/band-on-trailer-stage.jpg
       - image: images/band-on-stage-rotherham-festival.jpg
       - image: images/dancers-on-stage-festival.jpg
   - type: markdown
