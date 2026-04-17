@@ -35,6 +35,7 @@ gallery:
   - images/band-on-trussed-stage-night.jpg
   - images/band-trussed-stage-spotlit-side-view.jpg
   - images/cathedral-concert-purple-lighting.jpg
+  - images/large-trussed-stage-black-backdrop-field.jpg
 eleventyNavigation:
   key: Event Stage 6x6m
   parent: Staging

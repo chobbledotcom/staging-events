@@ -29,6 +29,7 @@ specs:
 gallery:
   - images/stage-trussing-flightcase.jpg
   - images/band-on-trussed-stage-night.jpg
+  - images/stage-black-acoustic-curtain-rear.jpg
 eleventyNavigation:
   key: Stage Trussing
   parent: Trussing
@@ -50,6 +51,7 @@ blocks:
     items:
       - image: images/stage-trussing-flightcase.jpg
       - image: images/band-on-trussed-stage-night.jpg
+      - image: images/stage-black-acoustic-curtain-rear.jpg
   - type: markdown
     content: |-
       With over 25 years supplying stages and rigging for events across the UK, we carry a large inventory of professional Litec trussing. All equipment is well maintained, appropriately packaged for protection and packaged for efficient transport.

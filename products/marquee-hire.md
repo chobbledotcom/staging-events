@@ -30,6 +30,8 @@ gallery:
   - images/stage-with-gazebo-and-barriers.jpg
   - images/festival-tent-chuckle-tent.jpg
   - images/rehydration-station-gazebo.jpg
+  - images/blue-inflatable-event-canopy.jpg
+  - images/white-canopy-stage-hillside.jpg
 eleventyNavigation:
   key: Marquee and Gazebo Hire
   parent: Staging

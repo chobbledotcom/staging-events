@@ -3,8 +3,8 @@
 Counts references to each file in `images/` across the repo (excluding `images/`, `.git/`, `_site/`, `.image-cache/`, `chobble-template/`, `node_modules/`, binary files, and this file itself).
 
 - Total images: **95**
-- Total references: **245**
-- Unused: **17**
+- Total references: **262**
+- Unused: **6**
 
 ## Summary (most used first)
 
@@ -50,9 +50,15 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 | `large-trussing.png` | 2 |
 | `medium-trussing.png` | 2 |
 | `memory-walk-stage-close-up.jpg` | 2 |
+| `modular-stage-platform-shopping-centre.jpg` | 2 |
 | `modular-stage-school-sports-hall.jpg` | 2 |
 | `pa-speakers-audience-view.jpg` | 2 |
+| `pa-speakers-dj-booth-inflatable-tent.jpg` | 2 |
+| `pa-speakers-memory-walk-stage.jpg` | 2 |
+| `pa-speakers-outdoor-stage.jpg` | 2 |
 | `prostate-cancer-uk-march-for-men-stage.jpg` | 2 |
+| `stage-black-acoustic-curtain-rear.jpg` | 2 |
+| `trailer-stage-aerial-with-marquee.jpg` | 2 |
 | `trailer-stage-town-centre-market.jpg` | 2 |
 | `x-large-trussing-gantry-diagram.png` | 2 |
 | `alzheimers-memory-walk-crowd-front-summer.jpg` | 1 |
@@ -68,6 +74,7 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 | `alzheimers-society-logo.svg` | 1 |
 | `band-night-stage-purple-haze.jpg` | 1 |
 | `bhangra-dancers-on-stage.jpg` | 1 |
+| `blue-inflatable-event-canopy.jpg` | 1 |
 | `blue-lit-dance-performance.jpg` | 1 |
 | `childrens-hospital-charity-logo.jpg` | 1 |
 | `childrens-hospital-charity-logo.svg` | 1 |
@@ -77,8 +84,10 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 | `epilepsy-society-logo.svg` | 1 |
 | `fire-breather-on-stage.jpg` | 1 |
 | `indoor-venue-stage-setup.jpg` | 1 |
+| `large-trussed-stage-black-backdrop-field.jpg` | 1 |
 | `march-for-men-crowd-branded-gazebos.jpg` | 1 |
 | `march-for-men-route-signpost.jpg` | 1 |
+| `mini-trussed-stage-with-band-field.jpg` | 1 |
 | `pancreatic-cancer-uk-logo.svg` | 1 |
 | `prostate-cancer-uk-branded-stage-pa.jpg` | 1 |
 | `prostate-cancer-uk-logo.jpg` | 1 |
@@ -88,23 +97,14 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 | `santander-event-staff-facepaint-night.jpg` | 1 |
 | `sheffield-childrens-hospital-building.jpg` | 1 |
 | `staging-events-team-alzheimers-memory-walk.jpg` | 1 |
+| `trailer-stage-side-view-empty.jpg` | 1 |
+| `white-canopy-stage-hillside.jpg` | 1 |
 | `alzheimers-memory-walk-event-staff-selfie.jpg` | 0 |
-| `blue-inflatable-event-canopy.jpg` | 0 |
 | `jd-gyms-event-crowd-start.jpg` | 0 |
-| `large-trussed-stage-black-backdrop-field.jpg` | 0 |
-| `mini-trussed-stage-with-band-field.jpg` | 0 |
-| `modular-stage-platform-shopping-centre.jpg` | 0 |
-| `pa-speakers-dj-booth-inflatable-tent.jpg` | 0 |
-| `pa-speakers-memory-walk-stage.jpg` | 0 |
-| `pa-speakers-outdoor-stage.jpg` | 0 |
 | `pancreatic-cancer-uk-logo.jpg` | 0 |
 | `photo-booth-say-cheese.jpg` | 0 |
-| `stage-black-acoustic-curtain-rear.jpg` | 0 |
-| `trailer-stage-aerial-with-marquee.jpg` | 0 |
-| `trailer-stage-side-view-empty.jpg` | 0 |
 | `video-thumbnail.jpg` | 0 |
 | `web-logo-staging-events.png` | 0 |
-| `white-canopy-stage-hillside.jpg` | 0 |
 
 ## Detail
 
@@ -339,6 +339,10 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 
 - `products/dj-trailer-stage.md` ×2
 
+### `modular-stage-platform-shopping-centre.jpg` — 2 uses
+
+- `products/modular-deck-staging.md` ×2
+
 ### `modular-stage-school-sports-hall.jpg` — 2 uses
 
 - `pages/services.md` ×1
@@ -348,9 +352,29 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 
 - `products/pa-system.md` ×2
 
+### `pa-speakers-dj-booth-inflatable-tent.jpg` — 2 uses
+
+- `products/dj-trailer-stage.md` ×2
+
+### `pa-speakers-memory-walk-stage.jpg` — 2 uses
+
+- `products/pa-system.md` ×2
+
+### `pa-speakers-outdoor-stage.jpg` — 2 uses
+
+- `products/pa-system.md` ×2
+
 ### `prostate-cancer-uk-march-for-men-stage.jpg` — 2 uses
 
 - `clients/prostate-cancer-uk.md` ×2
+
+### `stage-black-acoustic-curtain-rear.jpg` — 2 uses
+
+- `products/stage-trussing.md` ×2
+
+### `trailer-stage-aerial-with-marquee.jpg` — 2 uses
+
+- `products/trailer-stage-large.md` ×2
 
 ### `trailer-stage-town-centre-market.jpg` — 2 uses
 
@@ -412,6 +436,10 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 
 - `pages/clients.md` ×1
 
+### `blue-inflatable-event-canopy.jpg` — 1 use
+
+- `products/marquee-hire.md` ×1
+
 ### `blue-lit-dance-performance.jpg` — 1 use
 
 - `pages/about.md` ×1
@@ -448,6 +476,10 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 
 - `products/lectern-hire.md` ×1
 
+### `large-trussed-stage-black-backdrop-field.jpg` — 1 use
+
+- `products/event-stage-6x6.md` ×1
+
 ### `march-for-men-crowd-branded-gazebos.jpg` — 1 use
 
 - `clients/prostate-cancer-uk.md` ×1
@@ -455,6 +487,10 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 ### `march-for-men-route-signpost.jpg` — 1 use
 
 - `clients/prostate-cancer-uk.md` ×1
+
+### `mini-trussed-stage-with-band-field.jpg` — 1 use
+
+- `products/mini-stage.md` ×1
 
 ### `pancreatic-cancer-uk-logo.svg` — 1 use
 
@@ -492,39 +528,19 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 
 - `clients/alzheimers-society.md` ×1
 
+### `trailer-stage-side-view-empty.jpg` — 1 use
+
+- `products/mobile-trailer-stage-6x8.md` ×1
+
+### `white-canopy-stage-hillside.jpg` — 1 use
+
+- `products/marquee-hire.md` ×1
+
 ### `alzheimers-memory-walk-event-staff-selfie.jpg` — 0 uses
 
 _Not referenced anywhere._
 
-### `blue-inflatable-event-canopy.jpg` — 0 uses
-
-_Not referenced anywhere._
-
 ### `jd-gyms-event-crowd-start.jpg` — 0 uses
-
-_Not referenced anywhere._
-
-### `large-trussed-stage-black-backdrop-field.jpg` — 0 uses
-
-_Not referenced anywhere._
-
-### `mini-trussed-stage-with-band-field.jpg` — 0 uses
-
-_Not referenced anywhere._
-
-### `modular-stage-platform-shopping-centre.jpg` — 0 uses
-
-_Not referenced anywhere._
-
-### `pa-speakers-dj-booth-inflatable-tent.jpg` — 0 uses
-
-_Not referenced anywhere._
-
-### `pa-speakers-memory-walk-stage.jpg` — 0 uses
-
-_Not referenced anywhere._
-
-### `pa-speakers-outdoor-stage.jpg` — 0 uses
 
 _Not referenced anywhere._
 
@@ -536,26 +552,10 @@ _Not referenced anywhere._
 
 _Not referenced anywhere._
 
-### `stage-black-acoustic-curtain-rear.jpg` — 0 uses
-
-_Not referenced anywhere._
-
-### `trailer-stage-aerial-with-marquee.jpg` — 0 uses
-
-_Not referenced anywhere._
-
-### `trailer-stage-side-view-empty.jpg` — 0 uses
-
-_Not referenced anywhere._
-
 ### `video-thumbnail.jpg` — 0 uses
 
 _Not referenced anywhere._
 
 ### `web-logo-staging-events.png` — 0 uses
-
-_Not referenced anywhere._
-
-### `white-canopy-stage-hillside.jpg` — 0 uses
 
 _Not referenced anywhere._

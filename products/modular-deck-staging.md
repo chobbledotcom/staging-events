@@ -32,6 +32,7 @@ gallery:
   - images/memory-walk-stage-and-van.jpg
   - images/prostate-cancer-uk-march-for-men-start-gantry.jpg
   - images/prostate-cancer-uk-march-for-men-led-screen.jpg
+  - images/modular-stage-platform-shopping-centre.jpg
 eleventyNavigation:
   key: Modular Deck Staging
   parent: Staging
@@ -55,6 +56,7 @@ blocks:
       - image: images/memory-walk-stage-and-van.jpg
       - image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
       - image: images/prostate-cancer-uk-march-for-men-led-screen.jpg
+      - image: images/modular-stage-platform-shopping-centre.jpg
   - type: markdown
     content: |-
       Build exactly the stage you need with our Intelistage modular deck system. Each 1m x 2m carpeted deck section locks together using an internal locking mechanism, creating a stable platform that supports up to 185 lbs per square foot (900 kg per square metre). The system can be configured for anything from catwalks to full concert stages. We deliver nationwide, including major exhibition centres such as NEC Birmingham, Manchester Central, Telford Exhibition Centre and ExCel London.
