@@ -87,7 +87,6 @@ blocks:
         title: Corporate events and product launches
         description: ""
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

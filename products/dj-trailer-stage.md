@@ -46,7 +46,6 @@ blocks:
       href: /contact/
       variant: primary
   - type: gallery
-    section_class: alt
     items:
       - image: images/memory-walk-stage-setup.jpg
       - image: images/memory-walk-stage-close-up.jpg
@@ -83,7 +82,6 @@ blocks:
       - Risk assessments and method statements
       - £5 million public liability insurance
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

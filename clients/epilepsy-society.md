@@ -5,7 +5,6 @@ description: "Nationwide event support and production services for Epilepsy Soci
 header_image: images/event-stage-setup.jpg
 blocks:
   - type: image-background
-    container_width: full
     parallax: true
     image: images/mobile-trailer-stage-on-field.jpg
     image_alt: Mobile trailer stage set up on a field for a fundraising event
@@ -44,7 +43,6 @@ blocks:
     figure_alt: Mobile trailer stage with crowd barriers at an event
 
   - type: icon-links
-    section_class: alt
     intro: |
       ## What We Provide
     items:

@@ -9,7 +9,6 @@ eleventyNavigation:
 blocks:
   # Hero
   - type: image-background
-    container_width: full
     parallax: true
     image: images/alzheimers-memory-walk-stage-santander.jpg
     image_alt: Charity event with inflatable gantry
@@ -39,13 +38,12 @@ blocks:
   # Client cards
   - type: items
     collection: clients
-    section_class: alt
     intro: |
       ## Who We Work With
 
   # Notable stats
   - type: stats
-    section_class: dark
+    dark: true
     items:
       - value: "110,000"
         label: Event Participants
@@ -58,7 +56,6 @@ blocks:
 
   # Event showcase
   - type: image-background
-    container_width: full
     parallax: true
     image: images/bhangra-dancers-on-stage.jpg
     image_alt: Bhangra dancers performing on outdoor stage at a festival

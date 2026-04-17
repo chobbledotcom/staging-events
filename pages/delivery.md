@@ -11,7 +11,6 @@ eleventyNavigation:
   order: 4
 blocks:
   - type: image-background
-    container_width: full
     parallax: true
     image: images/fan-party-stage-crowd.jpg
     image_alt: Event equipment delivery
@@ -42,7 +41,7 @@ blocks:
       variant: secondary
 
   - type: features
-    section_class: dark
+    dark: true
     header_intro: |
       ## Our Services
     items:
@@ -79,7 +78,6 @@ blocks:
     figure_alt: Events across the UK
 
   - type: stats
-    section_class: alt
     items:
       - value: "25,000"
         label: Sq Ft Warehouse

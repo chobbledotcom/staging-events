@@ -49,7 +49,6 @@ blocks:
       href: /contact/
       variant: primary
   - type: gallery
-    section_class: alt
     items:
       - image: images/choir-on-modular-stage.jpg
       - image: images/memory-walk-stage-and-van.jpg
@@ -80,7 +79,6 @@ blocks:
         title: Indoor concerts and live performances
         description: ""
   - type: features
-    section_class: alt
     header_intro: "## Available Heights"
     items:
       - icon: mdi:check-circle
@@ -127,7 +125,6 @@ blocks:
       - £5 million public liability insurance
       - Matching stage steps
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

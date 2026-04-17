@@ -1,7 +1,6 @@
 ---
 blocks:
   - type: stats
-    section_class: alt
     items:
       - value: "100,000+"
         label: Plastic Bottles Prevented

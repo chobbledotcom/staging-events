@@ -5,7 +5,6 @@ description: "Event production and logistics support for CoppaFeel! breast cance
 header_image: images/dancers-on-stage-festival.jpg
 blocks:
   - type: image-background
-    container_width: full
     parallax: true
     image: images/dancers-on-stage-festival.jpg
     image_alt: Dancers celebrating on an outdoor festival stage
@@ -44,7 +43,6 @@ blocks:
     figure_alt: Singer performing on stage at a fundraising music event
 
   - type: icon-links
-    section_class: alt
     intro: |
       ## What We Provide
     items:

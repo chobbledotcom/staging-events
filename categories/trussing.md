@@ -13,7 +13,6 @@ eleventyNavigation:
   order: 5
 blocks:
   - type: image-background
-    container_width: full
     parallax: true
     image: images/stage-trussing-flightcase.jpg
     image_alt: Stage Trussing

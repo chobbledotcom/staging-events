@@ -12,7 +12,6 @@ eleventyNavigation:
   parent: Locations
 blocks:
   - type: image-background
-    container_width: full
     parallax: true
     image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
     image_alt: Stage hire in Leeds
@@ -68,7 +67,6 @@ blocks:
         description: Trusted by major charities for mass participation events
 
   - type: stats
-    section_class: alt
     items:
       - value: "25+"
         label: Years Experience

@@ -12,7 +12,6 @@ eleventyNavigation:
   parent: Locations
 blocks:
   - type: image-background
-    container_width: full
     parallax: true
     image: images/cathedral-concert-purple-lighting.jpg
     image_alt: Stage hire in Sheffield
@@ -67,7 +66,6 @@ blocks:
         description: Complete public liability cover for your peace of mind
 
   - type: stats
-    section_class: alt
     items:
       - value: "25+"
         label: Years Experience

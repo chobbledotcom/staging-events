@@ -40,7 +40,6 @@ blocks:
       href: /contact/
       variant: primary
   - type: gallery
-    section_class: alt
     items:
       - image: images/band-on-trailer-stage.jpg
       - image: images/band-on-stage-rotherham-festival.jpg
@@ -100,7 +99,6 @@ blocks:
       - Risk assessments and method statements
       - £5 million public liability insurance
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

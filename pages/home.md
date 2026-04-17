@@ -9,7 +9,6 @@ eleventyNavigation:
 blocks:
   # Video hero
   - type: video-background
-    container_width: full
     video_id: w93-QFEeGsk
     video_title: Staging Events production
     thumbnail_url: /assets/homepage-video-thumb.jpg
@@ -44,7 +43,6 @@ blocks:
 
   # Service blocks
   - type: features
-    section_class: alt
     header_intro: |
       ## What We Do
     items:
@@ -80,7 +78,6 @@ blocks:
 
   # Stats
   - type: stats
-    section_class: alt
     items:
       - value: "25+"
         label: Years Experience
@@ -93,7 +90,7 @@ blocks:
 
   # Notable events
   - type: features
-    section_class: dark
+    dark: true
     header_intro: |
       ## Notable Events
 

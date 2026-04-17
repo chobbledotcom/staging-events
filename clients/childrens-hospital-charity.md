@@ -5,7 +5,6 @@ description: "Event hire and production services for Sheffield Children's Hospit
 header_image: images/festival-tent-chuckle-tent.jpg
 blocks:
   - type: image-background
-    container_width: full
     parallax: true
     image: images/festival-tent-chuckle-tent.jpg
     image_alt: Families and children at a charity fundraising event tent
@@ -44,7 +43,6 @@ blocks:
     figure_alt: Outdoor stage with gazebo and crowd barriers at a fundraising event
 
   - type: icon-links
-    section_class: alt
     intro: |
       ## What We Provide
     items:

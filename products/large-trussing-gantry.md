@@ -43,7 +43,6 @@ blocks:
       href: /contact/
       variant: primary
   - type: gallery
-    section_class: alt
     items:
       - image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
         caption: At the start line of a March for Men event
@@ -67,7 +66,6 @@ blocks:
 
       This gantry is part of our wider event staging offering. We supply experienced event support staff to manage your start and finish line, coordinate crowd control, handle event logistics and arrange bottled water distribution for mass participation events. Generators are also available on request. We work closely with organisers to build a complete support package, from staging infrastructure to on-the-ground staffing.
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

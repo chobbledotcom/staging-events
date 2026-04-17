@@ -76,7 +76,6 @@ blocks:
         title: £5 million public liability insurance
         description: ""
   - type: features
-    section_class: alt
     header_intro: "## Ideal For"
     items:
       - icon: mdi:check-circle
@@ -98,7 +97,6 @@ blocks:
         title: Any event requiring accessible staging
         description: ""
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

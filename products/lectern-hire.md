@@ -67,7 +67,6 @@ blocks:
       - Custom branding panels
       - Lighting packages
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

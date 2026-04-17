@@ -11,7 +11,6 @@ eleventyNavigation:
   order: 3
 blocks:
   - type: image-background
-    container_width: full
     parallax: true
     image: images/mobile-trailer-stage-on-field.jpg
     image_alt: PA Systems

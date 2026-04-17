@@ -7,7 +7,6 @@ header_image: images/rotherham-wow-festival-acoustic-stage.jpg
 header_text: Our Locations
 blocks:
   - type: image-background
-    container_width: full
     image: images/rotherham-wow-festival-acoustic-stage.jpg
     image_alt: Summer festival stage and audience in Rotherham
     content: |-

@@ -39,7 +39,6 @@ blocks:
       href: /contact/
       variant: primary
   - type: gallery
-    section_class: alt
     items:
       - image: images/fan-party-stage-crowd.jpg
       - image: images/town-centre-stage-rotherham.jpg
@@ -74,7 +73,6 @@ blocks:
         title: 20kva
         description: Large stages, festivals and multi-zone events
   - type: features
-    section_class: alt
     header_intro: "## Ideal For"
     items:
       - icon: mdi:check-circle
@@ -99,7 +97,6 @@ blocks:
     content: |-
       All generators are PAT tested, regularly serviced and delivered with full fuel tanks. UK-wide delivery available.
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

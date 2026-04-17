@@ -42,7 +42,6 @@ blocks:
       href: /contact/
       variant: primary
   - type: gallery
-    section_class: alt
     items:
       - image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
   - type: markdown
@@ -61,7 +60,6 @@ blocks:
 
       Our gantry hire is part of our staging and event services. We coordinate crowd control management, bottled water distribution for participants, and generator provision on request. We can put together a support package that covers what your event needs.
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle
