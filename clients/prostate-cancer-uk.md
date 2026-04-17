@@ -45,6 +45,13 @@ blocks:
     figure_src: images/prostate-cancer-uk-march-for-men-led-screen.jpg
     figure_alt: LED screen at Prostate Cancer UK March for Men
 
+  - type: gallery
+    section_class: alt
+    items:
+      - image: images/prostate-cancer-uk-branded-stage-pa.jpg
+      - image: images/march-for-men-crowd-branded-gazebos.jpg
+      - image: images/march-for-men-route-signpost.jpg
+
   - type: icon-links
     section_class: alt
     intro: |

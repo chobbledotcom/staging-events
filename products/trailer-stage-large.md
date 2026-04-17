@@ -23,6 +23,7 @@ gallery:
   - images/festival-tent-chuckle-tent.jpg
   - images/band-on-stage-rotherham-festival.jpg
   - images/dancers-on-stage-festival.jpg
+  - images/trailer-stage-town-centre-market.jpg
 eleventyNavigation:
   key: Large Trailer Stage
   parent: Staging
@@ -45,6 +46,7 @@ blocks:
       - image: images/festival-tent-chuckle-tent.jpg
       - image: images/band-on-stage-rotherham-festival.jpg
       - image: images/dancers-on-stage-festival.jpg
+      - image: images/trailer-stage-town-centre-market.jpg
   - type: markdown
     content: |-
       Our largest mobile trailer stage delivers an 8m x 6m performance area, used for festivals, outdoor concerts and major public events. The full covered truss roof structure provides weather protection for performers and equipment, while the trailer-mounted design means quick deployment on site.

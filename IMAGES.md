@@ -2,9 +2,9 @@
 
 Counts references to each file in `images/` across the repo (excluding `images/`, `.git/`, `_site/`, `.image-cache/`, `chobble-template/`, `node_modules/`, binary files, and this file itself).
 
-- Total images: **81**
-- Total references: **226**
-- Unused: **19**
+- Total images: **95**
+- Total references: **245**
+- Unused: **17**
 
 ## Summary (most used first)
 
@@ -13,22 +13,24 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 | `prostate-cancer-uk-march-for-men-start-gantry.jpg` | 26 |
 | `choir-on-modular-stage.jpg` | 10 |
 | `event-stage-setup.jpg` | 10 |
-| `fan-party-stage-crowd.jpg` | 10 |
 | `memory-walk-stage-and-pa.jpg` | 9 |
 | `town-centre-stage-rotherham.jpg` | 9 |
-| `mobile-trailer-stage-on-field.jpg` | 8 |
+| `fan-party-stage-crowd.jpg` | 8 |
 | `mobile-trailer-stage-with-barriers.jpg` | 8 |
 | `festival-tent-chuckle-tent.jpg` | 7 |
 | `cathedral-concert-purple-lighting.jpg` | 6 |
+| `mobile-trailer-stage-on-field.jpg` | 6 |
 | `stage-trussing-flightcase.jpg` | 6 |
 | `stage-with-gazebo-and-barriers.jpg` | 6 |
 | `band-on-stage-rotherham-festival.jpg` | 5 |
 | `acoustic-duo-mini-stage-field.jpg` | 4 |
 | `band-on-stage-green-lights.jpg` | 4 |
+| `band-performing-night-lights.jpg` | 4 |
 | `dancers-on-stage-festival.jpg` | 4 |
 | `memory-walk-crowd-with-barriers.jpg` | 4 |
 | `memory-walk-stage-and-van.jpg` | 4 |
 | `memory-walk-stage-setup.jpg` | 4 |
+| `mobile-generator-tower-fleet.jpg` | 4 |
 | `prostate-cancer-uk-march-for-men-led-screen.jpg` | 4 |
 | `trailer-stage-with-trussing.jpg` | 4 |
 | `alzheimers-memory-walk-stage-santander.jpg` | 3 |
@@ -51,8 +53,17 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 | `modular-stage-school-sports-hall.jpg` | 2 |
 | `pa-speakers-audience-view.jpg` | 2 |
 | `prostate-cancer-uk-march-for-men-stage.jpg` | 2 |
+| `trailer-stage-town-centre-market.jpg` | 2 |
 | `x-large-trussing-gantry-diagram.png` | 2 |
+| `alzheimers-memory-walk-crowd-front-summer.jpg` | 1 |
+| `alzheimers-memory-walk-finish-gantry-team.jpg` | 1 |
+| `alzheimers-memory-walk-london-crowd-selfie.jpg` | 1 |
+| `alzheimers-memory-walk-london-crowd.jpg` | 1 |
+| `alzheimers-memory-walk-medals.jpg` | 1 |
 | `alzheimers-memory-walk-memory-tree.jpg` | 1 |
+| `alzheimers-memory-walk-stormont-gazebos.jpg` | 1 |
+| `alzheimers-memory-walk-team-photo-frame.jpg` | 1 |
+| `alzheimers-memory-walk-team-selfie-park.jpg` | 1 |
 | `alzheimers-society-logo.jpg` | 1 |
 | `alzheimers-society-logo.svg` | 1 |
 | `band-night-stage-purple-haze.jpg` | 1 |
@@ -66,19 +77,22 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 | `epilepsy-society-logo.svg` | 1 |
 | `fire-breather-on-stage.jpg` | 1 |
 | `indoor-venue-stage-setup.jpg` | 1 |
+| `march-for-men-crowd-branded-gazebos.jpg` | 1 |
+| `march-for-men-route-signpost.jpg` | 1 |
 | `pancreatic-cancer-uk-logo.svg` | 1 |
+| `prostate-cancer-uk-branded-stage-pa.jpg` | 1 |
 | `prostate-cancer-uk-logo.jpg` | 1 |
 | `prostate-cancer-uk-logo.svg` | 1 |
 | `rehydration-station-alzheimers-society.jpg` | 1 |
 | `rehydration-station-gazebo.jpg` | 1 |
+| `santander-event-staff-facepaint-night.jpg` | 1 |
+| `sheffield-childrens-hospital-building.jpg` | 1 |
 | `staging-events-team-alzheimers-memory-walk.jpg` | 1 |
 | `alzheimers-memory-walk-event-staff-selfie.jpg` | 0 |
-| `alzheimers-memory-walk-medals.jpg` | 0 |
-| `band-performing-night-lights.jpg` | 0 |
 | `blue-inflatable-event-canopy.jpg` | 0 |
+| `jd-gyms-event-crowd-start.jpg` | 0 |
 | `large-trussed-stage-black-backdrop-field.jpg` | 0 |
 | `mini-trussed-stage-with-band-field.jpg` | 0 |
-| `mobile-generator-tower-fleet.jpg` | 0 |
 | `modular-stage-platform-shopping-centre.jpg` | 0 |
 | `pa-speakers-dj-booth-inflatable-tent.jpg` | 0 |
 | `pa-speakers-memory-walk-stage.jpg` | 0 |
@@ -121,13 +135,6 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 - `locations/sheffield.md` ×1
 - `products/battery-generator.md` ×1
 
-### `fan-party-stage-crowd.jpg` — 10 uses
-
-- `products/generator-hire.md` ×4
-- `pages/delivery.md` ×3
-- `categories/power.md` ×2
-- `products/electrical-distribution.md` ×1
-
 ### `memory-walk-stage-and-pa.jpg` — 9 uses
 
 - `products/large-trussing-gantry.md` ×2
@@ -146,14 +153,12 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 - `pages/about.md` ×1
 - `products/electrical-distribution.md` ×1
 
-### `mobile-trailer-stage-on-field.jpg` — 8 uses
+### `fan-party-stage-crowd.jpg` — 8 uses
 
-- `categories/audio.md` ×2
-- `products/pa-system.md` ×2
-- `clients/epilepsy-society.md` ×1
-- `locations/doncaster.md` ×1
-- `products/mobile-trailer-stage-6x8.md` ×1
-- `products/mobile-trailer-stage-7x6.md` ×1
+- `pages/delivery.md` ×3
+- `categories/power.md` ×2
+- `products/generator-hire.md` ×2
+- `products/electrical-distribution.md` ×1
 
 ### `mobile-trailer-stage-with-barriers.jpg` — 8 uses
 
@@ -177,6 +182,14 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 - `products/event-stage-6x6.md` ×1
 - `products/festoon-lighting.md` ×1
 - `products/lectern-hire.md` ×1
+
+### `mobile-trailer-stage-on-field.jpg` — 6 uses
+
+- `products/pa-system.md` ×2
+- `clients/epilepsy-society.md` ×1
+- `locations/doncaster.md` ×1
+- `products/mobile-trailer-stage-6x8.md` ×1
+- `products/mobile-trailer-stage-7x6.md` ×1
 
 ### `stage-trussing-flightcase.jpg` — 6 uses
 
@@ -206,6 +219,11 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 
 - `products/battery-generator.md` ×4
 
+### `band-performing-night-lights.jpg` — 4 uses
+
+- `categories/audio.md` ×2
+- `products/pa-system.md` ×2
+
 ### `dancers-on-stage-festival.jpg` — 4 uses
 
 - `clients/coppafeel.md` ×2
@@ -225,6 +243,10 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 ### `memory-walk-stage-setup.jpg` — 4 uses
 
 - `products/dj-trailer-stage.md` ×4
+
+### `mobile-generator-tower-fleet.jpg` — 4 uses
+
+- `products/generator-hire.md` ×4
 
 ### `prostate-cancer-uk-march-for-men-led-screen.jpg` — 4 uses
 
@@ -330,11 +352,47 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 
 - `clients/prostate-cancer-uk.md` ×2
 
+### `trailer-stage-town-centre-market.jpg` — 2 uses
+
+- `products/trailer-stage-large.md` ×2
+
 ### `x-large-trussing-gantry-diagram.png` — 2 uses
 
 - `products/x-large-trussing-gantry.md` ×2
 
+### `alzheimers-memory-walk-crowd-front-summer.jpg` — 1 use
+
+- `clients/alzheimers-society.md` ×1
+
+### `alzheimers-memory-walk-finish-gantry-team.jpg` — 1 use
+
+- `clients/alzheimers-society.md` ×1
+
+### `alzheimers-memory-walk-london-crowd-selfie.jpg` — 1 use
+
+- `clients/alzheimers-society.md` ×1
+
+### `alzheimers-memory-walk-london-crowd.jpg` — 1 use
+
+- `clients/alzheimers-society.md` ×1
+
+### `alzheimers-memory-walk-medals.jpg` — 1 use
+
+- `clients/alzheimers-society.md` ×1
+
 ### `alzheimers-memory-walk-memory-tree.jpg` — 1 use
+
+- `clients/alzheimers-society.md` ×1
+
+### `alzheimers-memory-walk-stormont-gazebos.jpg` — 1 use
+
+- `clients/alzheimers-society.md` ×1
+
+### `alzheimers-memory-walk-team-photo-frame.jpg` — 1 use
+
+- `clients/alzheimers-society.md` ×1
+
+### `alzheimers-memory-walk-team-selfie-park.jpg` — 1 use
 
 - `clients/alzheimers-society.md` ×1
 
@@ -390,9 +448,21 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 
 - `products/lectern-hire.md` ×1
 
+### `march-for-men-crowd-branded-gazebos.jpg` — 1 use
+
+- `clients/prostate-cancer-uk.md` ×1
+
+### `march-for-men-route-signpost.jpg` — 1 use
+
+- `clients/prostate-cancer-uk.md` ×1
+
 ### `pancreatic-cancer-uk-logo.svg` — 1 use
 
 - `snippets/brands.md` ×1
+
+### `prostate-cancer-uk-branded-stage-pa.jpg` — 1 use
+
+- `clients/prostate-cancer-uk.md` ×1
 
 ### `prostate-cancer-uk-logo.jpg` — 1 use
 
@@ -410,6 +480,14 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 
 - `products/marquee-hire.md` ×1
 
+### `santander-event-staff-facepaint-night.jpg` — 1 use
+
+- `clients/alzheimers-society.md` ×1
+
+### `sheffield-childrens-hospital-building.jpg` — 1 use
+
+- `clients/childrens-hospital-charity.md` ×1
+
 ### `staging-events-team-alzheimers-memory-walk.jpg` — 1 use
 
 - `clients/alzheimers-society.md` ×1
@@ -418,15 +496,11 @@ Counts references to each file in `images/` across the repo (excluding `images/`
 
 _Not referenced anywhere._
 
-### `alzheimers-memory-walk-medals.jpg` — 0 uses
-
-_Not referenced anywhere._
-
-### `band-performing-night-lights.jpg` — 0 uses
-
-_Not referenced anywhere._
-
 ### `blue-inflatable-event-canopy.jpg` — 0 uses
+
+_Not referenced anywhere._
+
+### `jd-gyms-event-crowd-start.jpg` — 0 uses
 
 _Not referenced anywhere._
 
@@ -435,10 +509,6 @@ _Not referenced anywhere._
 _Not referenced anywhere._
 
 ### `mini-trussed-stage-with-band-field.jpg` — 0 uses
-
-_Not referenced anywhere._
-
-### `mobile-generator-tower-fleet.jpg` — 0 uses
 
 _Not referenced anywhere._
 
