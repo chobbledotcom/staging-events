@@ -86,7 +86,6 @@ blocks:
       - £5 million public liability insurance
       - Accessible ramp available from £175
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

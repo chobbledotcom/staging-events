@@ -5,7 +5,6 @@ description: "Full production and logistics support for Prostate Cancer UK's Mar
 header_image: images/prostate-cancer-uk-march-for-men-stage.jpg
 blocks:
   - type: image-background
-    container_width: full
     parallax: true
     image: images/prostate-cancer-uk-march-for-men-stage.jpg
     image_alt: Prostate Cancer UK March for Men stage
@@ -46,7 +45,6 @@ blocks:
     figure_alt: LED screen at Prostate Cancer UK March for Men
 
   - type: icon-links
-    section_class: alt
     intro: |
       ## What We Provide
     items:

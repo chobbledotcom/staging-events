@@ -8,7 +8,6 @@ eleventyNavigation:
   order: 3
 blocks:
   - type: image-background
-    container_width: full
     parallax: true
     image: images/band-trussed-stage-spotlit-side-view.jpg
     image_alt: Band performing on stage with dramatic green and purple lighting

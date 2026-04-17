@@ -5,7 +5,6 @@ description: "Event production and logistics for Alzheimer's Society Memory Walk
 header_image: images/alzheimers-memory-walk-stage-santander.jpg
 blocks:
   - type: image-background
-    container_width: full
     parallax: true
     image: images/alzheimers-memory-walk-crowd-heart-hands.jpg
     image_alt: Alzheimer's Society Memory Walk participants forming heart hands
@@ -27,7 +26,7 @@ blocks:
     figure_alt: Alzheimer's Society logo
 
   - type: stats
-    section_class: dark
+    dark: true
     items:
       - value: "110,000"
         label: Participants
@@ -68,7 +67,6 @@ blocks:
     figure_alt: Alzheimer's Society branded rehydration station
 
   - type: image-background
-    container_width: full
     parallax: true
     image: images/alzheimers-memory-walk-memory-tree.jpg
     image_alt: Memory tree at an Alzheimer's Society Memory Walk
@@ -78,7 +76,6 @@ blocks:
       Tens of thousands of walkers honour their loved ones at Memory Walk events across the country.
 
   - type: icon-links
-    section_class: alt
     intro: |
       ## What We Provide
     items:

@@ -81,7 +81,6 @@ blocks:
       - £5 million public liability insurance
       - Accessible ramp available on request
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

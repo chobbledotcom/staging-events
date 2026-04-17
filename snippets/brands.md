@@ -1,7 +1,6 @@
 ---
 blocks:
   - type: marquee-images
-    section_class: alt
     header_intro: |
       ## Our Valued Clients
     speed: "25s"

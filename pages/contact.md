@@ -9,7 +9,6 @@ eleventyNavigation:
 blocks:
   # Hero
   - type: image-background
-    container_width: full
     parallax: true
     image: images/memory-walk-stage-and-pa.jpg
     image_alt: Staging Events PA system at event
@@ -39,7 +38,6 @@ blocks:
       United Kingdom
 
   - type: icon-links
-    section_class: compact
     intro: |
       ### Follow Us
     items:

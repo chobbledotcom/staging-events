@@ -124,7 +124,6 @@ blocks:
       - Risk assessments and method statements
       - £5 million public liability insurance
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

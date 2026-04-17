@@ -44,7 +44,6 @@ blocks:
       href: /contact/
       variant: primary
   - type: gallery
-    section_class: alt
     items:
       - image: images/band-on-stage-green-lights.jpg
   - type: markdown
@@ -81,7 +80,6 @@ blocks:
         title: Reduced CO2
         description: Over 10kg of CO2 savings per hour compared to diesel alternatives
   - type: features
-    section_class: alt
     header_intro: "## Ideal For"
     items:
       - icon: mdi:check-circle
@@ -119,7 +117,6 @@ blocks:
 
       Part of our commitment to powering greener events across the UK.
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

@@ -1,8 +1,7 @@
 ---
 blocks:
   - type: features
-    section_class: dark compact
-    grid_class: grid text-center
+    dark: true
     items:
       - icon: "mdi:phone"
         icon_label: "Phone"

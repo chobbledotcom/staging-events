@@ -87,7 +87,6 @@ blocks:
         title: Evening receptions and after-parties
         description: ""
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

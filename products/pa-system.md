@@ -43,7 +43,6 @@ blocks:
       href: /contact/
       variant: primary
   - type: gallery
-    section_class: alt
     items:
       - image: images/mobile-trailer-stage-on-field.jpg
       - image: images/performers-with-pa-speakers.jpg
@@ -81,7 +80,6 @@ blocks:
         title: Speaker stands
         description: For optimal sound projection, positioning and coverage across larger venues
   - type: features
-    section_class: alt
     header_intro: "## Ideal For"
     items:
       - icon: mdi:check-circle
@@ -103,7 +101,6 @@ blocks:
         title: Product launches and brand activations
         description: ""
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

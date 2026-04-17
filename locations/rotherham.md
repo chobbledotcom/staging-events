@@ -12,7 +12,6 @@ eleventyNavigation:
   parent: Locations
 blocks:
   - type: image-background
-    container_width: full
     parallax: true
     image: images/band-on-stage-rotherham-festival.jpg
     image_alt: Stage hire in Rotherham
@@ -67,7 +66,6 @@ blocks:
         description: From planning to setup and pack-down, we handle everything
 
   - type: stats
-    section_class: alt
     items:
       - value: "25+"
         label: Years in Business

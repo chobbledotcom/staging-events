@@ -42,7 +42,6 @@ blocks:
       href: /contact/
       variant: primary
   - type: gallery
-    section_class: alt
     items:
       - image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
         caption: At the start line of a March for Men event
@@ -66,7 +65,6 @@ blocks:
 
       We deliver and set up across the UK, with event support staff available to manage your start and finish line throughout the day. Whether you need a single gantry for a local fun run or a complete staging solution for a city-centre marathon, our team handles setup and takedown.
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

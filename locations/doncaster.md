@@ -12,7 +12,6 @@ eleventyNavigation:
   parent: Locations
 blocks:
   - type: image-background
-    container_width: full
     parallax: true
     image: images/doncaster-town-centre-christmas-stage.jpg
     image_alt: Stage hire in Doncaster
@@ -67,7 +66,6 @@ blocks:
         description: Serving Doncaster events for over 25 years
 
   - type: stats
-    section_class: alt
     items:
       - value: "25+"
         label: Years Experience

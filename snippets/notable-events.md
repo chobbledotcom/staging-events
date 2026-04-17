@@ -1,7 +1,7 @@
 ---
 blocks:
   - type: features
-    section_class: dark
+    dark: true
     header_intro: |
       ## Notable Events
 

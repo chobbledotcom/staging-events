@@ -12,7 +12,6 @@ eleventyNavigation:
   parent: Locations
 blocks:
   - type: image-background
-    container_width: full
     parallax: true
     image: images/acoustic-duo-mini-stage-field.jpg
     image_alt: Stage hire in Barnsley

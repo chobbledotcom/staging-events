@@ -82,7 +82,6 @@ blocks:
       - Festoon lighting
       - Catering and bar power
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

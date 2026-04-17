@@ -67,7 +67,6 @@ blocks:
       - Marquees on paved areas
       - Trussing rigs at indoor and outdoor venues
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

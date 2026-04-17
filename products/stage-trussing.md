@@ -46,7 +46,6 @@ blocks:
       href: /contact/
       variant: primary
   - type: gallery
-    section_class: alt
     items:
       - image: images/stage-trussing-flightcase.jpg
       - image: images/band-on-trussed-stage-night.jpg
@@ -99,7 +98,6 @@ blocks:
       | Large Base Plates | 4 |
       | 2m Hand Rails | 9 |
   - type: features
-    section_class: alt
     header_intro: "## Ideal For"
     items:
       - icon: mdi:check-circle
@@ -121,7 +119,6 @@ blocks:
         title: Product launches and brand activations
         description: ""
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle

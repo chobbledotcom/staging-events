@@ -44,7 +44,6 @@ blocks:
       href: /contact/
       variant: primary
   - type: gallery
-    section_class: alt
     items:
       - image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
         caption: At the start line of a March for Men event
@@ -68,7 +67,6 @@ blocks:
 
       We provide a full support package including experienced event staff to manage the start and finish line, crowd control coordination, event logistics planning and bottled water distribution for participants.
   - type: features
-    section_class: alt
     header_intro: "## Key Features"
     items:
       - icon: mdi:check-circle
