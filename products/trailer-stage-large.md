@@ -43,11 +43,11 @@ blocks:
       variant: primary
   - type: gallery
     items:
-      - image: images/band-on-trailer-stage.jpg
-      - image: images/band-on-stage-rotherham-festival.jpg
-      - image: images/dancers-on-stage-festival.jpg
-      - image: images/trailer-stage-town-centre-market.jpg
-      - image: images/trailer-stage-aerial-with-marquee.jpg
+      - image: /images/band-on-trailer-stage.jpg
+      - image: /images/band-on-stage-rotherham-festival.jpg
+      - image: /images/dancers-on-stage-festival.jpg
+      - image: /images/trailer-stage-town-centre-market.jpg
+      - image: /images/trailer-stage-aerial-with-marquee.jpg
   - type: markdown
     content: |-
       Our largest mobile trailer stage delivers an 8m x 6m performance area, used for festivals, outdoor concerts and major public events. The full covered truss roof structure provides weather protection for performers and equipment, while the trailer-mounted design means quick deployment on site.

@@ -45,11 +45,11 @@ blocks:
       variant: primary
   - type: gallery
     items:
-      - image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
+      - image: /images/prostate-cancer-uk-march-for-men-start-gantry.jpg
         caption: At the start line of a March for Men event
-      - image: images/memory-walk-stage-and-pa.jpg
+      - image: /images/memory-walk-stage-and-pa.jpg
         caption: Gantry, stage and PA at a Memory Walk event
-      - image: images/x-large-trussing-gantry-diagram.png
+      - image: /images/x-large-trussing-gantry-diagram.png
         caption: Specifications and dimensions
   - type: markdown
     content: |-

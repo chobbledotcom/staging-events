@@ -45,7 +45,7 @@ blocks:
       variant: primary
   - type: gallery
     items:
-      - image: images/band-on-stage-green-lights.jpg
+      - image: /images/band-on-stage-green-lights.jpg
   - type: markdown
     content: |-
       The Instagrid ONE max is a battery-powered alternative to diesel generators. With 2.1kWh capacity and 3,600 watts of continuous output through a 230V AC mains outlet, it weighs 20kg, so one person can carry and position it on site.

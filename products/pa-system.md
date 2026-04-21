@@ -47,12 +47,12 @@ blocks:
       variant: primary
   - type: gallery
     items:
-      - image: images/mobile-trailer-stage-on-field.jpg
-      - image: images/performers-with-pa-speakers.jpg
-      - image: images/pa-speakers-audience-view.jpg
-      - image: images/band-performing-night-lights.jpg
-      - image: images/pa-speakers-outdoor-stage.jpg
-      - image: images/pa-speakers-memory-walk-stage.jpg
+      - image: /images/mobile-trailer-stage-on-field.jpg
+      - image: /images/performers-with-pa-speakers.jpg
+      - image: /images/pa-speakers-audience-view.jpg
+      - image: /images/band-performing-night-lights.jpg
+      - image: /images/pa-speakers-outdoor-stage.jpg
+      - image: /images/pa-speakers-memory-walk-stage.jpg
   - type: markdown
     content: |-
       We have a massive range of PA which we can bespoke to your needs, covering events from corporate presentations to outdoor festivals. We can scale the system to suit your venue and audience.

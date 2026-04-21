@@ -41,9 +41,9 @@ blocks:
       variant: primary
   - type: gallery
     items:
-      - image: images/mobile-generator-tower-fleet.jpg
-      - image: images/fan-party-stage-crowd.jpg
-      - image: images/town-centre-stage-rotherham.jpg
+      - image: /images/mobile-generator-tower-fleet.jpg
+      - image: /images/fan-party-stage-crowd.jpg
+      - image: /images/town-centre-stage-rotherham.jpg
   - type: markdown
     content: |-
       Our range of generators from 2.2kva to 20kva provides reliable power for events, festivals, outdoor activities and construction sites. The range covers everything from small lighting rigs to full stage setups with PA and effects.

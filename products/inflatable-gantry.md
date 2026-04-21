@@ -43,7 +43,7 @@ blocks:
       variant: primary
   - type: gallery
     items:
-      - image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
+      - image: /images/prostate-cancer-uk-march-for-men-start-gantry.jpg
   - type: markdown
     content: |-
       Our inflatable gantry is a start and finish line for charity runs, fun runs, marathons, obstacle courses and mass participation events on grassed areas. Every hire is a full-service package: we handle delivery, on-site setup, inflation and collection so your team can focus entirely on running the event.

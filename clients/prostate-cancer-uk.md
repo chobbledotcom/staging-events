@@ -46,9 +46,9 @@ blocks:
 
   - type: gallery
     items:
-      - image: images/prostate-cancer-uk-branded-stage-pa.jpg
-      - image: images/march-for-men-crowd-branded-gazebos.jpg
-      - image: images/march-for-men-route-signpost.jpg
+      - image: /images/prostate-cancer-uk-branded-stage-pa.jpg
+      - image: /images/march-for-men-crowd-branded-gazebos.jpg
+      - image: /images/march-for-men-route-signpost.jpg
 
   - type: icon-links
     intro: |
