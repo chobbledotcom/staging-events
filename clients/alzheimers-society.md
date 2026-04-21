@@ -77,14 +77,14 @@ blocks:
 
   - type: gallery
     items:
-      - image: images/alzheimers-memory-walk-london-crowd-selfie.jpg
-      - image: images/alzheimers-memory-walk-london-crowd.jpg
-      - image: images/alzheimers-memory-walk-crowd-front-summer.jpg
-      - image: images/alzheimers-memory-walk-stormont-gazebos.jpg
-      - image: images/alzheimers-memory-walk-finish-gantry-team.jpg
-      - image: images/alzheimers-memory-walk-team-photo-frame.jpg
-      - image: images/alzheimers-memory-walk-team-selfie-park.jpg
-      - image: images/santander-event-staff-facepaint-night.jpg
+      - image: /images/alzheimers-memory-walk-london-crowd-selfie.jpg
+      - image: /images/alzheimers-memory-walk-london-crowd.jpg
+      - image: /images/alzheimers-memory-walk-crowd-front-summer.jpg
+      - image: /images/alzheimers-memory-walk-stormont-gazebos.jpg
+      - image: /images/alzheimers-memory-walk-finish-gantry-team.jpg
+      - image: /images/alzheimers-memory-walk-team-photo-frame.jpg
+      - image: /images/alzheimers-memory-walk-team-selfie-park.jpg
+      - image: /images/santander-event-staff-facepaint-night.jpg
 
   - type: image-background
     parallax: true
