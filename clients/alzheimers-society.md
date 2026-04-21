@@ -76,7 +76,6 @@ blocks:
     figure_alt: Stacks of pink, blue and green Memory Walk medals on a finish-line table
 
   - type: gallery
-    section_class: alt
     items:
       - image: images/alzheimers-memory-walk-london-crowd-selfie.jpg
       - image: images/alzheimers-memory-walk-london-crowd.jpg
