@@ -1,6 +1,6 @@
 {
 	"name": "Staging Events",
-	"url": "https://staging-events.b-cdn.net",
+	"url": "https://www.stagingevents.co.uk",
 	"socials": {
 		"Facebook": "https://www.facebook.com/Stagingevents",
 		"Instagram": "https://instagram.com/stagingevents",
@@ -11,7 +11,7 @@
 	},
 	"sticky_mobile_nav": true,
 	"horizontal_nav": true,
-	"template_repo_url": "https://git.chobble.com/chobble/chobble-client",
+	"template_repo_url": "https://github.com/chobbledotcom/chobble-template",
 	"cms_config": {
 		"collections": [
 			"pages",
