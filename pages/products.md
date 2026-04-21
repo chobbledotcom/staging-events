@@ -5,7 +5,7 @@ title: "Our Products"
 description: "Browse our full range of event hire products including stages, PA systems, generators, lighting, gantries and more."
 eleventyNavigation:
   key: Products
-  order: 3
+  order: 4
 blocks:
   - type: image-background
     parallax: true

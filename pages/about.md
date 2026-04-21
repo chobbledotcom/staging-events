@@ -5,7 +5,7 @@ title: "About Staging Events"
 description: "For more than 25 years we have been one of the UK's leading staging and event hire companies, providing production, exhibition equipment and logistics from our 25,000 sq ft Rotherham warehouse."
 eleventyNavigation:
   key: About
-  order: 2
+  order: 3
 blocks:
   # Hero
   - type: image-background

@@ -5,7 +5,7 @@ title: "Our Clients"
 description: "Our charity events clients including Alzheimer's Society Memory Walk, Sheffield Children's Hospital Charity, Prostate Cancer UK, and more."
 eleventyNavigation:
   key: Clients
-  order: 3
+  order: 5
 blocks:
   # Hero
   - type: image-background
