@@ -46,6 +46,7 @@ blocks:
       href: /contact/
       variant: primary
   - type: gallery
+    masonry: true
     items:
       - image: /images/mobile-trailer-stage-on-field.jpg
       - image: /images/performers-with-pa-speakers.jpg
