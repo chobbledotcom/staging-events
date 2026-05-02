@@ -31,7 +31,7 @@ blocks:
 
   # What we do
   - type: features
-    header_intro: |
+    intro_content: |
       ## What We Do
 
       A full production, equipment hire and logistics company covering the entire UK.

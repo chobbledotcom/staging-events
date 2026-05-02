@@ -56,7 +56,7 @@ blocks:
 
       Full covered truss roof structure with solid rigging points for speakers, lighting rigs and production equipment. The performance area and overhead clearance accommodate large stage setups while keeping the deck clear for performers.
   - type: features
-    header_intro: "## Ideal For"
+    intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
         title: Music festivals and multi-day outdoor concerts
@@ -103,7 +103,7 @@ blocks:
       - Risk assessments and method statements
       - £5 million public liability insurance
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: 8m x 6m deck size

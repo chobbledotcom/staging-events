@@ -67,7 +67,7 @@ blocks:
 
       We provide a full support package including experienced event staff to manage the start and finish line, crowd control coordination, event logistics planning and bottled water distribution for participants.
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: Our largest trussing gantry

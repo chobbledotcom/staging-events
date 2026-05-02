@@ -60,7 +60,7 @@ blocks:
 
       Our gantry hire is part of our staging and event services. We coordinate crowd control management, bottled water distribution for participants, and generator provision on request. We can put together a support package that covers what your event needs.
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: Quick setup and takedown

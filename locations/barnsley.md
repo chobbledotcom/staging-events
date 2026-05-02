@@ -45,12 +45,12 @@ blocks:
 
   - type: items
     collection: featuredProducts
-    intro: |
+    intro_content: |
       ## Services Available in Barnsley
     horizontal: true
 
   - type: features
-    header_intro: |
+    intro_content: |
       ## Why Choose Us for Barnsley Events?
     items:
       - icon: "mdi:truck-fast"

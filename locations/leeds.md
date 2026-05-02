@@ -45,12 +45,12 @@ blocks:
 
   - type: items
     collection: featuredProducts
-    intro: |
+    intro_content: |
       ## Services Available in Leeds
     horizontal: true
 
   - type: features
-    header_intro: |
+    intro_content: |
       ## Why Choose Us for Leeds Events?
     items:
       - icon: "mdi:road-variant"

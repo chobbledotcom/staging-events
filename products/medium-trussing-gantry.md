@@ -65,7 +65,7 @@ blocks:
 
       We deliver and set up across the UK, with event support staff available to manage your start and finish line throughout the day. Whether you need a single gantry for a local fun run or a complete staging solution for a city-centre marathon, our team handles setup and takedown.
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: Custom branding available

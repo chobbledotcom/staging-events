@@ -52,7 +52,7 @@ blocks:
 
       Our access ramps work with every stage system in our range, including modular deck staging at 200mm, 570mm and 725mm heights, event stages, and trailer stages. We match the ramp gradient and handrail configuration to your stage height and layout.
   - type: features
-    header_intro: "## What's Included"
+    intro_content: "## What's Included"
     items:
       - icon: mdi:check-circle
         title: DDA-compliant access ramp
@@ -76,7 +76,7 @@ blocks:
         title: £5 million public liability insurance
         description: ""
   - type: features
-    header_intro: "## Ideal For"
+    intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
         title: Award ceremonies and presentations
@@ -97,7 +97,7 @@ blocks:
         title: Any event requiring accessible staging
         description: ""
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: DDA-compliant access ramps

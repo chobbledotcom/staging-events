@@ -52,7 +52,7 @@ blocks:
     content: |-
       Commercial-grade pop-up gazebos and mini marquees built for professional use at outdoor events. Our 3x4.5m marquees feature adjustable ceiling height options, full sides and a door for complete enclosure, using quality materials designed to retain warmth and keep guests comfortable. These gazebos provide weatherproof shelter on grass or hard standing.
   - type: features
-    header_intro: "## Ideal For"
+    intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
         title: Garden parties and private celebrations
@@ -73,7 +73,7 @@ blocks:
         title: Outdoor catering and refreshment stations
         description: ""
   - type: features
-    header_intro: "## Available Sizes"
+    intro_content: "## Available Sizes"
     items:
       - icon: mdi:check-circle
         title: 3x3m Gazebo Marquee
@@ -111,7 +111,7 @@ blocks:
       - Risk assessments and method statements
       - £5 million public liability insurance
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: 3x3m and 3x4.5m sizes

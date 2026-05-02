@@ -59,7 +59,7 @@ blocks:
 
       The stage height is adjustable between 1.0m and 1.3m above ground, with an overall height of 5m. The slip-proof weatherproof floor has a load capacity of 3.5 kN/m² (approximately 350 kg/m²). Wind and showerproof side walls are rated to 17.8 m/s with covers fitted, or 30 m/s without covers. Full 50mm tubular trussing is included for rigging, along with floodlights for setup and takedown.
   - type: features
-    header_intro: "## Ideal For"
+    intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
         title: Music festivals and outdoor concerts
@@ -127,7 +127,7 @@ blocks:
       - Risk assessments and method statements
       - £5 million public liability insurance
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: 7m x 6m stage area (42 sqm)

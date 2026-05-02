@@ -44,12 +44,12 @@ blocks:
 
   - type: items
     collection: featuredProducts
-    intro: |
+    intro_content: |
       ## Services Available in Doncaster
     horizontal: true
 
   - type: features
-    header_intro: |
+    intro_content: |
       ## Why Choose Us for Doncaster Events?
     items:
       - icon: "mdi:map-marker-radius"

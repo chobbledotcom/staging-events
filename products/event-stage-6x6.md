@@ -60,7 +60,7 @@ blocks:
 
       Built on 50mm tubular trussing with solid rigging points throughout. The truss system supports speakers, lighting rigs and production equipment overhead, keeping the 36 sqm stage floor completely clear for performers.
   - type: features
-    header_intro: "## Ideal For"
+    intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
         title: Festivals and outdoor concerts
@@ -105,7 +105,7 @@ blocks:
       - £5 million public liability insurance
       - Accessible ramp available on request
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: 6m x 6m stage area

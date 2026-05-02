@@ -67,7 +67,7 @@ blocks:
       - Marquees on paved areas
       - Trussing rigs at indoor and outdoor venues
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: Secure stages, gantries and marquees

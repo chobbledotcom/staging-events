@@ -86,7 +86,7 @@ blocks:
       - £5 million public liability insurance
       - Accessible ramp available from £175
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: 4m x 4m stage area

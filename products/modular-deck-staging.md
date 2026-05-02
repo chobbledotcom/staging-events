@@ -60,7 +60,7 @@ blocks:
     content: |-
       Build exactly the stage you need with our Intelistage modular deck system. Each 1m x 2m carpeted deck section locks together using an internal locking mechanism, creating a stable platform that supports up to 185 lbs per square foot (900 kg per square metre). The system can be configured for anything from catwalks to full concert stages. We deliver nationwide, including major exhibition centres such as NEC Birmingham, Manchester Central, Telford Exhibition Centre and ExCel London.
   - type: features
-    header_intro: "## Ideal For"
+    intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
         title: Conferences and corporate presentations
@@ -81,7 +81,7 @@ blocks:
         title: Indoor concerts and live performances
         description: ""
   - type: features
-    header_intro: "## Available Heights"
+    intro_content: "## Available Heights"
     items:
       - icon: mdi:check-circle
         title: 200mm
@@ -127,7 +127,7 @@ blocks:
       - £5 million public liability insurance
       - Matching stage steps
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: 1m x 2m modular sections

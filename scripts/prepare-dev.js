@@ -25,6 +25,7 @@ const rootExcludes = [
   "package*.json",
   "bun.lock",
   "old_site",
+  "biome.json",
 ];
 
 export const prep = () => {
@@ -40,6 +41,8 @@ export const prep = () => {
     git.reset(template, { hard: true });
     git.pull(template);
   }
+
+  fs.rm(join(template, "biome.json"));
 
   find.deleteByExt(dev, ".md");
   rsync(template, dev, { delete: true, exclude: templateExcludes });

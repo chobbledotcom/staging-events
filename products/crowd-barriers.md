@@ -66,7 +66,7 @@ blocks:
       - **100-149 units** -- £4 each
       - **150+ units** -- £3.75 each
   - type: features
-    header_intro: "## Ideal For"
+    intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
         title: Mass participation events
@@ -87,7 +87,7 @@ blocks:
         title: Corporate events and product launches
         description: ""
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: Tensa belt barriers

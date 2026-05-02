@@ -51,7 +51,7 @@ blocks:
       - image: /images/march-for-men-route-signpost.jpg
 
   - type: icon-links
-    intro: |
+    intro_content: |
       ## What We Provide
     items:
       - icon: "mdi:tools"

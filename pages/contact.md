@@ -38,7 +38,7 @@ blocks:
       United Kingdom
 
   - type: icon-links
-    intro: |
+    intro_content: |
       ### Follow Us
     items:
       - icon: "mdi:facebook"

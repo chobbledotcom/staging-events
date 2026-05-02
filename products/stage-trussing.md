@@ -61,7 +61,7 @@ blocks:
 
       With a stock of over 600 products across 68 categories, we can provide your entire event infrastructure from a single order -- stages, PA systems, lighting, generators, lecterns and line array rigs. Approximately 95% of our equipment is owned in-house, which means we control availability and turnaround. If we do not currently stock a specific item, we can procure it to meet your requirements.
   - type: features
-    header_intro: "## What's Included"
+    intro_content: "## What's Included"
     items:
       - icon: mdi:check-circle
         title: Professional Litec trussing equipment
@@ -100,7 +100,7 @@ blocks:
       | Large Base Plates | 4 |
       | 2m Hand Rails | 9 |
   - type: features
-    header_intro: "## Ideal For"
+    intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
         title: Outdoor concerts and festivals
@@ -121,7 +121,7 @@ blocks:
         title: Product launches and brand activations
         description: ""
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: Professional Litec trussing equipment

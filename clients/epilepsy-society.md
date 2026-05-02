@@ -43,7 +43,7 @@ blocks:
     figure_alt: Mobile trailer stage with crowd barriers at an event
 
   - type: icon-links
-    intro: |
+    intro_content: |
       ## What We Provide
     items:
       - icon: "mdi:map-marker-multiple"

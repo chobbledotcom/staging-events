@@ -38,7 +38,7 @@ blocks:
   # Client cards
   - type: items
     collection: clients
-    intro: |
+    intro_content: |
       ## Who We Work With
 
   # Notable stats

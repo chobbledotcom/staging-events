@@ -44,12 +44,12 @@ blocks:
 
   - type: items
     collection: featuredProducts
-    intro: |
+    intro_content: |
       ## Services Available in Rotherham
     horizontal: true
 
   - type: features
-    header_intro: |
+    intro_content: |
       ## Why Choose Us for Events in Rotherham?
     items:
       - icon: "mdi:map-marker"

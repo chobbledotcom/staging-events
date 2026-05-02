@@ -66,7 +66,7 @@ blocks:
 
       This gantry is part of our wider event staging offering. We supply experienced event support staff to manage your start and finish line, coordinate crowd control, handle event logistics and arrange bottled water distribution for mass participation events. Generators are also available on request. We work closely with organisers to build a complete support package, from staging infrastructure to on-the-ground staffing.
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: Custom branding available

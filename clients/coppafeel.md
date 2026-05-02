@@ -43,7 +43,7 @@ blocks:
     figure_alt: Singer performing on stage at a fundraising music event
 
   - type: icon-links
-    intro: |
+    intro_content: |
       ## What We Provide
     items:
       - icon: "mdi:tools"

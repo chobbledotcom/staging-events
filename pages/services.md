@@ -20,7 +20,7 @@ blocks:
   # Service categories
   - type: items
     collection: categories
-    intro: |
+    intro_content: |
       ## What We Offer
 
       Professional event equipment and services, owned and operated by our experienced team.
@@ -28,7 +28,7 @@ blocks:
   # Additional services
   - type: features
     dark: true
-    header_intro: |
+    intro_content: |
       ## Additional Services
 
       Beyond equipment hire, we offer a full range of support services.

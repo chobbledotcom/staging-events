@@ -37,7 +37,7 @@ blocks:
 
   - type: items
     collection: locations
-    intro: |
+    intro_content: |
       ## Areas We Serve
 
   - type: snippet
