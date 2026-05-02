@@ -41,6 +41,8 @@ export const prep = () => {
     git.pull(template);
   }
 
+  fs.rm(join(template, "biome.json"));
+
   find.deleteByExt(dev, ".md");
   rsync(template, dev, { delete: true, exclude: templateExcludes });
   rsync(root, join(dev, "src"), { exclude: rootExcludes });

@@ -100,4 +100,4 @@ to let you select which collections to include.`);
   });
 }
 
-export { updatePages, fetchPages, customisePages };
+export { customisePages, fetchPages, updatePages };
