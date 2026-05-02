@@ -13,16 +13,16 @@ blocks:
     video_title: Staging Events production
     thumbnail_url: /assets/homepage-video-thumb.jpg
     content: |
-      # Staging, Event Hire and Production across the UK
+      # Staging, Event Hire and Production
 
-      Stage hire, PA systems and event infrastructure. Full production and logistics services nationwide from our 25,000 sq ft warehouse.
+      Stage hire, PA systems and event infrastructure.
 
   # Services intro
   - type: split-image
     title: Full Production, Equipment Hire and Logistics
     reveal_content: left
     content: |
-      Staging Events are a full production, equipment hire and logistics company covering all of the UK.
+      Staging Events are a full production, equipment hire and logistics company covering all of the UK from our 25,000 sq ft warehouse.
 
       We specialise in the delivery of mass participation events for the charity sector, including sponsored walks and running events. Some of the events we currently cover include [Alzheimer's Society Memory Walk](/clients/alzheimers-society/), which had 110,000 participants over a 7-week period, and [Prostate Cancer March for Men](/clients/prostate-cancer-uk/).
 
