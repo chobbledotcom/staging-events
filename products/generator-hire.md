@@ -60,7 +60,7 @@ blocks:
       - **Construction**: Heavy-duty build with engine protection shutdown, certified lifting eye, and fully bunded base (110% containment)
       - **Transport**: Trolley kit included for easy positioning on site
   - type: features
-    header_intro: "## Available Sizes"
+    intro_content: "## Available Sizes"
     items:
       - icon: mdi:lightning-bolt
         title: 2.2kva
@@ -75,7 +75,7 @@ blocks:
         title: 20kva
         description: Large stages, festivals and multi-zone events
   - type: features
-    header_intro: "## Ideal For"
+    intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
         title: Outdoor festivals and concerts
@@ -99,7 +99,7 @@ blocks:
     content: |-
       All generators are PAT tested, regularly serviced and delivered with full fuel tanks. UK-wide delivery available.
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: Range from 2.2kva to 20kva

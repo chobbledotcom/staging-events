@@ -96,7 +96,7 @@ blocks:
       Tens of thousands of walkers honour their loved ones at Memory Walk events across the country.
 
   - type: icon-links
-    intro: |
+    intro_content: |
       ## What We Provide
     items:
       - icon: "mdi:walk"

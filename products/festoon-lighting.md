@@ -66,7 +66,7 @@ blocks:
 
       Festoon lighting also serves a practical purpose, providing even illumination across large areas during evening hours and keeping the site well-lit for events that run late.
   - type: features
-    header_intro: "## Ideal For"
+    intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
         title: Festivals and outdoor music events
@@ -87,7 +87,7 @@ blocks:
         title: Evening receptions and after-parties
         description: ""
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: 100 metre runs

@@ -84,7 +84,7 @@ blocks:
       - Risk assessments and method statements
       - £5 million public liability insurance
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: 3m x 3m deck size

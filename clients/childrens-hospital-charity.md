@@ -51,7 +51,7 @@ blocks:
     figure_alt: Outdoor stage with gazebo and crowd barriers at a fundraising event
 
   - type: icon-links
-    intro: |
+    intro_content: |
       ## What We Provide
     items:
       - icon: "mdi:truck-delivery"

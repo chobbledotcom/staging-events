@@ -1,7 +1,7 @@
 ---
 blocks:
   - type: marquee-images
-    header_intro: |
+    intro_content: |
       ## Our Valued Clients
     speed: "25s"
     height: "60px"

@@ -42,7 +42,7 @@ blocks:
 
   - type: features
     dark: true
-    header_intro: |
+    intro_content: |
       ## Our Services
     items:
       - icon: "mdi:truck-delivery"

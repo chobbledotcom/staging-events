@@ -62,7 +62,7 @@ blocks:
       - **Protection**: Water and dust resistant for reliable outdoor use
       - **Emissions**: Zero -- no fuel, no oil, no exhaust fumes
   - type: features
-    header_intro: "## Why Choose Battery Power?"
+    intro_content: "## Why Choose Battery Power?"
     items:
       - icon: mdi:check-circle
         title: No fuel costs or oil checks
@@ -80,7 +80,7 @@ blocks:
         title: Reduced CO2
         description: Over 10kg of CO2 savings per hour compared to diesel alternatives
   - type: features
-    header_intro: "## Ideal For"
+    intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
         title: Indoor corporate events and conferences
@@ -117,7 +117,7 @@ blocks:
 
       Part of our commitment to powering greener events across the UK.
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: Battery-powered operation

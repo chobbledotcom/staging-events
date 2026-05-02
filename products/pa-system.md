@@ -69,7 +69,7 @@ blocks:
       - Wired microphones for reliable, interference-free audio
       - Choice of handheld wireless microphones, or headset/lapel microphones for presenters who need to move freely
   - type: features
-    header_intro: "## Additional Equipment"
+    intro_content: "## Additional Equipment"
     items:
       - icon: mdi:microphone
         title: Wireless microphones
@@ -87,7 +87,7 @@ blocks:
         title: Speaker stands
         description: For optimal sound projection, positioning and coverage across larger venues
   - type: features
-    header_intro: "## Ideal For"
+    intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
         title: Outdoor festivals and concerts
@@ -108,7 +108,7 @@ blocks:
         title: Product launches and brand activations
         description: ""
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: Massive range of PA equipment

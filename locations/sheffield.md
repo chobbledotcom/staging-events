@@ -44,12 +44,12 @@ blocks:
 
   - type: items
     collection: featuredProducts
-    intro: |
+    intro_content: |
       ## Services Available in Sheffield
     horizontal: true
 
   - type: features
-    header_intro: |
+    intro_content: |
       ## Why Choose Staging Events in Sheffield?
     items:
       - icon: "mdi:truck-delivery"

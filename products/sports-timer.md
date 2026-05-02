@@ -52,7 +52,7 @@ blocks:
 
       Our sports timers pair with our range of trussing and inflatable gantries to create a professional start and finish line. We handle delivery, setup and operation, so your event team can focus on managing participants.
   - type: features
-    header_intro: "## What's Included"
+    intro_content: "## What's Included"
     items:
       - icon: mdi:check-circle
         title: High-visibility LED timing display
@@ -70,7 +70,7 @@ blocks:
         title: £5 million public liability insurance
         description: ""
   - type: features
-    header_intro: "## Ideal For"
+    intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
         title: Charity runs and fun runs
@@ -88,7 +88,7 @@ blocks:
         title: Mass participation events
         description: ""
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: Digital countdown and elapsed timing

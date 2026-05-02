@@ -67,7 +67,7 @@ blocks:
       - Custom branding panels
       - Lighting packages
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: Professional presentation lecterns

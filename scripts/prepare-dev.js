@@ -25,6 +25,7 @@ const rootExcludes = [
   "package*.json",
   "bun.lock",
   "old_site",
+  "biome.json",
 ];
 
 export const prep = () => {

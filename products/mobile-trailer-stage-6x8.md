@@ -62,7 +62,7 @@ blocks:
 
       This stage is designed for outdoor use only, on both grass and hard surfaces. The self-balanced design means no additional anchoring is required on hard standing.
   - type: features
-    header_intro: "## Ideal For"
+    intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
         title: Music festivals and outdoor concerts
@@ -125,7 +125,7 @@ blocks:
       - Risk assessments and method statements
       - £5 million public liability insurance
   - type: features
-    header_intro: "## Key Features"
+    intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
         title: 7.9m x 5.9m performance area

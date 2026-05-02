@@ -42,7 +42,7 @@ blocks:
 
   # Service blocks
   - type: features
-    header_intro: |
+    intro_content: |
       ## What We Do
     items:
       - icon: "mdi:theater"
@@ -71,7 +71,7 @@ blocks:
   # Featured products slider
   - type: items
     collection: products
-    intro: |
+    intro_content: |
       ## Our Equipment
     horizontal: true
 
@@ -90,7 +90,7 @@ blocks:
   # Notable events
   - type: features
     dark: true
-    header_intro: |
+    intro_content: |
       ## Notable Events
 
       We manage major initiatives for leading charities across the UK.

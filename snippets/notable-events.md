@@ -2,7 +2,7 @@
 blocks:
   - type: features
     dark: true
-    header_intro: |
+    intro_content: |
       ## Notable Events
 
       We manage major initiatives for leading charities across the UK.
