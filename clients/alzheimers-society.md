@@ -39,11 +39,11 @@ blocks:
     title: Delivering Memory Walk
     reveal_content: left
     content: |
-      We have been proud partners of Alzheimer's Society, providing full event production and logistics for their flagship Memory Walk programme.
+      We've worked with Alzheimer's Society on their Memory Walk programme for years now, handling the full event production and logistics across the whole run.
 
-      The Memory Walk is one of the UK's largest charity walking events, with 110,000 participants taking part over a 7-week period at locations across the country.
+      The Memory Walk is one of the UK's largest charity walking events. Around 110,000 walkers take part over a seven-week period at locations across the country, and we cover every one of them.
 
-      Our services include stage hire, PA systems, start/finish gantries, bottled water supply, event staffing, and full logistics coordination for each venue.
+      What we provide at each venue includes stage hire, PA systems, start and finish gantries, bottled water supply, event staffing, and the logistics coordination to get the kit there and away again.
     figure_src: images/alzheimers-memory-walk-stage-santander.jpg
     figure_alt: Alzheimer's Society Memory Walk stage with Santander branding
 
@@ -52,9 +52,9 @@ blocks:
     reverse: true
     reveal_content: right
     content: |
-      From bottled water and rehydration stations to start lines, finish gantries, stages and PA, our crew handles every part of the production so the focus stays on the participants.
+      Our crew handles all of it on the day: bottled water and rehydration stations, the start lines, the finish gantries, the stages and the PA. The point is that the Alzheimer's Society team and the walkers don't have to think about any of the production side.
 
-      Our team supports each Memory Walk venue, working alongside the Alzheimer's Society team to deliver a smooth, safe and uplifting day out for thousands of walkers.
+      We work alongside the Alzheimer's Society team at every venue, and we've been doing the same walks long enough now that the running order tends to look after itself.
     figure_src: images/staging-events-team-alzheimers-memory-walk.jpg
     figure_alt: Staging Events crew at an Alzheimer's Society Memory Walk
 
@@ -62,7 +62,7 @@ blocks:
     title: Hydration and Welfare
     reveal_content: left
     content: |
-      Mass participation walks need reliable hydration. We supply branded rehydration stations and bottled water distribution points across each route, alongside the welfare infrastructure required to keep large numbers of walkers safe.
+      Mass participation walks need a fair bit of water moving around the route. We supply branded rehydration stations and bottled water distribution points at the right points along each course, and we put the welfare infrastructure in place that's needed to keep large numbers of walkers safe.
     figure_src: images/rehydration-station-alzheimers-society.jpg
     figure_alt: Alzheimer's Society branded rehydration station
 
@@ -71,7 +71,7 @@ blocks:
     reverse: true
     reveal_content: right
     content: |
-      Every walker who crosses the finish line collects a Memory Walk medal — a small token that closes out the day for thousands of participants at every venue.
+      Every walker who crosses the finish line collects a Memory Walk medal, which is the bit that closes the day out for thousands of participants at every venue.
     figure_src: images/alzheimers-memory-walk-medals.jpg
     figure_alt: Stacks of pink, blue and green Memory Walk medals on a finish-line table
 
@@ -117,7 +117,7 @@ blocks:
   - type: cta
     title: Plan Your Mass Participation Event
     description: >-
-      Contact us to discuss production and logistics at any scale.
+      Get in touch and we'll go through what you've got planned, whatever the size of the event.
     button:
       text: Contact Us
       href: /contact/

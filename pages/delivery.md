@@ -24,11 +24,11 @@ blocks:
     reveal_content: left
     reveal_figure: scale
     content: |
-      We deliver event equipment anywhere in the UK from our 25,000 sq ft warehouse in Rotherham, strategically located near the A1, M1 and M18 motorways.
+      We deliver event equipment anywhere in the UK from the 25,000 sq ft Rotherham warehouse, which sits handy for the A1, M1 and M18 when a venue's a long way off.
 
-      We make multiple deliveries weekly to major UK venues including NEC Birmingham, Manchester Central Convention Complex, Telford Exhibition Centre and ExCel London.
+      We're running multiple deliveries a week into the major UK venues, the NEC in Birmingham, Manchester Central Convention Complex, Telford Exhibition Centre and ExCel London among them.
 
-      **What We Deliver:**
+      **What we deliver:**
       - Stages, marquees and gantries
       - PA systems and generators
       - Festoon lighting and crowd barriers
@@ -47,16 +47,16 @@ blocks:
     items:
       - icon: "mdi:truck-delivery"
         title: Delivery & Collection
-        description: Professional crews handle all transport, setup and dismantling
+        description: Our crews handle the transport, setup and dismantling themselves.
       - icon: "mdi:package-variant-closed"
         title: Equipment Procurement
-        description: We source and store specialist equipment for your event
+        description: If a job needs kit we don't have on the shelf, we'll source it and store it in the warehouse until the event.
       - icon: "mdi:account-hard-hat"
         title: On-Site Management
-        description: Trained supervisory staff and event village setup
+        description: Our supervisory staff are trained for event village setup and on-site management.
       - icon: "mdi:shield-check"
         title: Fully Insured
-        description: Complete public liability cover on all deliveries
+        description: We carry full public liability cover on all deliveries.
 
   - type: split-image
     title: UK Coverage
@@ -64,16 +64,16 @@ blocks:
     reveal_content: right
     reveal_figure: scale
     content: |
-      We serve the entire UK with regular runs to:
+      We cover the whole of the UK, with regular runs into:
 
-      - **South Yorkshire** — Sheffield, Rotherham, Doncaster, Barnsley, Chesterfield
-      - **West Yorkshire** — Leeds, Bradford, Huddersfield, Hull, York, Scarborough
-      - **North West** — Manchester, Stockport, Liverpool, Birkenhead, Blackpool
-      - **Midlands** — Birmingham, Coventry, Derby, Leicester, Nottingham
-      - **London** — Greater London, Croydon, Windsor
-      - **East** — Lincoln, Grimsby, Peterborough, Kings Lynn, Norwich, Cambridge
+      - **South Yorkshire** - Sheffield, Rotherham, Doncaster, Barnsley, Chesterfield
+      - **West Yorkshire** - Leeds, Bradford, Huddersfield, Hull, York, Scarborough
+      - **North West** - Manchester, Stockport, Liverpool, Birkenhead, Blackpool
+      - **Midlands** - Birmingham, Coventry, Derby, Leicester, Nottingham
+      - **London** - Greater London, Croydon, Windsor
+      - **East** - Lincoln, Grimsby, Peterborough, Kings Lynn, Norwich, Cambridge
 
-      A minimum spend is required to benefit from our delivery services.
+      There's a minimum spend on jobs that include delivery, so it's worth a quick conversation up front if it's a smaller event.
     figure_src: images/fan-party-stage-crowd.jpg
     figure_alt: Events across the UK
 
@@ -91,7 +91,7 @@ blocks:
   - type: cta
     title: Need Event Delivery?
     description: >-
-      Contact our team to discuss delivery options and logistics for your event.
+      Get in touch and we'll go through delivery options and logistics for your event.
     button:
       text: Contact Us
       href: /contact/
