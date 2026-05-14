@@ -26,7 +26,7 @@ blocks:
     content: |
       We deliver event equipment anywhere in the UK from the 25,000 sq ft Rotherham warehouse, which sits handy for the A1, M1 and M18 when a venue's a long way off.
 
-      We're on the road most weeks running deliveries into the major UK venues, the NEC in Birmingham, Manchester Central Convention Complex, Telford Exhibition Centre and ExCel London among them.
+      We're running multiple deliveries a week into the major UK venues, the NEC in Birmingham, Manchester Central Convention Complex, Telford Exhibition Centre and ExCel London among them.
 
       **What we deliver:**
       - Stages, marquees and gantries

@@ -31,7 +31,7 @@ blocks:
     content: |
       We handle the full production and logistics for Prostate Cancer UK's March for Men, which is one of the charity's main fundraising events.
 
-      That covers all of it from our end: staging, sound, start and finish gantries, and the logistics to keep things running across multiple event locations on the same weekend.
+      That covers all of it from our end: staging, sound, start and finish gantries, and the logistics to keep things running across multiple event locations.
     figure_src: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
     figure_alt: Prostate Cancer UK March for Men start gantry
 

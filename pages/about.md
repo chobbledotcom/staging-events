@@ -81,7 +81,7 @@ blocks:
     content: |
       ## From Intimate Venues to Open-Air Festivals
 
-      We work both ends of the scale, from indoor performances and theatre dates through to the large outdoor events.
+      We work both ends of the scale, from indoor performance work through to the large outdoor events.
 
   # Dance performance
   - type: image-background
