@@ -1,5 +1,5 @@
 ---
-title: Gantries
+name: Gantries
 header_text: Start & Finish Gantries
 subtitle: Trussing and inflatable gantry hire for events
 description: Start and finish gantry hire for charity runs, marathons and events. Trussing and inflatable options available with custom branding.
@@ -26,11 +26,13 @@ blocks:
       property: data.categories
       includes: gantries
   - type: markdown
+    dark: true
     content: |-
       Customisable gantry hire services across the UK, including trussing and inflatable options suitable for various event types. All gantries offer custom print services with attachment, detachment, and storage included at no additional cost.
   - type: cta
-    title: Need Start & Finish Gantries?
-    description: Contact our team for availability and pricing.
+    content: |
+      ## Need Start & Finish Gantries?
+      Contact our team for availability and pricing.
     button:
       text: Get a Quote
       href: /contact/

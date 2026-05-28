@@ -1,5 +1,5 @@
 ---
-title: Trussing
+name: Trussing
 header_text: Stage Trussing
 subtitle: Professional rigging equipment
 description: Professional rigging equipment hire from leading manufacturers. Extensive inventory of Litec truss stock for events.
@@ -26,11 +26,13 @@ blocks:
       property: data.categories
       includes: trussing
   - type: markdown
+    dark: true
     content: |-
       Extensive inventory of rigging equipment from leading manufacturers, appropriately packaged for protection, efficient transport and rapid deployment.
   - type: cta
-    title: Need Stage Trussing?
-    description: Contact our team for availability and pricing.
+    content: |
+      ## Need Stage Trussing?
+      Contact our team for availability and pricing.
     button:
       text: Get a Quote
       href: /contact/

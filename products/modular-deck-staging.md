@@ -1,5 +1,5 @@
 ---
-title: Modular Deck Staging
+name: Modular Deck Staging
 subtitle: Flexible staging in 1m x 2m sections
 description: Modular deck staging hire in 1m x 2m sections. Available in multiple heights with Intelistage portable system. Professional staging for events UK-wide.
 header_image: images/choir-on-modular-stage.jpg
@@ -38,7 +38,7 @@ eleventyNavigation:
   parent: Staging
 blocks:
   - type: split-image
-    title: Modular Deck Staging
+    subtitle: Modular Deck Staging
     content: |-
       Build the stage you need with our Intelistage modular deck system. Each 1m x 2m section locks together securely and supports up to 900 kg per square metre, and the system can be configured for anything from catwalks to concert stages.
 
@@ -57,45 +57,49 @@ blocks:
       - image: /images/prostate-cancer-uk-march-for-men-led-screen.jpg
       - image: /images/modular-stage-platform-shopping-centre.jpg
   - type: markdown
+    dark: true
     content: |-
       Build exactly the stage you need with our Intelistage modular deck system. Each 1m x 2m carpeted deck section locks together using an internal locking mechanism, creating a stable platform that supports up to 185 lbs per square foot (900 kg per square metre). The system can be configured for anything from catwalks to full concert stages. We deliver nationwide, including major exhibition centres such as NEC Birmingham, Manchester Central, Telford Exhibition Centre and ExCel London.
   - type: features
+    dark: true
     intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
-        title: Conferences and corporate presentations
+        name: Conferences and corporate presentations
         description: ""
       - icon: mdi:check-circle
-        title: Fashion shows and catwalk events
+        name: Fashion shows and catwalk events
         description: ""
       - icon: mdi:check-circle
-        title: Award ceremonies and galas
+        name: Award ceremonies and galas
         description: ""
       - icon: mdi:check-circle
-        title: Choir and orchestra performances
+        name: Choir and orchestra performances
         description: ""
       - icon: mdi:check-circle
-        title: Exhibition stands and trade shows
+        name: Exhibition stands and trade shows
         description: ""
       - icon: mdi:check-circle
-        title: Indoor concerts and live performances
+        name: Indoor concerts and live performances
         description: ""
   - type: features
+    dark: true
     intro_content: "## Available Heights"
     items:
       - icon: mdi:check-circle
-        title: 200mm
+        name: 200mm
         description: Low profile
       - icon: mdi:check-circle
-        title: 570mm
+        name: 570mm
         description: Standard height
       - icon: mdi:check-circle
-        title: 725mm
+        name: 725mm
         description: Raised platform
       - icon: mdi:check-circle
-        title: Custom heights
+        name: Custom heights
         description: Available for additional fees
   - type: markdown
+    dark: true
     content: |-
       ### Popular Configurations
 
@@ -111,7 +115,7 @@ blocks:
       - Accessible ramp on request
       - Custom branding panels
   - type: split-html
-    title: Modular Design and Build Quality
+    subtitle: Modular Design and Build Quality
     content: |-
       The Intelistage system pioneered modular stage design. Each 1m x 2m deck section features a carpeted finish and collapsible risers, making transport and setup efficient. Sections lock together securely with an internal mechanism, and the system can be configured in virtually any layout.
 
@@ -127,30 +131,32 @@ blocks:
       - £5 million public liability insurance
       - Matching stage steps
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: 1m x 2m modular sections
+        name: 1m x 2m modular sections
         description: ""
       - icon: mdi:check-circle
-        title: Multiple height options
+        name: Multiple height options
         description: ""
       - icon: mdi:check-circle
-        title: Intelistage portable system
+        name: Intelistage portable system
         description: ""
       - icon: mdi:check-circle
-        title: Internal locking mechanism
+        name: Internal locking mechanism
         description: ""
       - icon: mdi:check-circle
-        title: High weight capacity
+        name: High weight capacity
         description: ""
       - icon: mdi:check-circle
-        title: Flexible configurations
+        name: Flexible configurations
         description: ""
       - icon: mdi:check-circle
-        title: Custom heights available
+        name: Custom heights available
         description: ""
   - type: stats
+    dark: true
     items:
       - value: 1m x 2m sections
         label: Size
@@ -166,7 +172,7 @@ blocks:
         label: System
   - type: split-html
     reverse: true
-    title: How It Works
+    subtitle: How It Works
     content: |-
       Our Intelistage modular system uses individual 1m x 2m deck sections that lock together with an internal mechanism. Collapsible risers make transport efficient, and the carpeted finish gives a clean look.
 

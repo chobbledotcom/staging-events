@@ -575,7 +575,7 @@ content:
     subfolders: false
     filename: "{primary}.md"
     fields:
-      - { name: title, type: string, label: Title }
+      - { name: name, type: string, label: Name }
       - { name: subtitle, type: string, label: Subtitle }
       - { name: thumbnail, type: image, label: Thumbnail }
       - { name: order, type: number, label: Order }
@@ -662,7 +662,7 @@ content:
     subfolders: false
     filename: "{primary}.md"
     fields:
-      - { name: title, type: string, label: Title }
+      - { name: name, type: string, label: Name }
       - { name: thumbnail, type: image, label: Thumbnail }
       - name: parent
         label: Parent Category
@@ -717,7 +717,7 @@ content:
     type: collection
     subfolders: false
     fields:
-      - { name: title, type: string, label: Title }
+      - { name: name, type: string, label: Name }
       - { name: date, label: Date, type: date }
       - name: author
         label: Author
@@ -775,7 +775,7 @@ content:
       sort:
         - title
     fields:
-      - { name: title, type: string, label: Title }
+      - { name: name, type: string, label: Name }
       - { name: subtitle, type: string, label: Subtitle }
       - { name: thumbnail, type: image, label: Thumbnail }
       - { name: order, type: number, label: Order }
@@ -821,7 +821,7 @@ content:
     subfolders: false
     filename: "{primary}.md"
     fields:
-      - { name: title, type: string, label: Title }
+      - { name: name, type: string, label: Name }
       - { name: thumbnail, type: image, label: Thumbnail }
       - { name: order, type: number, label: Order }
       - { name: snippet, type: string, label: Role }
@@ -922,7 +922,7 @@ content:
       sort:
         - title
     fields:
-      - { name: title, type: string, label: Title }
+      - { name: name, type: string, label: Name }
       - { name: subtitle, type: string, label: Subtitle }
       - { name: thumbnail, type: image, label: Thumbnail }
       - { name: order, type: number, label: Order }
@@ -974,7 +974,7 @@ content:
     type: collection
     filename: "{primary}.md"
     fields:
-      - { name: title, type: string, label: Title }
+      - { name: name, type: string, label: Name }
       - { name: subtitle, type: string, label: Subtitle }
       - { name: thumbnail, type: image, label: Thumbnail }
       - { name: order, type: number, label: Order }

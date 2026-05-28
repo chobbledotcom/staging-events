@@ -1,5 +1,5 @@
 ---
-title: "Prostate Cancer UK"
+name: "Prostate Cancer UK"
 subtitle: "March for Men"
 description: "Full production and logistics support for Prostate Cancer UK's March for Men events across the UK."
 header_image: images/prostate-cancer-uk-march-for-men-stage.jpg
@@ -16,7 +16,7 @@ blocks:
       Full production and logistics for the UK-wide fundraising walks.
 
   - type: split-image
-    title: About Prostate Cancer UK
+    subtitle: About Prostate Cancer UK
     reverse: true
     reveal_content: right
     reveal_figure: scale
@@ -26,7 +26,7 @@ blocks:
     figure_alt: Supporting Prostate Cancer UK logo
 
   - type: split-image
-    title: Delivering March for Men
+    subtitle: Delivering March for Men
     reveal_content: left
     content: |
       We handle the full production and logistics for Prostate Cancer UK's March for Men, which is one of the charity's main fundraising events.
@@ -36,7 +36,7 @@ blocks:
     figure_alt: Prostate Cancer UK March for Men start gantry
 
   - type: split-image
-    title: Stage, Sound and LED
+    subtitle: Stage, Sound and LED
     reverse: true
     reveal_content: right
     content: |
@@ -68,8 +68,8 @@ blocks:
         text: Water supply and distribution
 
   - type: cta
-    title: Plan Your Nationwide Event
-    description: >-
+    content: |
+      ## Plan Your Nationwide Event
       Get in touch and we'll go through production and logistics for a mass participation walk, however many venues are involved.
     button:
       text: Contact Us

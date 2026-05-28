@@ -1,5 +1,5 @@
 ---
-title: Festoon Lighting
+name: Festoon Lighting
 subtitle: Atmospheric event lighting from £149 per 100 metres
 description: Festoon lighting hire from £149 per 100 metres. Indoor and outdoor event lighting for festivals, weddings, corporate events and marquees. Professional installation included.
 header_image: images/church-event-atmospheric-lighting.jpg
@@ -35,7 +35,7 @@ eleventyNavigation:
   parent: Event Infrastructure
 blocks:
   - type: split-image
-    title: Festoon Lighting
+    subtitle: Festoon Lighting
     content: |-
       Transform any venue with warm, atmospheric festoon lighting that works brilliantly both indoors and out. Perfect for festivals, private parties, corporate events and marquee installations, our lighting creates inviting ambiance as evening falls and keeps your event glowing well into the night. Order individually or in multiple runs to cover larger sites.
 
@@ -47,6 +47,7 @@ blocks:
       href: /contact/
       variant: primary
   - type: markdown
+    dark: true
     content: |-
       Our festoon lighting is available for festivals, private parties, corporate functions and weddings, and works well both indoors and outdoors. It works in marquees, outdoor festival sites and indoor venues, and provides useful lighting from early evening through to late at night.
 
@@ -57,6 +58,7 @@ blocks:
       - Order individually or in multiple units to cover larger sites
       - All prices subject to VAT
   - type: markdown
+    dark: true
     content: |-
       ### Indoor and Outdoor Use
 
@@ -66,48 +68,51 @@ blocks:
 
       Festoon lighting also serves a practical purpose, providing even illumination across large areas during evening hours and keeping the site well-lit for events that run late.
   - type: features
+    dark: true
     intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
-        title: Festivals and outdoor music events
+        name: Festivals and outdoor music events
         description: ""
       - icon: mdi:check-circle
-        title: Marquee weddings and garden parties
+        name: Marquee weddings and garden parties
         description: ""
       - icon: mdi:check-circle
-        title: Corporate events and product launches
+        name: Corporate events and product launches
         description: ""
       - icon: mdi:check-circle
-        title: Exhibition halls and trade shows
+        name: Exhibition halls and trade shows
         description: ""
       - icon: mdi:check-circle
-        title: Event villages, walkways and dining areas
+        name: Event villages, walkways and dining areas
         description: ""
       - icon: mdi:check-circle
-        title: Evening receptions and after-parties
+        name: Evening receptions and after-parties
         description: ""
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: 100 metre runs
+        name: 100 metre runs
         description: ""
       - icon: mdi:check-circle
-        title: Indoor and outdoor use
+        name: Indoor and outdoor use
         description: ""
       - icon: mdi:check-circle
-        title: Works with marquees
+        name: Works with marquees
         description: ""
       - icon: mdi:check-circle
-        title: Professional installation
+        name: Professional installation
         description: ""
       - icon: mdi:check-circle
-        title: Creates evening atmosphere
+        name: Creates evening atmosphere
         description: ""
       - icon: mdi:check-circle
-        title: Additional lengths available
+        name: Additional lengths available
         description: ""
   - type: stats
+    dark: true
     items:
       - value: From £149 per 100m
         label: Hire Price

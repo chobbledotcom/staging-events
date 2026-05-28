@@ -1,5 +1,5 @@
 ---
-title: Large Trailer Stage
+name: Large Trailer Stage
 subtitle: 8m x 6m mobile stage
 description: Large trailer stage hire with 8m x 6m deck size. Mobile staging solution for outdoor events, festivals and concerts UK-wide.
 header_image: images/band-on-trailer-stage.jpg
@@ -30,7 +30,7 @@ eleventyNavigation:
   parent: Staging
 blocks:
   - type: split-image
-    title: Large Trailer Stage
+    subtitle: Large Trailer Stage
     content: |-
       Our largest mobile trailer stage, offering an 8m x 6m performance area with a full covered truss roof structure for outdoor festivals, concerts and major events. We have supplied stages of this size for over 25 years.
 
@@ -49,6 +49,7 @@ blocks:
       - image: /images/trailer-stage-town-centre-market.jpg
       - image: /images/trailer-stage-aerial-with-marquee.jpg
   - type: markdown
+    dark: true
     content: |-
       Our largest mobile trailer stage delivers an 8m x 6m performance area, used for festivals, outdoor concerts and major public events. The full covered truss roof structure provides weather protection for performers and equipment, while the trailer-mounted design means quick deployment on site.
 
@@ -56,27 +57,29 @@ blocks:
 
       Full covered truss roof structure with solid rigging points for speakers, lighting rigs and production equipment. The performance area and overhead clearance accommodate large stage setups while keeping the deck clear for performers.
   - type: features
+    dark: true
     intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
-        title: Music festivals and multi-day outdoor concerts
+        name: Music festivals and multi-day outdoor concerts
         description: ""
       - icon: mdi:check-circle
-        title: Large corporate events and product launches
+        name: Large corporate events and product launches
         description: ""
       - icon: mdi:check-circle
-        title: Council events and civic celebrations
+        name: Council events and civic celebrations
         description: ""
       - icon: mdi:check-circle
-        title: Fireworks displays and Christmas light switch-ons
+        name: Fireworks displays and Christmas light switch-ons
         description: ""
       - icon: mdi:check-circle
-        title: Outdoor theatre and dance performances
+        name: Outdoor theatre and dance performances
         description: ""
       - icon: mdi:check-circle
-        title: Charity events and community gatherings
+        name: Charity events and community gatherings
         description: ""
   - type: markdown
+    dark: true
     content: |-
       ### Additional Options
 
@@ -88,7 +91,7 @@ blocks:
       - Accessible ramp on request
       - Custom stage dimensions available
   - type: split-html
-    title: Weather Protection and Setup
+    subtitle: Weather Protection and Setup
     content: |-
       The covered roof structure shields performers and equipment from rain and wind. Side walls are available for additional protection in challenging weather.
 
@@ -103,24 +106,26 @@ blocks:
       - Risk assessments and method statements
       - £5 million public liability insurance
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: 8m x 6m deck size
+        name: 8m x 6m deck size
         description: ""
       - icon: mdi:check-circle
-        title: Mobile trailer-mounted
+        name: Mobile trailer-mounted
         description: ""
       - icon: mdi:check-circle
-        title: Quick deployment
+        name: Quick deployment
         description: ""
       - icon: mdi:check-circle
-        title: Professional outdoor stage
+        name: Professional outdoor stage
         description: ""
       - icon: mdi:check-circle
-        title: Suitable for festivals and concerts
+        name: Suitable for festivals and concerts
         description: ""
   - type: stats
+    dark: true
     items:
       - value: 8m x 6m
         label: Size
@@ -130,7 +135,7 @@ blocks:
         label: Setup
   - type: split-html
     reverse: true
-    title: Built for Big Events
+    subtitle: Built for Big Events
     content: |-
       The Large Trailer Stage suits headline acts, festival line-ups and large-scale corporate productions.
 

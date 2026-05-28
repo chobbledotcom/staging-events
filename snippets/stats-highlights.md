@@ -1,6 +1,7 @@
 ---
 blocks:
   - type: stats
+    dark: true
     items:
       - value: "25+"
         label: Years Experience

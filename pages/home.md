@@ -1,7 +1,7 @@
 ---
 permalink: "/"
 layout: "design-system-base.html"
-title: "Staging, Event Hire and Production across the UK"
+name: "Staging, Event Hire and Production across the UK"
 description: "UK's leading staging and event hire company. Over 25 years experience in stage hire, event infrastructure and logistics for events nationwide."
 eleventyNavigation:
   key: Home
@@ -19,7 +19,7 @@ blocks:
 
   # Services intro
   - type: split-image
-    title: Full Production, Equipment Hire and Logistics
+    subtitle: Full Production, Equipment Hire and Logistics
     reveal_content: left
     content: |
       Staging Events is a full production, equipment hire and logistics company. We work out of a 25,000 sq ft warehouse in Rotherham, just off the M1 and M18, and we cover events across the whole of the UK from there.
@@ -42,29 +42,30 @@ blocks:
 
   # Service blocks
   - type: features
+    dark: true
     intro_content: |
       ## What We Do
     items:
       - icon: "mdi:theater"
-        title: Hire
+        name: Hire
         description: >-
           We hire out our own kit, including [stage hire](/categories/staging/),
           compere and MC services, [truss hire](/categories/trussing/),
           [generator hire](/categories/power/), [PA](/categories/audio/), and
           [tables and chair hire](/categories/event-infrastructure/).
       - icon: "mdi:warehouse"
-        title: Store
+        name: Store
         description: >-
           We have secure, managed storage in the Rotherham warehouse, with
           room for anything from a single pallet up to around 10,000 sq ft.
       - icon: "mdi:package-variant-closed"
-        title: Fulfilment
+        name: Fulfilment
         description: >-
           We handle pack assembly, mailings and dispatch for fundraising
           campaigns, newsletters and events - see [fulfilment](/services/)
           for the detail.
       - icon: "mdi:truck-delivery"
-        title: Logistics
+        name: Logistics
         description: >-
           We run our own vehicles and full-time drivers, with a courier
           network for the days we need extra hands - see
@@ -79,6 +80,7 @@ blocks:
 
   # Stats
   - type: stats
+    dark: true
     items:
       - value: "25+"
         label: Years Experience
@@ -98,21 +100,21 @@ blocks:
       A few of the charities and events we've been working with for a while.
     items:
       - icon: "mdi:walk"
-        title: Alzheimer's Society Memory Walk
+        name: Alzheimer's Society Memory Walk
         description: 110,000 participants over 7 weeks
       - icon: "mdi:ribbon"
-        title: Prostate Cancer March for Men
+        name: Prostate Cancer March for Men
         description: Full production and logistics support
       - icon: "mdi:hospital-building"
-        title: Sheffield Children's Hospital Charity
+        name: Sheffield Children's Hospital Charity
         description: Event hire and production services
       - icon: "mdi:heart-pulse"
-        title: Epilepsy Society
+        name: Epilepsy Society
         description: Nationwide event support
 
   - type: cta
-    title: Ready to Plan Your Event?
-    description: >-
+    content: |
+      ## Ready to Plan Your Event?
       Get in touch and we'll talk through what you need.
     button:
       text: Contact Us

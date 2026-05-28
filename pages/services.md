@@ -1,7 +1,7 @@
 ---
 permalink: "/services/"
 layout: "design-system-base"
-title: "Our Services"
+name: "Our Services"
 description: "Comprehensive event services including staging, PA systems, event infrastructure, logistics and equipment hire across the UK."
 eleventyNavigation:
   key: Services
@@ -34,16 +34,16 @@ blocks:
       Beyond equipment hire, we offer a full range of support services.
     items:
       - icon: "mdi:truck-delivery"
-        title: Logistics
+        name: Logistics
         description: Delivery of event equipment anywhere in the UK with dedicated full-time drivers, our own vehicles and trailers, a network of couriers, same-day service and experienced event delivery teams.
       - icon: "mdi:package-variant-closed"
-        title: Fulfilment
+        name: Fulfilment
         description: Charity fundraising pack fulfilment and dispatch, newsletter and certificate mailings, marketing materials printing and mailings.
       - icon: "mdi:warehouse"
-        title: Storage
+        name: Storage
         description: 25,000 sq ft warehouse in Rotherham with pallet services, forklift trucks available, secure dedicated space allocation and stock management.
       - icon: "mdi:water"
-        title: Water
+        name: Water
         description: Supply of bottled water for any event or festival at wholesale prices with charitable discounts available and on-the-day distribution and handling.
 
   # Indoor staging showcase
@@ -70,8 +70,8 @@ blocks:
 
   # CTA
   - type: cta
-    title: Ready to Plan Your Event?
-    description: >-
+    content: |
+      ## Ready to Plan Your Event?
       Contact our team to discuss your requirements and get a quote.
     button:
       text: Get a Quote

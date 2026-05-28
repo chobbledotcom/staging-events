@@ -1,7 +1,7 @@
 ---
 permalink: "/locations/"
 layout: "design-system-base.html"
-title: "Event Hire Locations"
+name: "Event Hire Locations"
 description: "Staging and event equipment hire across South Yorkshire, West Yorkshire and beyond. Local service from our Rotherham warehouse with delivery to Sheffield, Doncaster, Barnsley, Leeds and nationwide."
 header_image: images/rotherham-wow-festival-acoustic-stage.jpg
 header_text: Our Locations
@@ -15,7 +15,7 @@ blocks:
       Local staging and event hire across Yorkshire and beyond
 
   - type: split-image
-    title: Based in South Yorkshire, Serving the UK
+    subtitle: Based in South Yorkshire, Serving the UK
     reveal_content: left
     content: |
       Operating from our **25,000 sq ft warehouse in Maltby, Rotherham**, we deliver professional staging and event equipment across Yorkshire and nationwide.
@@ -44,8 +44,8 @@ blocks:
     reference: stats-highlights
 
   - type: cta
-    title: Don't See Your Area?
-    description: >-
+    content: |
+      ## Don't See Your Area?
       We deliver event equipment across the UK. Get in touch to discuss your event, wherever you are.
     button:
       text: Contact Us

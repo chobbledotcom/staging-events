@@ -1,5 +1,5 @@
 ---
-title: Stage Hire in Sheffield
+name: Stage Hire in Sheffield
 header_text: Sheffield Stage Hire
 subtitle: Professional staging and event hire in Sheffield
 description: Stage hire, PA systems, photo booths and event equipment hire in Sheffield. Over 25 years experience delivering events across Sheffield and South Yorkshire.
@@ -21,7 +21,7 @@ blocks:
       Event equipment and production services for Sheffield's venues and outdoor spaces
 
   - type: split-image
-    title: Event Hire Across Sheffield
+    subtitle: Event Hire Across Sheffield
     reveal_content: left
     reveal_figure: scale
     content: |
@@ -49,23 +49,25 @@ blocks:
     horizontal: true
 
   - type: features
+    dark: true
     intro_content: |
       ## Why Choose Staging Events in Sheffield?
     items:
       - icon: "mdi:truck-delivery"
-        title: Nearby Warehouse
+        name: Nearby Warehouse
         description: Based in Maltby, just 20 minutes from Sheffield city centre
       - icon: "mdi:calendar-check"
-        title: Flexible Scheduling
+        name: Flexible Scheduling
         description: Setup and collection times to suit your event
       - icon: "mdi:account-group"
-        title: Experienced Crew
+        name: Experienced Crew
         description: Professional staff who know Sheffield's venues
       - icon: "mdi:shield-check"
-        title: Fully Insured
+        name: Fully Insured
         description: Complete public liability cover for your peace of mind
 
   - type: stats
+    dark: true
     items:
       - value: "25+"
         label: Years Experience
@@ -77,11 +79,12 @@ blocks:
         label: Setup Included
 
   - type: markdown
+    dark: true
     content: |-
       We deliver professional staging and event hire across Sheffield, from city centre venues to parks and outdoor spaces. Our Maltby warehouse is just 20 minutes away, meaning fast delivery and competitive rates for events across the city.
   - type: cta
-    title: Planning an Event in Sheffield?
-    description: >-
+    content: |
+      ## Planning an Event in Sheffield?
       Contact our team for a free quote. We offer site visits across Sheffield to help plan your perfect event.
     button:
       text: Contact Us

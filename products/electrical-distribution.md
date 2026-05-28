@@ -1,5 +1,5 @@
 ---
-title: Electrical Distribution Hire
+name: Electrical Distribution Hire
 subtitle: Power distribution for events
 description: Electrical distribution hire for events including distribution boards, cabling and power management. Safe, compliant power solutions for stages, lighting and event infrastructure.
 header_image: images/event-stage-setup.jpg
@@ -31,7 +31,7 @@ eleventyNavigation:
   parent: Power
 blocks:
   - type: split-image
-    title: Electrical Distribution Hire
+    subtitle: Electrical Distribution Hire
     reveal_content: left
     reveal_figure: scale
     content: |-
@@ -45,6 +45,7 @@ blocks:
       href: /contact/
       variant: primary
   - type: markdown
+    dark: true
     content: |-
       Professional electrical distribution hire for events across the UK. When you need to get power from a generator or mains supply to multiple locations across your event site, our distribution equipment ensures safe, reliable electricity delivery.
 
@@ -52,27 +53,29 @@ blocks:
 
       We provide distribution boards, cabling runs and power management equipment sized to your event requirements. Whether you are powering a single stage with PA and lighting or distributing electricity across a multi-zone festival site with catering, bars and multiple performance areas, we can specify and supply the right setup.
   - type: features
+    dark: true
     intro_content: "## What's Included"
     items:
       - icon: mdi:check-circle
-        title: Distribution boards and consumer units
+        name: Distribution boards and consumer units
         description: ""
       - icon: mdi:check-circle
-        title: Cabling and connectors
+        name: Cabling and connectors
         description: ""
       - icon: mdi:check-circle
-        title: PAT tested equipment
+        name: PAT tested equipment
         description: ""
       - icon: mdi:check-circle
-        title: Delivery, setup and collection
+        name: Delivery, setup and collection
         description: ""
       - icon: mdi:check-circle
-        title: Risk assessments and method statements
+        name: Risk assessments and method statements
         description: ""
       - icon: mdi:check-circle
-        title: £5 million public liability insurance
+        name: £5 million public liability insurance
         description: ""
   - type: markdown
+    dark: true
     content: |-
       ### Pairs With
 
@@ -82,25 +85,26 @@ blocks:
       - Festoon lighting
       - Catering and bar power
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: Distribution boards and cabling
+        name: Distribution boards and cabling
         description: ""
       - icon: mdi:check-circle
-        title: Safe power management for events
+        name: Safe power management for events
         description: ""
       - icon: mdi:check-circle
-        title: Pairs with generator hire
+        name: Pairs with generator hire
         description: ""
       - icon: mdi:check-circle
-        title: PAT tested equipment
+        name: PAT tested equipment
         description: ""
       - icon: mdi:check-circle
-        title: Compliant with event regulations
+        name: Compliant with event regulations
         description: ""
       - icon: mdi:check-circle
-        title: UK-wide delivery and setup
+        name: UK-wide delivery and setup
         description: ""
   - type: contact-form
     content: |-

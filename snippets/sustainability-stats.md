@@ -1,6 +1,7 @@
 ---
 blocks:
   - type: stats
+    dark: true
     items:
       - value: "100,000+"
         label: Plastic Bottles Prevented

@@ -1,5 +1,5 @@
 ---
-title: DJ Trailer Stage
+name: DJ Trailer Stage
 subtitle: 3m x 3m covered stage with branding options
 description: Compact DJ trailer stage hire with 3m x 3m covered deck. Perfect for solo gigs and DJ sets with custom branding options available.
 header_image: images/memory-walk-stage-setup.jpg
@@ -33,7 +33,7 @@ eleventyNavigation:
   parent: Staging
 blocks:
   - type: split-image
-    title: DJ Trailer Stage
+    subtitle: DJ Trailer Stage
     reveal_content: left
     reveal_figure: scale
     content: |-
@@ -52,6 +52,7 @@ blocks:
       - image: /images/memory-walk-stage-close-up.jpg
       - image: /images/pa-speakers-dj-booth-inflatable-tent.jpg
   - type: markdown
+    dark: true
     content: |-
       A compact covered stage designed specifically for DJs, comperes and solo performers. With external measurements of 5m x 4m and a usable internal space of 3m x 4m, this mobile unit provides a covered performance platform for outdoor events. The Velcro front panel makes it simple to add your own branding.
 
@@ -71,7 +72,7 @@ blocks:
       - Custom branded front panels
       - Audio technicians
   - type: split-html
-    title: Covered Performance Space
+    subtitle: Covered Performance Space
     content: |-
       The stage canopy provides full overhead cover, protecting performers and equipment from the elements. The 3m x 4m internal space gives performers enough room to set up decks, instruments or presentation equipment while staying sheltered.
     figure_html: |-
@@ -84,27 +85,29 @@ blocks:
       - Risk assessments and method statements
       - £5 million public liability insurance
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: 3m x 3m deck size
+        name: 3m x 3m deck size
         description: ""
       - icon: mdi:check-circle
-        title: Covered stage
+        name: Covered stage
         description: ""
       - icon: mdi:check-circle
-        title: Custom branding options
+        name: Custom branding options
         description: ""
       - icon: mdi:check-circle
-        title: Perfect for DJ sets
+        name: Perfect for DJ sets
         description: ""
       - icon: mdi:check-circle
-        title: Suitable for solo gigs
+        name: Suitable for solo gigs
         description: ""
       - icon: mdi:check-circle
-        title: Mobile and compact
+        name: Mobile and compact
         description: ""
   - type: stats
+    dark: true
     items:
       - value: 5m x 4m
         label: External Size
@@ -116,7 +119,7 @@ blocks:
         label: Side Banners
   - type: split-html
     reverse: true
-    title: Easy Branding
+    subtitle: Easy Branding
     content: |-
       A Velcro panel on the front of the canopy makes it easy to attach custom branding. The panel accepts printed artwork, letting you display your event logo, sponsor details or company branding in minutes. Our team can advise on panel sizing, artwork requirements and production.
     figure_html: |-

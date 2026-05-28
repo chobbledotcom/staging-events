@@ -1,5 +1,5 @@
 ---
-title: Marquee and Gazebo Hire
+name: Marquee and Gazebo Hire
 subtitle: Pop-up gazebos and marquees for any event
 description: Marquee and gazebo hire from £85. Pop-up gazebo marquees in 3x3m and 3x4.5m sizes. Professional delivery and setup with optional tables, chairs, lighting and flooring.
 header_image: images/stage-with-gazebo-and-barriers.jpg
@@ -37,7 +37,7 @@ eleventyNavigation:
   parent: Staging
 blocks:
   - type: split-image
-    title: Marquee and Gazebo Hire
+    subtitle: Marquee and Gazebo Hire
     content: |-
       Commercial-grade pop-up gazebos and marquees in 3x3m and 3x4.5m sizes, complete with sides and a door for full enclosure. Quality materials retain warmth and provide shelter for garden parties, charity fun days, market stalls and outdoor events on grass or hard standing.
 
@@ -49,42 +49,46 @@ blocks:
       href: /contact/
       variant: primary
   - type: markdown
+    dark: true
     content: |-
       Commercial-grade pop-up gazebos and mini marquees built for professional use at outdoor events. Our 3x4.5m marquees feature adjustable ceiling height options, full sides and a door for complete enclosure, using quality materials designed to retain warmth and keep guests comfortable. These gazebos provide weatherproof shelter on grass or hard standing.
   - type: features
+    dark: true
     intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
-        title: Garden parties and private celebrations
+        name: Garden parties and private celebrations
         description: ""
       - icon: mdi:check-circle
-        title: Charity fun days and community events
+        name: Charity fun days and community events
         description: ""
       - icon: mdi:check-circle
-        title: Market trading stalls and pop-up shops
+        name: Market trading stalls and pop-up shops
         description: ""
       - icon: mdi:check-circle
-        title: Festival VIP areas and backstage shelters
+        name: Festival VIP areas and backstage shelters
         description: ""
       - icon: mdi:check-circle
-        title: Corporate hospitality and registration areas
+        name: Corporate hospitality and registration areas
         description: ""
       - icon: mdi:check-circle
-        title: Outdoor catering and refreshment stations
+        name: Outdoor catering and refreshment stations
         description: ""
   - type: features
+    dark: true
     intro_content: "## Available Sizes"
     items:
       - icon: mdi:check-circle
-        title: 3x3m Gazebo Marquee
+        name: 3x3m Gazebo Marquee
         description: From £85
       - icon: mdi:check-circle
-        title: 3x4.5m Pop-up Gazebo Marquee
+        name: 3x4.5m Pop-up Gazebo Marquee
         description: From £85
       - icon: mdi:check-circle
-        title: 3x4.5m Gazebo Marquee (Black)
+        name: 3x4.5m Gazebo Marquee (Black)
         description: From £95
   - type: markdown
+    dark: true
     content: |-
       ### Optional Extras
 
@@ -99,7 +103,7 @@ blocks:
       - Mobile fire point trolley from £45
       - Foot-operated sanitiser station from £29
   - type: split-html
-    title: Shelter and Comfort
+    subtitle: Shelter and Comfort
     content: |-
       Each marquee comes with sides and a door for complete enclosure, providing a dry, sheltered space. The quality material retains heat effectively, so the marquees work throughout the year. They can be positioned on grass or hard standing with no special groundwork required.
     figure_html: |-
@@ -111,27 +115,29 @@ blocks:
       - Risk assessments and method statements
       - £5 million public liability insurance
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: 3x3m and 3x4.5m sizes
+        name: 3x3m and 3x4.5m sizes
         description: ""
       - icon: mdi:check-circle
-        title: Quick pop-up setup
+        name: Quick pop-up setup
         description: ""
       - icon: mdi:check-circle
-        title: Professional delivery and setup
+        name: Professional delivery and setup
         description: ""
       - icon: mdi:check-circle
-        title: Optional tables and chairs
+        name: Optional tables and chairs
         description: ""
       - icon: mdi:check-circle
-        title: Lighting packages available
+        name: Lighting packages available
         description: ""
       - icon: mdi:check-circle
-        title: Flooring options
+        name: Flooring options
         description: ""
   - type: stats
+    dark: true
     items:
       - value: From £85
         label: Hire Price
@@ -147,7 +153,7 @@ blocks:
         label: Flooring
   - type: split-html
     reverse: true
-    title: Complete Event Setup
+    subtitle: Complete Event Setup
     content: |-
       We supply tables, chairs, lighting and flooring alongside marquee hire, all in one booking.
     figure_html: |-

@@ -1,5 +1,5 @@
 ---
-title: Large Trussing Gantry
+name: Large Trussing Gantry
 subtitle: Start and finish gantry for larger events
 description: Large trussing gantry hire for charity runs, marathons and events. Custom branding available with 300gsm PVC Mesh.
 header_image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
@@ -31,7 +31,7 @@ eleventyNavigation:
   parent: Gantries
 blocks:
   - type: split-image
-    title: Large Trussing Gantry
+    subtitle: Large Trussing Gantry
     content: |-
       A large-format inflatable gantry measuring 6.58m x 1.58m across the top with 3m x 0.29m side panels, delivering maximum branding impact for higher-profile events. Includes full setup, takedown and inflation fan, with customisable designs, free printing for multiple bookings and complimentary storage for branded versions.
 
@@ -51,6 +51,7 @@ blocks:
       - image: /images/large-trussing.png
         caption: Specifications and dimensions
   - type: markdown
+    dark: true
     content: |-
       Our large trussing gantry provides a visible start and finish line at charity runs, marathons, cycling races and mass participation events. With a significantly larger top panel than the medium model, it provides good visibility for participants and spectators.
 
@@ -66,27 +67,29 @@ blocks:
 
       This gantry is part of our wider event staging offering. We supply experienced event support staff to manage your start and finish line, coordinate crowd control, handle event logistics and arrange bottled water distribution for mass participation events. Generators are also available on request. We work closely with organisers to build a complete support package, from staging infrastructure to on-the-ground staffing.
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: Custom branding available
+        name: Custom branding available
         description: ""
       - icon: mdi:check-circle
-        title: 300gsm PVC Mesh material
+        name: 300gsm PVC Mesh material
         description: ""
       - icon: mdi:check-circle
-        title: Professional appearance
+        name: Professional appearance
         description: ""
       - icon: mdi:check-circle
-        title: Larger span for wider finish lines
+        name: Larger span for wider finish lines
         description: ""
       - icon: mdi:check-circle
-        title: Attachment and detachment included
+        name: Attachment and detachment included
         description: ""
       - icon: mdi:check-circle
-        title: Storage included at no additional cost
+        name: Storage included at no additional cost
         description: ""
   - type: stats
+    dark: true
     items:
       - value: From £995
         label: Hire Price

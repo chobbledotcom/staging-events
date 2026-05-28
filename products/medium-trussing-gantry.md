@@ -1,5 +1,5 @@
 ---
-title: Medium Trussing Gantry
+name: Medium Trussing Gantry
 subtitle: Start and finish gantry for events
 description: Medium trussing gantry hire for charity runs, marathons and events. Custom branding available with 300gsm PVC Mesh.
 header_image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
@@ -30,7 +30,7 @@ eleventyNavigation:
   parent: Gantries
 blocks:
   - type: split-image
-    title: Medium Trussing Gantry
+    subtitle: Medium Trussing Gantry
     content: |-
       A professional inflatable gantry system with custom-designed panels measuring 6.58m x 0.29m across the top and 3m x 0.29m side legs. Ideal for races on grass, hard standing, tarmac, artificial turf or mixed surfaces, with full setup, takedown and electric inflation fan included. Free printing is available for multiple bookings, and we store branded versions at no extra cost.
 
@@ -50,6 +50,7 @@ blocks:
       - image: /images/medium-trussing.png
         caption: Specifications and dimensions
   - type: markdown
+    dark: true
     content: |-
       Our medium trussing gantry is a professional start and finish line structure designed for charity runs, marathons, cycling events and mass participation races. With custom-designed panels and a clean, branded appearance, and it works on most surfaces.
 
@@ -65,24 +66,26 @@ blocks:
 
       We deliver and set up across the UK, with event support staff available to manage your start and finish line throughout the day. Whether you need a single gantry for a local fun run or a complete staging solution for a city-centre marathon, our team handles setup and takedown.
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: Custom branding available
+        name: Custom branding available
         description: ""
       - icon: mdi:check-circle
-        title: 300gsm PVC Mesh material
+        name: 300gsm PVC Mesh material
         description: ""
       - icon: mdi:check-circle
-        title: Professional appearance
+        name: Professional appearance
         description: ""
       - icon: mdi:check-circle
-        title: Attachment and detachment included
+        name: Attachment and detachment included
         description: ""
       - icon: mdi:check-circle
-        title: Storage included at no additional cost
+        name: Storage included at no additional cost
         description: ""
   - type: stats
+    dark: true
     items:
       - value: From £695
         label: Hire Price

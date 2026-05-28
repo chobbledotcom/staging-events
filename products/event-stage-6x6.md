@@ -1,5 +1,5 @@
 ---
-title: Event Stage 6x6m
+name: Event Stage 6x6m
 subtitle: Large stage with weather protection for major events
 description: 6x6m event stage hire from £1,450 + delivery. Supports a 5-piece band and 15 singers with wind and showerproof side walls. Professional production staging for festivals and large events.
 header_image: images/fan-party-large-stage.jpg
@@ -41,7 +41,7 @@ eleventyNavigation:
   parent: Staging
 blocks:
   - type: split-image
-    title: Event Stage 6x6m
+    subtitle: Event Stage 6x6m
     content: |-
       A 6x6m covered truss stage with 36 square metres of performance area, big enough for a five-piece band or up to 15 performers. Full roof structure and weather-resistant side walls mean your event goes ahead regardless of conditions.
 
@@ -53,6 +53,7 @@ blocks:
       href: /contact/
       variant: primary
   - type: markdown
+    dark: true
     content: |-
       A large 6x6m covered truss stage offering 36 square metres of performance space, large enough for a five-piece band or up to 15 performers. The full roof structure and weather-resistant side walls keep the stage sheltered, and works for outdoor events year-round. Setup and breakdown each take approximately 1.5 hours.
 
@@ -60,24 +61,26 @@ blocks:
 
       Built on 50mm tubular trussing with solid rigging points throughout. The truss system supports speakers, lighting rigs and production equipment overhead, keeping the 36 sqm stage floor completely clear for performers.
   - type: features
+    dark: true
     intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
-        title: Festivals and outdoor concerts
+        name: Festivals and outdoor concerts
         description: ""
       - icon: mdi:check-circle
-        title: Large corporate events and product launches
+        name: Large corporate events and product launches
         description: ""
       - icon: mdi:check-circle
-        title: Community celebrations and charity galas
+        name: Community celebrations and charity galas
         description: ""
       - icon: mdi:check-circle
-        title: Fireworks displays and Christmas light switch-ons
+        name: Fireworks displays and Christmas light switch-ons
         description: ""
       - icon: mdi:check-circle
-        title: Outdoor theatre and dance performances
+        name: Outdoor theatre and dance performances
         description: ""
   - type: markdown
+    dark: true
     content: |-
       ### Additional Options
 
@@ -90,7 +93,7 @@ blocks:
       - Multi-item discounts when booking stage alongside PA, lighting or other equipment
   - type: split-html
     reverse: true
-    title: Weather Protection and Inclusions
+    subtitle: Weather Protection and Inclusions
     content: |-
       The full roof structure combined with wind and showerproof side walls creates a sheltered performance environment. This protects performers and equipment in rain or wind.
     figure_html: |-
@@ -105,27 +108,29 @@ blocks:
       - £5 million public liability insurance
       - Accessible ramp available on request
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: 6m x 6m stage area
+        name: 6m x 6m stage area
         description: ""
       - icon: mdi:check-circle
-        title: 5-piece band and 15 singers
+        name: 5-piece band and 15 singers
         description: ""
       - icon: mdi:check-circle
-        title: Wind and showerproof side walls
+        name: Wind and showerproof side walls
         description: ""
       - icon: mdi:check-circle
-        title: Stage canopy available
+        name: Stage canopy available
         description: ""
       - icon: mdi:check-circle
-        title: Custom branding options
+        name: Custom branding options
         description: ""
       - icon: mdi:check-circle
-        title: Professional setup included
+        name: Professional setup included
         description: ""
   - type: stats
+    dark: true
     items:
       - value: 6m x 6m
         label: Size

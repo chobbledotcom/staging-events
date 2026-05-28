@@ -1,5 +1,5 @@
 ---
-title: Stage Hire in Leeds
+name: Stage Hire in Leeds
 header_text: Leeds Stage Hire
 subtitle: Professional staging and event hire in Leeds
 description: Stage hire, PA systems, photo booths and event equipment hire in Leeds. Full event production and logistics from our South Yorkshire base, serving Leeds and West Yorkshire.
@@ -21,7 +21,7 @@ blocks:
       Full event production and equipment hire for Leeds and West Yorkshire
 
   - type: split-image
-    title: Event Hire for Leeds
+    subtitle: Event Hire for Leeds
     reveal_content: left
     reveal_figure: scale
     content: |
@@ -50,23 +50,25 @@ blocks:
     horizontal: true
 
   - type: features
+    dark: true
     intro_content: |
       ## Why Choose Us for Leeds Events?
     items:
       - icon: "mdi:road-variant"
-        title: Easy Access
+        name: Easy Access
         description: Direct M1/M62 route from our warehouse to Leeds
       - icon: "mdi:warehouse"
-        title: 25,000 sq ft Warehouse
+        name: 25,000 sq ft Warehouse
         description: Huge stock of equipment ready for your event
       - icon: "mdi:account-group"
-        title: Experienced Crew
+        name: Experienced Crew
         description: Staff who know Leeds venues and logistics
       - icon: "mdi:charity"
-        title: Charity Specialists
+        name: Charity Specialists
         description: Trusted by major charities for mass participation events
 
   - type: stats
+    dark: true
     items:
       - value: "25+"
         label: Years Experience
@@ -78,11 +80,12 @@ blocks:
         label: Service Area
 
   - type: markdown
+    dark: true
     content: |-
       Staging Events provides comprehensive event hire and production across Leeds and West Yorkshire. From our South Yorkshire base, we deliver stages, PA systems, photo booths and full event infrastructure for events of all sizes.
   - type: cta
-    title: Planning an Event in Leeds?
-    description: >-
+    content: |
+      ## Planning an Event in Leeds?
       Get in touch for a free quote. We offer site visits across Leeds and West Yorkshire.
     button:
       text: Contact Us

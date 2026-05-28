@@ -1,5 +1,5 @@
 ---
-title: Event Infrastructure
+name: Event Infrastructure
 header_text: Event Infrastructure Hire
 subtitle: Crowd control, lighting, furniture and event essentials
 description: Event infrastructure hire including festoon lighting, crowd barriers, generators and event furniture. Professional event setup equipment for exhibitions, festivals and corporate events UK-wide.
@@ -10,7 +10,7 @@ eleventyNavigation:
   order: 6
 blocks:
   - type: hero
-    title: Event Infrastructure Hire
+    name: Event Infrastructure Hire
     lead: Crowd control, lighting, furniture and event essentials
     class: gradient
   - type: items
@@ -19,11 +19,13 @@ blocks:
       property: data.categories
       includes: event-infrastructure
   - type: markdown
+    dark: true
     content: |-
       Essential event infrastructure hire including festoon lighting, crowd barriers, generators and safety equipment. Everything you need to complete your event setup, delivered and installed by our crew.
   - type: cta
-    title: Need Event Infrastructure Hire?
-    description: Contact our team for availability and pricing.
+    content: |
+      ## Need Event Infrastructure Hire?
+      Contact our team for availability and pricing.
     button:
       text: Get a Quote
       href: /contact/

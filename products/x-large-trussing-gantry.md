@@ -1,5 +1,5 @@
 ---
-title: X-Large Trussing Gantry
+name: X-Large Trussing Gantry
 subtitle: Our largest trussing gantry for major events
 description: X-Large trussing gantry hire for major charity runs, marathons and large-scale events. Custom branding available with 300gsm PVC Mesh.
 header_image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
@@ -32,7 +32,7 @@ eleventyNavigation:
   parent: Gantries
 blocks:
   - type: split-image
-    title: X-Large Trussing Gantry
+    subtitle: X-Large Trussing Gantry
     content: |-
       The largest inflatable event structure in our range, with an imposing 9.16m x 1.58m top section and 3m x 1.6m side panels. Purpose-built for major races and mass participation events, this gantry can also be custom-manufactured to your exact specifications. Comprehensive event support, free branded storage and nationwide delivery included.
 
@@ -52,6 +52,7 @@ blocks:
       - image: /images/x-large-trussing-gantry-diagram.png
         caption: Specifications and dimensions
   - type: markdown
+    dark: true
     content: |-
       Our X-Large trussing gantry is the largest inflatable event structure in our range, used for major races, city-centre marathons, triathlons and large mass participation events. With a 9-metre span and tall side panels, it provides a visible finish line that suits the scale of larger events.
 
@@ -67,30 +68,32 @@ blocks:
 
       We provide a full support package including experienced event staff to manage the start and finish line, crowd control coordination, event logistics planning and bottled water distribution for participants.
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: Our largest trussing gantry
+        name: Our largest trussing gantry
         description: ""
       - icon: mdi:check-circle
-        title: Custom branding available
+        name: Custom branding available
         description: ""
       - icon: mdi:check-circle
-        title: 300gsm PVC Mesh material
+        name: 300gsm PVC Mesh material
         description: ""
       - icon: mdi:check-circle
-        title: Professional appearance
+        name: Professional appearance
         description: ""
       - icon: mdi:check-circle
-        title: Maximum span for major events
+        name: Maximum span for major events
         description: ""
       - icon: mdi:check-circle
-        title: Attachment and detachment included
+        name: Attachment and detachment included
         description: ""
       - icon: mdi:check-circle
-        title: Storage included at no additional cost
+        name: Storage included at no additional cost
         description: ""
   - type: stats
+    dark: true
     items:
       - value: From £1,495
         label: Hire Price

@@ -1,6 +1,6 @@
 ---
 layout: "design-system-base"
-title: "Not Found"
+name: "Not Found"
 header_text: Not Found
 meta_description:
 meta_title: Not Found
@@ -9,6 +9,7 @@ no_index: true
 permalink: /bunnycdn_errors/404.html
 blocks:
   - type: markdown
+    dark: true
     content: |-
       ## Page Not Found
 

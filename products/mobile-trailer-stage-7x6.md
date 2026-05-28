@@ -1,5 +1,5 @@
 ---
-title: Mobile Trailer Stage 7x6m
+name: Mobile Trailer Stage 7x6m
 subtitle: 42 sqm mobile stage with slip-proof weatherproof floor
 description: Mobile trailer stage hire from £1,495. 7m x 6m stage area (42 sqm) with slip-proof weatherproof floor, adjustable height, and 30-minute setup. Suitable indoors and outdoors.
 header_image: images/trailer-stage-with-trussing.jpg
@@ -42,7 +42,7 @@ eleventyNavigation:
   parent: Staging
 blocks:
   - type: split-image
-    title: Mobile Trailer Stage 7x6m
+    subtitle: Mobile Trailer Stage 7x6m
     content: |-
       A self-contained mobile trailer stage offering 42 square metres of performance space with a slip-proof weatherproof floor. Sets up in just 30 minutes and is self-balanced for hard standing use, with full 50mm tubular trussing and wind-rated side walls.
 
@@ -54,29 +54,32 @@ blocks:
       href: /contact/
       variant: primary
   - type: markdown
+    dark: true
     content: |-
       Our standard M42 mobile trailer stage delivers 42 square metres of performance space (7m x 6m), comfortably accommodating a 10-piece band and up to 25 singers. Self-contained and self-balanced for hard standing use, this stage requires just 30 minutes to set up and 45 minutes to take down.
 
       The stage height is adjustable between 1.0m and 1.3m above ground, with an overall height of 5m. The slip-proof weatherproof floor has a load capacity of 3.5 kN/m² (approximately 350 kg/m²). Wind and showerproof side walls are rated to 17.8 m/s with covers fitted, or 30 m/s without covers. Full 50mm tubular trussing is included for rigging, along with floodlights for setup and takedown.
   - type: features
+    dark: true
     intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
-        title: Music festivals and outdoor concerts
+        name: Music festivals and outdoor concerts
         description: ""
       - icon: mdi:check-circle
-        title: Large corporate events and conferences
+        name: Large corporate events and conferences
         description: ""
       - icon: mdi:check-circle
-        title: Community celebrations and charity events
+        name: Community celebrations and charity events
         description: ""
       - icon: mdi:check-circle
-        title: Council events and public gatherings
+        name: Council events and public gatherings
         description: ""
       - icon: mdi:check-circle
-        title: Indoor exhibitions and trade shows
+        name: Indoor exhibitions and trade shows
         description: ""
   - type: markdown
+    dark: true
     content: |-
       ### Additional Options
 
@@ -90,6 +93,7 @@ blocks:
   - type: section-header
     intro: "## Pricing"
   - type: stats
+    dark: true
     items:
       - value: From £1,495
         label: Day 1
@@ -99,7 +103,7 @@ blocks:
         label: Day 3
   - type: split-html
     reverse: true
-    title: Truss Frame and Rigging
+    subtitle: Truss Frame and Rigging
     content: |-
       Full 50mm tubular trussing provides rigging points for speakers, lighting and production equipment. The 5m overall height gives clearance for lighting setups, keeping the stage floor clear for performers.
     figure_html: |-
@@ -110,7 +114,7 @@ blocks:
       - **Clear performance deck** for bands and choirs
       - **Suitable for audio and lighting production**
   - type: split-html
-    title: Weather Protection and Setup
+    subtitle: Weather Protection and Setup
     content: |-
       Wind and showerproof side walls protect performers and equipment in challenging conditions. The walls are rated to 17.8 m/s (approximately 40 mph) with covers fitted, while the uncovered structure withstands winds up to 30 m/s (approximately 67 mph).
 
@@ -127,27 +131,29 @@ blocks:
       - Risk assessments and method statements
       - £5 million public liability insurance
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: 7m x 6m stage area (42 sqm)
+        name: 7m x 6m stage area (42 sqm)
         description: ""
       - icon: mdi:check-circle
-        title: 30-minute setup time
+        name: 30-minute setup time
         description: ""
       - icon: mdi:check-circle
-        title: Up to 10-piece band and 25 singers
+        name: Up to 10-piece band and 25 singers
         description: ""
       - icon: mdi:check-circle
-        title: Slip-proof weatherproof floor
+        name: Slip-proof weatherproof floor
         description: ""
       - icon: mdi:check-circle
-        title: Full 50mm tubular trussing
+        name: Full 50mm tubular trussing
         description: ""
       - icon: mdi:check-circle
-        title: Adjustable stage height
+        name: Adjustable stage height
         description: ""
   - type: stats
+    dark: true
     items:
       - value: From £1,495
         label: Hire Price

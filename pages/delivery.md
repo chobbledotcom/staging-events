@@ -1,7 +1,7 @@
 ---
 permalink: "/delivery/"
 layout: "design-system-base"
-title: "Delivery"
+name: "Delivery"
 description: "Event equipment delivery anywhere in the UK. Professional logistics for corporate events, charity runs, festivals and private functions. Multiple weekly deliveries to major UK venues."
 header_image: images/fan-party-stage-crowd.jpg
 header_text: Delivery
@@ -20,7 +20,7 @@ blocks:
       Professional logistics from our 25,000 sq ft Rotherham warehouse
 
   - type: split-image
-    title: Delivery & Logistics
+    subtitle: Delivery & Logistics
     reveal_content: left
     reveal_figure: scale
     content: |
@@ -46,20 +46,20 @@ blocks:
       ## Our Services
     items:
       - icon: "mdi:truck-delivery"
-        title: Delivery & Collection
+        name: Delivery & Collection
         description: Our crews handle the transport, setup and dismantling themselves.
       - icon: "mdi:package-variant-closed"
-        title: Equipment Procurement
+        name: Equipment Procurement
         description: If a job needs kit we don't have on the shelf, we'll source it and store it in the warehouse until the event.
       - icon: "mdi:account-hard-hat"
-        title: On-Site Management
+        name: On-Site Management
         description: Our supervisory staff are trained for event village setup and on-site management.
       - icon: "mdi:shield-check"
-        title: Fully Insured
+        name: Fully Insured
         description: We carry full public liability cover on all deliveries.
 
   - type: split-image
-    title: UK Coverage
+    subtitle: UK Coverage
     reverse: true
     reveal_content: right
     reveal_figure: scale
@@ -78,6 +78,7 @@ blocks:
     figure_alt: Events across the UK
 
   - type: stats
+    dark: true
     items:
       - value: "25,000"
         label: Sq Ft Warehouse
@@ -89,8 +90,8 @@ blocks:
         label: Years Experience
 
   - type: cta
-    title: Need Event Delivery?
-    description: >-
+    content: |
+      ## Need Event Delivery?
       Get in touch and we'll go through delivery options and logistics for your event.
     button:
       text: Contact Us

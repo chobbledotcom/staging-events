@@ -1,5 +1,5 @@
 ---
-title: Sports Timer Hire
+name: Sports Timer Hire
 subtitle: Professional race timing for events
 description: Sports timer hire for charity runs, marathons and mass participation events. Accurate digital timing displays for start and finish lines.
 header_image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
@@ -31,7 +31,7 @@ eleventyNavigation:
   parent: Event Infrastructure
 blocks:
   - type: split-image
-    title: Sports Timer Hire
+    subtitle: Sports Timer Hire
     reveal_content: left
     reveal_figure: scale
     content: |-
@@ -45,6 +45,7 @@ blocks:
       href: /contact/
       variant: primary
   - type: markdown
+    dark: true
     content: |-
       Professional sports timer hire for timed events across the UK. Our digital timing displays provide accurate countdown and elapsed time readings, giving participants and spectators a clear view of race progress at your start and finish line.
 
@@ -52,61 +53,64 @@ blocks:
 
       Our sports timers pair with our range of trussing and inflatable gantries to create a professional start and finish line. We handle delivery, setup and operation, so your event team can focus on managing participants.
   - type: features
+    dark: true
     intro_content: "## What's Included"
     items:
       - icon: mdi:check-circle
-        title: High-visibility LED timing display
+        name: High-visibility LED timing display
         description: ""
       - icon: mdi:check-circle
-        title: Countdown and elapsed time modes
+        name: Countdown and elapsed time modes
         description: ""
       - icon: mdi:check-circle
-        title: Delivery, setup and collection
+        name: Delivery, setup and collection
         description: ""
       - icon: mdi:check-circle
-        title: On-site operation by our crew
+        name: On-site operation by our crew
         description: ""
       - icon: mdi:check-circle
-        title: £5 million public liability insurance
+        name: £5 million public liability insurance
         description: ""
   - type: features
+    dark: true
     intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
-        title: Charity runs and fun runs
+        name: Charity runs and fun runs
         description: ""
       - icon: mdi:check-circle
-        title: Marathons and half marathons
+        name: Marathons and half marathons
         description: ""
       - icon: mdi:check-circle
-        title: Cycling events and triathlons
+        name: Cycling events and triathlons
         description: ""
       - icon: mdi:check-circle
-        title: Obstacle course races
+        name: Obstacle course races
         description: ""
       - icon: mdi:check-circle
-        title: Mass participation events
+        name: Mass participation events
         description: ""
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: Digital countdown and elapsed timing
+        name: Digital countdown and elapsed timing
         description: ""
       - icon: mdi:check-circle
-        title: High-visibility LED display
+        name: High-visibility LED display
         description: ""
       - icon: mdi:check-circle
-        title: Visible to participants and spectators
+        name: Visible to participants and spectators
         description: ""
       - icon: mdi:check-circle
-        title: Pairs with start and finish gantries
+        name: Pairs with start and finish gantries
         description: ""
       - icon: mdi:check-circle
-        title: Operated by experienced event crew
+        name: Operated by experienced event crew
         description: ""
       - icon: mdi:check-circle
-        title: UK-wide delivery and setup
+        name: UK-wide delivery and setup
         description: ""
   - type: contact-form
     content: |-

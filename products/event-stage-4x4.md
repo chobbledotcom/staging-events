@@ -1,5 +1,5 @@
 ---
-title: Event Stage 4x4m
+name: Event Stage 4x4m
 subtitle: Mid-size stage for bands, choirs and corporate presentations
 description: 4x4m event stage hire from £1,095. Supports up to a 3-piece band and 12 singers. Professional delivery, setup and collection with full documentation.
 header_image: images/town-centre-stage-rotherham.jpg
@@ -36,7 +36,7 @@ eleventyNavigation:
   parent: Staging
 blocks:
   - type: split-image
-    title: Event Stage 4x4m
+    subtitle: Event Stage 4x4m
     content: |-
       A 4x4m stage that suits a range of events, from small festivals and product launches to fireworks displays and Christmas light switch-ons. Full 50mm tubular trussing accommodates up to a 3-piece band and 12 singers.
 
@@ -48,6 +48,7 @@ blocks:
       href: /contact/
       variant: primary
   - type: markdown
+    dark: true
     content: |-
       A 4x4m event stage that suits a wide range of events. Built from Intelistage portable platforms supporting up to 900 kg per square metre, with full 50mm tubular trussing for professional rigging. Setup takes approximately 1.5 hours, and the stage is available at three standard heights with custom heights possible.
 
@@ -70,7 +71,7 @@ blocks:
       - Bottom banner from £79
   - type: split-html
     reverse: true
-    title: Branding and Setup
+    subtitle: Branding and Setup
     content: |-
       Custom branding options are available. Side PA wings are available from £199 and bottom banners from £79.
 
@@ -86,27 +87,29 @@ blocks:
       - £5 million public liability insurance
       - Accessible ramp available from £175
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: 4m x 4m stage area
+        name: 4m x 4m stage area
         description: ""
       - icon: mdi:check-circle
-        title: 3-piece band and 12 singers
+        name: 3-piece band and 12 singers
         description: ""
       - icon: mdi:check-circle
-        title: Multiple height options
+        name: Multiple height options
         description: ""
       - icon: mdi:check-circle
-        title: Custom configurations
+        name: Custom configurations
         description: ""
       - icon: mdi:check-circle
-        title: Weather protection available
+        name: Weather protection available
         description: ""
       - icon: mdi:check-circle
-        title: Professional setup included
+        name: Professional setup included
         description: ""
   - type: stats
+    dark: true
     items:
       - value: 4m x 4m
         label: Size

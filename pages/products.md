@@ -1,7 +1,7 @@
 ---
 permalink: "/products/"
 layout: "design-system-base"
-title: "Our Products"
+name: "Our Products"
 description: "Browse our full range of event hire products including stages, PA systems, generators, lighting, gantries and more."
 eleventyNavigation:
   key: Products
@@ -29,8 +29,8 @@ blocks:
     reference: stats-highlights
 
   - type: cta
-    title: Need Equipment for Your Event?
-    description: >-
+    content: |
+      ## Need Equipment for Your Event?
       Contact our team for availability, pricing and package deals.
     button:
       text: Get a Quote

@@ -1,5 +1,5 @@
 ---
-title: Stage Hire in Rotherham
+name: Stage Hire in Rotherham
 header_text: Rotherham Stage Hire
 subtitle: Professional staging and event hire in Rotherham, South Yorkshire
 description: Stage hire, PA systems, photo booths and event equipment hire in Rotherham. Local service from our Maltby warehouse with over 25 years experience in event production.
@@ -21,7 +21,7 @@ blocks:
       Professional staging and event equipment hire, delivered from our local warehouse
 
   - type: split-image
-    title: Your Local Event Hire Company
+    subtitle: Your Local Event Hire Company
     reveal_content: left
     reveal_figure: scale
     content: |
@@ -49,23 +49,25 @@ blocks:
     horizontal: true
 
   - type: features
+    dark: true
     intro_content: |
       ## Why Choose Us for Events in Rotherham?
     items:
       - icon: "mdi:map-marker"
-        title: Locally Based
+        name: Locally Based
         description: Our warehouse is right here in Maltby, Rotherham
       - icon: "mdi:clock-fast"
-        title: Quick Turnaround
+        name: Quick Turnaround
         description: Same-day delivery available for local events
       - icon: "mdi:trophy"
-        title: 25+ Years Experience
+        name: 25+ Years Experience
         description: Trusted by charities, councils and businesses across the region
       - icon: "mdi:hand-heart"
-        title: Full Service
+        name: Full Service
         description: From planning to setup and pack-down, we handle everything
 
   - type: stats
+    dark: true
     items:
       - value: "25+"
         label: Years in Business
@@ -77,7 +79,7 @@ blocks:
         label: Equipment Owned
 
   - type: split-image
-    title: Popular Hire for Rotherham Events
+    subtitle: Popular Hire for Rotherham Events
     reverse: true
     reveal_content: right
     reveal_figure: scale
@@ -94,11 +96,12 @@ blocks:
     figure_alt: Stage hire for Rotherham events
 
   - type: markdown
+    dark: true
     content: |-
       Staging Events is Rotherham's leading staging and event hire company, operating from our warehouse in Maltby. We provide a comprehensive range of event equipment and production services for events of all sizes across Rotherham and South Yorkshire.
   - type: cta
-    title: Planning an Event in Rotherham?
-    description: >-
+    content: |
+      ## Planning an Event in Rotherham?
       Get in touch with our team to discuss your event requirements. Free quotes and local site visits available.
     button:
       text: Contact Us

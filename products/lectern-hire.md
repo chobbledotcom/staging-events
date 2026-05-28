@@ -1,5 +1,5 @@
 ---
-title: Lectern Hire
+name: Lectern Hire
 subtitle: Professional lecterns for presentations and events
 description: Lectern hire for conferences, corporate events, award ceremonies and presentations. Professional podiums with microphone options available.
 header_image: images/exhibition-banner-stands.jpg
@@ -31,7 +31,7 @@ eleventyNavigation:
   parent: Event Infrastructure
 blocks:
   - type: split-image
-    title: Lectern Hire
+    subtitle: Lectern Hire
     reveal_content: left
     reveal_figure: scale
     content: |-
@@ -45,6 +45,7 @@ blocks:
       href: /contact/
       variant: primary
   - type: markdown
+    dark: true
     content: |-
       Professional lectern hire for events across the UK. Whether you need a podium for a corporate conference, award ceremony, charity event or outdoor presentation, our lecterns provide a polished focal point for speakers.
 
@@ -67,25 +68,26 @@ blocks:
       - Custom branding panels
       - Lighting packages
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: Professional presentation lecterns
+        name: Professional presentation lecterns
         description: ""
       - icon: mdi:check-circle
-        title: Suitable for indoor and outdoor use
+        name: Suitable for indoor and outdoor use
         description: ""
       - icon: mdi:check-circle
-        title: Pairs with our stage and PA systems
+        name: Pairs with our stage and PA systems
         description: ""
       - icon: mdi:check-circle
-        title: Microphone options available
+        name: Microphone options available
         description: ""
       - icon: mdi:check-circle
-        title: Custom branding available
+        name: Custom branding available
         description: ""
       - icon: mdi:check-circle
-        title: UK-wide delivery and setup
+        name: UK-wide delivery and setup
         description: ""
   - type: contact-form
     content: |-

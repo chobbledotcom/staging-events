@@ -1,7 +1,7 @@
 ---
 permalink: "/festival-staging-hire/"
 layout: "design-system-base"
-title: "Festival Staging Hire"
+name: "Festival Staging Hire"
 description: "Festival stage hire including trailer stages, modular staging, PA systems, generators and full event production for outdoor festivals across the UK. 25+ years experience."
 eleventyNavigation:
   key: Festival Staging Hire
@@ -18,7 +18,7 @@ blocks:
       Trailer stages, modular decks, PA and full production for outdoor festivals.
 
   - type: split-image
-    title: Festival Staging
+    subtitle: Festival Staging
     reveal_content: left
     reveal_figure: scale
     content: |
@@ -50,20 +50,20 @@ blocks:
       ## Full Festival Production
     items:
       - icon: "mdi:speaker"
-        title: PA and Sound
+        name: PA and Sound
         description: From compact speaker setups to full line array systems for main stages. We bespoke the PA to the venue and the crowd size.
       - icon: "mdi:flash"
-        title: Power and Generators
+        name: Power and Generators
         description: Diesel and petrol generators for main stages and battery generators for quieter areas. Distribution boards and cabling run by our crew.
       - icon: "mdi:crane"
-        title: Trussing and Rigging
+        name: Trussing and Rigging
         description: 50mm tubular truss for lighting rigs, speaker hangs and production equipment. We rig it and provide the structural calcs.
       - icon: "mdi:string-lights"
-        title: Festoon Lighting
+        name: Festoon Lighting
         description: 100-metre runs of warm festoon for walkways, event villages and between stages. Indoor and outdoor rated.
 
   - type: split-image
-    title: Delivery and Setup
+    subtitle: Delivery and Setup
     reverse: true
     reveal_content: right
     reveal_figure: scale
@@ -94,23 +94,25 @@ blocks:
       Speakers, monitors, mixing desks and microphones for festival main stages and smaller stages alike.
 
   - type: features
+    dark: true
     intro_content: |
       ## Why Staging Events for Festivals?
     items:
       - icon: "mdi:theater"
-        title: 25+ Years of Festival Work
+        name: 25+ Years of Festival Work
         description: We've been staging outdoor events since 1999, from council fun days to the Alzheimer's Society Memory Walk which puts 110,000 walkers through over seven weeks.
       - icon: "mdi:warehouse"
-        title: We Own the Kit
+        name: We Own the Kit
         description: Around 95% of what we hire out is ours, stored and maintained at our own warehouse. We're not ringing round a rental chain if something needs sorting on the day.
       - icon: "mdi:account-group"
-        title: Our Own Crew
+        name: Our Own Crew
         description: The people who deliver and set up the staging work for us. They know the kit and they know what a tight festival turnaround feels like.
       - icon: "mdi:truck-fast"
-        title: Same-Day Service
+        name: Same-Day Service
         description: We run our own vehicles and full-time drivers out of Rotherham, with a courier network for the days we need extra hands.
 
   - type: stats
+    dark: true
     items:
       - value: "25+"
         label: Years Experience
@@ -125,8 +127,8 @@ blocks:
     reference: notable-events
 
   - type: cta
-    title: Planning a Festival?
-    description: >-
+    content: |
+      ## Planning a Festival?
       Get in touch and we'll talk through staging, PA, power and whatever else the site needs.
     button:
       text: Contact Us

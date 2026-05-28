@@ -1,5 +1,5 @@
 ---
-title: "CoppaFeel!"
+name: "CoppaFeel!"
 subtitle: "Charity event support"
 description: "Event production and logistics support for CoppaFeel! breast cancer awareness charity events."
 header_image: images/dancers-on-stage-festival.jpg
@@ -14,7 +14,7 @@ blocks:
       Production and logistics for breast cancer awareness events.
 
   - type: split-image
-    title: About CoppaFeel!
+    subtitle: About CoppaFeel!
     reverse: true
     reveal_content: right
     reveal_figure: scale
@@ -24,7 +24,7 @@ blocks:
     figure_alt: CoppaFeel! logo
 
   - type: split-image
-    title: Supporting Awareness Events
+    subtitle: Supporting Awareness Events
     reveal_content: left
     content: |
       We support CoppaFeel! with event production and logistics for their breast cancer awareness charity events.
@@ -34,7 +34,7 @@ blocks:
     figure_alt: Performers on stage at a charity event
 
   - type: split-image
-    title: Stages, Sound and Branding
+    subtitle: Stages, Sound and Branding
     reverse: true
     reveal_content: right
     content: |
@@ -58,8 +58,8 @@ blocks:
         text: Event staffing
 
   - type: cta
-    title: Plan Your Awareness Event
-    description: >-
+    content: |
+      ## Plan Your Awareness Event
       Contact us to discuss production and logistics for your fundraiser.
     button:
       text: Contact Us

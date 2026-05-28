@@ -1,7 +1,7 @@
 ---
 permalink: "/clients/"
 layout: "design-system-base.html"
-title: "Our Clients"
+name: "Our Clients"
 description: "Our charity events clients including Alzheimer's Society Memory Walk, Sheffield Children's Hospital Charity, Prostate Cancer UK, and more."
 eleventyNavigation:
   key: Clients
@@ -23,7 +23,7 @@ blocks:
 
   # Client list
   - type: split-image
-    title: Charity Events
+    subtitle: Charity Events
     reveal_content: left
     reveal_figure: scale
     content: |
@@ -69,8 +69,8 @@ blocks:
 
   # CTA
   - type: cta
-    title: Work With Us
-    description: >-
+    content: |
+      ## Work With Us
       Whatever event size you have planned, we are here to help.
     button:
       text: Contact Us

@@ -1,5 +1,5 @@
 ---
-title: PA System
+name: PA System
 subtitle: Bespoke PA hire with speakers, mixers, microphones and monitors
 description: Professional PA system hire with a massive range of speakers, monitors, CD players, mixing desks and microphones bespoke to your needs. Sound solutions for events UK-wide.
 header_image: images/solo-performer-on-lit-stage.jpg
@@ -34,7 +34,7 @@ eleventyNavigation:
   parent: Audio
 blocks:
   - type: split-image
-    title: PA System
+    subtitle: PA System
     content: |-
       We have a massive range of PA which we can bespoke to your needs, including speakers, monitors, CD players, mixing desks and microphones. Additional equipment including wireless microphones, disco lights and speaker stands can be added to scale the system for any venue.
 
@@ -55,6 +55,7 @@ blocks:
       - image: /images/pa-speakers-outdoor-stage.jpg
       - image: /images/pa-speakers-memory-walk-stage.jpg
   - type: markdown
+    dark: true
     content: |-
       We have a massive range of PA which we can bespoke to your needs, covering events from corporate presentations to outdoor festivals. We can scale the system to suit your venue and audience.
 
@@ -69,66 +70,70 @@ blocks:
       - Wired microphones for reliable, interference-free audio
       - Choice of handheld wireless microphones, or headset/lapel microphones for presenters who need to move freely
   - type: features
+    dark: true
     intro_content: "## Additional Equipment"
     items:
       - icon: mdi:microphone
-        title: Wireless microphones
+        name: Wireless microphones
         description: Handheld, headset or lapel options for speakers, presenters and panel discussions
       - icon: mdi:microphone-variant
-        title: Microphone stands
+        name: Microphone stands
         description: Boom and straight stands for vocalists and instruments
       - icon: mdi:music-box
-        title: Dual CD players
+        name: Dual CD players
         description: For DJs and pre-recorded playlists with seamless crossfading
       - icon: mdi:lightbulb
-        title: Disco lights and effect lighting
+        name: Disco lights and effect lighting
         description: Add a visual dimension to your event with professional effect lighting
       - icon: mdi:speaker
-        title: Speaker stands
+        name: Speaker stands
         description: For optimal sound projection, positioning and coverage across larger venues
   - type: features
+    dark: true
     intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
-        title: Outdoor festivals and concerts
+        name: Outdoor festivals and concerts
         description: ""
       - icon: mdi:check-circle
-        title: Corporate conferences and presentations
+        name: Corporate conferences and presentations
         description: ""
       - icon: mdi:check-circle
-        title: Award ceremonies and gala dinners
+        name: Award ceremonies and gala dinners
         description: ""
       - icon: mdi:check-circle
-        title: Wedding receptions
+        name: Wedding receptions
         description: ""
       - icon: mdi:check-circle
-        title: Community events and fun days
+        name: Community events and fun days
         description: ""
       - icon: mdi:check-circle
-        title: Product launches and brand activations
+        name: Product launches and brand activations
         description: ""
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: Massive range of PA equipment
+        name: Massive range of PA equipment
         description: ""
       - icon: mdi:check-circle
-        title: Bespoke to your needs
+        name: Bespoke to your needs
         description: ""
       - icon: mdi:check-circle
-        title: Speakers, monitors and CD players
+        name: Speakers, monitors and CD players
         description: ""
       - icon: mdi:check-circle
-        title: Mixing desks and microphones
+        name: Mixing desks and microphones
         description: ""
       - icon: mdi:check-circle
-        title: Suitable for outdoor events
+        name: Suitable for outdoor events
         description: ""
       - icon: mdi:check-circle
-        title: Professional sound quality
+        name: Professional sound quality
         description: ""
   - type: stats
+    dark: true
     items:
       - value: Bespoke
         label: System

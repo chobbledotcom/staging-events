@@ -1,5 +1,5 @@
 ---
-title: Stage Hire in Barnsley
+name: Stage Hire in Barnsley
 header_text: Barnsley Stage Hire
 subtitle: Professional staging and event hire in Barnsley
 description: Stage hire, PA systems, photo booths and event equipment hire in Barnsley. Delivered from our South Yorkshire warehouse with over 25 years experience in event production.
@@ -21,7 +21,7 @@ blocks:
       Event equipment and staging hire for Barnsley and surrounding areas
 
   - type: split-image
-    title: Event Hire Across Barnsley
+    subtitle: Event Hire Across Barnsley
     reveal_content: left
     reveal_figure: scale
     content: |
@@ -50,28 +50,30 @@ blocks:
     horizontal: true
 
   - type: features
+    dark: true
     intro_content: |
       ## Why Choose Us for Barnsley Events?
     items:
       - icon: "mdi:truck-fast"
-        title: Fast Local Delivery
+        name: Fast Local Delivery
         description: Short drive from our South Yorkshire warehouse
       - icon: "mdi:account-hard-hat"
-        title: Professional Crew
+        name: Professional Crew
         description: Experienced staff handle all setup and pack-down
       - icon: "mdi:calendar-multiple"
-        title: Any Event Size
+        name: Any Event Size
         description: From small private parties to large public events
       - icon: "mdi:phone"
-        title: Personal Service
+        name: Personal Service
         description: Direct access to our events team
 
   - type: markdown
+    dark: true
     content: |-
       We supply professional staging and event hire across Barnsley and South Yorkshire. Our nearby warehouse means quick turnaround and competitive pricing for local events.
   - type: cta
-    title: Planning an Event in Barnsley?
-    description: >-
+    content: |
+      ## Planning an Event in Barnsley?
       Contact us for a free, no-obligation quote for your Barnsley event.
     button:
       text: Contact Us

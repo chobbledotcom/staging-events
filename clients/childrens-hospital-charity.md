@@ -1,5 +1,5 @@
 ---
-title: "Sheffield Children's Hospital Charity"
+name: "Sheffield Children's Hospital Charity"
 subtitle: "Event hire and production"
 description: "Event hire and production services for Sheffield Children's Hospital Charity fundraising events."
 header_image: images/festival-tent-chuckle-tent.jpg
@@ -14,7 +14,7 @@ blocks:
       Event hire and production for charity fundraising events.
 
   - type: split-image
-    title: About Sheffield Children's Hospital Charity
+    subtitle: About Sheffield Children's Hospital Charity
     reverse: true
     reveal_content: right
     reveal_figure: scale
@@ -24,7 +24,7 @@ blocks:
     figure_alt: Sheffield Children's Hospital Charity logo
 
   - type: split-image
-    title: Sheffield Children's Hospital
+    subtitle: Sheffield Children's Hospital
     reveal_content: left
     content: |
       The charity raises funds for Sheffield Children's Hospital, one of just four specialist children's hospitals in the UK. Every pound raised goes beyond what the NHS can provide, supporting young patients and their families across the North of England.
@@ -32,7 +32,7 @@ blocks:
     figure_alt: Sheffield Children's Hospital building exterior
 
   - type: split-image
-    title: Supporting Children's Healthcare
+    subtitle: Supporting Children's Healthcare
     reveal_content: left
     content: |
       We are pleased to support Sheffield Children's Hospital Charity with event hire and production services for their fundraising events.
@@ -42,7 +42,7 @@ blocks:
     figure_alt: Town centre stage at a community fundraising event
 
   - type: split-image
-    title: Built for Family-Friendly Events
+    subtitle: Built for Family-Friendly Events
     reverse: true
     reveal_content: right
     content: |
@@ -66,8 +66,8 @@ blocks:
         text: Event staffing
 
   - type: cta
-    title: Plan Your Charity Event
-    description: >-
+    content: |
+      ## Plan Your Charity Event
       Get in touch to discuss event hire and production for your fundraiser.
     button:
       text: Contact Us

@@ -1,5 +1,5 @@
 ---
-title: Disabled Access Ramp
+name: Disabled Access Ramp
 subtitle: Accessible stage ramps for events
 description: Disabled access ramp hire for stages and event platforms. DDA-compliant ramp solutions ensuring accessibility at events across the UK.
 header_image: images/choir-on-modular-stage.jpg
@@ -31,7 +31,7 @@ eleventyNavigation:
   parent: Event Infrastructure
 blocks:
   - type: split-image
-    title: Disabled Access Ramp
+    subtitle: Disabled Access Ramp
     reveal_content: left
     reveal_figure: scale
     content: |-
@@ -45,6 +45,7 @@ blocks:
       href: /contact/
       variant: primary
   - type: markdown
+    dark: true
     content: |-
       Disabled access ramp hire for events across the UK. Our DDA-compliant ramps provide safe, dignified access to stages and raised platforms for wheelchair users and those with mobility needs.
 
@@ -52,72 +53,76 @@ blocks:
 
       Our access ramps work with every stage system in our range, including modular deck staging at 200mm, 570mm and 725mm heights, event stages, and trailer stages. We match the ramp gradient and handrail configuration to your stage height and layout.
   - type: features
+    dark: true
     intro_content: "## What's Included"
     items:
       - icon: mdi:check-circle
-        title: DDA-compliant access ramp
+        name: DDA-compliant access ramp
         description: ""
       - icon: mdi:check-circle
-        title: Non-slip surface
+        name: Non-slip surface
         description: ""
       - icon: mdi:check-circle
-        title: Handrails
+        name: Handrails
         description: ""
       - icon: mdi:check-circle
-        title: Delivery, setup and collection
+        name: Delivery, setup and collection
         description: ""
       - icon: mdi:check-circle
-        title: Structural calculations
+        name: Structural calculations
         description: ""
       - icon: mdi:check-circle
-        title: Risk assessments and method statements
+        name: Risk assessments and method statements
         description: ""
       - icon: mdi:check-circle
-        title: £5 million public liability insurance
+        name: £5 million public liability insurance
         description: ""
   - type: features
+    dark: true
     intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
-        title: Award ceremonies and presentations
+        name: Award ceremonies and presentations
         description: ""
       - icon: mdi:check-circle
-        title: Corporate conferences
+        name: Corporate conferences
         description: ""
       - icon: mdi:check-circle
-        title: Charity events
+        name: Charity events
         description: ""
       - icon: mdi:check-circle
-        title: Community events and fairs
+        name: Community events and fairs
         description: ""
       - icon: mdi:check-circle
-        title: Exhibition and trade shows
+        name: Exhibition and trade shows
         description: ""
       - icon: mdi:check-circle
-        title: Any event requiring accessible staging
+        name: Any event requiring accessible staging
         description: ""
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: DDA-compliant access ramps
+        name: DDA-compliant access ramps
         description: ""
       - icon: mdi:check-circle
-        title: Compatible with all our stage systems
+        name: Compatible with all our stage systems
         description: ""
       - icon: mdi:check-circle
-        title: Multiple height options
+        name: Multiple height options
         description: ""
       - icon: mdi:check-circle
-        title: Non-slip surface
+        name: Non-slip surface
         description: ""
       - icon: mdi:check-circle
-        title: Handrails included
+        name: Handrails included
         description: ""
       - icon: mdi:check-circle
-        title: UK-wide delivery and setup
+        name: UK-wide delivery and setup
         description: ""
   - type: stats
+    dark: true
     items:
       - value: From £175
         label: Hire Price

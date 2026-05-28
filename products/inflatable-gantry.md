@@ -1,5 +1,5 @@
 ---
-title: Inflatable Gantry
+name: Inflatable Gantry
 subtitle: Quick setup gantry for grassed areas
 description: Inflatable gantry hire for charity runs and events. Quick setup and takedown with custom velcro banners available.
 header_image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
@@ -30,7 +30,7 @@ eleventyNavigation:
   parent: Gantries
 blocks:
   - type: split-image
-    title: Inflatable Gantry
+    subtitle: Inflatable Gantry
     content: |-
       Our most popular inflatable gantry for charity runs, fun runs and community events on grassed areas. Every hire includes full setup, takedown and electric inflation fan, plus dedicated event support staff to manage your start and finish line. Custom branding available on nearly any surface, with multiple units ready for events requiring separate structures.
 
@@ -45,6 +45,7 @@ blocks:
     items:
       - image: /images/prostate-cancer-uk-march-for-men-start-gantry.jpg
   - type: markdown
+    dark: true
     content: |-
       Our inflatable gantry is a start and finish line for charity runs, fun runs, marathons, obstacle courses and mass participation events on grassed areas. Every hire is a full-service package: we handle delivery, on-site setup, inflation and collection so your team can focus entirely on running the event.
 
@@ -60,30 +61,32 @@ blocks:
 
       Our gantry hire is part of our staging and event services. We coordinate crowd control management, bottled water distribution for participants, and generator provision on request. We can put together a support package that covers what your event needs.
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: Quick setup and takedown
+        name: Quick setup and takedown
         description: ""
       - icon: mdi:check-circle
-        title: Best suited for grassed areas
+        name: Best suited for grassed areas
         description: ""
       - icon: mdi:check-circle
-        title: Custom velcro banners available
+        name: Custom velcro banners available
         description: ""
       - icon: mdi:check-circle
-        title: 440gsm PVC material for banners
+        name: 440gsm PVC material for banners
         description: ""
       - icon: mdi:check-circle
-        title: Lightweight and portable
+        name: Lightweight and portable
         description: ""
       - icon: mdi:check-circle
-        title: Attachment and detachment included
+        name: Attachment and detachment included
         description: ""
       - icon: mdi:check-circle
-        title: Storage included at no additional cost
+        name: Storage included at no additional cost
         description: ""
   - type: stats
+    dark: true
     items:
       - value: From £275
         label: Hire Price

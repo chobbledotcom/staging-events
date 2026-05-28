@@ -1,5 +1,5 @@
 ---
-title: Staging
+name: Staging
 header_text: Stage Hire
 subtitle: Modular deck staging and trailer stages
 description: Stage hire services including modular deck staging, trailer stages and portable systems. Professional staging solutions for events UK-wide.
@@ -26,11 +26,13 @@ blocks:
       property: data.categories
       includes: staging
   - type: markdown
+    dark: true
     content: |-
       Professional stage hire services with modular deck staging in various configurations and trailer stages for outdoor events.
   - type: cta
-    title: Need Stage Hire?
-    description: Contact our team for availability and pricing.
+    content: |
+      ## Need Stage Hire?
+      Contact our team for availability and pricing.
     button:
       text: Get a Quote
       href: /contact/

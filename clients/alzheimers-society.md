@@ -1,5 +1,5 @@
 ---
-title: "Alzheimer's Society"
+name: "Alzheimer's Society"
 subtitle: "Memory Walk"
 description: "Event production and logistics for Alzheimer's Society Memory Walk events, supporting 110,000 participants across a 7-week nationwide programme."
 header_image: images/alzheimers-memory-walk-stage-santander.jpg
@@ -16,7 +16,7 @@ blocks:
       Full production and logistics for one of the UK's largest charity walks.
 
   - type: split-image
-    title: About Alzheimer's Society
+    subtitle: About Alzheimer's Society
     reverse: true
     reveal_content: right
     reveal_figure: scale
@@ -36,7 +36,7 @@ blocks:
         label: Event Locations
 
   - type: split-image
-    title: Delivering Memory Walk
+    subtitle: Delivering Memory Walk
     reveal_content: left
     content: |
       We've worked with Alzheimer's Society on their Memory Walk programme for years now, handling the full event production and logistics across the whole run.
@@ -48,7 +48,7 @@ blocks:
     figure_alt: Alzheimer's Society Memory Walk stage with Santander branding
 
   - type: split-image
-    title: On the Ground at Memory Walk
+    subtitle: On the Ground at Memory Walk
     reverse: true
     reveal_content: right
     content: |
@@ -59,7 +59,7 @@ blocks:
     figure_alt: Staging Events crew at an Alzheimer's Society Memory Walk
 
   - type: split-image
-    title: Hydration and Welfare
+    subtitle: Hydration and Welfare
     reveal_content: left
     content: |
       Mass participation walks need a fair bit of water moving around the route. We supply branded rehydration stations and bottled water distribution points at the right points along each course, and we put the welfare infrastructure in place that's needed to keep large numbers of walkers safe.
@@ -67,7 +67,7 @@ blocks:
     figure_alt: Alzheimer's Society branded rehydration station
 
   - type: split-image
-    title: Finishers' Medals
+    subtitle: Finishers' Medals
     reverse: true
     reveal_content: right
     content: |
@@ -115,8 +115,8 @@ blocks:
         text: Event staffing and crew
 
   - type: cta
-    title: Plan Your Mass Participation Event
-    description: >-
+    content: |
+      ## Plan Your Mass Participation Event
       Get in touch and we'll go through what you've got planned, whatever the size of the event.
     button:
       text: Contact Us

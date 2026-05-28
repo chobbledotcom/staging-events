@@ -1,5 +1,5 @@
 ---
-title: Battery Generator (Instagrid)
+name: Battery Generator (Instagrid)
 subtitle: Eco-friendly battery-powered power
 description: Battery-powered Instagrid generator hire. Eco-friendly power solution reducing CO2 emissions by over 10kg per hour compared to diesel alternatives.
 header_image: images/band-on-stage-green-lights.jpg
@@ -32,7 +32,7 @@ eleventyNavigation:
   parent: Power
 blocks:
   - type: split-image
-    title: Battery Generator (Instagrid)
+    subtitle: Battery Generator (Instagrid)
     content: |-
       The Instagrid ONE max delivers 3,600 watts of continuous power from a 2.1kWh battery that weighs 20kg. Zero emissions, zero noise and zero fumes, with pure sine wave output that is safe for sensitive electronics. Fast charges in 2.5 hours.
 
@@ -47,6 +47,7 @@ blocks:
     items:
       - image: /images/band-on-stage-green-lights.jpg
   - type: markdown
+    dark: true
     content: |-
       The Instagrid ONE max is a battery-powered alternative to diesel generators. With 2.1kWh capacity and 3,600 watts of continuous output through a 230V AC mains outlet, it weighs 20kg, so one person can carry and position it on site.
 
@@ -62,51 +63,54 @@ blocks:
       - **Protection**: Water and dust resistant for reliable outdoor use
       - **Emissions**: Zero -- no fuel, no oil, no exhaust fumes
   - type: features
+    dark: true
     intro_content: "## Why Choose Battery Power?"
     items:
       - icon: mdi:check-circle
-        title: No fuel costs or oil checks
+        name: No fuel costs or oil checks
         description: Plug in, charge and go with no ongoing maintenance or consumables
       - icon: mdi:check-circle
-        title: No noise
+        name: No noise
         description: Run power in noise-sensitive environments without disturbing neighbours, audiences or performers
       - icon: mdi:check-circle
-        title: No fumes
+        name: No fumes
         description: Safe for indoor use, food preparation areas and enclosed spaces
       - icon: mdi:check-circle
-        title: No cables
+        name: No cables
         description: Fully self-contained with no trailing leads or fuel lines to manage
       - icon: mdi:check-circle
-        title: Reduced CO2
+        name: Reduced CO2
         description: Over 10kg of CO2 savings per hour compared to diesel alternatives
   - type: features
+    dark: true
     intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
-        title: Indoor corporate events and conferences
+        name: Indoor corporate events and conferences
         description: ""
       - icon: mdi:check-circle
-        title: Outdoor events in noise-sensitive areas
+        name: Outdoor events in noise-sensitive areas
         description: ""
       - icon: mdi:check-circle
-        title: Food festivals and markets
+        name: Food festivals and markets
         description: ""
       - icon: mdi:check-circle
-        title: DJ setups and PA systems
+        name: DJ setups and PA systems
         description: ""
       - icon: mdi:check-circle
-        title: Film and photography shoots
+        name: Film and photography shoots
         description: ""
       - icon: mdi:check-circle
-        title: Pop-up retail and brand activations
+        name: Pop-up retail and brand activations
         description: ""
       - icon: mdi:check-circle
-        title: Eco-conscious festivals and charity events
+        name: Eco-conscious festivals and charity events
         description: ""
       - icon: mdi:check-circle
-        title: Any event where sustainability matters
+        name: Any event where sustainability matters
         description: ""
   - type: markdown
+    dark: true
     content: |-
       ### What's Included
 
@@ -117,30 +121,32 @@ blocks:
 
       Part of our commitment to powering greener events across the UK.
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: Battery-powered operation
+        name: Battery-powered operation
         description: ""
       - icon: mdi:check-circle
-        title: Eco-friendly alternative
+        name: Eco-friendly alternative
         description: ""
       - icon: mdi:check-circle
-        title: Reduces CO2 emissions
+        name: Reduces CO2 emissions
         description: ""
       - icon: mdi:check-circle
-        title: Over 10kg CO2 saved per hour vs diesel
+        name: Over 10kg CO2 saved per hour vs diesel
         description: ""
       - icon: mdi:check-circle
-        title: 2.1 kWh capacity
+        name: 2.1 kWh capacity
         description: ""
       - icon: mdi:check-circle
-        title: Quiet operation
+        name: Quiet operation
         description: ""
       - icon: mdi:check-circle
-        title: No fumes
+        name: No fumes
         description: ""
   - type: stats
+    dark: true
     items:
       - value: Instagrid
         label: Model

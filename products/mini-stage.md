@@ -1,5 +1,5 @@
 ---
-title: Mini Stage 3x3m
+name: Mini Stage 3x3m
 subtitle: Compact stage for DJs, solo presenters and small bands
 description: 3x3m mini stage hire from £925. Ideal for DJs, solo presenters and small bands. Professional delivery, setup and collection included with £5 million public liability insurance.
 header_image: images/performer-jumping-mini-stage.jpg
@@ -37,7 +37,7 @@ eleventyNavigation:
   parent: Staging
 blocks:
   - type: split-image
-    title: Mini Stage 3x3m
+    subtitle: Mini Stage 3x3m
     content: |-
       A compact 3x3m trussing stage built for corporate events, private parties and live entertainment. The 50mm tubular truss frame provides easy rigging for speakers and lighting without cluttering the stage floor.
 
@@ -49,6 +49,7 @@ blocks:
       href: /contact/
       variant: primary
   - type: markdown
+    dark: true
     content: |-
       A versatile 3x3m trussing stage designed for corporate events, private parties and live entertainment. It works well as a platform for DJ sets, awards ceremonies, Christmas light switch-ons and fitness warm-up sessions.
 
@@ -66,7 +67,7 @@ blocks:
       The stage is built on a 50mm tubular truss frame, providing solid rigging points for speakers, lighting and effects without cluttering the performance area. This keeps the stage floor clear for performers.
   - type: split-html
     reverse: true
-    title: Branding and Setup
+    subtitle: Branding and Setup
     content: |-
       Our in-house design team can produce custom panels with your logo, event branding or sponsor details.
 
@@ -82,27 +83,29 @@ blocks:
       - £5 million public liability insurance
       - Accessible ramp available on request
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: 3m x 3m stage area
+        name: 3m x 3m stage area
         description: ""
       - icon: mdi:check-circle
-        title: Suits DJs and solo acts
+        name: Suits DJs and solo acts
         description: ""
       - icon: mdi:check-circle
-        title: Up to 3-piece band capacity
+        name: Up to 3-piece band capacity
         description: ""
       - icon: mdi:check-circle
-        title: Multiple height options
+        name: Multiple height options
         description: ""
       - icon: mdi:check-circle
-        title: Professional setup included
+        name: Professional setup included
         description: ""
       - icon: mdi:check-circle
-        title: Accessible ramp available
+        name: Accessible ramp available
         description: ""
   - type: stats
+    dark: true
     items:
       - value: 3m x 3m
         label: Size

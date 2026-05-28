@@ -1,5 +1,5 @@
 ---
-title: Mobile Trailer Stage 6x8m
+name: Mobile Trailer Stage 6x8m
 subtitle: Self-contained outdoor stage for festivals and large events
 description: Mobile trailer stage hire from £1,495. 7.9m x 5.9m performance area with full trussing, wind and showerproof walls, and 8,000 kg total floor capacity. Sets up in one hour.
 header_image: images/mobile-trailer-stage-with-barriers.jpg
@@ -43,7 +43,7 @@ eleventyNavigation:
   parent: Staging
 blocks:
   - type: split-image
-    title: Mobile Trailer Stage 6x8m
+    subtitle: Mobile Trailer Stage 6x8m
     content: |-
       A self-contained mobile trailer stage with a 7.9m x 5.9m performance area, accommodating up to a 10-piece band and 25 singers. Sets up in just one hour on grass or hard surfaces with full 50mm tubular trussing for professional rigging.
 
@@ -55,6 +55,7 @@ blocks:
       href: /contact/
       variant: primary
   - type: markdown
+    dark: true
     content: |-
       A self-contained mobile trailer stage with a 7.9m x 5.9m performance area, large enough to accommodate a 10-piece band and up to 25 singers. The stage sets up in around one hour on either grass or hard standing, and packs down in just 45 minutes. Self-contained and self-balanced for hard standing use, this stage arrives ready to deploy with minimal site preparation.
 
@@ -62,24 +63,26 @@ blocks:
 
       This stage is designed for outdoor use only, on both grass and hard surfaces. The self-balanced design means no additional anchoring is required on hard standing.
   - type: features
+    dark: true
     intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
-        title: Music festivals and outdoor concerts
+        name: Music festivals and outdoor concerts
         description: ""
       - icon: mdi:check-circle
-        title: Large corporate events and product launches
+        name: Large corporate events and product launches
         description: ""
       - icon: mdi:check-circle
-        title: Community celebrations and charity events
+        name: Community celebrations and charity events
         description: ""
       - icon: mdi:check-circle
-        title: Fireworks displays and Christmas light switch-ons
+        name: Fireworks displays and Christmas light switch-ons
         description: ""
       - icon: mdi:check-circle
-        title: Council events and public gatherings
+        name: Council events and public gatherings
         description: ""
   - type: markdown
+    dark: true
     content: |-
       ### Additional Options
 
@@ -91,6 +94,7 @@ blocks:
       - Top banner: £199
       - Back stage banner (6x3m): £476
   - type: stats
+    dark: true
     items:
       - value: From £1,495
         label: Day 1
@@ -100,7 +104,7 @@ blocks:
         label: Day 3
   - type: split-html
     reverse: true
-    title: Truss Frame and Rigging
+    subtitle: Truss Frame and Rigging
     content: |-
       Full 50mm tubular trussing provides robust rigging points for speakers, lighting rigs and production equipment. The 3.9m roof clearance provides headroom for lighting setups and keeps the stage floor clear.
     figure_html: |-
@@ -111,7 +115,7 @@ blocks:
       - **Clear stage floor** for performers and choirs
       - **Suitable for production equipment**
   - type: split-html
-    title: Branding and Inclusions
+    subtitle: Branding and Inclusions
     content: |-
       Side PA wings are available from £99 each, bottom banners from £249, top banners from £199, and full back stage banners (6x3m) from £476. Our design team can produce your artwork.
     figure_html: |-
@@ -125,27 +129,29 @@ blocks:
       - Risk assessments and method statements
       - £5 million public liability insurance
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: 7.9m x 5.9m performance area
+        name: 7.9m x 5.9m performance area
         description: ""
       - icon: mdi:check-circle
-        title: 1-hour setup time
+        name: 1-hour setup time
         description: ""
       - icon: mdi:check-circle
-        title: Up to 10-piece band and 25 singers
+        name: Up to 10-piece band and 25 singers
         description: ""
       - icon: mdi:check-circle
-        title: Wind and showerproof side walls
+        name: Wind and showerproof side walls
         description: ""
       - icon: mdi:check-circle
-        title: Full 50mm tubular trussing
+        name: Full 50mm tubular trussing
         description: ""
       - icon: mdi:check-circle
-        title: Works on grass or hard surfaces
+        name: Works on grass or hard surfaces
         description: ""
   - type: stats
+    dark: true
     items:
       - value: From £1,495
         label: Hire Price

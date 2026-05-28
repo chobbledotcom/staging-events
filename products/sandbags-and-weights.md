@@ -1,5 +1,5 @@
 ---
-title: Sandbags & Weights
+name: Sandbags & Weights
 subtitle: Ballast and stabilisation for event structures
 description: Sandbag and weight hire for securing stages, gantries, marquees and event structures. Professional ballast solutions for safe event setups.
 header_image: images/event-stage-setup.jpg
@@ -31,7 +31,7 @@ eleventyNavigation:
   parent: Event Infrastructure
 blocks:
   - type: split-image
-    title: Sandbags & Weights
+    subtitle: Sandbags & Weights
     reveal_content: left
     reveal_figure: scale
     content: |-
@@ -45,6 +45,7 @@ blocks:
       href: /contact/
       variant: primary
   - type: markdown
+    dark: true
     content: |-
       Professional sandbag and weight hire for securing event structures across the UK. When setting up on hard standing, tarmac, concrete or other surfaces where ground stakes and anchors cannot be used, ballast is essential for keeping your structures stable and safe.
 
@@ -67,25 +68,26 @@ blocks:
       - Marquees on paved areas
       - Trussing rigs at indoor and outdoor venues
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: Secure stages, gantries and marquees
+        name: Secure stages, gantries and marquees
         description: ""
       - icon: mdi:check-circle
-        title: Required for hard standing surfaces
+        name: Required for hard standing surfaces
         description: ""
       - icon: mdi:check-circle
-        title: Professional-grade ballast
+        name: Professional-grade ballast
         description: ""
       - icon: mdi:check-circle
-        title: Supplied with all relevant hires
+        name: Supplied with all relevant hires
         description: ""
       - icon: mdi:check-circle
-        title: Health and safety compliant
+        name: Health and safety compliant
         description: ""
       - icon: mdi:check-circle
-        title: UK-wide delivery
+        name: UK-wide delivery
         description: ""
   - type: contact-form
     content: |-

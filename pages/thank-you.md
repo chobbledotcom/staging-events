@@ -1,6 +1,6 @@
 ---
 layout: "design-system-base"
-title: "Thank You"
+name: "Thank You"
 header_text: Thank You
 meta_description:
 meta_title: Thank You
@@ -8,6 +8,7 @@ navigationParent: Contact
 no_index: true
 blocks:
   - type: markdown
+    dark: true
     content: |-
       ## Thank You
 

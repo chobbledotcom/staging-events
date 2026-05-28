@@ -1,23 +1,25 @@
 ---
 permalink: "/privacy-policy/"
 layout: "design-system-base.html"
-title: "Privacy Policy"
+name: "Privacy Policy"
 description: "Privacy policy for Staging Events Ltd. How we collect, store and process your personal data."
 eleventyExcludeFromCollections: true
 blocks:
   - type: hero
-    title: Privacy Policy
+    name: Privacy Policy
     lead: >-
       We make sure that your data is handled in a way which complies with the EU
       General Data Protection Regulation (GDPR), the Data Protection Act 1998,
       and any other relevant legislation.
 
   - type: markdown
+    dark: true
     content: |
       In this document, 'we' refers to Staging Events and its representatives.
       'You' refers to visitors to our website and our customers.
 
   - type: markdown
+    dark: true
     content: |
       ### Who is responsible for your data?
 
@@ -30,6 +32,7 @@ blocks:
       **Tel:** [0845 468 0610](tel:+448454680610)
 
   - type: markdown
+    dark: true
     content: |
       ### Why do we process and store your data?
 
@@ -42,6 +45,7 @@ blocks:
       we need to run our business.
 
   - type: markdown
+    dark: true
     content: |
       ### How long will we keep your data?
 
@@ -51,6 +55,7 @@ blocks:
       communications from us.
 
   - type: markdown
+    dark: true
     content: |
       ### Who has access to your data?
 
@@ -68,6 +73,7 @@ blocks:
       purposes.**
 
   - type: markdown
+    dark: true
     content: |
       ### Who else might your data be shared with?
 
@@ -76,6 +82,7 @@ blocks:
       a tax audit, or to prevent fraud.
 
   - type: markdown
+    dark: true
     content: |
       ### How can you see what data we store about you?
 
@@ -84,6 +91,7 @@ blocks:
       services.
 
   - type: markdown
+    dark: true
     content: |
       ### Your right to deletion
 
@@ -92,6 +100,7 @@ blocks:
       with your request as best we can.
 
   - type: markdown
+    dark: true
     content: |
       ### How can you opt in or out of our marketing messages?
 
@@ -100,6 +109,7 @@ blocks:
       any other means.
 
   - type: markdown
+    dark: true
     content: |
       ### How does our website use cookies?
 
@@ -112,6 +122,7 @@ blocks:
       parties have their own cookie policies.
 
   - type: markdown
+    dark: true
     content: |
       ### How do you make a complaint about our use of your data?
 

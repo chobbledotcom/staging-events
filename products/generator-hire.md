@@ -1,5 +1,5 @@
 ---
-title: Generator Hire
+name: Generator Hire
 subtitle: 2.2kva to 20kva generators
 description: Generator hire from 2.2kva to 20kva. Reliable power solutions for events, festivals and outdoor activities UK-wide.
 header_image: images/mobile-generator-tower-fleet.jpg
@@ -28,7 +28,7 @@ eleventyNavigation:
   parent: Power
 blocks:
   - type: split-image
-    title: Generator Hire
+    subtitle: Generator Hire
     content: |-
       Reliable, heavy-duty generators ranging from 2.2kva to 20kva, ideal for powering everything from site tools and portable lighting to full stage rigs and PA systems. They feature efficient diesel engines, engine protection shutdown and fully bunded bases for environmental compliance, with up to 16 hours runtime at 75% load on the larger units.
 
@@ -45,6 +45,7 @@ blocks:
       - image: /images/fan-party-stage-crowd.jpg
       - image: /images/town-centre-stage-rotherham.jpg
   - type: markdown
+    dark: true
     content: |-
       Our range of generators from 2.2kva to 20kva provides reliable power for events, festivals, outdoor activities and construction sites. The range covers everything from small lighting rigs to full stage setups with PA and effects.
 
@@ -60,63 +61,68 @@ blocks:
       - **Construction**: Heavy-duty build with engine protection shutdown, certified lifting eye, and fully bunded base (110% containment)
       - **Transport**: Trolley kit included for easy positioning on site
   - type: features
+    dark: true
     intro_content: "## Available Sizes"
     items:
       - icon: mdi:lightning-bolt
-        title: 2.2kva
+        name: 2.2kva
         description: Small lighting rigs and basic power needs
       - icon: mdi:lightning-bolt
-        title: 5kva
+        name: 5kva
         description: Food stalls, market traders and small PA systems
       - icon: mdi:lightning-bolt
-        title: 10kva
+        name: 10kva
         description: Stage lighting, PA systems and multi-equipment setups
       - icon: mdi:lightning-bolt
-        title: 20kva
+        name: 20kva
         description: Large stages, festivals and multi-zone events
   - type: features
+    dark: true
     intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
-        title: Outdoor festivals and concerts
+        name: Outdoor festivals and concerts
         description: ""
       - icon: mdi:check-circle
-        title: Corporate events and exhibitions
+        name: Corporate events and exhibitions
         description: ""
       - icon: mdi:check-circle
-        title: Construction and site power
+        name: Construction and site power
         description: ""
       - icon: mdi:check-circle
-        title: Markets and food festivals
+        name: Markets and food festivals
         description: ""
       - icon: mdi:check-circle
-        title: Emergency backup power
+        name: Emergency backup power
         description: ""
       - icon: mdi:check-circle
-        title: Film and production locations
+        name: Film and production locations
         description: ""
   - type: markdown
+    dark: true
     content: |-
       All generators are PAT tested, regularly serviced and delivered with full fuel tanks. UK-wide delivery available.
   - type: features
+    dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        title: Range from 2.2kva to 20kva
+        name: Range from 2.2kva to 20kva
         description: ""
       - icon: mdi:check-circle
-        title: Multiple sizes available
+        name: Multiple sizes available
         description: ""
       - icon: mdi:check-circle
-        title: Reliable power supply
+        name: Reliable power supply
         description: ""
       - icon: mdi:check-circle
-        title: Suitable for events and festivals
+        name: Suitable for events and festivals
         description: ""
       - icon: mdi:check-circle
-        title: Delivery available UK-wide
+        name: Delivery available UK-wide
         description: ""
   - type: stats
+    dark: true
     items:
       - value: 2.2kva to 20kva
         label: Range
