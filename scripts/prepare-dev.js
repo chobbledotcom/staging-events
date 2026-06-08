@@ -1,38 +1,37 @@
 import { join } from "node:path";
-import { buildDir, templateRepo } from "./consts.js";
-import { bun, find, fs, git, path, root, rsync } from "./utils.js";
+import {
+  buildDir,
+  sourceExcludes,
+  templateExcludes,
+  templateRepo,
+} from "./consts.js";
+import {
+  bun,
+  copyDir,
+  find,
+  fs,
+  git,
+  mergeTemplateAndSource,
+  path,
+  root,
+} from "./utils.js";
 
 const build = path(buildDir);
 const template = path(buildDir, "template");
 const dev = path(buildDir, "dev");
-
-const templateExcludes = [
-  ".git",
-  "node_modules",
-  "*.md",
-  "test",
-  "test-*",
-  ".image-cache",
-];
-const rootExcludes = [
-  ".git",
-  ".direnv",
-  "*.nix",
-  "README.md",
-  buildDir,
-  "scripts",
-  "node_modules",
-  "package*.json",
-  "bun.lock",
-  "old_site",
-  "biome.json",
-];
+const localTemplate = join(root, "..", "chobble-template");
 
 export const prep = () => {
   console.log("Preparing build...");
   fs.mkdir(build);
 
-  if (!fs.exists(join(template, ".git"))) {
+  if (fs.exists(localTemplate)) {
+    console.log("Using local template from ../chobble-template...");
+    copyDir(localTemplate, template, {
+      delete: true,
+      exclude: templateExcludes,
+    });
+  } else if (!fs.exists(join(template, ".git"))) {
     console.log("Cloning template...");
     fs.rm(template);
     git.clone(templateRepo, template);
@@ -42,11 +41,12 @@ export const prep = () => {
     git.pull(template);
   }
 
-  fs.rm(join(template, "biome.json"));
-
   find.deleteByExt(dev, ".md");
-  rsync(template, dev, { delete: true, exclude: templateExcludes });
-  rsync(root, join(dev, "src"), { exclude: rootExcludes });
+  mergeTemplateAndSource(template, root, dev, {
+    delete: true,
+    templateExcludes,
+    sourceExcludes,
+  });
 
   sync();
 
@@ -60,10 +60,9 @@ export const prep = () => {
 };
 
 export const sync = () => {
-  rsync(root, join(dev, "src"), {
+  copyDir(root, join(dev, "src"), {
     update: true,
-    exclude: rootExcludes,
-    include: ["*/", "**/*.md", "**/*.scss"],
+    exclude: sourceExcludes,
   });
 };
 
