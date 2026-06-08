@@ -95,7 +95,22 @@ blocks:
         caption: Cathedral venue with stage lighting for evening events
       - image: /images/exhibition-banner-stands.jpg
         caption: Exhibition and conference venue display
-  - type: product-specs
+  - type: features
+    dark: true
+    intro_content: "## Specifications"
+    items:
+      - name: Lectern Type
+        description: Trilite 200 aluminium truss
+      - name: Height
+        description: 985mm (front), 1125mm (highest point)
+      - name: Top Plate
+        description: 460mm x 350mm
+      - name: Weight
+        description: Approx 8kg
+      - name: Finish
+        description: Natural aluminium, silver, black or white
+      - name: Microphone Options
+        description: Wired, lapel, headset, podium-mounted
   - type: features
     dark: true
     intro_content: "## Ideal For"
