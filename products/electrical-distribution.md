@@ -1,17 +1,19 @@
 ---
 name: Electrical Distribution Hire
-subtitle: Power distribution for events
-description: Electrical distribution hire for events including distribution boards, cabling and power management. Safe, compliant power solutions for stages, lighting and event infrastructure.
+subtitle: Event power distribution for festivals, concerts and events
+description: Event power distribution hire — distribution boards, cabling and temporary power solutions for festivals, concerts and events. PAT tested equipment with UK-wide delivery and £5M insurance.
+meta_title: Event Power Distribution Hire | Temporary Power & Distro for Events | Staging Events
+meta_description: Event power distribution hire — distribution boards, cabling and temporary power solutions for festivals, concerts and events. PAT tested, UK-wide delivery from our Rotherham warehouse. Also known as distro hire or mains distribution.
 header_image: images/event-stage-setup.jpg
 categories:
   - power
 price: Contact for pricing
 features:
-  - Distribution boards and cabling
-  - Safe power management for events
-  - Pairs with generator hire
+  - Distribution boards and consumer units
+  - Cabling runs and connectors
   - PAT tested equipment
-  - Compliant with event regulations
+  - Pairs with generator and battery power
+  - Compliant with event safety regulations
   - UK-wide delivery and setup
 specs:
   - name: Equipment
@@ -35,80 +37,139 @@ blocks:
     reveal_content: left
     reveal_figure: scale
     content: |-
-      Professional electrical distribution hire for events of all sizes. We supply distribution boards, cabling and power management equipment to safely deliver electricity from generators or mains supplies to your stages, PA systems, lighting rigs and catering areas. All equipment is PAT tested and compliant with event safety regulations.
+      Event power distribution — sometimes called temporary power distribution or distro hire — gets electricity from your generator or mains supply to wherever it needs to go on site. We supply distribution boards, cabling runs and the connectors to link everything together, whether you are running a single stage with PA and lighting or a multi-zone festival site with catering, bars and several performance areas.
 
       **Contact for pricing**
     figure_src: images/event-stage-setup.jpg
-    figure_alt: Event electrical distribution setup
+    figure_alt: Outdoor music stage setup in a park with PA speakers, lighting rigs and drum kit
     button:
       text: Get a Quote
       href: /contact/
       variant: primary
+  - type: gallery
+    items:
+      - image: /images/event-stage-setup.jpg
+        caption: Outdoor music stage setup in a park during summer, with PA speakers, lighting rigs and drum kit — the kind of production our power distribution supports
+      - image: /images/fan-party-stage-crowd.jpg
+        caption: UEFA Women's Euro 2022 fan party with a sponsor-branded stage — events of this scale depend on proper power distribution
+      - image: /images/town-centre-stage-rotherham.jpg
+        caption: Mobile stage in Rotherham town centre with performers in green costumes, Electro-Voice speaker stacks and sponsor banners — our distribution equipment runs the sound and lighting for town centre events
   - type: markdown
     dark: true
     content: |-
-      Professional electrical distribution hire for events across the UK. When you need to get power from a generator or mains supply to multiple locations across your event site, our distribution equipment ensures safe, reliable electricity delivery.
+      We have been supplying event power distribution for over 25 years from our warehouse in [Rotherham](/locations/rotherham/), just off the M1 and M18. Around 95% of the kit we hire out is ours — we own the distribution boards, the cabling and the connectors, and our own crew deliver, set up and test everything on site.
 
-      ### What We Supply
+      That matters because when something needs adjusting on the day — an extra socket, a longer cable run, a board that needs reconfiguring — we are not ringing round a rental chain to find someone who can sort it. The same crew who bring the gear also know how it works.
 
-      We provide distribution boards, cabling runs and power management equipment sized to your event requirements. Whether you are powering a single stage with PA and lighting or distributing electricity across a multi-zone festival site with catering, bars and multiple performance areas, we can specify and supply the right setup.
+      Our distribution equipment is PAT tested and arrives with current safety certificates. Risk assessments and method statements come with every hire, and we carry £5 million public liability insurance as standard.
+
+      ### How It Works
+
+      A generator or mains supply feeds into a distribution board, which splits the power out to your stages, PA systems, lighting rigs, catering equipment and bars. We size the board and the cable runs to your event — a small community gala might need a single-phase board with standard sockets, while a multi-stage festival needs three-phase distribution with industrial connectors running across the site.
+
+      We deliver nationwide, including to venues like NEC Birmingham, Manchester Central, ExCel London and Telford Exhibition Centre, and we cover [Sheffield](/locations/sheffield/), [Leeds](/locations/leeds/), [Doncaster](/locations/doncaster/) and [Barnsley](/locations/barnsley/) with short-notice availability.
+
+      ### What Clients Say
+
+      Darren Dawson hired a stage, sound equipment and chairs from us for a company event and said afterwards: "The guys turned up well in advance, set everything up and made sure I was happy before leaving site."
+
+      Steven, who hired a large outdoor mobile stage with lights and PA, said: "Reliable, dependable and cost effective... The team that attended our event are stars!"
+
+      ### Real Events, Real Power Needs
+
+      The charity events we work on give you a sense of the scale. The [Alzheimer's Society Memory Walk](/clients/alzheimers-society/) puts around 110,000 walkers on the road over a seven-week nationwide programme, with stages, PA systems and start and finish gantries at every venue. The [Prostate Cancer UK March for Men](/clients/prostate-cancer-uk/) and [Sheffield Children's Hospital Charity](/clients/childrens-hospital-charity/) fundraising events are others we have supported. Events of this size need proper power distribution to run the production side.
+  - type: split-html
+    subtitle: Pairing with Generators and Production Equipment
+    content: |-
+      Event power distribution on its own is only half the equation — you need a power source feeding into it. We supply [generator hire](/products/generator-hire/) from 2.2kva to 20kva and [battery generators](/products/battery-generator/) for zero-emission events, and the distribution boards are sized to match the generator output and your event requirements.
+
+      For the production side, we can run power to [PA systems](/products/pa-system/), [stages](/products/modular-deck-staging/), [marquees](/products/marquee-hire/) and lighting rigs from a single distribution setup, so you are not coordinating multiple suppliers for power and production.
+    figure_html: |-
+
+      ### What's Included
+      - Distribution boards and consumer units
+      - Cabling runs and connectors
+      - PAT tested equipment with current safety certificates
+      - Delivery, setup and on-site testing by our crew
+      - Risk assessments and method statements
+      - £5 million public liability insurance
+  - type: split-html
+    reverse: true
+    subtitle: Why It Matters On Site
+    content: |-
+      When you hire power distribution from us, the same crew who deliver the boards and cabling also configure and test them on site. If a speaker stack needs moving, a catering unit draws more power than expected, or you need an extra cable run at the last minute, we can sort it without calling in a separate electrician or rental chain.
+
+      We have been doing this since 1999 and we carry around 95% of the kit in our own 25,000 sq ft warehouse in Rotherham, just off the M1 and M18.
+    figure_html: |-
+
+      ### From One Supplier
+      - [Generator hire](/products/generator-hire/) (2.2kva to 20kva)
+      - [Battery generators](/products/battery-generator/)
+      - [PA systems](/products/pa-system/)
+      - [Modular deck staging](/products/modular-deck-staging/)
+      - [Marquees](/products/marquee-hire/)
+      - [Crowd barriers](/products/crowd-barriers/)
+      - Single invoice, single point of contact
   - type: features
     dark: true
-    intro_content: "## What's Included"
+    intro_content: "## Ideal For"
     items:
       - icon: mdi:check-circle
-        name: Distribution boards and consumer units
+        name: Outdoor festivals and concerts
         description: ""
       - icon: mdi:check-circle
-        name: Cabling and connectors
+        name: Corporate events and exhibitions
         description: ""
       - icon: mdi:check-circle
-        name: PAT tested equipment
+        name: Community celebrations and charity galas
         description: ""
       - icon: mdi:check-circle
-        name: Delivery, setup and collection
+        name: Weddings and private parties
         description: ""
       - icon: mdi:check-circle
-        name: Risk assessments and method statements
+        name: Construction and site power
         description: ""
       - icon: mdi:check-circle
-        name: £5 million public liability insurance
+        name: Film and production locations
         description: ""
-  - type: markdown
-    dark: true
-    content: |-
-      ### Pairs With
-
-      - Generator hire (2.2kva to 20kva)
-      - Battery-powered generators
-      - Stage lighting and PA systems
-      - Festoon lighting
-      - Catering and bar power
   - type: features
     dark: true
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        name: Distribution boards and cabling
+        name: Distribution boards and consumer units
         description: ""
       - icon: mdi:check-circle
-        name: Safe power management for events
-        description: ""
-      - icon: mdi:check-circle
-        name: Pairs with generator hire
+        name: Cabling runs and connectors
         description: ""
       - icon: mdi:check-circle
         name: PAT tested equipment
         description: ""
       - icon: mdi:check-circle
-        name: Compliant with event regulations
+        name: Pairs with generator and battery power
+        description: ""
+      - icon: mdi:check-circle
+        name: Compliant with event safety regulations
         description: ""
       - icon: mdi:check-circle
         name: UK-wide delivery and setup
         description: ""
+  - type: stats
+    dark: true
+    items:
+      - value: Distribution boards, cabling
+        label: Equipment
+      - value: PAT tested
+        label: Testing
+      - value: Event safety compliant
+        label: Compliance
+      - value: UK-wide
+        label: Delivery
+      - value: £5 million
+        label: Public liability insurance
   - type: contact-form
     content: |-
-      ## Hire Electrical Distribution
 
-      Contact our team for availability and pricing.
----
+      ## Hire Event Power Distribution
+
+      Tell us about your event — the venue, the expected power draw, and what other equipment you need — and we will put a quote together. If you are not sure what you need, we can do a site visit first.
