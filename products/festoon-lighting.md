@@ -65,7 +65,7 @@ blocks:
 
       Festoon lighting works across most event settings. Outdoors, it defines walkways between stages and tents, marks out event village boundaries and provides warm light across open-air dining areas and bars. Indoors, it adds warmth to exhibition halls, warehouse venues, function rooms and church halls — anywhere a trade-show hall or bare room benefits from a bit of soft bulb light.
 
-      It also works particularly well in marquees, strung along the ceiling ridge or around the perimeter poles. We have supplied festoon lighting as part of the event infrastructure for the [Sheffield Children's Hospital Charity](/clients/childrens-hospital-charity/) fundraising events, where it runs alongside stages, PA systems and crowd barriers.
+      Festoon lighting also works particularly well in marquees, strung along the ceiling ridge or around the perimeter poles. We have supplied festoon lighting as part of the event infrastructure for the [Sheffield Children's Hospital Charity](/clients/childrens-hospital-charity/) fundraising events, where it runs alongside stages, PA systems and crowd barriers.
 
       Steven Singleton has worked with us for community events over a number of years and says we "deliver a professional stage sound and lighting package." Laura Waude hired a variety of equipment from us for a council gala and says we have "excellent staff and equipment to suit all budgets and occasions."
 
