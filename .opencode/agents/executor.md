@@ -1,7 +1,7 @@
 ---
 description: Executes PRODUCT_PLAN.md to refine a product page
 mode: primary
-model: opencode-go/deepseek-v4-pro
+model: neuralwatt/kimi-k2.6-fast
 permission:
   read:
     "*": "allow"
