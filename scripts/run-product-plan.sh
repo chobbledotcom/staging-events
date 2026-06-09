@@ -1,7 +1,13 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-echo "=== Pulling latest changes ==="
+if [ "${1:-}" = "-v" ]; then
+  set -x
+fi
+
+timestamp() { date "+%H:%M:%S"; }
+
+echo "[$(timestamp)] === Pulling latest changes ==="
 git pull
 
 BLOCKS_LAYOUT_LOCAL=".blocks-layout-ref.md"
@@ -21,15 +27,15 @@ if [ -d /home/user/git/google-reviews-frame/data/db-entertainment ]; then
   reviews_flag="Reviews have been copied to ${REVIEWS_LOCAL}/ in this directory. Use that local copy instead of accessing the external repo in step 5."
 fi
 
-echo "=== Step 1: Executing PRODUCT_PLAN.md ==="
+echo "[$(timestamp)] === Step 1: Executing PRODUCT_PLAN.md ==="
 opencode run --thinking --agent executor "Read PRODUCT_PLAN.md and execute it fully. ${blocks_flag} ${reviews_flag}"
 
 modified_files=$(git diff --name-only -- '*.md' | tr '\n' ', ' | sed 's/,$//')
 
 echo ""
-echo "=== Step 2: Verifying unstaged changes ==="
+echo "[$(timestamp)] === Step 2: Verifying unstaged changes ==="
 opencode run --thinking --agent verifier "Verify that the unstaged changes are accurate."
 
 echo ""
-echo "=== Done ==="
+echo "[$(timestamp)] === Done ==="
 notify-send "Product Plan Complete" "Finished editing: ${modified_files:-unknown}. Ready for check-over."
