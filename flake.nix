@@ -20,11 +20,13 @@
               "sync-files"
               "watch"
               "update-pages"
+              "update-scripts"
               "fetch-google-reviews"
               "clean"
               "test"
             ];
           };
+          productupdate = pkgs.writeShellScriptBin "productupdate" (builtins.readFile ./scripts/run-product-plan.sh);
         in
         {
           default = pkgs.mkShell {
@@ -33,7 +35,8 @@
               vips
               stdenv.cc.cc.lib
               bunScripts
-            ];
+              productupdate
+              ];
 
             shellHook = ''
               export LD_LIBRARY_PATH="${pkgs.stdenv.cc.cc.lib}/lib:$LD_LIBRARY_PATH"
@@ -50,6 +53,7 @@
                fetch-google-reviews - Fetch Google Maps reviews
                clean               - Clean build directory
                test                - Run tests
+               productupdate        - Execute PRODUCT_PLAN.md and verify changes
 
               EOF
               git pull

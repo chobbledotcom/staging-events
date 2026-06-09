@@ -19,7 +19,7 @@ permalink: false
 
 1. Find a product page with low-quality content or tell-tale signs of AI.
 2. Read its description and extract **every concrete, verifiable fact** about the product into a temporary markdown file.
-3. View the product images and describe them in the temp file.
+3. **View the product images and describe them in the temp file.** Launch a subagent for each image (the base model can only handle one image at a time — do not try and read many images at once). Each subagent should describe what's visually in the image — setup, condition, scale, context, any branding or logos visible — as thoroughly as possible.
 4. Search the internet for the same product on other sites and add any **critical missing facts** — recording the source for each so it stays verifiable. Note the manufacturer/brand and any synonyms or alternate names. Use the Kagi search API (`KAGI_API_KEY` is in the environment):
 
    ```bash
@@ -34,7 +34,8 @@ permalink: false
 
 5. **Find relevant reviews.** Staging Events is a division of DB Entertainment but trades under its own name, so the reviews live in `chobbledotcom/google-reviews-iframe`, under `data/db-entertainment/` — one JSON file per review (`[name]-[date].json`), each with `author`, `rating`, `content`, `date`, `source`. Search that directory for reviews whose `content` relates to staging hire, large-scale event production, or the product in question (loose match). **Filter strictly**: skip any review that mentions "DB Entertainment" by name — we can't quote those on the Staging Events site without implying they're about a different company. Note the relevant ones in the temp file. When quoting, use short excerpts (a sentence or two), not the whole review — we don't want to duplicate content that already appears on the DB Entertainment site.
 6. **Cross-reference client pages.** Check the `clients/` directory for any client pages that mention the product or depend on it (e.g. the Alzheimer's Society Memory Walk page references staging, gantries, PA, and water supply). Note relevant client context — real charity names and real event figures are some of the strongest EEAT signals available.
-7. Compile the new description from the collected data. Update the product's file so it:
+7. Read SELLING_POINTS.md if it exists and copy any relevant points into the temp file.
+8. Compile the new description from the collected data. Update the product's file so it:
    1. uses VOICE.md for tone — plain-spoken, dry, sceptical of marketing-speak, with a quiet South Yorkshire register and no dialect cosplay. Apply the WhatsApp test to each line. Complete sentences only — no fragments, no punchline closers, no cinematic one-liners.
    2. describes the product thoroughly and accurately with specifics over abstractions: the Intelistage system by name, not "a portable staging system"; the Instagrid ONE max at 2.1 kWh, not "an eco-friendly generator".
    3. **quotes the relevant part(s) of any matching review** — fix typos but otherwise verbatim; you needn't quote the whole review, just the relevant bit. Attribute as "John D said", or "John D from [Company]" if a company is named in the review `content` (there's no separate company field). Skip if no review genuinely relates to the product.
@@ -45,13 +46,13 @@ permalink: false
    8. uses the blocks layout to structure the page visually — prefer `split-image`, `split-html`, `gallery` for visual variety; `features` for lists; `stats` and `product-specs` selectively where they add real signal, not as boilerplate
    9. **updates the meta fields freely** (`title`, `meta_title`, `meta_description`) — prime searcher-intent space; keep synonyms in them. The `description` front matter field feeds page subtitles and meta — make it specific and search-relevant.
    10. **leaves the filename alone** unless it's absolutely terrible (last resort) — and if it must change, add a `redirect_from` for the old path _and_ update every internal reference to it
-8. **FAQ block — only when it earns its place.** Add a `faqs` block **only if there are at least 3 genuinely product-specific questions** worth answering. Before writing any Q&A, sanity-check it against two tests:
+9. **FAQ block — only when it earns its place.** Add a `faqs` block **only if there are at least 3 genuinely product-specific questions** worth answering. Before writing any Q&A, sanity-check it against two tests:
    - **Specificity test:** does the answer say something _specific to this product_ (its mechanics, dimensions, manufacturer, branding, suitability quirks)? If the same answer would fit any hire company's page, cut it. No generic, found-everywhere-on-the-web answers.
    - **Triviality/maintenance test:** would the answer go stale if a trivial business detail changed? Avoid churny business facts — we do **not** want FAQs we'll have to update across dozens of pages when something minor changes.
    - If fewer than 3 questions survive both tests, **skip the FAQ block entirely** — no boilerplate FAQs, ever.
-9. Read over it. Check **every line, line-by-line, against the temp file** — each concrete claim must trace to a source. Run the EEAT baseline as a checklist.
-10. Remove inaccuracies, assumptions, and unsupported inferences; tighten everything up.
-11. Use the chobble-template blocks layout where it makes the page more visually interesting: https://raw.githubusercontent.com/chobbledotcom/chobble-template/refs/heads/main/BLOCKS_LAYOUT.md — consider `stats` and `product-specs` where they add real signal, but use them selectively, not as boilerplate.
-12. Update each gallery image's caption to accurately reflect what's actually in the image.
-13. Re-check the whole thing against VOICE.md — you have a tendency to ignore it. Apply the WhatsApp test to each line. Watch for: sentence fragments, punchline closers, cinematic one-liners, rule-of-three lists, deflating undercuts, handle-the-objection moves, and generic northern markers. The voice lives in content and structure, not word choice.
-14. New branch, commit, push. **Do not** include the temporary file.
+10. Read over it. Check **every line, line-by-line, against the temp file** — each concrete claim must trace to a source. Run the EEAT baseline as a checklist.
+11. Remove inaccuracies, assumptions, and unsupported inferences; tighten everything up.
+12. Use the chobble-template blocks layout where it makes the page more visually interesting: https://raw.githubusercontent.com/chobbledotcom/chobble-template/refs/heads/main/BLOCKS_LAYOUT.md — consider `stats` and `product-specs` where they add real signal, but use them selectively, not as boilerplate.
+13. Update each gallery image's caption to accurately reflect what's actually in the image.
+14. Re-check the whole thing against VOICE.md — you have a tendency to ignore it. Apply the WhatsApp test to each line. Watch for: sentence fragments, punchline closers, cinematic one-liners, rule-of-three lists, deflating undercuts, handle-the-objection moves, and generic northern markers. The voice lives in content and structure, not word choice.
+15. New branch, commit, push. **Do not** include the temporary file.
