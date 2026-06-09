@@ -17,7 +17,7 @@ permalink: false
 
 ## Process
 
-1. Find a product page with low-quality content or tell-tale signs of AI.
+1. Find the least-recently-updated product or category page.
 2. Read its description and extract **every concrete, verifiable fact** about the product into a temporary markdown file.
 3. **View the product images and describe them in the temp file.** Launch a subagent for each image (the base model can only handle one image at a time — do not try and read many images at once). Each subagent should describe what's visually in the image — setup, condition, scale, context, any branding or logos visible — as thoroughly as possible.
 4. Search the internet for the same product on other sites and add any **critical missing facts** — recording the source for each so it stays verifiable. Note the manufacturer/brand and any synonyms or alternate names. Use the Kagi search API (`KAGI_API_KEY` is in the environment):
@@ -55,4 +55,4 @@ permalink: false
 12. Use the chobble-template blocks layout where it makes the page more visually interesting: https://raw.githubusercontent.com/chobbledotcom/chobble-template/refs/heads/main/BLOCKS_LAYOUT.md — consider `stats` and `product-specs` where they add real signal, but use them selectively, not as boilerplate.
 13. Update each gallery image's caption to accurately reflect what's actually in the image.
 14. Re-check the whole thing against VOICE.md — you have a tendency to ignore it. Apply the WhatsApp test to each line. Watch for: sentence fragments, punchline closers, cinematic one-liners, rule-of-three lists, deflating undercuts, handle-the-objection moves, and generic northern markers. The voice lives in content and structure, not word choice.
-15. New branch, commit, push. **Do not** include the temporary file.
+15. You're done!
