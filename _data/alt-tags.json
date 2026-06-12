@@ -1,3 +1,479 @@
 {
-	"images": []
+	"images": [
+		{
+			"path": "images/sheffield-childrens-hospital-building.jpg",
+			"alt": "Sheffield Childrens Hospital modern brick building with entrance and yellow car",
+			"description": "Bright sunlit architectural rendering of Sheffield Children's Hospital. Large modern red-brown brick building with prominent white lettering. Curved section, covered drop-off area, yellow car on driveway, older adjacent brick building, green trees, church spire in distance."
+		},
+		{
+			"path": "images/trailer-stage-town-centre-market.jpg",
+			"alt": "White trailer stage parked in town centre near market stalls",
+			"description": "Outdoor street parking area with large white trailer-mounted portable stage. Blue pop-up gazebo nearby, black timber building with 'Cosy' shopfront, narrow street with 'OLD BOROUGH' and 'CAREY'S SEAFOOD & STEAK BAR' signs. Overcast quiet town centre."
+		},
+		{
+			"path": "images/santander-event-staff-facepaint-night.jpg",
+			"alt": "Four event staff in blue jackets with face paint at night",
+			"description": "Nighttime outdoor photo of four people in matching bright blue hooded jackets at an event. Colorful face paint on each person. Metal stage rig with blue light, red 'Santa' banner, yellow ambulance in background. Cheerful energetic festive mood."
+		},
+		{
+			"path": "images/prostate-cancer-uk-logo.jpg",
+			"alt": "Prostate Cancer UK logo with white crowd silhouette on black",
+			"description": "Black background with large white silhouette of standing human figure made of smaller white pictograms. Bold white text 'SUPPORTING PROSTATE CANCER UK'. Design conveys community and solidarity."
+		},
+		{
+			"path": "images/trailer-stage-aerial-with-marquee.jpg",
+			"alt": "Aerial view of trailer stage setup in park with marquee tent",
+			"description": "Aerial view of outdoor event setup in grassy park. Large rectangular stage with white roof, drum kit, amplifiers, speakers. Smaller white peaked marquee tent to left with staff. Tall metal lighting truss, speakers, flight cases. Canal/waterway in background. Sunny day."
+		},
+		{
+			"path": "images/white-canopy-stage-hillside.jpg",
+			"alt": "White canopy stage on grassy hillside with vehicle nearby",
+			"description": "Outdoor event stage on grassy park area. Raised rectangular platform with silver metal truss frame and white fabric roof. White backdrop curtain, metal stairs, ramp extension. Young tree, grassy hillside, partly cloudy sky. Vehicle/trailer with equipment on right."
+		},
+		{
+			"path": "images/stage-black-acoustic-curtain-rear.jpg",
+			"alt": "Large outdoor stage with black acoustic curtains and generator",
+			"description": "Large outdoor event setup centered on tall black stage structure. Black fabric panels stretched over metal framework, ladder leaning against left side. Portable generator in lower right. Grassy field, people near blue-and-white canopy tent in background, blue sky with clouds."
+		},
+		{
+			"path": "images/prostate-cancer-uk-logo.svg",
+			"alt": "Prostate Cancer UK logo with white crowd silhouette on black",
+			"description": "SVG vector version of Prostate Cancer UK logo. Black background with large white silhouette of standing human figure made of smaller white pictograms. Bold white text 'SUPPORTING PROSTATE CANCER UK'."
+		},
+		{
+			"path": "images/trailer-stage-side-view-empty.jpg",
+			"alt": "Empty trailer stage side view with speakers and equipment",
+			"description": "Large outdoor temporary stage on grassy area. Open front, metal truss frame with flat roof, stage lights. Black drapes, acoustic panels at rear. Wedge monitors, mic stands, keyboard stands, riser. Large speaker stack on right. Green grass, trees, overcast sky."
+		},
+		{
+			"path": "images/march-for-men-route-signpost.jpg",
+			"alt": "Blue human-shaped signpost directing March for Men routes",
+			"description": "Bright outdoor park scene with large blue cutout shaped like stylized human figure functioning as signpost. Yellow arrow 'Short Route' left, orange arrow 'Medium & Long Route' right. Green lawn, trees, parking area with cars and camper van. Sunny day."
+		},
+		{
+			"path": "images/pancreatic-cancer-uk-logo.svg",
+			"alt": "Pancreatic Cancer UK logo with purple ribbon",
+			"description": "SVG vector version of Pancreatic Cancer UK logo. Purple awareness ribbon on left. Bold uppercase purple text 'PANCREATIC CANCER UK' on white background."
+		},
+		{
+			"path": "images/pa-speakers-memory-walk-stage.jpg",
+			"alt": "PA speakers flanking Alzheimer Society Memory Walk stage",
+			"description": "Outdoor event stage on grassy field for charity walk. Raised black stage with silver frame, large dark blue banner with light blue ribbon design, Alzheimer's Society 'Memory Walk' vertical banner. Large black speakers, flight cases, laptop. Orange safety strap, barrier tape."
+		},
+		{
+			"path": "images/mini-trussed-stage-with-band-field.jpg",
+			"alt": "Female band performing on mini trussed stage in field",
+			"description": "Outdoor live performance on temporary stage on grassy field under blue sky. Silver truss frame with white canopy, blue bunting. Three women in teal outfits performing with mics. Speakers, monitors, mic stands, amplifiers. White canopy tent with 'D.B. Events EVENT HIRE' sign."
+		},
+		{
+			"path": "images/pa-speakers-dj-booth-inflatable-tent.jpg",
+			"alt": "DJ booth inside blue inflatable tent with PA speakers outside",
+			"description": "Outdoor event setup on grassy field. Large blue inflatable tent with open entrance, reddish-pink inner walls. Table with black cloth holding DJ/audio equipment, mixer, controllers, laptop. Two large black speakers on tripod stands in front. Building with large windows in background."
+		},
+		{
+			"path": "images/jd-gyms-event-crowd-start.jpg",
+			"alt": "JD Gyms staff at March for Men charity event start line",
+			"description": "Large outdoor charity event in grassy park. Two men in dark grey JD GYMS T-shirts facing large crowd. Participants wearing black 'MARCH FOR MEN' T-shirts walking across grass. Blue event tents, 'PROSTATE CANCER UK' banners. Energetic communal atmosphere."
+		},
+		{
+			"path": "images/pa-speakers-outdoor-stage.jpg",
+			"alt": "Outdoor stage with DJ setup and PA speakers under canopy",
+			"description": "Outdoor stage under temporary white canopy. DJ/sound setup on table with dark cloth, laptop, rack gear, mixers, red cable. Large speaker stacks on left and right. Person in dark hoodie adjusting equipment. Metal trussing, grassy field, orange fencing, buildings in distance."
+		},
+		{
+			"path": "images/mobile-generator-tower-fleet.jpg",
+			"alt": "Fleet of mobile light towers lined up on gravel lot",
+			"description": "Large fleet of identical mobile light towers on gravel lot. Each unit on two-wheeled trailer with white generator housing, black grille, red tail lights. Tall mast with multiple rectangular floodlights. Neat diagonal rows, field with trees in background, overcast sky."
+		},
+		{
+			"path": "images/coppafeel-logo.svg",
+			"alt": "CoppaFeel breast cancer awareness charity logo",
+			"description": "SVG vector version of CoppaFeel charity logo. Features the word 'coppafeel' in stylized lowercase lettering, typically with a boob-themed or playful design element, representing the breast cancer awareness charity."
+		},
+		{
+			"path": "images/coppafeel-logo.png",
+			"alt": "CoppaFeel logo with gray handprint and pink text on black",
+			"description": "Bold logo on black background. Stylized gray handprint with bright pink marks at fingertips and palm. Large rounded pink letter 'C' overlapping palm. Text 'CoppaFeel!' in thick playful pink font, slanted upward. Black, gray, and bright pink color palette."
+		},
+		{
+			"path": "images/prostate-cancer-uk-branded-stage-pa.jpg",
+			"alt": "Prostate Cancer UK branded outdoor stage with PA system",
+			"description": "Outdoor event stage on grassy field on sunny day. Temporary metal truss stage with black floor and canopy. Two large vertical black banners 'PROSTATE CANCER UK' in blue. DJ-style setup, laptop, audio equipment. Backdrop with white walking figure pictograms. Large speakers on left."
+		},
+		{
+			"path": "images/large-trussed-stage-black-backdrop-field.jpg",
+			"alt": "Large empty trussed stage with black backdrop in open field",
+			"description": "Outdoor portable stage on grassy field. Silver metal truss framework with black canopy roof. Two black stage lights mounted under roof. Black floor panels, black curtain backdrop, black mesh windscreen on right. Diagonal braces, guy lines with yellow/orange straps. Green field, trees, blue sky."
+		},
+		{
+			"path": "images/epilepsy-society-logo.jpg",
+			"alt": "Epilepsy Society logo in purple lowercase text",
+			"description": "Clean typographic logo on white background. Lowercase 'epilepsy society' in bold rounded sans-serif, medium purple color. Two letter 'i' characters highlighted in lighter lavender, vertically aligned creating subtle visual connection."
+		},
+		{
+			"path": "images/epilepsy-society-logo.svg",
+			"alt": "Epilepsy Society logo in purple lowercase text",
+			"description": "SVG vector version of Epilepsy Society logo. Lowercase 'epilepsy society' in bold rounded sans-serif, medium purple color. Two letter 'i' characters highlighted in lighter lavender, vertically aligned creating subtle visual connection."
+		},
+		{
+			"path": "images/modular-stage-platform-shopping-centre.jpg",
+			"alt": "Modular black stage platform set up in shopping centre atrium",
+			"description": "High-angle view of indoor shopping mall atrium. Long modular black stage/platform supported by metal truss frame underneath, running diagonally. Light tiled floor with accent tiles. Escalator in background, kiosk with 'B' sign, black-and-white decorative statue. Mostly empty."
+		},
+		{
+			"path": "images/march-for-men-crowd-branded-gazebos.jpg",
+			"alt": "March for Men crowd gathered near branded gazebos in park",
+			"description": "Crowded outdoor charity event on grassy field. March for Men by Prostate Cancer UK. Dark blue tents with 'MARCH FOR MEN' and 'PROSTATE CANCER UK' branding, 'DISCOVER ZONE' feather flag. Large crowd in black and blue shirts. Dogs visible. Green trees, overcast sky."
+		},
+		{
+			"path": "images/blue-inflatable-event-canopy.jpg",
+			"alt": "Blue inflatable event canopy with sunburst interior lining",
+			"description": "Large blue inflatable event tent on paved surface. Rounded arched shape, bright blue exterior with navy upper section. Back wall has colorful pink and magenta sunburst pattern with small yellow/orange shapes. Yard/storage area background with pallets, white building, houses in distance."
+		},
+		{
+			"path": "images/childrens-hospital-charity-logo.jpg",
+			"alt": "Sheffield Childrens Hospital Charity logo with bear mascot",
+			"description": "Logo for Sheffield Children's Hospital Charity. Bold rounded blue lettering 'Sheffield Children's Hospital Charity' with small blue heart above 'i'. Yellow bear mascot with blue eyes, waving, white bandage on ear, blue heart on chest. Warm cream background."
+		},
+		{
+			"path": "images/childrens-hospital-charity-logo.svg",
+			"alt": "Sheffield Childrens Hospital Charity logo with bear mascot",
+			"description": "SVG vector version of Sheffield Children's Hospital Charity logo. Bold rounded blue lettering with small blue heart above 'i'. Yellow bear mascot waving, white bandage on ear, blue heart on chest. Warm cream background."
+		},
+		{
+			"path": "images/alzheimers-society-logo.svg",
+			"alt": "Alzheimers Society logo with blue forget-me-not flower",
+			"description": "SVG vector version of Alzheimer's Society logo. Stylized flower icon with five rounded blue petals, dark blue center with yellow scalloped ring. 'Alzheimer's' in bold dark blue, 'Society' in lighter blue sans-serif font on white background."
+		},
+		{
+			"path": "images/alzheimers-memory-walk-london-crowd-selfie.jpg",
+			"alt": "Smiling crowd at Alzheimers Memory Walk London taking selfie",
+			"description": "Wide-angle selfie at large outdoor charity event in urban park. Man with microphone addressing massive crowd in bright blue Alzheimer's Society Memory Walk T-shirts. Participants cheering with pink and blue inflatable cheer sticks. City buildings, white tents in background."
+		},
+		{
+			"path": "images/alzheimers-memory-walk-team-selfie-park.jpg",
+			"alt": "Team selfie at Alzheimers Memory Walk event in park",
+			"description": "Close-up outdoor group selfie of four smiling people on grassy park field. Man in blue jacket, man in black cap and turquoise polo, woman in maroon jacket, man in blue jacket with green shirt. Colorful flags/banners in background, people in blue shirts walking. Trees, partly cloudy sky."
+		},
+		{
+			"path": "images/alzheimers-memory-walk-stormont-gazebos.jpg",
+			"alt": "Alzheimers Memory Walk event setup at Stormont with gazebos",
+			"description": "Outdoor event on well-kept grass lawn in front of grand classical stone building (Stormont). Two teardrop banners 'Memory Walk'. Blue and green canopy tents with volunteers in yellow high-vis vests. Large neoclassical building with tall columns, sash windows, balustrade. Overcast sky."
+		},
+		{
+			"path": "images/alzheimers-memory-walk-london-crowd.jpg",
+			"alt": "Large London crowd at Alzheimers Memory Walk in blue shirts",
+			"description": "Large outdoor charity event on grassy urban field with dense city skyline. Hundreds in bright blue Alzheimer's Society Memory Walk T-shirts cheering with pink and blue inflatable noisemakers. Event tents, blue 'START' inflatable arch. Brick apartments, modern offices, church spire in background."
+		},
+		{
+			"path": "images/alzheimers-society-logo.jpg",
+			"alt": "Alzheimers Society logo with blue forget-me-not flower",
+			"description": "Alzheimer's Society logo on white background. Stylized flower icon with five rounded blue petals, dark blue center with yellow scalloped ring. 'Alzheimer's' in bold dark blue sans-serif, 'Society' in lighter blue below."
+		},
+		{
+			"path": "images/alzheimers-memory-walk-team-photo-frame.jpg",
+			"alt": "Team posing with Memory Walk photo frame on outdoor stage",
+			"description": "Cheerful outdoor group photo on event stage at charity walk. Eleven people in rain jackets and warm clothing. Several holding large tilted blue photo-frame prop with '#MemoryWalk' text. Mix of navy 'Staging Events' polos, pink charity T-shirts, green paramedic uniform. Speakers, equipment, trees in background."
+		},
+		{
+			"path": "images/alzheimers-memory-walk-crowd-front-summer.jpg",
+			"alt": "Summer crowd at Alzheimers Memory Walk making heart gestures",
+			"description": "Bright wide-angle photo of very large crowd in park for charity walk. Hundreds in bright blue Alzheimer's Society Memory Walk T-shirts, many holding pink inflatable noisemakers. Arms raised, cheering, waving. Trees with early autumn colors, event tents, blue trailer. Blue sky with fluffy white clouds."
+		},
+		{
+			"path": "images/alzheimers-memory-walk-finish-gantry-team.jpg",
+			"alt": "Team posing under finish gantry at Alzheimers Memory Walk",
+			"description": "Five people posing at finish area of charity walk. Blue inflatable arch with 'FINISH' visible. Group in blue/navy waterproof jackets, one woman in bright blue Alzheimer's Society Memory Walk T-shirt with medal on pink ribbon. Green 'Memory Walk' flag, red 'Santander' flags. Grassy field, stage structure, modern building in background."
+		},
+		{
+			"path": "images/trailer-stage-with-trussing.jpg",
+			"alt": "Trailer stage with nutcracker statues and Christmas decorations",
+			"description": "Temporary outdoor stage in town square on sunny day. Silver metal trussing, black canopy roof, green LED lights. Metal staircase with handrails. Two large decorative nutcracker statues in blue military jackets, red trousers, gold crowns. Cream building with Christmas decorations, 'Rotherham' banner."
+		},
+		{
+			"path": "images/x-large-trussing-gantry-diagram.png",
+			"alt": "Technical diagram of extra large trussing gantry structure",
+			"description": "3D model of large truss structure. Rectangular portal frame made from pale cream-colored metal truss sections. Two tall vertical towers connected by top horizontal beam and second cross-beam halfway up. Base support sections. Perspective grid floor, dark background. CAD/3D rendering of stage truss or gantry."
+		},
+		{
+			"path": "images/video-thumbnail.jpg",
+			"alt": "Large charity walk crowd with leader in yellow top facing participants",
+			"description": "Very large outdoor gathering likely charity walk or mass participation event. Woman in yellow-orange top in foreground facing crowd. Hundreds of participants in matching turquoise/light blue T-shirts stretching far into background. Colorful tents, event gazebos. Trees, overcast sky."
+		},
+		{
+			"path": "images/town-centre-stage-rotherham.jpg",
+			"alt": "Town centre stage in Rotherham with performer in neon green",
+			"description": "Outdoor event stage in paved town square. Metal-framed canopy, light-blue branding, sponsor logos (adidas, Nike, TikTok, LEGO, LinkedIn, Starling Bank). Performers in neon-green outfits, wigs, headphones. Football freestyler balancing ball on foot. Large speakers, monitors. Brick buildings, trees, bunting."
+		},
+		{
+			"path": "images/staging-events-team-alzheimers-memory-walk.jpg",
+			"alt": "Staging Events team posing on Memory Walk stage",
+			"description": "Group of ten people posing on outdoor stage under metal truss canopy. Event staff/volunteers for Alzheimer's Society. Navy 'Staging Events' polo shirts, bright pink charity T-shirts, blue 'Memory Walk' T-shirt. Two rows - seven standing, three kneeling. Dark blue banner with light blue flower design. Speakers, flight cases, high-rise buildings in background."
+		},
+		{
+			"path": "images/stage-with-gazebo-and-barriers.jpg",
+			"alt": "Outdoor stage with gazebo and crowd barriers on grassy field",
+			"description": "Outdoor event setup on grassy field. Large temporary stage with raised platform, metal roof, black mesh sides, silver reflective panel. Silver crowd-control barriers in front. Dark blue pop-up gazebo with folding table to left. White car with open boot. Green field, distant houses, trees. Partly cloudy sky."
+		},
+		{
+			"path": "images/solo-performer-on-lit-stage.jpg",
+			"alt": "Solo performer with acoustic guitar on lit stage at night fair",
+			"description": "Nighttime outdoor live music performance under covered canopy. Performer singing into microphone playing sunburst acoustic guitar, wearing dark patterned jacket and olive trousers. Green-lit stage floor. Audio technician behind laptop/mixer on left. Large speaker stack. Ferris wheel lights visible through mesh backdrop."
+		},
+		{
+			"path": "images/stage-trussing-flightcase.jpg",
+			"alt": "Aluminum trussing sections and hardware flight case on grass",
+			"description": "Collection of silver aluminum trussing on grass. Open black/silver carrying case with hardware - bolts, pins, connectors, fittings in foam compartments. Corner sections and longer straight truss pieces. Tubular aluminum bars in triangular/rectangular lattice patterns. Outdoor preparation for event setup."
+		},
+		{
+			"path": "images/singer-on-stage-microphone.jpg",
+			"alt": "Young male singer performing on outdoor stage with bandmate",
+			"description": "Outdoor live music performance. Young male vocalist singing into handheld microphone, wavy dark hair, sage-green shirt over white graphic T-shirt, tan pants, bracelets, necklaces. Bandmate with long wavy hair in black jacket behind. Microphone stands, Marshall amplifier, metal trussing. White trailer backdrop, green trees. Daytime."
+		},
+		{
+			"path": "images/rotherham-wow-festival-acoustic-stage.jpg",
+			"alt": "Acoustic stage at Rotherham WOW Festival with hay bale seating",
+			"description": "Outdoor daytime music event in grassy park. Medium temporary stage with metal roof, black backdrop, 'Rotherham' banner. Female performer with acoustic guitar singing. Audience seated on hay bales, striped deck chairs. 'WOW Women of the World Festival Rotherham' sign. Green first-aid tent, portable buildings, tall green trees, partly cloudy sky."
+		},
+		{
+			"path": "images/rehydration-station-gazebo.jpg",
+			"alt": "Blue rehydration station gazebo with water dispensers and tables",
+			"description": "Outdoor rehydration station under bright blue pop-up canopy. 'REHYDRATION STATION' with 'REUSE REFILL RECYCLE' and water droplet logos on valance. Two long tables with purple cloths, large green water dispensers, stainless steel water station with tap. Crowd-control barrier behind, green recycling bin. Grassy field, trees, cloudy sky."
+		},
+		{
+			"path": "images/rehydration-station-alzheimers-society.jpg",
+			"alt": "Alzheimers Society branded rehydration station at outdoor event",
+			"description": "Outdoor rehydration station on grassy field. Blue pop-up canopy with 'REHYDRATION STATION REUSE REFILL RECYCLE' text and water drop icons. Tables with purple cloths - one with Alzheimer's Society logo. Green water cooler/dispenser, stainless steel refill station with tap and disposable cups. Crowd-control barrier, white van, cloudy sky."
+		},
+		{
+			"path": "images/prostate-cancer-uk-march-for-men-start-gantry.jpg",
+			"alt": "Prostate Cancer UK March for Men inflatable start arch",
+			"description": "Outdoor event setup on wide paved path/plaza. Large black inflatable archway 'START' with 'PROSTATE CANCER UK MARCH FOR MEN' banners. Stacked bottled water cases, yellow inflatable blower. Folding table with 'March for Men' branded cloth. Portable toilets, red-and-white barrier tape. Tree-lined walkway, benches, partly cloudy sky."
+		},
+		{
+			"path": "images/prostate-cancer-uk-march-for-men-stage.jpg",
+			"alt": "Prostate Cancer UK March for Men outdoor stage with walking figures backdrop",
+			"description": "Outdoor event stage on sunny day for charity walk. Silver metal truss frame, black floor, small steps. 'MARCH FOR MEN' banner on top. Black backdrop with white walking figure pictograms including wheelchair users. 'PROSTATE CANCER UK' vertical banner on right. Large speaker cabinet. Green trees, clear blue sky."
+		},
+		{
+			"path": "images/performers-with-pa-speakers.jpg",
+			"alt": "Performers in neon outfits on wet stage with PA speakers",
+			"description": "Outdoor performance stage during rainy/overcast weather. Two women in matching neon yellow-green T-shirts, silver sequined jackets, black leggings performing. One near speaker stack, one with headset microphone mid-dance. Black truss canopy, large speakers, equipment covered in plastic. Blue inflatable archway in background, people in rain gear."
+		},
+		{
+			"path": "images/prostate-cancer-uk-march-for-men-led-screen.jpg",
+			"alt": "Prostate Cancer UK March for Men stage with LED screen trailer",
+			"description": "Outdoor event setup for Prostate Cancer UK March for Men. Small raised stage with silver trussing, black canopy, 'PROSTATE CANCER UK' banners, walking-figure backdrop, speakers, laptop setup. Large trailer/mobile screen unit with black banner '#MarchforMen'. Large black LED screen displaying figure made of people. Paved public area, grass, trees, apartment buildings."
+		},
+		{
+			"path": "images/photo-booth-say-cheese.jpg",
+			"alt": "Photo booth kiosk with 'Say Cheese March for Men' sign in office",
+			"description": "Indoor office setting with photo booth installation near glass wall. Tall narrow black kiosk with bright circular light, screen, 'SAY CHEESE' text, camera icon, 'MARCH FOR MEN' with walking-figure logo. White box device on table. Woman in blouse partially visible. Glass partition with frosted walking figure silhouettes, office desks visible through glass."
+		},
+		{
+			"path": "images/pa-speakers-audience-view.jpg",
+			"alt": "PA speakers in foreground with audience watching stage performance",
+			"description": "Interior theater/performance venue during curtain call. Two large black PA speakers on stands in foreground with blue indicator light. Rows of black chairs with audience facing stage. Performers in colorful clothing standing in line holding hands, bowing. Stage lighting along left side, theatrical atmosphere."
+		},
+		{
+			"path": "images/pancreatic-cancer-uk-logo.jpg",
+			"alt": "Pancreatic Cancer UK logo with purple ribbon",
+			"description": "Pancreatic Cancer UK logo on white background. Purple awareness ribbon on left, stylized with looped top and two hanging tails. Bold uppercase purple text 'PANCREATIC CANCER UK' in two lines to the right."
+		},
+		{
+			"path": "images/performer-jumping-mini-stage.jpg",
+			"alt": "Dancer jumping near mini stage with drummers at cultural festival",
+			"description": "Energetic outdoor cultural performance on grassy area. Smiling woman with voluminous dark curly hair dancing with arms raised, holding red fan, wearing white outfit with decorative sash, barefoot. Raised stage with black canopy behind her, musicians playing drums. Purple 'we Celebrate' sign. Trees, pale sky."
+		},
+		{
+			"path": "images/modular-stage-school-sports-hall.jpg",
+			"alt": "Modular stage assembled in school sports hall with court markings",
+			"description": "Interior of school/community gymnasium. Polished light wood floor with white, green, black, yellow court lines. Long modular stage/platform with dark top surface and metal legs in middle of gym. Small metal stairs at right end. Blue-gray cinder block wall, basketball hoops, analog clock, blue padding. Cream curtain on left. Quiet and empty."
+		},
+		{
+			"path": "images/mobile-trailer-stage-on-field.jpg",
+			"alt": "Mobile trailer stage parked on open grass field under blue sky",
+			"description": "Large portable outdoor stage on wide grass field, likely sports ground or park. Rectangular elevated stage with dark deck and black skirting. Trailer-mounted with visible hitch. Metal-framed roof canopy. Black mesh/fabric panels with three tall zippered openings. Some black equipment on stage, metal stairs on right. Open green field, trees, rolling hills, clear blue sky."
+		},
+		{
+			"path": "images/mobile-trailer-stage-with-barriers.jpg",
+			"alt": "Mobile trailer stage with crowd barriers near railway bridge",
+			"description": "Large outdoor stage on dry patchy grass under blue arched railway bridge. Rectangular open-front stage with metal roof, black curtains/mesh panels, semi-transparent back panel reflecting buildings. Silver crowd-control barriers in front. Brick building, railway lines, white truck on right. Apartment buildings in distance. Clear blue sky with clouds."
+		},
+		{
+			"path": "images/memory-walk-stage-setup.jpg",
+			"alt": "Alzheimers Memory Walk stage setup with PA and branded banners",
+			"description": "Outdoor event stage on grassy park area for Alzheimer's Society Memory Walk. Raised black stage with silver truss structure, dark blue canopy. Large blue banner 'Alzheimer's Society Memory Walk alzheimers.org.uk'. Tall vertical branded banners on sides. Large black speaker stacks, flight cases, equipment. Metal crowd-control barriers, trees, soft sunlight."
+		},
+		{
+			"path": "images/memory-walk-stage-close-up.jpg",
+			"alt": "Close-up of Alzheimers Memory Walk stage with speakers and banners",
+			"description": "Outdoor event stage on grass for Alzheimer's Society Memory Walk. Blue backdrop banner with Alzheimer's Society logo and 'Memory Walk alzheimers.org.uk'. Metal trussing with dark canopy. Tall black professional speaker stacks on both sides (Electro-Voice). Equipment cases, bottled water pack. Metal stairs, crowd barriers. Trees, soft sunlight."
+		},
+		{
+			"path": "images/memory-walk-stage-and-van.jpg",
+			"alt": "Memory Walk stage with Staging Events branded van alongside",
+			"description": "Outdoor event setup on grassy field for Alzheimer's Society Memory Walk. Temporary stage with silver trussing, black canopy, metal stairs, dark blue 'Memory Walk' banners, blue backdrop with looping design. Equipment cases, laptops, blue crate on stage. White trailer with 'STAGINGEVENTS' and 'Memory Walk' branding. Red-and-white tape, stone steps, green hill, overcast sky."
+		},
+		{
+			"path": "images/memory-walk-stage-and-pa.jpg",
+			"alt": "Memory Walk stage with PA speakers and inflatable start arch",
+			"description": "Outdoor event stage on grassy field for Alzheimer's Society Memory Walk. Raised metal stage with silver trussing, dark canopy, vertical purple 'Memory Walk' banners, blue backdrop with flower symbol. Equipment, flight cases, blue crate, stairs. Tall black speaker stack, 'Bespoke Medals' box. Blue inflatable 'START' arch, red Santander flags, crowd barriers. Trees, cloudy sky."
+		},
+		{
+			"path": "images/memory-walk-crowd-with-barriers.jpg",
+			"alt": "Large Memory Walk crowd making heart gestures behind barriers",
+			"description": "Large outdoor charity event in park on overcast day. Hundreds in bright blue Alzheimer's Society Memory Walk T-shirts on grassy field. Nearly everyone making heart shapes with hands. Metal crowd barrier in foreground. Woman in blue shirt with back to camera leading gesture. Blue event tents, yellow and red flags. Portable toilets, white ambulance. Mature trees, grey sky."
+		},
+		{
+			"path": "images/indoor-venue-stage-setup.jpg",
+			"alt": "Indoor venue stage with suspended mirror panels and lighting",
+			"description": "Large dark indoor performance space, likely black-box theater. Tall vertical mirror-like panels hanging from ceiling on cables, spaced apart like fragmented screen. Behind panels: black speakers, floor wedges, blue-lit columns, stacked road cases, cables. Dark gray carpet foreground, shiny black stage surface. White light source upper left, black curtains. Two black chairs lower right."
+		},
+		{
+			"path": "images/fire-breather-on-stage.jpg",
+			"alt": "Fire breather performing on outdoor stage with drummers",
+			"description": "Vibrant outdoor stage performance with fire-breathing act. Barefoot man kneeling breathing large plume of bright orange fire, holding torches, wearing white shirt with colorful shoulder fabric and yellow-black striped pants. Performer with dreadlocks and blue fringed wrap near microphone. Musicians with drums behind. Black speakers, microphones. Blue-and-white tent, trees, daytime."
+		},
+		{
+			"path": "images/festival-tent-chuckle-tent.jpg",
+			"alt": "Family audience in Chuckle Tent at outdoor festival",
+			"description": "Outdoor event under large beige marquee tent on grassy lawn. Red comic-style 'CHUCKLE TENT' sign. Audience seated on wooden benches - adults, children, person in motorized wheelchair with colorful backpack. Performer in bright pink dress and blonde wig on small stage with microphone. Child on stage, blue curtain backdrop. Family-friendly comedy/variety show atmosphere."
+		},
+		{
+			"path": "images/fan-party-stage-crowd.jpg",
+			"alt": "UEFA Womens Euro 2022 fan party crowd with orange-clad supporters",
+			"description": "Lively outdoor scene at UEFA Women's Euro England 2022 Fan Party. Large crowd gathered in front of stage and big screen. Light-blue banner 'UEFA WOMEN'S EURO ENGLAND 2022 FAN PARTY'. Orange lion mascot on stage. Crowd in bright orange clothing and Dutch flags waving. Dense energetic crowd, brick buildings, trees, overcast sky."
+		},
+		{
+			"path": "images/fan-party-large-stage.jpg",
+			"alt": "UEFA Womens Euro 2022 fan party stage with football freestyler",
+			"description": "Outdoor event stage for UEFA Women's Euro England 2022 Fan Party in Rotherham on sunny day. Large canopy with 'FAN PARTY' and tournament branding. Blue 'Rotherham' banner with purple logo. Performer lying on back balancing football on raised foot - freestyle football entertainer in purple shirt, black shorts, white socks. Large speakers, monitors, mic stands, drum kit, cables. Town centre backdrop."
+		},
+		{
+			"path": "images/exhibition-banner-stands.jpg",
+			"alt": "Prostate Cancer Memorial stainless steel sculpture in station",
+			"description": "Tilted close-up interior of public concourse (likely train station). Large polished stainless-steel triangular prism sculpture with engraved names - 'THE PROSTATE CANCER MEMORIAL' partnering with phs Group. QR code, prostatecanceruk.org/memorial. Glass-fronted ticket office with 'Swyddfa docynnau Ticket office' and 'CROESO WELCOME'. Yellow high-vis person, terrazzo floor, marble pillars, glass doors."
+		},
+		{
+			"path": "images/doncaster-town-centre-christmas-stage.jpg",
+			"alt": "Doncaster town centre Christmas stage setup in the snow",
+			"description": "Large outdoor temporary stage in town square on cold overcast day. White canopy roof with black trussing and stage lights. Black mesh/scrim sides, dark wooden stage floor. Large black PA speakers, wedge monitors, flight cases. Silver crowd barriers in foreground. Snow-dusted building roofs, green road sign for Doncaster/Thorne/Rotherham, 'WOMACK' shopfront with Christmas decorations, blue SUV."
+		},
+		{
+			"path": "images/event-stage-setup.jpg",
+			"alt": "Outdoor festival stage with full band setup on sunny day",
+			"description": "Outdoor concert stage in open grassy field on bright sunny day. Silver metal truss framework with black roof canopy, large black backdrop. Full band setup - drum kit with logo, mic stands, monitors, cables. Large black speaker stacks on both sides, lighting fixtures on vertical truss columns. Yellow-green tents, green fence on left. White vehicle, generator boxes behind. Dry yellowish-brown grass."
+		},
+		{
+			"path": "images/dancers-on-stage-festival.jpg",
+			"alt": "Traditional African dancers performing on outdoor festival stage",
+			"description": "Lively outdoor stage performance, likely traditional African dance/cultural festival. Two male dancers in foreground in leopard-print sleeveless tops, fur/hide skirts, white fur accents, feathered headbands. Female dancers behind in white tops, orange fringed skirts, colorful beadwork. Microphones, speakers, cables. Grassy festival area, tents, trees, cloudy sky in background."
+		},
+		{
+			"path": "images/church-event-atmospheric-lighting.jpg",
+			"alt": "Concert inside Gothic church with atmospheric purple lighting",
+			"description": "Live musical performance inside large Gothic-style church/cathedral. Dark wooden pews in foreground, mostly empty with one person recording on phone. Band/ensemble on low stage with double bass, guitars, woodwind, possibly harp. Striking modern backdrop of large angular translucent panels illuminated with yellow, white, blue, green projections. Tall stone arches lit in vivid purple and blue. Large Gothic stained-glass window glowing."
+		},
+		{
+			"path": "images/choir-on-modular-stage.jpg",
+			"alt": "Community choir performing on modular stage at outdoor event",
+			"description": "Outdoor daytime event on grassy field with covered performance stage. Choir of about thirteen women performing, most in matching green and white outfits with white embroidered shawls over green saris. Standing in line with black folders/songbooks, singing into microphones. Woman on far right leading/conducting. Stage has white canopy, black mesh back, 'Rotherham' blue banner. Speakers, monitors. Man taking photo. Hay bales, white/blue tents, houses in background."
+		},
+		{
+			"path": "images/cathedral-concert-purple-lighting.jpg",
+			"alt": "Concert audience in cathedral bathed in purple stage lighting",
+			"description": "Interior of large stone church/c cathedral during live music performance. View from back of nave down central aisle. Dark wooden pews filled with audience facing front. Small band/ensemble on low stage silhouetted against angular crystal-like panels illuminated with warm yellow, green, orange light. Massive stone pillars, ribbed arches, large ornate Gothic window, cross near altar. Pipe organ on left, elevated pulpit on right. Purple and violet lighting. Production crew in aisle."
+		},
+		{
+			"path": "images/blue-lit-dance-performance.jpg",
+			"alt": "Dance performance on stage bathed in deep blue theatrical light",
+			"description": "Theatrical dance performance on large dimly lit stage bathed in deep blue light. Group of roughly a dozen performers spread across center, most facing away with arms extended outward. Casual clothing, blue lighting washing out colors. Audience silhouettes in foreground. Spacious bare stage, faint rectangular set pieces in background, beams of light through haze."
+		},
+		{
+			"path": "images/bhangra-dancers-on-stage.jpg",
+			"alt": "Bhangra dancers in colourful costumes performing on outdoor stage",
+			"description": "Four male dancers performing traditional Punjabi-style bhangra dance on raised outdoor stage at cultural festival. Matching black traditional outfits with bright multicolored star decorations, vivid green turbans, colorful patterned sashes. Synchronized poses with one arm raised. Black floor monitor, microphone stands. Audience on grass behind railing. Brick houses, trees, white tents, cloudy sky."
+		},
+		{
+			"path": "images/band-trussed-stage-spotlit-side-view.jpg",
+			"alt": "Band performing on trussed stage at night with green spotlights",
+			"description": "Live band performing on outdoor stage at night with dramatic colored lighting and haze. Large metal truss structure with vertical supports and overhead beams. Green, blue, purple, red stage lights cutting through smoky air. Singer with long blonde hair at mic stand, guitarist in Superdry hoodie. Drum kit with red-tinted drums visible. Large speaker, monitor. Energetic atmospheric concert feel."
+		},
+		{
+			"path": "images/band-performing-night-lights.jpg",
+			"alt": "Band performing at night under blue purple and green lights",
+			"description": "Live band performing on dimly lit stage under dramatic blue, purple, and green lighting. Male guitarist/vocalist in foreground playing white electric guitar, singing into mic, wearing dark jacket, jeans, light boots. Drum kit with 'STELLARSONIC' bass drum visible behind. Bass guitarist in camo pants on right. Lead singer in long black coat holding mic. Keyboard player behind red keyboard. Amplifiers, speakers, cables, hazy atmosphere."
+		},
+		{
+			"path": "images/band-on-trussed-stage-night.jpg",
+			"alt": "Band on trussed stage at night with green lights and starry canopy",
+			"description": "Live music performance at night on professionally lit outdoor/semi-outdoor stage. Vocalist with light hair at mic stand in dark T-shirt, guitarist in green hoodie playing electric guitar. Green and white stage lighting. Silver metal truss structure, blue/purple lights. Dark canopy ceiling dotted with small lights like starry sky. Drum kit, microphones, amplifiers, cables, monitors. Large speaker stack, metal barrier, high-vis jacket nearby. Empty paved area in front."
+		},
+		{
+			"path": "images/band-on-trailer-stage.jpg",
+			"alt": "Band performing on trailer stage at daytime town centre event",
+			"description": "Daytime outdoor live band performing on covered temporary stage. Large beige canopy, metal truss frame, black curtains/mesh panels. Light blue 'Rotherham' skirt with purple logo. Female bassist/vocalist with blonde hair playing natural wood bass guitar. Drummer partially visible. Guitarist in red-white plaid shirt, sunglasses, cap playing white electric guitar. Stage monitors, cables, mic stands, amplifiers. Brick building with 'STORE' and 'Traditional European Food' signs. Green/red barriers. Partly cloudy sky."
+		},
+		{
+			"path": "images/band-on-stage-rotherham-festival.jpg",
+			"alt": "Large band performing on Rotherham festival stage with brass section",
+			"description": "Live outdoor musical performance on covered stage at community festival in grassy park. Light blue 'Rotherham' banner with purple logo. Large ensemble - man in orange T-shirt behind conga drums, seated percussionist, woman in pink floral dress singing with shaker, woman in green patterned shirt with white hair near red music stand, man in burgundy shirt with brass instrument, man in tropical shirt with trombone. Metal crowd barriers, canopy roof with speakers, black mesh sides. Trees, black tent, partly cloudy sky."
+		},
+		{
+			"path": "images/band-on-stage-green-lights.jpg",
+			"alt": "Band on stage illuminated by green lights with mixing console visible",
+			"description": "Live band performing on stage bathed in green and blue lighting with hazy atmospheric glow. Black metal railing in foreground, large audio mixing console visible lower right with knobs, sliders, indicator lights. Drummer seated behind red drum kit on left. Guitarist in bright yellow shirt and green pants playing pale green guitar, lit by green spotlights. Two band members visible from right. Metal truss ceiling with starry-night effect. Energetic moody concert atmosphere."
+		},
+		{
+			"path": "images/band-night-stage-purple-haze.jpg",
+			"alt": "Rock band performing on night stage with purple haze lighting",
+			"description": "Live band performing on covered stage viewed from low angle near front edge. Central guitarist playing light-colored electric guitar with reddish pickguard, gray jacket, leaning into performance. Drum kit behind and left with cymbals. Bass guitarist in long dark coat playing red bass guitar to right. Keyboardist in dark beanie behind red Nord keyboard. Dramatic green, blue, purple, pink lighting cutting through hazy atmosphere. Metal truss ceiling with vertical lights. Amplifiers, speakers, mic stands."
+		},
+		{
+			"path": "images/alzheimers-memory-walk-stage-santander.jpg",
+			"alt": "Alzheimers Memory Walk stage with Santander finish arch and flags",
+			"description": "Outdoor event setup on grassy field under cloudy sky. Raised metal truss stage with black floor, central steps, black canopy. Dark blue banner with light blue flower-like logo. Vertical 'Alzheimer's Society Memory Walk' banners. Large black speaker stacks, audio equipment. Blue inflatable 'FINISH' arch to left/right. Red Santander feather flags. Metal crowd barriers, green-clothed table with blue items. Trees on horizon."
+		},
+		{
+			"path": "images/alzheimers-memory-walk-memory-tree.jpg",
+			"alt": "Memory Walk remembrance tree with handwritten tribute messages",
+			"description": "Large green tree-shaped memorial display at Alzheimer's Society Memory Walk event. Painted plywood tree with branching cut-outs. Dozens of dark blue 'Alzheimer's Society MemoryWalk' ribbons hanging from branches with small white cards bearing handwritten messages of remembrance and love. Messages include 'Walking for my Nana Jasmin', 'Mum, words are not enough', 'I miss you Grandad'. Green grass, real trees, pale sky."
+		},
+		{
+			"path": "images/alzheimers-memory-walk-medals.jpg",
+			"alt": "Table of Alzheimers Memory Walk medals and branded lanyards",
+			"description": "Table outdoors at event registration/giveaway station. Dark navy-blue cloth with large tangled pile of bright pink fabric collars/wristbands with silver bells, printed 'Alzheimer's Society Memory Walk'. Heap of royal blue lanyards with same branding. Smaller pile of light green lanyards. Stack of folded white fabric items in upper left. Part of tent base visible on right, grass underneath."
+		},
+		{
+			"path": "images/alzheimers-memory-walk-event-staff-selfie.jpg",
+			"alt": "Upside-down selfie of event staff in Alzheimers Society vests",
+			"description": "Upside-down group selfie of four men at outdoor Alzheimer's Society Memory Walk event. All wearing blue event staff vests with reflective stripes, Alzheimer's Society branding with forget-me-not flower logo, 'EVENT STAFF' text. Stage setup with metal trussing, speakers, blue 'Alzheimer's Society Memory Walk' banners. Grassy park, trees, metal barriers, cloudy sky."
+		},
+		{
+			"path": "images/alzheimers-memory-walk-crowd-heart-hands.jpg",
+			"alt": "Memory Walk crowd making heart shapes with hands behind barrier",
+			"description": "Large outdoor group photo at Alzheimer's Society Memory Walk in park. Smiling woman in bright blue Alzheimer's Society Memory Walk T-shirt behind metal crowd barrier, hands above head in heart shape. Very large crowd stretching far back, most in blue shirts making heart shapes. Yellow and red flags on left, portable toilets in background, white ambulance on right. Dense trees surrounding park, overcast sky."
+		},
+		{
+			"path": "images/acoustic-duo-mini-stage-field.jpg",
+			"alt": "Acoustic duo performing on mini stage in dry field with guy ropes",
+			"description": "Outdoor live music setup on dry grassy field under overcast sky. Temporary metal truss stage with black canopy roof, silver lattice framework, bright orange ratchet straps anchored to ground. Red-and-white barrier tape. Two men in dark clothing playing acoustic guitars on stage. Speakers, mic stands, cables, blue crate, metal steps. Blue wheelie bin, white car, low industrial building, red car, large leafy tree."
+		},
+		{
+			"path": "images/web-logo-staging-events.png",
+			"alt": "Staging Events logo with blue globe and play button on dark background",
+			"description": "Modern digital logo on black rectangular background. Stylized blue emblem resembling swirling globe/orbit with curved ribbon-like shapes in varying blue shades, glossy 3D appearance. Dark blue play-button triangle at center. Text 'STAGINGEVENTS' in bold uppercase sans-serif - 'STAGING' in blue gradient, 'EVENTS' in gray-to-silver gradient. Sleek professional tech-oriented look."
+		},
+		{
+			"path": "images/medium-trussing.png",
+			"alt": "Technical diagram of medium trussing gantry frame",
+			"description": "Technical rendering of large metal truss structure against solid dark background. Rectangular portal/gantry frame made from off-white/light beige trussing. Two tall vertical towers connected by top horizontal beam. Lattice pattern with triangular bracing. Base outrigger/stabilizing feet. Thin white dimension lines for width and height. CAD/3D model of stage truss or lighting rig."
+		},
+		{
+			"path": "images/large-trussing.png",
+			"alt": "Technical diagram of large trussing gantry frame",
+			"description": "CAD-style 3D rendering of large metal truss structure for stage/event/lighting use. Dark navy/black background, pale cream/off-white wireframe. Two tall vertical truss columns with lattice diagonal cross-bracing. Top horizontal beam spanning between columns, second lower crossbeam. Base support sections extending outward as stabilizing feet/outriggers. Faint dimension lines along bottom and right side showing overall width and height."
+		}
+	]
 }
