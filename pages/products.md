@@ -1,6 +1,5 @@
 ---
 permalink: "/products/"
-layout: "design-system-base"
 name: "Our Products"
 description: "Browse our full range of event hire products including stages, PA systems, generators, lighting, gantries and more."
 eleventyNavigation:

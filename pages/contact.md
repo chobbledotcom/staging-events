@@ -1,6 +1,5 @@
 ---
 permalink: "/contact/"
-layout: "design-system-base.html"
 name: "Contact"
 description: "Contact Staging Events for event hire, production and logistics services. Based centrally, serving events across the UK."
 eleventyNavigation:

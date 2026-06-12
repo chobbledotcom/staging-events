@@ -1,6 +1,5 @@
 ---
 permalink: "/"
-layout: "design-system-base.html"
 name: "Staging, Event Hire and Production across the UK"
 description: "UK's leading staging and event hire company. Over 25 years experience in stage hire, event infrastructure and logistics for events nationwide."
 eleventyNavigation:

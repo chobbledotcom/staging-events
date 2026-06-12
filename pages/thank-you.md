@@ -1,5 +1,4 @@
 ---
-layout: "design-system-base"
 name: "Thank You"
 header_text: Thank You
 meta_description:

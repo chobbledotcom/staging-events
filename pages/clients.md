@@ -1,6 +1,5 @@
 ---
 permalink: "/clients/"
-layout: "design-system-base.html"
 name: "Our Clients"
 description: "Our charity events clients including Alzheimer's Society Memory Walk, Sheffield Children's Hospital Charity, Prostate Cancer UK, and more."
 eleventyNavigation:

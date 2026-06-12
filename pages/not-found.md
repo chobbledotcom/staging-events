@@ -1,5 +1,4 @@
 ---
-layout: "design-system-base"
 name: "Not Found"
 header_text: Not Found
 meta_description:

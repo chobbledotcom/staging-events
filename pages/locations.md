@@ -1,6 +1,5 @@
 ---
 permalink: "/locations/"
-layout: "design-system-base.html"
 name: "Event Hire Locations"
 description: "Staging and event equipment hire across South Yorkshire, West Yorkshire and beyond. Local service from our Rotherham warehouse with delivery to Sheffield, Doncaster, Barnsley, Leeds and nationwide."
 header_image: images/rotherham-wow-festival-acoustic-stage.jpg

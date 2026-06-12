@@ -1,6 +1,5 @@
 ---
 permalink: "/services/"
-layout: "design-system-base"
 name: "Our Services"
 description: "Comprehensive event services including staging, PA systems, event infrastructure, logistics and equipment hire across the UK."
 eleventyNavigation:

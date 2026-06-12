@@ -1,6 +1,5 @@
 ---
 permalink: "/about/"
-layout: "design-system-base.html"
 name: "About Staging Events"
 description: "For more than 25 years we have been one of the UK's leading staging and event hire companies, providing production, exhibition equipment and logistics from our 25,000 sq ft Rotherham warehouse."
 eleventyNavigation:

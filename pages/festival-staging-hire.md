@@ -1,6 +1,5 @@
 ---
 permalink: "/festival-staging-hire/"
-layout: "design-system-base"
 name: "Festival Staging Hire"
 description: "Festival stage hire including trailer stages, modular staging, PA systems, generators and full event production for outdoor festivals across the UK. 25+ years experience."
 eleventyNavigation:

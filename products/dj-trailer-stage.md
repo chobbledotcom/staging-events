@@ -31,12 +31,9 @@ specs:
   - name: Setup
     value: Crew delivered and erected
 gallery:
-  - image: images/memory-walk-stage-setup.jpg
-    caption: Covered outdoor stage with PA system and branded backdrop
-  - image: images/memory-walk-stage-close-up.jpg
-    caption: Canopy stage with speaker stacks and event branding
-  - image: images/pa-speakers-dj-booth-inflatable-tent.jpg
-    caption: DJ setup with speakers and mixer at an outdoor event
+  - images/memory-walk-stage-setup.jpg
+  - images/memory-walk-stage-close-up.jpg
+  - images/pa-speakers-dj-booth-inflatable-tent.jpg
 eleventyNavigation:
   key: DJ Trailer Stage
   parent: Staging

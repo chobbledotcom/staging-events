@@ -1,6 +1,5 @@
 ---
 permalink: "/delivery/"
-layout: "design-system-base"
 name: "Delivery"
 description: "Event equipment delivery anywhere in the UK. Professional logistics for corporate events, charity runs, festivals and private functions. Multiple weekly deliveries to major UK venues."
 header_image: images/fan-party-stage-crowd.jpg
