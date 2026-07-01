@@ -5,8 +5,9 @@ description: "Privacy policy for Staging Events Ltd. How we collect, store and p
 eleventyExcludeFromCollections: true
 blocks:
   - type: hero
-    name: Privacy Policy
-    lead: >-
+    content: |
+      # Privacy Policy
+
       We make sure that your data is handled in a way which complies with the EU
       General Data Protection Regulation (GDPR), the Data Protection Act 1998,
       and any other relevant legislation.
