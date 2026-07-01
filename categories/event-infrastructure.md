@@ -10,8 +10,10 @@ eleventyNavigation:
   order: 6
 blocks:
   - type: hero
-    name: Event Infrastructure Hire
-    lead: Crowd control, lighting, furniture and event essentials
+    content: |
+      # Event Infrastructure Hire
+
+      Crowd control, lighting, furniture and event essentials
     class: gradient
   - type: items
     collection: products
