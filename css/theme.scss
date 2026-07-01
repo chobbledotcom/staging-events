@@ -129,10 +129,13 @@ ol.breadcrumbs {
 }
 
 .design-system {
-  footer p {
-    max-width: 30rem;
-    margin-left: auto;
-    margin-right: auto;
+  footer {
+    text-align: center;
+    p {
+      max-width: 30rem;
+      margin-left: auto;
+      margin-right: auto;
+    }
   }
 
   .image-background h1,
