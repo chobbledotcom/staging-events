@@ -3,6 +3,7 @@ name: "Epilepsy Society"
 subtitle: "Nationwide event support"
 description: "Nationwide event support and production services for Epilepsy Society fundraising and awareness events."
 header_image: images/event-stage-setup.jpg
+thumbnail: images/event-stage-setup.jpg
 blocks:
   - type: image-background
     parallax: true

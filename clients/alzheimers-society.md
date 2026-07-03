@@ -3,6 +3,7 @@ name: "Alzheimer's Society"
 subtitle: "Memory Walk"
 description: "Event production and logistics for Alzheimer's Society Memory Walk events, supporting 110,000 participants across a 7-week nationwide programme."
 header_image: images/alzheimers-memory-walk-stage-santander.jpg
+thumbnail: images/alzheimers-memory-walk-stage-santander.jpg
 blocks:
   - type: image-background
     parallax: true

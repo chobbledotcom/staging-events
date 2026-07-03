@@ -3,6 +3,7 @@ name: "Prostate Cancer UK"
 subtitle: "March for Men"
 description: "Full production and logistics support for Prostate Cancer UK's March for Men events across the UK."
 header_image: images/prostate-cancer-uk-march-for-men-stage.jpg
+thumbnail: images/prostate-cancer-uk-march-for-men-stage.jpg
 blocks:
   - type: image-background
     parallax: true
