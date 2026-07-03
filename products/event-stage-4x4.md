@@ -35,7 +35,16 @@ eleventyNavigation:
   key: Event Stage 4x4m
   parent: Staging
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/town-centre-stage-rotherham.jpg
+    image_alt: "Event Stage 4x4m"
+    tint: true
+    content: |-
+      # Event Stage 4x4m
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     content: |-
       A 4x4m stage that suits a range of events, from small festivals and product launches to fireworks displays and Christmas light switch-ons. Full 50mm tubular trussing accommodates up to a 3-piece band and 12 singers.

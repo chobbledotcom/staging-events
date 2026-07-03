@@ -42,7 +42,16 @@ eleventyNavigation:
   key: Mobile Trailer Stage 6x8m
   parent: Staging
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/mobile-trailer-stage-with-barriers.jpg
+    image_alt: "Mobile Trailer Stage 6x8m"
+    tint: true
+    content: |-
+      # Mobile Trailer Stage 6x8m
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     content: |-
       A self-contained mobile trailer stage with a 7.9m x 5.9m performance area, accommodating up to a 10-piece band and 25 singers. Sets up in just one hour on grass or hard surfaces with full 50mm tubular trussing for professional rigging.

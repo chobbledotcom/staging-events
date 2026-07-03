@@ -36,7 +36,16 @@ eleventyNavigation:
   key: Mini Stage 3x3m
   parent: Staging
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/performer-jumping-mini-stage.jpg
+    image_alt: "Mini Stage 3x3m"
+    tint: true
+    content: |-
+      # Mini Stage 3x3m
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     content: |-
       A compact 3x3m trussing stage built for corporate events, private parties and live entertainment. The 50mm tubular truss frame provides easy rigging for speakers and lighting without cluttering the stage floor.

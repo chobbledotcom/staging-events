@@ -30,7 +30,16 @@ eleventyNavigation:
   key: Large Trussing Gantry
   parent: Gantries
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
+    image_alt: "Large Trussing Gantry"
+    tint: true
+    content: |-
+      # Large Trussing Gantry
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     content: |-
       A large-format inflatable gantry measuring 6.58m x 1.58m across the top with 3m x 0.29m side panels, delivering maximum branding impact for higher-profile events. Includes full setup, takedown and inflation fan, with customisable designs, free printing for multiple bookings and complimentary storage for branded versions.

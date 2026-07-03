@@ -30,7 +30,16 @@ eleventyNavigation:
   key: Disabled Access Ramp
   parent: Event Infrastructure
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/choir-on-modular-stage.jpg
+    image_alt: "Disabled Access Ramp"
+    tint: true
+    content: |-
+      # Disabled Access Ramp
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     reveal_content: left
     reveal_figure: scale

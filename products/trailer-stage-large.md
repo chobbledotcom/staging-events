@@ -29,7 +29,16 @@ eleventyNavigation:
   key: Large Trailer Stage
   parent: Staging
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/band-on-trailer-stage.jpg
+    image_alt: "Large Trailer Stage"
+    tint: true
+    content: |-
+      # Large Trailer Stage
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     content: |-
       Our largest mobile trailer stage, offering an 8m x 6m performance area with a full covered truss roof structure for outdoor festivals, concerts and major events. We have supplied stages of this size for over 25 years.

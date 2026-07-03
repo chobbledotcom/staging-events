@@ -32,7 +32,16 @@ eleventyNavigation:
   key: Electrical Distribution Hire
   parent: Power
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/event-stage-setup.jpg
+    image_alt: "Electrical Distribution Hire"
+    tint: true
+    content: |-
+      # Electrical Distribution Hire
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     reveal_content: left
     reveal_figure: scale

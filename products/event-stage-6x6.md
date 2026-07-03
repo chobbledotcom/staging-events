@@ -40,7 +40,16 @@ eleventyNavigation:
   key: Event Stage 6x6m
   parent: Staging
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/fan-party-large-stage.jpg
+    image_alt: "Event Stage 6x6m"
+    tint: true
+    content: |-
+      # Event Stage 6x6m
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     content: |-
       A 6x6m covered truss stage with 36 square metres of performance area, big enough for a five-piece band or up to 15 performers. Full roof structure and weather-resistant side walls mean your event goes ahead regardless of conditions.

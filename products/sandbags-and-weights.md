@@ -30,7 +30,16 @@ eleventyNavigation:
   key: Sandbags & Weights
   parent: Event Infrastructure
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/event-stage-setup.jpg
+    image_alt: "Sandbags & Weights"
+    tint: true
+    content: |-
+      # Sandbags & Weights
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     reveal_content: left
     reveal_figure: scale

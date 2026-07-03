@@ -41,7 +41,16 @@ eleventyNavigation:
   key: Mobile Trailer Stage 7x6m
   parent: Staging
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/trailer-stage-with-trussing.jpg
+    image_alt: "Mobile Trailer Stage 7x6m"
+    tint: true
+    content: |-
+      # Mobile Trailer Stage 7x6m
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     content: |-
       A self-contained mobile trailer stage offering 42 square metres of performance space with a slip-proof weatherproof floor. Sets up in just 30 minutes and is self-balanced for hard standing use, with full 50mm tubular trussing and wind-rated side walls.

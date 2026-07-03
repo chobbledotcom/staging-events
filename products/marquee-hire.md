@@ -36,7 +36,16 @@ eleventyNavigation:
   key: Marquee and Gazebo Hire
   parent: Staging
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/stage-with-gazebo-and-barriers.jpg
+    image_alt: "Marquee and Gazebo Hire"
+    tint: true
+    content: |-
+      # Marquee and Gazebo Hire
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     content: |-
       Commercial-grade pop-up gazebos and marquees in 3x3m and 3x4.5m sizes, complete with sides and a door for full enclosure. Quality materials retain warmth and provide shelter for garden parties, charity fun days, market stalls and outdoor events on grass or hard standing.

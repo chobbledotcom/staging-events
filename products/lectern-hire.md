@@ -36,7 +36,16 @@ eleventyNavigation:
   key: Lectern Hire
   parent: Event Infrastructure
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/indoor-venue-stage-setup.jpg
+    image_alt: "Lectern and Podium Hire"
+    tint: true
+    content: |-
+      # Lectern and Podium Hire
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     content: |-
       Trilite 200 aluminium truss lecterns by Optikinetics, with stainless steel truss lecterns also available. Both are lightweight, stable and straightforward to set up on any stage or presentation area. Branded panels and a full range of microphone options are available if you need them.

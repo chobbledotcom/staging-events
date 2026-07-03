@@ -34,7 +34,16 @@ eleventyNavigation:
   key: Crowd Barriers
   parent: Event Infrastructure
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/memory-walk-crowd-with-barriers.jpg
+    image_alt: "Crowd Barriers and Belt Barriers"
+    tint: true
+    content: |-
+      # Crowd Barriers and Belt Barriers
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     content: |-
       Two professional barrier systems to suit any environment: heavy-duty galvanised metal barriers for outdoor crowd control and sleek retractable Tensa belt barriers for indoor queue management. Both available in bulk with significant volume discounts, delivered nationwide with full setup support.

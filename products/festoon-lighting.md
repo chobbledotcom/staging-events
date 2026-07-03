@@ -36,7 +36,16 @@ eleventyNavigation:
   key: Festoon Lighting
   parent: Event Infrastructure
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/church-event-atmospheric-lighting.jpg
+    image_alt: "Festoon Lighting"
+    tint: true
+    content: |-
+      # Festoon Lighting
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     content: |-
       Festoon lighting — sometimes called string lights, party lights or cafe lights — is warm bulb lighting that runs along a cable between poles, across a ceiling or around the perimeter of a venue. We hire it out in 100-metre runs that link together for larger sites, and we install it indoors and outdoors, in marquees and in the open air, at festivals, weddings, corporate events and community gatherings.

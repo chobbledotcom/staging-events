@@ -37,7 +37,16 @@ eleventyNavigation:
   key: Modular Deck Staging
   parent: Staging
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/choir-on-modular-stage.jpg
+    image_alt: "Modular Deck Staging"
+    tint: true
+    content: |-
+      # Modular Deck Staging
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     content: |-
       Build the stage you need with our Intelistage modular deck system. Each 1m x 2m section locks together securely and supports up to 900 kg per square metre, and the system can be configured for anything from catwalks to concert stages.

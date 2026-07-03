@@ -38,7 +38,16 @@ eleventyNavigation:
   key: DJ Trailer Stage
   parent: Staging
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/memory-walk-stage-setup.jpg
+    image_alt: "DJ Trailer Stage"
+    tint: true
+    content: |-
+      # DJ Trailer Stage
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     content: |
       A compact, covered stage built for DJs, comperes and solo performers who need a tidy, mobile setup that keeps the weather off. The unit measures 5m x 4m externally with 3m x 4m of usable internal space — enough room for decks, a small PA and a performer, all under a fixed canopy roof.

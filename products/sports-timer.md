@@ -36,7 +36,16 @@ eleventyNavigation:
   key: Sports Timer Hire
   parent: Event Infrastructure
 blocks:
-  - type: product-header
+  - type: image-background
+    image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
+    image_alt: "Sports Timer Hire"
+    tint: true
+    content: |-
+      # Sports Timer Hire
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
     content: |-
       A digital LED race clock — sometimes called a race timer or countdown clock — that mounts onto a start or finish gantry and displays countdown or elapsed time in large LED digits. We run it alongside our trussing and inflatable gantries to build up a proper start and finish line, and our crew operates it on the day so your event team can focus on the participants rather than the timing display.
