@@ -29,8 +29,17 @@ eleventyNavigation:
   key: Large Trailer Stage
   parent: Staging
 blocks:
+  - type: image-background
+    image: images/band-on-trailer-stage.jpg
+    image_alt: "Large Trailer Stage"
+    tint: true
+    content: |-
+      # Large Trailer Stage
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
-    subtitle: Large Trailer Stage
     content: |-
       Our largest mobile trailer stage, offering an 8m x 6m performance area with a full covered truss roof structure for outdoor festivals, concerts and major events. We have supplied stages of this size for over 25 years.
 
@@ -97,14 +106,15 @@ blocks:
 
       The trailer-mounted design allows for quick deployment on grass or hard surfaces. Our crew handle delivery, setup and collection.
     figure_html: |-
-      ### What's Included
-
-      - Delivery, setup and collection by our crew
-      - Full covered truss roof structure
-      - Matching stage steps
-      - Structural calculations and design documentation
-      - Risk assessments and method statements
-      - £5 million public liability insurance
+      <h3>What's Included</h3>
+      <ul>
+        <li>Delivery, setup and collection by our crew</li>
+        <li>Full covered truss roof structure</li>
+        <li>Matching stage steps</li>
+        <li>Structural calculations and design documentation</li>
+        <li>Risk assessments and method statements</li>
+        <li>£5 million public liability insurance</li>
+      </ul>
   - type: features
     dark: true
     intro_content: "## Key Features"
@@ -141,13 +151,14 @@ blocks:
 
       Custom dimensions are available on request, and our team can configure the stage to your requirements.
     figure_html: |-
-      ### Why Choose This Stage
-
-      - **48 sqm performance area** for large bands and productions
-      - **Full covered truss roof** for all-weather events
-      - **Quick trailer-mounted deployment** on any surface
-      - **Custom dimensions** available on request
-      - **Over 25 years** of staging expertise
+      <h3>Why Choose This Stage</h3>
+      <ul>
+        <li><strong>48 sqm performance area</strong> for large bands and productions</li>
+        <li><strong>Full covered truss roof</strong> for all-weather events</li>
+        <li><strong>Quick trailer-mounted deployment</strong> on any surface</li>
+        <li><strong>Custom dimensions</strong> available on request</li>
+        <li><strong>Over 25 years</strong> of staging expertise</li>
+      </ul>
   - type: contact-form
     content: |-
       ## Hire the Large Trailer Stage

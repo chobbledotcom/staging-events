@@ -35,8 +35,17 @@ eleventyNavigation:
   key: Event Stage 4x4m
   parent: Staging
 blocks:
+  - type: image-background
+    image: images/town-centre-stage-rotherham.jpg
+    image_alt: "Event Stage 4x4m"
+    tint: true
+    content: |-
+      # Event Stage 4x4m
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
-    subtitle: Event Stage 4x4m
     content: |-
       A 4x4m stage that suits a range of events, from small festivals and product launches to fireworks displays and Christmas light switch-ons. Full 50mm tubular trussing accommodates up to a 3-piece band and 12 singers.
 
@@ -77,15 +86,16 @@ blocks:
 
       Setup takes approximately 1.5 hours on grass or hard surfaces, indoors or outdoors. The stage is available at standard heights of 200mm, 570mm and 725mm, with custom heights possible on request.
     figure_html: |-
-      ### What's Included
-
-      - Delivery, setup and collection by our crew
-      - Matching stage steps
-      - Full 50mm tubular trussing for rigging
-      - Structural calculations and design documentation
-      - Risk assessments and method statements
-      - £5 million public liability insurance
-      - Accessible ramp available from £175
+      <h3>What's Included</h3>
+      <ul>
+        <li>Delivery, setup and collection by our crew</li>
+        <li>Matching stage steps</li>
+        <li>Full 50mm tubular trussing for rigging</li>
+        <li>Structural calculations and design documentation</li>
+        <li>Risk assessments and method statements</li>
+        <li>£5 million public liability insurance</li>
+        <li>Accessible ramp available from £175</li>
+      </ul>
   - type: features
     dark: true
     intro_content: "## Key Features"

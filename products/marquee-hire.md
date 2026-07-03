@@ -36,8 +36,17 @@ eleventyNavigation:
   key: Marquee and Gazebo Hire
   parent: Staging
 blocks:
+  - type: image-background
+    image: images/stage-with-gazebo-and-barriers.jpg
+    image_alt: "Marquee and Gazebo Hire"
+    tint: true
+    content: |-
+      # Marquee and Gazebo Hire
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
-    subtitle: Marquee and Gazebo Hire
     content: |-
       Commercial-grade pop-up gazebos and marquees in 3x3m and 3x4.5m sizes, complete with sides and a door for full enclosure. Quality materials retain warmth and provide shelter for garden parties, charity fun days, market stalls and outdoor events on grass or hard standing.
 
@@ -107,13 +116,14 @@ blocks:
     content: |-
       Each marquee comes with sides and a door for complete enclosure, providing a dry, sheltered space. The quality material retains heat effectively, so the marquees work throughout the year. They can be positioned on grass or hard standing with no special groundwork required.
     figure_html: |-
-      ### What's Included
-
-      - Delivery, setup and collection by our crew
-      - Full sides and door for complete enclosure
-      - Adjustable ceiling height
-      - Risk assessments and method statements
-      - £5 million public liability insurance
+      <h3>What's Included</h3>
+      <ul>
+        <li>Delivery, setup and collection by our crew</li>
+        <li>Full sides and door for complete enclosure</li>
+        <li>Adjustable ceiling height</li>
+        <li>Risk assessments and method statements</li>
+        <li>£5 million public liability insurance</li>
+      </ul>
   - type: features
     dark: true
     intro_content: "## Key Features"
@@ -157,14 +167,15 @@ blocks:
     content: |-
       We supply tables, chairs, lighting and flooring alongside marquee hire, all in one booking.
     figure_html: |-
-      ### Popular Add-Ons
-
-      - **6ft foldable tables** from £5
-      - **Deck chairs** from £6.95
-      - **Roll-a-Track flooring** from £120
-      - **LED strip lighting** from £5
-      - **Festoon lighting** from £149
-      - **30 kVA generator** from £350
+      <h3>Popular Add-Ons</h3>
+      <ul>
+        <li><strong>6ft foldable tables</strong> from £5</li>
+        <li><strong>Deck chairs</strong> from £6.95</li>
+        <li><strong>Roll-a-Track flooring</strong> from £120</li>
+        <li><strong>LED strip lighting</strong> from £5</li>
+        <li><strong>Festoon lighting</strong> from £149</li>
+        <li><strong>30 kVA generator</strong> from £350</li>
+      </ul>
   - type: contact-form
     content: |-
       ## Hire the Marquee and Gazebo Hire

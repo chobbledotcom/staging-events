@@ -31,8 +31,17 @@ eleventyNavigation:
   key: X-Large Trussing Gantry
   parent: Gantries
 blocks:
+  - type: image-background
+    image: images/prostate-cancer-uk-march-for-men-start-gantry.jpg
+    image_alt: "X-Large Trussing Gantry"
+    tint: true
+    content: |-
+      # X-Large Trussing Gantry
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
-    subtitle: X-Large Trussing Gantry
     content: |-
       The largest inflatable event structure in our range, with an imposing 9.16m x 1.58m top section and 3m x 1.6m side panels. Purpose-built for major races and mass participation events, this gantry can also be custom-manufactured to your exact specifications. Comprehensive event support, free branded storage and nationwide delivery included.
 

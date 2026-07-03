@@ -27,8 +27,17 @@ eleventyNavigation:
   key: Generator Hire
   parent: Power
 blocks:
+  - type: image-background
+    image: images/mobile-generator-tower-fleet.jpg
+    image_alt: "Generator Hire"
+    tint: true
+    content: |-
+      # Generator Hire
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
-    subtitle: Generator Hire
     content: |-
       Reliable, heavy-duty generators ranging from 2.2kva to 20kva, ideal for powering everything from site tools and portable lighting to full stage rigs and PA systems. They feature efficient diesel engines, engine protection shutdown and fully bunded bases for environmental compliance, with up to 16 hours runtime at 75% load on the larger units.
 

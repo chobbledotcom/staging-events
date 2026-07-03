@@ -36,8 +36,17 @@ eleventyNavigation:
   key: Festoon Lighting
   parent: Event Infrastructure
 blocks:
+  - type: image-background
+    image: images/church-event-atmospheric-lighting.jpg
+    image_alt: "Festoon Lighting"
+    tint: true
+    content: |-
+      # Festoon Lighting
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
-    subtitle: Festoon Lighting
     content: |-
       Festoon lighting — sometimes called string lights, party lights or cafe lights — is warm bulb lighting that runs along a cable between poles, across a ceiling or around the perimeter of a venue. We hire it out in 100-metre runs that link together for larger sites, and we install it indoors and outdoors, in marquees and in the open air, at festivals, weddings, corporate events and community gatherings.
 
@@ -79,14 +88,15 @@ blocks:
 
       For events that need structure around the lighting — walkways, stage perimeters, audience areas — we supply [crowd barriers](/products/crowd-barriers/) and [marquees and gazebos](/products/marquee-hire/) as part of the full infrastructure package. [Modular deck staging](/products/modular-deck-staging/) and a [lectern or podium](/products/lectern-hire/) complete the setup for community galas, charity fundraisers and corporate functions where lighting is one part of a wider production.
     figure_html: |-
-      ### What's Included
-
-      - Festoon lighting in 100-metre runs (£149 per run)
-      - Additional lengths at £99 per 100 metres
-      - Delivery, installation and collection by our crew
-      - Risk assessments and method statements
-      - £5 million public liability insurance
-      - Free site visit to plan the layout
+      <h3>What's Included</h3>
+      <ul>
+        <li>Festoon lighting in 100-metre runs (£149 per run)</li>
+        <li>Additional lengths at £99 per 100 metres</li>
+        <li>Delivery, installation and collection by our crew</li>
+        <li>Risk assessments and method statements</li>
+        <li>£5 million public liability insurance</li>
+        <li>Free site visit to plan the layout</li>
+      </ul>
   - type: features
     dark: true
     intro_content: "## Ideal For"

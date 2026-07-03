@@ -37,8 +37,17 @@ eleventyNavigation:
   key: Modular Deck Staging
   parent: Staging
 blocks:
+  - type: image-background
+    image: images/choir-on-modular-stage.jpg
+    image_alt: "Modular Deck Staging"
+    tint: true
+    content: |-
+      # Modular Deck Staging
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
-    subtitle: Modular Deck Staging
     content: |-
       Build the stage you need with our Intelistage modular deck system. Each 1m x 2m section locks together securely and supports up to 900 kg per square metre, and the system can be configured for anything from catwalks to concert stages.
 
@@ -121,15 +130,16 @@ blocks:
 
       Square platforms combine with matching quarter-round risers for a professional, finished appearance.
     figure_html: |-
-      ### What's Included
-
-      - Delivery, setup and collection by our crew
-      - Carpeted deck sections with collapsible risers
-      - Internal locking mechanism for secure assembly
-      - Structural calculations and design documentation
-      - Risk assessments and method statements
-      - £5 million public liability insurance
-      - Matching stage steps
+      <h3>What's Included</h3>
+      <ul>
+        <li>Delivery, setup and collection by our crew</li>
+        <li>Carpeted deck sections with collapsible risers</li>
+        <li>Internal locking mechanism for secure assembly</li>
+        <li>Structural calculations and design documentation</li>
+        <li>Risk assessments and method statements</li>
+        <li>£5 million public liability insurance</li>
+        <li>Matching stage steps</li>
+      </ul>
   - type: features
     dark: true
     intro_content: "## Key Features"
@@ -178,13 +188,14 @@ blocks:
 
       Tell us your dimensions and we will configure the right number of sections for your event. We deliver nationwide, including major exhibition centres across the UK.
     figure_html: |-
-      ### The Intelistage Process
-
-      1. **Tell us your requirements** -- dimensions, height and venue
-      2. **We configure your stage** -- the right sections for your layout
-      3. **Delivery and setup** -- our crew build it on site
-      4. **Your event runs** -- on a stable platform
-      5. **We collect** -- full takedown and removal included
+      <h3>The Intelistage Process</h3>
+      <ol>
+        <li><strong>Tell us your requirements</strong> -- dimensions, height and venue</li>
+        <li><strong>We configure your stage</strong> -- the right sections for your layout</li>
+        <li><strong>Delivery and setup</strong> -- our crew build it on site</li>
+        <li><strong>Your event runs</strong> -- on a stable platform</li>
+        <li><strong>We collect</strong> -- full takedown and removal included</li>
+      </ol>
   - type: contact-form
     content: |-
       ## Hire the Modular Deck Staging

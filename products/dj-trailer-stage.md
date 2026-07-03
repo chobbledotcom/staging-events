@@ -38,8 +38,17 @@ eleventyNavigation:
   key: DJ Trailer Stage
   parent: Staging
 blocks:
+  - type: image-background
+    image: images/memory-walk-stage-setup.jpg
+    image_alt: "DJ Trailer Stage"
+    tint: true
+    content: |-
+      # DJ Trailer Stage
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
-    subtitle: DJ Trailer Stage
     content: |
       A compact, covered stage built for DJs, comperes and solo performers who need a tidy, mobile setup that keeps the weather off. The unit measures 5m x 4m externally with 3m x 4m of usable internal space — enough room for decks, a small PA and a performer, all under a fixed canopy roof.
 
@@ -85,14 +94,15 @@ blocks:
       The Velcro front panel accepts printed artwork so you can display event logos, sponsor details or company branding without specialist tools. Our in-house design team can produce artwork to fit the panel sizes, or you can supply your own.
 
       External measurements are 5m x 4m. The usable internal space is 3m x 4m. Banner slots run 2000mm x 500mm across the top and 2500mm x 600mm down each side.
-    figure_html: |
-      ### Dimensions
-
-      - **External size:** 5m x 4m
-      - **Internal deck:** 3m x 4m
-      - **Horizontal banner:** 2000mm x 500mm
-      - **Side banners:** 2500mm x 600mm each
-      - **Front panel:** Velcro-attached custom artwork
+    figure_html: |-
+      <h3>Dimensions</h3>
+      <ul>
+        <li><strong>External size:</strong> 5m x 4m</li>
+        <li><strong>Internal deck:</strong> 3m x 4m</li>
+        <li><strong>Horizontal banner:</strong> 2000mm x 500mm</li>
+        <li><strong>Side banners:</strong> 2500mm x 600mm each</li>
+        <li><strong>Front panel:</strong> Velcro-attached custom artwork</li>
+      </ul>
   - type: features
     dark: true
     intro_content: |
@@ -124,15 +134,16 @@ blocks:
       Most DJ trailer stage hires are part of a wider production package. We can add [PA systems](/products/pa-system/), [generator hire](/products/generator-hire/) for sites without mains power, and [festoon lighting](/products/festoon-lighting/) for evening events. Our crew handles the lot, so you are not managing multiple suppliers.
 
       We have run Staging Events from our [25,000 sq ft warehouse in Maltby, Rotherham](/locations/rotherham/), just off the M1 and M18, since 1999. Around 95% of the kit on this site is ours, which means we are not ringing round a rental chain if something needs sorting on the day.
-    figure_html: |
-      ### Available Add-Ons
-
-      - [PA system hire](/products/pa-system/)
-      - [Generator hire](/products/generator-hire/)
-      - [Festoon lighting](/products/festoon-lighting/)
-      - Audio technician
-      - Custom printed banners and panels
-      - [Crowd barriers](/products/crowd-barriers/)
+    figure_html: |-
+      <h3>Available Add-Ons</h3>
+      <ul>
+        <li><a href="/products/pa-system/">PA system hire</a></li>
+        <li><a href="/products/generator-hire/">Generator hire</a></li>
+        <li><a href="/products/festoon-lighting/">Festoon lighting</a></li>
+        <li>Audio technician</li>
+        <li>Custom printed banners and panels</li>
+        <li><a href="/products/crowd-barriers/">Crowd barriers</a></li>
+      </ul>
   - type: stats
     dark: true
     items:

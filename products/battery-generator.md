@@ -31,8 +31,17 @@ eleventyNavigation:
   key: Battery Generator
   parent: Power
 blocks:
+  - type: image-background
+    image: images/band-on-stage-green-lights.jpg
+    image_alt: "Battery Generator (Instagrid)"
+    tint: true
+    content: |-
+      # Battery Generator (Instagrid)
+    buttons:
+      - text: Get a Quote
+        href: /contact/
+        variant: primary
   - type: split-image
-    subtitle: Battery Generator (Instagrid)
     content: |-
       The Instagrid ONE max delivers 3,600 watts of continuous power from a 2.1kWh battery that weighs 20kg. Zero emissions, zero noise and zero fumes, with pure sine wave output that is safe for sensitive electronics. Fast charges in 2.5 hours.
 
