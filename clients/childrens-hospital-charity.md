@@ -3,6 +3,7 @@ name: "Sheffield Children's Hospital Charity"
 subtitle: "Event hire and production"
 description: "Event hire and production services for Sheffield Children's Hospital Charity fundraising events."
 header_image: images/festival-tent-chuckle-tent.jpg
+thumbnail: images/festival-tent-chuckle-tent.jpg
 blocks:
   - type: image-background
     parallax: true

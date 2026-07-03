@@ -3,6 +3,7 @@ name: "CoppaFeel!"
 subtitle: "Charity event support"
 description: "Event production and logistics support for CoppaFeel! breast cancer awareness charity events."
 header_image: images/dancers-on-stage-festival.jpg
+thumbnail: images/dancers-on-stage-festival.jpg
 blocks:
   - type: image-background
     parallax: true
