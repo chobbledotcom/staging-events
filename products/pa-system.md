@@ -33,8 +33,8 @@ eleventyNavigation:
   key: PA System
   parent: Audio
 blocks:
+  - type: product-header
   - type: split-image
-    subtitle: PA System
     content: |-
       We have a massive range of PA which we can bespoke to your needs, including speakers, monitors, CD players, mixing desks and microphones. Additional equipment including wireless microphones, disco lights and speaker stands can be added to scale the system for any venue.
 

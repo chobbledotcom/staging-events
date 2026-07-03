@@ -36,8 +36,8 @@ eleventyNavigation:
   key: Sports Timer Hire
   parent: Event Infrastructure
 blocks:
+  - type: product-header
   - type: split-image
-    subtitle: Sports Timer Hire
     content: |-
       A digital LED race clock — sometimes called a race timer or countdown clock — that mounts onto a start or finish gantry and displays countdown or elapsed time in large LED digits. We run it alongside our trussing and inflatable gantries to build up a proper start and finish line, and our crew operates it on the day so your event team can focus on the participants rather than the timing display.
 
@@ -75,13 +75,14 @@ blocks:
 
       If the timer needs power and there is no mains supply within reach, we can run it from one of our [battery generators](/products/battery-generator/) or [diesel generators](/products/generator-hire/), depending on what else is drawing power at the start and finish area.
     figure_html: |-
-      ### What's Included
-
-      - Digital LED race clock with countdown and elapsed time modes
-      - Delivery, setup and collection by our crew
-      - On-site operation throughout the event
-      - Risk assessments and method statements
-      - £5 million public liability insurance
+      <h3>What's Included</h3>
+      <ul>
+        <li>Digital LED race clock with countdown and elapsed time modes</li>
+        <li>Delivery, setup and collection by our crew</li>
+        <li>On-site operation throughout the event</li>
+        <li>Risk assessments and method statements</li>
+        <li>£5 million public liability insurance</li>
+      </ul>
   - type: features
     dark: true
     intro_content: "## Ideal For"

@@ -32,8 +32,8 @@ eleventyNavigation:
   key: Electrical Distribution Hire
   parent: Power
 blocks:
+  - type: product-header
   - type: split-image
-    subtitle: Electrical Distribution Hire
     reveal_content: left
     reveal_figure: scale
     content: |-
@@ -85,14 +85,15 @@ blocks:
 
       For the production side, we can run power to [PA systems](/products/pa-system/), [stages](/products/modular-deck-staging/), [marquees](/products/marquee-hire/) and lighting rigs from a single distribution setup, so you are not coordinating multiple suppliers for power and production.
     figure_html: |-
-
-      ### What's Included
-      - Distribution boards and consumer units
-      - Cabling runs and connectors
-      - PAT tested equipment with current safety certificates
-      - Delivery, setup and on-site testing by our crew
-      - Risk assessments and method statements
-      - £5 million public liability insurance
+      <h3>What's Included</h3>
+      <ul>
+        <li>Distribution boards and consumer units</li>
+        <li>Cabling runs and connectors</li>
+        <li>PAT tested equipment with current safety certificates</li>
+        <li>Delivery, setup and on-site testing by our crew</li>
+        <li>Risk assessments and method statements</li>
+        <li>£5 million public liability insurance</li>
+      </ul>
   - type: split-html
     reverse: true
     subtitle: Why It Matters On Site
@@ -101,15 +102,16 @@ blocks:
 
       We have been doing this since 1999 and we carry around 95% of the kit in our own 25,000 sq ft warehouse in Rotherham, just off the M1 and M18.
     figure_html: |-
-
-      ### From One Supplier
-      - [Generator hire](/products/generator-hire/) (2.2kva to 20kva)
-      - [Battery generators](/products/battery-generator/)
-      - [PA systems](/products/pa-system/)
-      - [Modular deck staging](/products/modular-deck-staging/)
-      - [Marquees](/products/marquee-hire/)
-      - [Crowd barriers](/products/crowd-barriers/)
-      - Single invoice, single point of contact
+      <h3>From One Supplier</h3>
+      <ul>
+        <li><a href="/products/generator-hire/">Generator hire</a> (2.2kva to 20kva)</li>
+        <li><a href="/products/battery-generator/">Battery generators</a></li>
+        <li><a href="/products/pa-system/">PA systems</a></li>
+        <li><a href="/products/modular-deck-staging/">Modular deck staging</a></li>
+        <li><a href="/products/marquee-hire/">Marquees</a></li>
+        <li><a href="/products/crowd-barriers/">Crowd barriers</a></li>
+        <li>Single invoice, single point of contact</li>
+      </ul>
   - type: features
     dark: true
     intro_content: "## Ideal For"

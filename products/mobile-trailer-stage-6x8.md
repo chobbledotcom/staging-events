@@ -42,8 +42,8 @@ eleventyNavigation:
   key: Mobile Trailer Stage 6x8m
   parent: Staging
 blocks:
+  - type: product-header
   - type: split-image
-    subtitle: Mobile Trailer Stage 6x8m
     content: |-
       A self-contained mobile trailer stage with a 7.9m x 5.9m performance area, accommodating up to a 10-piece band and 25 singers. Sets up in just one hour on grass or hard surfaces with full 50mm tubular trussing for professional rigging.
 
@@ -108,26 +108,28 @@ blocks:
     content: |-
       Full 50mm tubular trussing provides robust rigging points for speakers, lighting rigs and production equipment. The 3.9m roof clearance provides headroom for lighting setups and keeps the stage floor clear.
     figure_html: |-
-      ### Rigging Highlights
-
-      - **Full 50mm tubular trussing** as standard
-      - **3.9m roof clearance** for lighting setups
-      - **Clear stage floor** for performers and choirs
-      - **Suitable for production equipment**
+      <h3>Rigging Highlights</h3>
+      <ul>
+        <li><strong>Full 50mm tubular trussing</strong> as standard</li>
+        <li><strong>3.9m roof clearance</strong> for lighting setups</li>
+        <li><strong>Clear stage floor</strong> for performers and choirs</li>
+        <li><strong>Suitable for production equipment</strong></li>
+      </ul>
   - type: split-html
     subtitle: Branding and Inclusions
     content: |-
       Side PA wings are available from £99 each, bottom banners from £249, top banners from £199, and full back stage banners (6x3m) from £476. Our design team can produce your artwork.
     figure_html: |-
-      ### Included as Standard
-
-      - Delivery, setup and collection by our crew
-      - Wind and showerproof side walls (rated to 90 km/h)
-      - Full 50mm tubular trussing for rigging
-      - Floodlights for setup and takedown
-      - Structural calculations and documentation
-      - Risk assessments and method statements
-      - £5 million public liability insurance
+      <h3>Included as Standard</h3>
+      <ul>
+        <li>Delivery, setup and collection by our crew</li>
+        <li>Wind and showerproof side walls (rated to 90 km/h)</li>
+        <li>Full 50mm tubular trussing for rigging</li>
+        <li>Floodlights for setup and takedown</li>
+        <li>Structural calculations and documentation</li>
+        <li>Risk assessments and method statements</li>
+        <li>£5 million public liability insurance</li>
+      </ul>
   - type: features
     dark: true
     intro_content: "## Key Features"

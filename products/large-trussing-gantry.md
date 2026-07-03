@@ -30,8 +30,8 @@ eleventyNavigation:
   key: Large Trussing Gantry
   parent: Gantries
 blocks:
+  - type: product-header
   - type: split-image
-    subtitle: Large Trussing Gantry
     content: |-
       A large-format inflatable gantry measuring 6.58m x 1.58m across the top with 3m x 0.29m side panels, delivering maximum branding impact for higher-profile events. Includes full setup, takedown and inflation fan, with customisable designs, free printing for multiple bookings and complimentary storage for branded versions.
 

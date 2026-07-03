@@ -30,8 +30,8 @@ eleventyNavigation:
   key: Disabled Access Ramp
   parent: Event Infrastructure
 blocks:
+  - type: product-header
   - type: split-image
-    subtitle: Disabled Access Ramp
     reveal_content: left
     reveal_figure: scale
     content: |-

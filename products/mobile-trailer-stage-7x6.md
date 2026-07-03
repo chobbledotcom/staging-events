@@ -41,8 +41,8 @@ eleventyNavigation:
   key: Mobile Trailer Stage 7x6m
   parent: Staging
 blocks:
+  - type: product-header
   - type: split-image
-    subtitle: Mobile Trailer Stage 7x6m
     content: |-
       A self-contained mobile trailer stage offering 42 square metres of performance space with a slip-proof weatherproof floor. Sets up in just 30 minutes and is self-balanced for hard standing use, with full 50mm tubular trussing and wind-rated side walls.
 
@@ -107,12 +107,13 @@ blocks:
     content: |-
       Full 50mm tubular trussing provides rigging points for speakers, lighting and production equipment. The 5m overall height gives clearance for lighting setups, keeping the stage floor clear for performers.
     figure_html: |-
-      ### Rigging Highlights
-
-      - **Full 50mm tubular trussing** as standard
-      - **5m overall height** for lighting clearance
-      - **Clear performance deck** for bands and choirs
-      - **Suitable for audio and lighting production**
+      <h3>Rigging Highlights</h3>
+      <ul>
+        <li><strong>Full 50mm tubular trussing</strong> as standard</li>
+        <li><strong>5m overall height</strong> for lighting clearance</li>
+        <li><strong>Clear performance deck</strong> for bands and choirs</li>
+        <li><strong>Suitable for audio and lighting production</strong></li>
+      </ul>
   - type: split-html
     subtitle: Weather Protection and Setup
     content: |-
@@ -120,16 +121,17 @@ blocks:
 
       The stage works both indoors and outdoors, on hard surfaces or grass. The self-balanced design means no additional anchoring is required on hard standing.
     figure_html: |-
-      ### Included as Standard
-
-      - Delivery, setup and collection by our crew
-      - Wind and showerproof side walls
-      - Full 50mm tubular trussing for rigging
-      - Slip-proof weatherproof stage floor
-      - Floodlights for setup and takedown
-      - Structural calculations and documentation
-      - Risk assessments and method statements
-      - £5 million public liability insurance
+      <h3>Included as Standard</h3>
+      <ul>
+        <li>Delivery, setup and collection by our crew</li>
+        <li>Wind and showerproof side walls</li>
+        <li>Full 50mm tubular trussing for rigging</li>
+        <li>Slip-proof weatherproof stage floor</li>
+        <li>Floodlights for setup and takedown</li>
+        <li>Structural calculations and documentation</li>
+        <li>Risk assessments and method statements</li>
+        <li>£5 million public liability insurance</li>
+      </ul>
   - type: features
     dark: true
     intro_content: "## Key Features"

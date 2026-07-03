@@ -36,8 +36,8 @@ eleventyNavigation:
   key: Mini Stage 3x3m
   parent: Staging
 blocks:
+  - type: product-header
   - type: split-image
-    subtitle: Mini Stage 3x3m
     content: |-
       A compact 3x3m trussing stage built for corporate events, private parties and live entertainment. The 50mm tubular truss frame provides easy rigging for speakers and lighting without cluttering the stage floor.
 
@@ -73,15 +73,16 @@ blocks:
 
       The Mini Stage sets up in approximately one hour and comes down in around 45 minutes. It works on both grass and hard surfaces, indoors or outdoors, and works at most venues.
     figure_html: |-
-      ### What's Included
-
-      - Delivery, setup and collection by our crew
-      - Matching stage steps
-      - 50mm tubular trussing for rigging
-      - Structural calculations and design documentation
-      - Risk assessments and method statements
-      - £5 million public liability insurance
-      - Accessible ramp available on request
+      <h3>What's Included</h3>
+      <ul>
+        <li>Delivery, setup and collection by our crew</li>
+        <li>Matching stage steps</li>
+        <li>50mm tubular trussing for rigging</li>
+        <li>Structural calculations and design documentation</li>
+        <li>Risk assessments and method statements</li>
+        <li>£5 million public liability insurance</li>
+        <li>Accessible ramp available on request</li>
+      </ul>
   - type: features
     dark: true
     intro_content: "## Key Features"

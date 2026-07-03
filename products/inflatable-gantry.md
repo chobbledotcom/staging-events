@@ -29,8 +29,8 @@ eleventyNavigation:
   key: Inflatable Gantry
   parent: Gantries
 blocks:
+  - type: product-header
   - type: split-image
-    subtitle: Inflatable Gantry
     content: |-
       Our most popular inflatable gantry for charity runs, fun runs and community events on grassed areas. Every hire includes full setup, takedown and electric inflation fan, plus dedicated event support staff to manage your start and finish line. Custom branding available on nearly any surface, with multiple units ready for events requiring separate structures.
 

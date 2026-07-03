@@ -30,8 +30,8 @@ eleventyNavigation:
   key: Sandbags & Weights
   parent: Event Infrastructure
 blocks:
+  - type: product-header
   - type: split-image
-    subtitle: Sandbags & Weights
     reveal_content: left
     reveal_figure: scale
     content: |-

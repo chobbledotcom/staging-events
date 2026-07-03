@@ -36,8 +36,8 @@ eleventyNavigation:
   key: Lectern Hire
   parent: Event Infrastructure
 blocks:
+  - type: product-header
   - type: split-image
-    subtitle: Lectern and Podium Hire
     content: |-
       Trilite 200 aluminium truss lecterns by Optikinetics, with stainless steel truss lecterns also available. Both are lightweight, stable and straightforward to set up on any stage or presentation area. Branded panels and a full range of microphone options are available if you need them.
 
@@ -61,13 +61,14 @@ blocks:
 
       Branded panels can be fitted to the front of the lectern in clear acrylic or with your event or sponsor branding. The Trilite lectern also takes a clamp-on support arm for laptops and a reading light, which makes a practical difference for speakers who are working from notes or a screen rather than memory.
     figure_html: |-
-      ### What's Included
-
-      - Trilite aluminium truss lectern or stainless steel truss lectern
-      - Delivery, setup and collection by our crew
-      - Cable management
-      - Risk assessments and method statements
-      - £5 million public liability insurance
+      <h3>What's Included</h3>
+      <ul>
+        <li>Trilite aluminium truss lectern or stainless steel truss lectern</li>
+        <li>Delivery, setup and collection by our crew</li>
+        <li>Cable management</li>
+        <li>Risk assessments and method statements</li>
+        <li>£5 million public liability insurance</li>
+      </ul>
   - type: split-html
     subtitle: Complete Presentation Setup
     reverse: true
@@ -76,17 +77,18 @@ blocks:
 
       We deliver nationwide from our 25,000 sq ft warehouse in [Rotherham](/locations/rotherham/), just off the M1 and M18, and we regularly deliver to exhibition centres including NEC Birmingham, Manchester Central, ExCel London and Telford Exhibition Centre. We also work across [Sheffield](/locations/sheffield/), [Leeds](/locations/leeds/), [Doncaster](/locations/doncaster/) and [Barnsley](/locations/barnsley/). Darren Dawson hired stage, sound equipment and chairs from us for a motivational speaker to address his whole company: "The guys turned up well in advance, set everything up and made sure I was happy before leaving site."
     figure_html: |-
-      ### Optional Add-Ons
-
-      - Wired handheld microphone
-      - Lapel (lavalier) microphone
-      - Headset microphone
-      - Podium-mounted microphone
-      - [PA system hire](/products/pa-system/)
-      - [Modular deck staging](/products/modular-deck-staging/)
-      - [Disabled access ramp](/products/disabled-access-ramp/)
-      - [Festoon lighting](/products/festoon-lighting/)
-      - Custom branding panels
+      <h3>Optional Add-Ons</h3>
+      <ul>
+        <li>Wired handheld microphone</li>
+        <li>Lapel (lavalier) microphone</li>
+        <li>Headset microphone</li>
+        <li>Podium-mounted microphone</li>
+        <li><a href="/products/pa-system/">PA system hire</a></li>
+        <li><a href="/products/modular-deck-staging/">Modular deck staging</a></li>
+        <li><a href="/products/disabled-access-ramp/">Disabled access ramp</a></li>
+        <li><a href="/products/festoon-lighting/">Festoon lighting</a></li>
+        <li>Custom branding panels</li>
+      </ul>
   - type: gallery
     items:
       - image: /images/indoor-venue-stage-setup.jpg

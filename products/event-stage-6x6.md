@@ -40,8 +40,8 @@ eleventyNavigation:
   key: Event Stage 6x6m
   parent: Staging
 blocks:
+  - type: product-header
   - type: split-image
-    subtitle: Event Stage 6x6m
     content: |-
       A 6x6m covered truss stage with 36 square metres of performance area, big enough for a five-piece band or up to 15 performers. Full roof structure and weather-resistant side walls mean your event goes ahead regardless of conditions.
 
@@ -97,16 +97,17 @@ blocks:
     content: |-
       The full roof structure combined with wind and showerproof side walls creates a sheltered performance environment. This protects performers and equipment in rain or wind.
     figure_html: |-
-      ### What's Included
-
-      - Delivery, setup and collection by our crew
-      - Full roof structure with weather-resistant side walls
-      - 50mm tubular trussing for rigging
-      - Matching stage steps
-      - Structural calculations and design documentation
-      - Risk assessments and method statements
-      - £5 million public liability insurance
-      - Accessible ramp available on request
+      <h3>What's Included</h3>
+      <ul>
+        <li>Delivery, setup and collection by our crew</li>
+        <li>Full roof structure with weather-resistant side walls</li>
+        <li>50mm tubular trussing for rigging</li>
+        <li>Matching stage steps</li>
+        <li>Structural calculations and design documentation</li>
+        <li>Risk assessments and method statements</li>
+        <li>£5 million public liability insurance</li>
+        <li>Accessible ramp available on request</li>
+      </ul>
   - type: features
     dark: true
     intro_content: "## Key Features"
