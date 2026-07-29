@@ -1,15 +1,17 @@
 ---
 name: PA System
-subtitle: Bespoke PA hire with speakers, mixers, microphones and monitors
-description: Professional PA system hire with a massive range of speakers, monitors, CD players, mixing desks and microphones bespoke to your needs. Sound solutions for events UK-wide.
-header_image: images/solo-performer-on-lit-stage.jpg
+subtitle: PA and flown line-array hire for stages, festivals and live events
+description: PA system hire with flown line-array options, speakers, stage monitors, mixing desks and wired or wireless microphones for indoor and outdoor events.
+meta_title: PA and Line-Array Hire | Staging Events
+meta_description: PA hire for indoor and outdoor events, from speakers and microphones to stage monitors, mixing desks and flown line-array systems.
+header_image: images/kelham-island-museum-stage-line-array-pa.webp
 categories:
   - audio
 price: Contact for pricing
 features:
-  - Massive range of PA equipment
-  - Bespoke to your needs
-  - Speakers, monitors and CD players
+  - Flown line-array systems available
+  - Sized to the stage and event
+  - Speakers, monitors and playback equipment
   - Mixing desks and microphones
   - Suitable for outdoor events
   - Professional sound quality
@@ -17,16 +19,16 @@ specs:
   - name: System
     value: Bespoke to your needs
   - name: Speakers & Monitors
-    value: Included
+    value: Available
   - name: Mixing Desks
-    value: Included
+    value: Available
   - name: Microphones
     value: Wired and wireless options
 gallery:
-  - images/mobile-trailer-stage-on-field.jpg
-  - images/performers-with-pa-speakers.jpg
-  - images/pa-speakers-audience-view.jpg
-  - images/band-performing-night-lights.jpg
+  - images/kelham-island-museum-stage-line-array-pa.webp
+  - images/kelham-island-museum-stage-dancers.webp
+  - images/kelham-island-museum-stage-speaker.webp
+  - images/kelham-island-museum-festival-dancers.webp
   - images/pa-speakers-outdoor-stage.jpg
   - images/pa-speakers-memory-walk-stage.jpg
 eleventyNavigation:
@@ -34,22 +36,23 @@ eleventyNavigation:
   parent: Audio
 blocks:
   - type: image-background
-    image: images/solo-performer-on-lit-stage.jpg
-    image_alt: "PA System"
+    image: images/kelham-island-museum-stage-line-array-pa.webp
+    image_alt: Flown line-array PA on a 7x6m outdoor stage
     tint: true
     content: |-
-      # PA System
+      # PA System Hire
     buttons:
       - text: Get a Quote
         href: /contact/
         variant: primary
   - type: split-image
     content: |-
-      We have a massive range of PA which we can bespoke to your needs, including speakers, monitors, CD players, mixing desks and microphones. Additional equipment including wireless microphones, disco lights and speaker stands can be added to scale the system for any venue.
+      We size each PA setup around the stage, programme and site. That can mean speakers on stands for a smaller event, or line-array PA flown from the truss for a festival stage, with monitors, mixing desks and wired or wireless microphones added as needed.
 
       **Contact for pricing**
-    figure_src: images/solo-performer-on-lit-stage.jpg
-    figure_alt: PA System
+    figure_src: images/kelham-island-museum-stage-line-array-pa.webp
+    figure_alt: PA arrays flown from both sides of a covered festival stage
+    figure_caption: Flown line-array PA at Kelham Island Museum, Sheffield, on 27 June 2026.
     button:
       text: Get a Quote
       href: /contact/
@@ -57,20 +60,32 @@ blocks:
   - type: gallery
     masonry: true
     items:
-      - image: /images/mobile-trailer-stage-on-field.jpg
-      - image: /images/performers-with-pa-speakers.jpg
-      - image: /images/pa-speakers-audience-view.jpg
-      - image: /images/band-performing-night-lights.jpg
+      - image: /images/kelham-island-museum-stage-line-array-pa.webp
+        alt: Line-array PA flown at both sides of a covered show stage
+        caption: The stage and PA setup at Kelham Island Museum.
+      - image: /images/kelham-island-museum-stage-dancers.webp
+        alt: Dancers performing with a flown line-array PA system
+        caption: The flown system in use during a dance performance.
+      - image: /images/kelham-island-museum-stage-speaker.webp
+        alt: Spoken performance on a stage with flown PA arrays
+        caption: The same PA setup used for a spoken performance.
+      - image: /images/kelham-island-museum-festival-dancers.webp
+        alt: Wide view of a festival stage with flown PA and stage monitors
+        caption: PA arrays, ground-level cabinets and stage monitors around the 7x6m stage.
       - image: /images/pa-speakers-outdoor-stage.jpg
+        alt: Outdoor stage with PA speakers and audio equipment
       - image: /images/pa-speakers-memory-walk-stage.jpg
+        alt: PA speakers beside a branded Memory Walk stage
   - type: markdown
     dark: true
     content: |-
-      We have a massive range of PA which we can bespoke to your needs, covering events from corporate presentations to outdoor festivals. We can scale the system to suit your venue and audience.
+      We keep a broad range of PA equipment and build each hire around the event, from corporate presentations to outdoor festivals. The useful details are the site, stage, programme and expected audience, because those determine what needs to go on the quote.
 
-      ### What's Included
+      At Kelham Island Museum in [Sheffield](/locations/sheffield/) on 27 June 2026, we supplied line-array PA flown at both sides of our [7x6m mobile trailer stage](/products/mobile-trailer-stage-7x6/). The same stage carried dance and spoken performances during Migration Matters Festival. [See the completed setup](/news/kelham-island-museum-stage-and-pa/).
 
-      Our PA system hire includes:
+      ### What's Available
+
+      A PA hire can include:
 
       - Speakers for front-of-house coverage
       - Monitor speakers for on-stage foldback, ensuring performers and speakers can hear themselves clearly
@@ -82,6 +97,9 @@ blocks:
     dark: true
     intro_content: "## Additional Equipment"
     items:
+      - icon: mdi:speaker-multiple
+        name: Flown line-array PA
+        description: Arrays can be flown at the sides of a suitable stage when the show and site call for it
       - icon: mdi:microphone
         name: Wireless microphones
         description: Handheld, headset or lapel options for speakers, presenters and panel discussions
@@ -90,7 +108,7 @@ blocks:
         description: Boom and straight stands for vocalists and instruments
       - icon: mdi:music-box
         name: Dual CD players
-        description: For DJs and pre-recorded playlists with seamless crossfading
+        description: Playback equipment for pre-recorded music and backing tracks
       - icon: mdi:lightbulb
         name: Disco lights and effect lighting
         description: Add a visual dimension to your event with professional effect lighting
@@ -103,7 +121,7 @@ blocks:
     items:
       - icon: mdi:check-circle
         name: Outdoor festivals and concerts
-        description: ""
+        description: Flown line-array options are available for suitable stages and sites
       - icon: mdi:check-circle
         name: Corporate conferences and presentations
         description: ""
@@ -124,10 +142,10 @@ blocks:
     intro_content: "## Key Features"
     items:
       - icon: mdi:check-circle
-        name: Massive range of PA equipment
+        name: Flown line-array systems available
         description: ""
       - icon: mdi:check-circle
-        name: Bespoke to your needs
+        name: Sized to the stage and event
         description: ""
       - icon: mdi:check-circle
         name: Speakers, monitors and CD players
@@ -139,7 +157,7 @@ blocks:
         name: Suitable for outdoor events
         description: ""
       - icon: mdi:check-circle
-        name: Professional sound quality
+        name: Indoor and outdoor systems
         description: ""
   - type: stats
     dark: true
@@ -147,11 +165,11 @@ blocks:
       - value: Bespoke
         label: System
       - value: Speakers & Monitors
-        label: Included
+        label: Available
       - value: Mixing Desks
-        label: Included
+        label: Available
       - value: Microphones
-        label: Included
+        label: Available
   - type: contact-form
     content: |-
       ## Hire the PA System

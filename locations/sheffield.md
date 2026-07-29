@@ -2,8 +2,10 @@
 name: Stage Hire in Sheffield
 header_text: Sheffield Stage Hire
 subtitle: Professional staging and event hire in Sheffield
-description: Stage hire, PA systems, photo booths and event equipment hire in Sheffield. Over 25 years experience delivering events across Sheffield and South Yorkshire.
-header_image: images/cathedral-concert-purple-lighting.jpg
+description: Stage and PA hire in Sheffield from a Rotherham team trading since 1999. See our 7x6m stage and flown line-array PA at Kelham Island Museum.
+meta_title: Stage Hire Sheffield | Staging Events
+meta_description: Stage and PA hire in Sheffield, including 7x6m trailer stages and flown line-array sound. Delivery, setup, RAMS and £5m cover included.
+header_image: images/kelham-island-museum-festival-dancers.webp
 area: Sheffield
 region: South Yorkshire
 featured: true
@@ -13,8 +15,8 @@ eleventyNavigation:
 blocks:
   - type: image-background
     parallax: true
-    image: images/cathedral-concert-purple-lighting.jpg
-    image_alt: Stage hire in Sheffield
+    image: images/kelham-island-museum-festival-dancers.webp
+    image_alt: 7x6m festival stage in use at Kelham Island Museum in Sheffield
     content: |-
       ## Stage Hire in Sheffield
 
@@ -25,22 +27,23 @@ blocks:
     reveal_content: left
     reveal_figure: scale
     content: |
-      From **Endcliffe Park to Don Valley**, we deliver professional staging and event equipment across Sheffield and the surrounding area.
+      We deliver staging, PA and event equipment across Sheffield from our warehouse in Maltby, Rotherham. On 27 June 2026 that meant a [7x6m mobile trailer stage](/products/mobile-trailer-stage-7x6/) and [flown line-array PA](/products/pa-system/) at Kelham Island Museum for Migration Matters Festival.
 
-      Sheffield is home to some of the region's biggest events, and we're proud to support them with:
+      Sheffield hires can include:
 
       - **Stage hire** for outdoor festivals and park events
       - **PA systems** for live music, speeches and ceremonies
       - **Photo booths** for weddings and corporate events
       - **Event infrastructure** including barriers, lighting and power
 
-      Just a short drive from our Maltby warehouse, Sheffield events benefit from quick delivery and competitive local rates.
+      Around 95% of the equipment listed on this site is ours, and our own crew handles delivery, setup and collection. [The Kelham Island completed-job write-up](/news/kelham-island-museum-stage-and-pa/) shows the stage and sound system in use.
     button:
       text: Get a Quote
       href: /contact/
       variant: secondary
-    figure_src: images/event-stage-setup.jpg
-    figure_alt: Event staging in Sheffield
+    figure_src: images/kelham-island-museum-stage-line-array-pa.webp
+    figure_alt: 7x6m stage and flown line-array PA in Sheffield
+    figure_caption: The completed stage and PA setup at Kelham Island Museum.
 
   - type: items
     collection: featuredProducts
@@ -55,37 +58,37 @@ blocks:
     items:
       - icon: "mdi:truck-delivery"
         name: Nearby Warehouse
-        description: Based in Maltby, just 20 minutes from Sheffield city centre
+        description: Our 25,000 sq ft warehouse is in Maltby, Rotherham, with access to Sheffield via the M1 and M18
       - icon: "mdi:calendar-check"
-        name: Flexible Scheduling
-        description: Setup and collection times to suit your event
+        name: A Recent Sheffield Job
+        description: We supplied a 7x6m show stage and flown line-array PA at Kelham Island Museum on 27 June 2026
       - icon: "mdi:account-group"
-        name: Experienced Crew
-        description: Professional staff who know Sheffield's venues
+        name: Our Own Crew and Kit
+        description: Our team handles delivery, setup and collection, and we own around 95% of the equipment we hire out
       - icon: "mdi:shield-check"
-        name: Fully Insured
-        description: Complete public liability cover for your peace of mind
+        name: Insurance and RAMS
+        description: Every hire includes £5 million public liability cover, risk assessments and method statements
 
   - type: stats
     dark: true
     items:
       - value: "25+"
         label: Years Experience
-      - value: "20 min"
-        label: From Our Warehouse
-      - value: "500+"
-        label: Sheffield Events
-      - value: "100%"
-        label: Setup Included
+      - value: "7 x 6m"
+        label: Kelham Island Show Stage
+      - value: "Flown"
+        label: Line-Array PA Setup
+      - value: "£5m"
+        label: Public Liability Cover
 
   - type: markdown
     dark: true
     content: |-
-      We deliver professional staging and event hire across Sheffield, from city centre venues to parks and outdoor spaces. Our Maltby warehouse is just 20 minutes away, meaning fast delivery and competitive rates for events across the city.
+      We have worked in events since 1999 and can cover a single stage hire or the wider production job, including PA, power, trussing, lighting and barriers. For Sheffield organisers, that means one contact for the equipment, crew and paperwork rather than several separate hires.
   - type: cta
     content: |
       ## Planning an Event in Sheffield?
-      Contact our team for a free quote. We offer site visits across Sheffield to help plan your perfect event.
+      Tell us the venue, date and what has to happen on stage. We offer free site visits across Sheffield when the setup needs planning in person.
     button:
       text: Contact Us
       href: /contact/

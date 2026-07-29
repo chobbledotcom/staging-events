@@ -2,6 +2,8 @@
 permalink: "/festival-staging-hire/"
 name: "Festival Staging Hire"
 description: "Festival stage hire including trailer stages, modular staging, PA systems, generators and full event production for outdoor festivals across the UK. 25+ years experience."
+meta_title: Festival Stage and PA Hire | Staging Events
+meta_description: Festival stage hire with mobile and modular stages, flown line-array PA, power, lighting, crew, RAMS and UK-wide delivery.
 eleventyNavigation:
   key: Festival Staging Hire
   parent: Services
@@ -9,8 +11,8 @@ eleventyNavigation:
 blocks:
   - type: image-background
     parallax: true
-    image: images/band-on-trailer-stage.jpg
-    image_alt: Band performing on a mobile trailer stage at an outdoor festival
+    image: images/kelham-island-museum-festival-dancers.webp
+    image_alt: Dance performance on a 7x6m mobile stage at a Sheffield festival
     content: |-
       # Festival Staging Hire
 
@@ -21,7 +23,7 @@ blocks:
     reveal_content: left
     reveal_figure: scale
     content: |
-      We supply staging for outdoor festivals of every size, from the [DJ Trailer Stage](/products/dj-trailer-stage/) up to the [Mobile Trailer Stage 6x8m](/products/mobile-trailer-stage-6x8/) which takes a 10-piece band and 25 singers. For festivals that need multiple stages or something that doesn't fit a trailer, we build configurations from our [modular deck staging](/products/modular-deck-staging/) and [trussing](/products/stage-trussing/) instead.
+      We supply covered stages for outdoor festivals, from the [DJ Trailer Stage](/products/dj-trailer-stage/) through to the 42 sqm [Mobile Trailer Stage 7x6m](/products/mobile-trailer-stage-7x6/) and the [Mobile Trailer Stage 6x8m](/products/mobile-trailer-stage-6x8/). For festivals that need multiple stages or something that does not fit a trailer, we build configurations from our [modular deck staging](/products/modular-deck-staging/) and [trussing](/products/stage-trussing/) instead.
 
       Most of the kit is ours, and it all comes out of the 25,000 sq ft warehouse in Rotherham, just off the M1 and M18. We deliver, set up and take down with our own crew, and we can bring PA, lighting and power as part of the same job. Give or take, we've been doing this for over 25 years.
 
@@ -30,8 +32,9 @@ blocks:
       text: View All Staging
       href: /categories/staging/
       variant: secondary
-    figure_src: images/mobile-trailer-stage-on-field.jpg
-    figure_alt: Mobile trailer stage set up on a festival field
+    figure_src: images/kelham-island-museum-stage-line-array-pa.webp
+    figure_alt: 7x6m mobile trailer stage with flown line-array PA
+    figure_caption: Stage and PA set up at Kelham Island Museum on 27 June 2026.
 
   - type: items
     collection: products
@@ -50,7 +53,7 @@ blocks:
     items:
       - icon: "mdi:speaker"
         name: PA and Sound
-        description: From compact speaker setups to full line array systems for main stages. We bespoke the PA to the venue and the crowd size.
+        description: From compact speaker setups to flown line-array systems for main stages. We size the PA around the stage, site and expected crowd.
       - icon: "mdi:flash"
         name: Power and Generators
         description: Diesel and petrol generators for main stages and battery generators for quieter areas. Distribution boards and cabling run by our crew.
@@ -60,6 +63,23 @@ blocks:
       - icon: "mdi:string-lights"
         name: Festoon Lighting
         description: 100-metre runs of warm festoon for walkways, event villages and between stages. Indoor and outdoor rated.
+
+  - type: split-image
+    subtitle: Kelham Island Museum, Sheffield
+    reverse: true
+    reveal_content: right
+    reveal_figure: scale
+    content: |
+      On 27 June 2026 we supplied the [7x6m show stage](/products/mobile-trailer-stage-7x6/) and [flown line-array PA](/products/pa-system/) at Kelham Island Museum for Migration Matters Festival. The photographs show the same setup used for dance and spoken performances during the day.
+
+      This is the sort of medium festival job where keeping stage and sound with one supplier makes the site plan and setup rather simpler. We have written up the equipment and the finished setup in the [Kelham Island Museum case study](/news/kelham-island-museum-stage-and-pa/).
+    figure_src: images/kelham-island-museum-stage-dancers.webp
+    figure_alt: Dancers performing on the 7x6m festival stage in Sheffield
+    figure_caption: A live dance performance on the covered show stage.
+    button:
+      text: View the Completed Job
+      href: /news/kelham-island-museum-stage-and-pa/
+      variant: secondary
 
   - type: split-image
     subtitle: Delivery and Setup

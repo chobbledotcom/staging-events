@@ -1,8 +1,10 @@
 ---
 name: Mobile Trailer Stage 7x6m
 subtitle: 42 sqm mobile stage with slip-proof weatherproof floor
-description: Mobile trailer stage hire from £1,495. 7m x 6m stage area (42 sqm) with slip-proof weatherproof floor, adjustable height, and 30-minute setup. Suitable indoors and outdoors.
-header_image: images/trailer-stage-with-trussing.jpg
+description: Mobile trailer stage hire from £1,495. The 7m x 6m M42 has 42 sqm of covered performance space, full trussing and options for flown line-array PA.
+meta_title: 7x6m Mobile Trailer Stage Hire | Staging Events
+meta_description: Hire our 42 sqm M42 mobile trailer stage with a covered deck, full trussing, 30-minute setup and flown line-array PA options.
+header_image: images/kelham-island-museum-stage-line-array-pa.webp
 categories:
   - staging
 price: From £1,495
@@ -12,6 +14,7 @@ features:
   - Up to 10-piece band and 25 singers
   - Slip-proof weatherproof floor
   - Full 50mm tubular trussing
+  - Flown line-array PA available
   - Adjustable stage height
 specs:
   - name: Hire Price
@@ -33,17 +36,17 @@ specs:
   - name: Setup Time
     value: 30 mins setup, 45 mins takedown
 gallery:
-  - images/trailer-stage-with-trussing.jpg
-  - images/mobile-trailer-stage-on-field.jpg
-  - images/band-on-trailer-stage.jpg
-  - images/mobile-trailer-stage-with-barriers.jpg
+  - images/kelham-island-museum-stage-line-array-pa.webp
+  - images/kelham-island-museum-stage-dancers.webp
+  - images/kelham-island-museum-stage-speaker.webp
+  - images/kelham-island-museum-festival-dancers.webp
 eleventyNavigation:
   key: Mobile Trailer Stage 7x6m
   parent: Staging
 blocks:
   - type: image-background
-    image: images/trailer-stage-with-trussing.jpg
-    image_alt: "Mobile Trailer Stage 7x6m"
+    image: images/kelham-island-museum-stage-line-array-pa.webp
+    image_alt: 7x6m mobile trailer stage with flown line-array PA
     tint: true
     content: |-
       # Mobile Trailer Stage 7x6m
@@ -53,11 +56,12 @@ blocks:
         variant: primary
   - type: split-image
     content: |-
-      A self-contained mobile trailer stage offering 42 square metres of performance space with a slip-proof weatherproof floor. Sets up in just 30 minutes and is self-balanced for hard standing use, with full 50mm tubular trussing and wind-rated side walls.
+      The M42 is a self-contained mobile trailer stage with 42 square metres of covered performance space and a slip-proof, weatherproof floor. It sets up in around 30 minutes and is self-balanced for hard standing, with full 50mm tubular trussing and wind-rated side walls.
 
       **From £1,495**
-    figure_src: images/trailer-stage-with-trussing.jpg
-    figure_alt: Mobile Trailer Stage 7x6m
+    figure_src: images/kelham-island-museum-stage-line-array-pa.webp
+    figure_alt: 7x6m mobile trailer stage with PA arrays flown at both sides
+    figure_caption: The 7x6m stage and flown PA set up at Kelham Island Museum in Sheffield.
     button:
       text: Get a Quote
       href: /contact/
@@ -68,6 +72,8 @@ blocks:
       Our standard M42 mobile trailer stage delivers 42 square metres of performance space (7m x 6m), comfortably accommodating a 10-piece band and up to 25 singers. Self-contained and self-balanced for hard standing use, this stage requires just 30 minutes to set up and 45 minutes to take down.
 
       The stage height is adjustable between 1.0m and 1.3m above ground, with an overall height of 5m. The slip-proof weatherproof floor has a load capacity of 3.5 kN/m² (approximately 350 kg/m²). Wind and showerproof side walls are rated to 17.8 m/s with covers fitted, or 30 m/s without covers. Full 50mm tubular trussing is included for rigging, along with floodlights for setup and takedown.
+
+      On 27 June 2026 we used the 7x6m stage at Kelham Island Museum in [Sheffield](/locations/sheffield/), with line-array PA flown at both sides for Migration Matters Festival. The photographs show the covered deck in use for dance and spoken performances, rather than an empty stage in the yard. [Read the completed-job case study](/news/kelham-island-museum-stage-and-pa/).
   - type: features
     dark: true
     intro_content: "## Ideal For"
@@ -87,6 +93,20 @@ blocks:
       - icon: mdi:check-circle
         name: Indoor exhibitions and trade shows
         description: ""
+  - type: split-image
+    reverse: true
+    subtitle: A 7x6m Show Stage in Use
+    content: |-
+      The Kelham Island Museum job is a useful view of the working setup. The line-array PA was flown from the stage structure, leaving the performance deck clear apart from the stage monitors and show equipment.
+
+      We can supply the stage on its own or plan the [PA system](/products/pa-system/), power, lighting and crew as part of the same job. We provide the risk assessments and method statements before the event, along with £5 million public liability cover.
+    figure_src: images/kelham-island-museum-stage-dancers.webp
+    figure_alt: Dance performance on the covered 7x6m show stage
+    figure_caption: The stage in use during Migration Matters Festival on 27 June 2026.
+    button:
+      text: View the Kelham Island Job
+      href: /news/kelham-island-museum-stage-and-pa/
+      variant: secondary
   - type: markdown
     dark: true
     content: |-

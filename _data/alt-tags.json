@@ -474,6 +474,26 @@
 			"path": "images/large-trussing.png",
 			"alt": "Technical diagram of large trussing gantry frame",
 			"description": "CAD-style 3D rendering of large metal truss structure for stage/event/lighting use. Dark navy/black background, pale cream/off-white wireframe. Two tall vertical truss columns with lattice diagonal cross-bracing. Top horizontal beam spanning between columns, second lower crossbeam. Base support sections extending outward as stabilizing feet/outriggers. Faint dimension lines along bottom and right side showing overall width and height."
+		},
+		{
+			"path": "images/kelham-island-museum-stage-line-array-pa.webp",
+			"alt": "7x6m mobile stage with line-array PA flown at both sides",
+			"description": "Front view of a covered 7x6m mobile show stage in the Kelham Island Museum courtyard. Line-array speakers hang from both front corners, with monitor speakers across the deck and PA cabinets at ground level. A Migration Matters Festival banner hangs at the rear."
+		},
+		{
+			"path": "images/kelham-island-museum-stage-dancers.webp",
+			"alt": "Dance group performing on a covered 7x6m festival stage",
+			"description": "Four adult dancers in gold, pink and orange costumes perform on the covered show stage. Stage monitors line the front of the deck and a flown line-array speaker is visible beside the Migration Matters Festival backdrop."
+		},
+		{
+			"path": "images/kelham-island-museum-stage-speaker.webp",
+			"alt": "Speaker using a microphone on a 7x6m festival stage",
+			"description": "Wide view of the covered show stage during a spoken performance. Line-array speakers are flown from both front corners, monitor speakers sit across the deck and PA cabinets stand at ground level."
+		},
+		{
+			"path": "images/kelham-island-museum-festival-dancers.webp",
+			"alt": "Dancers performing on a 7x6m show stage with flown PA",
+			"description": "Wide view of adult dancers performing on a covered 7x6m show stage at Kelham Island Museum. Flown speaker arrays frame the stage and the Migration Matters Festival backdrop is visible behind the performers."
 		}
 	]
 }
