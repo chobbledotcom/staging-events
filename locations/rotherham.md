@@ -95,6 +95,22 @@ blocks:
     figure_src: images/rotherham-wow-festival-acoustic-stage.jpg
     figure_alt: Stage hire for Rotherham events
 
+  - type: split-image
+    subtitle: Recent Rotherham Jobs
+    reveal_content: left
+    reveal_figure: scale
+    content: |
+      Rotherham spent a year as the world's first Children's Capital of Culture, and we were on the town-centre sites for the closing weekend and the week that followed. For [The Birthday Party, the finale](/news/childrens-capital-of-culture-finale-staging/) on 20 March 2026, we delivered staging, sound and lighting across the live sites around All Saints Square and the Minster, including a lit stage for the evening programme and festoon around the Minster after dark. Eight days later we supplied the [staging, sound and lighting for Roots Festival](/news/roots-festival-rotherham-staging/), the free street carnival with its procession from the Minster, in the same part of town.
+
+      Both jobs came out of the warehouse in Maltby and were crewed by our own team. If you are running something in the town centre, it is worth knowing we can be setting up on your doorstep in the morning and be gone by the evening.
+    figure_src: images/roots-festival-rotherham-stage.jpg
+    figure_alt: Covered stage and PA supplied for Roots Festival in Rotherham town centre
+    figure_caption: The main stage at Roots Festival, Rotherham, March 2026.
+    button:
+      text: See the Roots Festival Setup
+      href: /news/roots-festival-rotherham-staging/
+      variant: secondary
+
   - type: markdown
     dark: true
     content: |-

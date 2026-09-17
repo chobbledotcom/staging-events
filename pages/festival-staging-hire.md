@@ -90,6 +90,8 @@ blocks:
       We deliver festival equipment anywhere in the UK from the Rotherham warehouse. The 6x8m trailer stage sets up in around an hour and the 7x6m in about 30 minutes, and both pack down in 45 minutes, which makes a fair bit of difference when you're turning a site around between acts or between days.
 
       Our crew handles the delivery, the build and the takedown themselves. We carry full public liability insurance on every job and we provide the risk assessments and method statements along with it.
+
+      When a festival is built from modular decks rather than a trailer stage, we do those too. In March 2026 we ran two Rotherham town-centre productions in the space of a week: the [Children's Capital of Culture finale](/news/childrens-capital-of-culture-finale-staging/) across multiple live sites, and [Roots Festival](/news/roots-festival-rotherham-staging/), a free street carnival built around a covered modular stage and ground-stacked PA.
     figure_src: images/memory-walk-stage-and-van.jpg
     figure_alt: Staging Events crew delivering stage equipment
 

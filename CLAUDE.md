@@ -33,6 +33,24 @@ bun run lint:fix     # Auto-fix lint issues
 bun run cpd          # Copy-paste detection on scripts/
 ```
 
+### Building in the agent sandbox
+
+The sandbox's system libraries trip up the native image stack. Two issues and their fixes:
+
+- **sharp fails with `libstdc++.so.6: cannot open shared object file`** — the nix store path `/nix/store/0iv8glcslgfcgn371lbjr5jjw5a6cqir-gcc-15.3.0-lib/lib` provides it; export it via `LD_LIBRARY_PATH`
+- **libvips segfaults mid-build (bun exit code 132, GLib-GObject-CRITICAL noise)** — flaky and intermittent, roughly every other run in this sandbox (a Bun + libvips native crash, not a code problem). `VIPS_CONCURRENCY=1` seems to reduce it but does not eliminate it; the reliable answer is to retry the build until it exits 0
+
+Working build invocation from bun:
+
+```bash
+VIPS_CONCURRENCY=1 LD_LIBRARY_PATH=/nix/store/0iv8glcslgfcgn371lbjr5jjw5a6cqir-gcc-15.3.0-lib/lib bun run build
+# rerun on exit code 132 until it exits 0
+```
+
+Also, if every `image-background` block dies with `stats.width` errors, `.build/dev/node_modules` holds a stale `@11ty/eleventy-img` alpha — run `bun install` inside `.build/dev` to resync it to the lockfile's pinned version (fresh clones self-heal; only long-lived build dirs drift).
+
+Icons come from the local chobble-template checkout at `../chobble-template` — icon SVGs are pre-saved under `src/assets/icons/iconify/` there, so builds make no Iconify API requests. After adding icons to content, run `bun scripts/save-iconify-icons.js .` from the template repo to pre-save new ones.
+
 ### Directory Structure
 
 ```
